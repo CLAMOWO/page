@@ -1,0 +1,4844 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress\n"
+"POT-Creation-Date: 2022-06-12 12:06+0200\n"
+"PO-Revision-Date: 2022-06-22 19:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese (Portugal)\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Team: Rubyvio https://rubyvio.com"
+"X-Poedit-Basepath: ..\n"
+"X-Translate-Version: beta; wp-6.0"
+"X-Human revision: none;
+
+#: admin/apps/admin-pages/admin-pages.php:110
+#: admin/apps/menu-creator/menu-creator.php:1304
+msgid "Apply to subsites"
+msgstr "Aplicar a subsites"
+
+#: admin/apps/admin-pages/admin-pages.php:121
+msgid "Menu Icon"
+msgstr "Ícone do menu"
+
+#: admin/apps/admin-pages/admin-pages.php:131
+msgid "Manually add to menu?"
+msgstr "Adicionar manualmente ao menu?"
+
+#: admin/apps/admin-pages/admin-pages.php:250
+msgid "Admin Pages - Beta"
+msgstr "Páginas de administrador - Beta"
+
+#: admin/apps/admin-pages/admin-pages.php:251
+msgid "Creates custom admin pages."
+msgstr "Cria páginas de administração personalizadas."
+
+#: admin/apps/admin-pages/admin-pages.php:255
+msgid "Disable custom admin pages?"
+msgstr "Desativar páginas de administração personalizadas?"
+
+#: admin/apps/admin-pages/admin-pages.php:256
+msgid "If disabled, the admin pages will not be available to any users."
+msgstr ""
+"Se desativada, as páginas de administração não estarão disponíveis para "
+"nenhum usuário."
+
+#: admin/apps/admin-pages/admin-pages.php:263
+msgid "Admin Page Slug"
+msgstr "Slug de página de administrador"
+
+#: admin/apps/admin-pages/admin-pages.php:264
+msgid ""
+"This defaults to admin-pages. Changes to this will need you to resave "
+"permalink structure."
+msgstr ""
+"Isso é padrão para páginas de administração. As alterações a isso exigirão "
+"que você salve novamente a estrutura do link permanente."
+
+#: admin/apps/admin-pages/admin-pages.php:271
+msgid "Who can edit and create admin pages?"
+msgstr "Quem pode editar e criar páginas de administração?"
+
+#: admin/apps/admin-pages/admin-pages.php:272
+msgid ""
+"Editing and creation of admin pages will be disabled for the users or roles "
+"you select"
+msgstr ""
+"A edição e a criação de páginas de administração serão desabilitadas para os "
+"usuários ou funções que você selecionar"
+
+#: admin/apps/admin-pages/admin-pages.php:280
+msgid "Who can see admin pages?"
+msgstr "Quem pode ver as páginas de administração?"
+
+#: admin/apps/admin-pages/admin-pages.php:281
+msgid "UiPress will only show admin pages for the users or roles you select"
+msgstr ""
+"O UiPress mostrará apenas páginas de administração para os usuários ou "
+"funções que você selecionar"
+
+#: admin/apps/admin-pages/admin-pages.php:320
+msgctxt "post type general name"
+msgid "Admin Page"
+msgstr "Página de administrador"
+
+#: admin/apps/admin-pages/admin-pages.php:321
+msgctxt "post type singular name"
+msgid "Admin Page"
+msgstr "Página de administrador"
+
+#: admin/apps/admin-pages/admin-pages.php:322
+msgctxt "admin menu"
+msgid "Admin Pages"
+msgstr "Páginas de administrador"
+
+#: admin/apps/admin-pages/admin-pages.php:323
+msgctxt "add new on admin bar"
+msgid "Admin Page"
+msgstr "Página de administrador"
+
+#: admin/apps/admin-pages/admin-pages.php:324
+msgctxt "Admin Page"
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: admin/apps/admin-pages/admin-pages.php:325
+msgid "Add New Admin Page"
+msgstr "Adicionar nova página de administrador"
+
+#: admin/apps/admin-pages/admin-pages.php:326
+msgid "New Admin Page"
+msgstr "Nova página de administrador"
+
+#: admin/apps/admin-pages/admin-pages.php:327
+msgid "Edit Admin Page"
+msgstr "Editar página de administrador"
+
+#: admin/apps/admin-pages/admin-pages.php:328
+msgid "View Admin Page"
+msgstr "Ver página de administração"
+
+#: admin/apps/admin-pages/admin-pages.php:329
+msgid "All Admin Pages"
+msgstr "Todas as páginas de administrador"
+
+#: admin/apps/admin-pages/admin-pages.php:330
+msgid "Search Admin Pages"
+msgstr "Páginas de administração de pesquisa"
+
+#: admin/apps/admin-pages/admin-pages.php:331
+msgid "No Admin Pages found."
+msgstr "Nenhuma página de administrador encontrada."
+
+#: admin/apps/admin-pages/admin-pages.php:332
+msgid "No Admin Pages found in Trash."
+msgstr "Nenhuma página de administrador encontrada na lixeira."
+
+#: admin/apps/admin-pages/admin-pages.php:336
+#: admin/apps/menu-creator/menu-creator.php:667
+#: admin/apps/users/uip-history.php:161
+msgid "Description."
+msgstr "Descrição."
+
+#: admin/apps/content/content.php:96
+msgid "Content Page"
+msgstr "Página de conteúdo"
+
+#: admin/apps/content/content.php:97
+msgid "Creates content page"
+msgstr "Cria página de conteúdo"
+
+#: admin/apps/content/content.php:101
+msgid "Disable Content Page?"
+msgstr "Desativar página de conteúdo?"
+
+#: admin/apps/content/content.php:102
+msgid "If disabled, the content page will not be available to any users."
+msgstr ""
+"Se desativada, a página de conteúdo não estará disponível para nenhum "
+"usuário."
+
+#: admin/apps/content/content.php:109
+msgid "Content Page Disabled for"
+msgstr "Página de conteúdo desativada para"
+
+#: admin/apps/content/content.php:110
+msgid ""
+"When the content page module is disabled, the content page will not be "
+"accesible for the users / roles"
+msgstr ""
+"Quando o módulo da página de conteúdo estiver desabilitado, a página de "
+"conteúdo não estará acessível para os usuários/funções"
+
+#: admin/apps/content/content.php:118
+msgid "Post types available in content page"
+msgstr "Tipos de postagem disponíveis na página de conteúdo"
+
+#: admin/apps/content/content.php:119
+msgid "Only the selected post types will be available in the content page."
+msgstr ""
+"Apenas os tipos de postagem selecionados estarão disponíveis na página de "
+"conteúdo."
+
+#: admin/apps/content/content.php:127
+msgid "Enable private library mode"
+msgstr "Ativar o modo de biblioteca privada"
+
+#: admin/apps/content/content.php:128
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This also includes folders"
+msgstr ""
+"Quando habilitada, a página de conteúdo mostrará apenas o conteúdo criado ou "
+"carregado pelo usuário conectado no momento. Isso também inclui pastas"
+
+#: admin/apps/content/content.php:184
+msgid "Original Title / Value"
+msgstr "Título/Valor Original"
+
+#: admin/apps/content/content.php:188 admin/classes/styles.php:693
+msgid "Text"
+msgstr "Texto"
+
+#: admin/apps/content/content.php:192 admin/apps/content/content.php:2033
+msgid "Date Created"
+msgstr "Data Criada"
+
+#: admin/apps/content/content.php:196
+msgid "File Extension (attachments only)"
+msgstr "Extensão de arquivo (somente anexos)"
+
+#: admin/apps/content/content.php:200
+msgid "Sequence Number"
+msgstr "Número sequencial"
+
+#: admin/apps/content/content.php:204
+msgid "Meta Value"
+msgstr "Metavalor"
+
+#: admin/apps/content/content.php:208
+msgid "Find and Replace"
+msgstr "Localizar e substituir"
+
+#: admin/apps/content/content.php:266 admin/classes/uipress-app.php:1731
+#: admin/classes/uipress-app.php:2073
+msgid "No preferences supplied to save"
+msgstr "Nenhuma preferência fornecida para salvar"
+
+#: admin/apps/content/content.php:288 admin/classes/uipress-app.php:1742
+#: admin/classes/uipress-app.php:2095
+msgid "Preferences saved"
+msgstr "Preferências salvas"
+
+#: admin/apps/content/content.php:291 admin/classes/uipress-app.php:1746
+#: admin/classes/uipress-app.php:2098
+msgid "Unable to save user preferences"
+msgstr "Não foi possível salvar as preferências do usuário"
+
+#: admin/apps/content/content.php:320 admin/apps/content/content.php:328
+#: admin/apps/content/content.php:957
+msgid "Unable to save attachment"
+msgstr "Não foi possível salvar o anexo"
+
+#: admin/apps/content/content.php:337
+msgid "Image Saved"
+msgstr "Imagem salva"
+
+#: admin/apps/content/content.php:370
+msgid "Failed to upload file"
+msgstr "Falha ao fazer upload do arquivo"
+
+#: admin/apps/content/content.php:400
+msgid "Items uploaded"
+msgstr "Itens enviados"
+
+#: admin/apps/content/content.php:423
+msgid "Views updated"
+msgstr "Visualizações atualizadas"
+
+#: admin/apps/content/content.php:455 admin/apps/content/content.php:517
+#: admin/apps/content/content.php:579 admin/apps/content/content.php:769
+#: admin/apps/menu-creator/menu-creator.php:752
+#: admin/apps/menu-creator/menu-creator.php:777
+#: admin/apps/menu-creator/menu-creator.php:814
+#: admin/apps/menu-creator/menu-creator.php:867
+#: admin/apps/menu-creator/menu-creator.php:936
+#: admin/apps/users/uip-user-groups.php:309 admin/classes/folders.php:528
+#: admin/classes/settings.php:308 admin/classes/uipress-app.php:1357
+msgid "Something went wrong"
+msgstr "Algo deu errado"
+
+#: admin/apps/content/content.php:460
+msgid "Items duplicated successfully"
+msgstr "Itens duplicados com sucesso"
+
+#: admin/apps/content/content.php:463
+msgid "Itms couldn't be duplicated"
+msgstr "Os itens não puderam ser duplicados"
+
+#: admin/apps/content/content.php:501 admin/apps/content/content.php:543
+msgid "No Meta Key provided"
+msgstr "Nenhuma meta-chave fornecida"
+
+#: admin/apps/content/content.php:583
+msgid "Attributes Updated"
+msgstr "Atributos atualizados"
+
+#: admin/apps/content/content.php:774
+msgid "Items deleted successfully"
+msgstr "Itens excluídos com sucesso"
+
+#: admin/apps/content/content.php:777
+msgid "Itms couldn't be deleted"
+msgstr "Não foi possível excluir itens"
+
+#: admin/apps/content/content.php:799 admin/classes/folders.php:452
+#: admin/classes/folders.php:484
+msgid "No content to move"
+msgstr "Nenhum conteúdo para mover"
+
+#: admin/apps/content/content.php:812 admin/classes/folders.php:466
+#: admin/classes/folders.php:497
+msgid "Content moved"
+msgstr "Conteúdo movido"
+
+#: admin/apps/content/content.php:938
+msgid "Unable to update item"
+msgstr "Não foi possível atualizar o item"
+
+#: admin/apps/content/content.php:968
+msgid "Item updated"
+msgstr "Item atualizado"
+
+#: admin/apps/content/content.php:1007
+msgid "Items updated"
+msgstr "Itens atualizados"
+
+#: admin/apps/content/content.php:1319 admin/apps/content/content.php:1611
+msgid "Content"
+msgstr "Contente"
+
+#: admin/apps/content/content.php:1362
+#: admin/apps/menu-creator/menu-creator.php:1096
+#: admin/classes/uipress-app.php:1325
+msgid "Pro Feature"
+msgstr "Recurso profissional"
+
+#: admin/apps/content/content.php:1365
+msgid "Upgrade to UiPress Pro to unlock the content page and content folders"
+msgstr ""
+"Atualize para o UiPress Pro para desbloquear a página de conteúdo e as "
+"pastas de conteúdo"
+
+#: admin/apps/content/content.php:1367
+#: admin/apps/menu-creator/menu-creator.php:1101
+msgid "See UiPress Pro Plans"
+msgstr "Veja os planos UiPress Pro"
+
+#: admin/apps/content/content.php:1411
+msgid "Update Tags and Categories"
+msgstr "Atualizar tags e categorias"
+
+#: admin/apps/content/content.php:1418 admin/apps/content/content.php:1831
+#: admin/apps/content/content.php:1836 admin/apps/content/content.php:2068
+#: admin/apps/content/content.php:2071
+msgid "Categories"
+msgstr "Categorias"
+
+#: admin/apps/content/content.php:1419 admin/apps/content/content.php:1837
+#: admin/apps/content/content.php:2072
+msgid "Search categories..."
+msgstr "Pesquisar categorias..."
+
+#: admin/apps/content/content.php:1424
+msgid "Keep existing categories"
+msgstr "Manter categorias existentes"
+
+#: admin/apps/content/content.php:1433 admin/apps/content/content.php:1843
+#: admin/apps/content/content.php:1847 admin/apps/content/content.php:2080
+#: admin/apps/content/content.php:2083
+msgid "Tags"
+msgstr "Tag"
+
+#: admin/apps/content/content.php:1434 admin/apps/content/content.php:1848
+#: admin/apps/content/content.php:2084
+msgid "Search tags..."
+msgstr "Pesquisar etiquetas..."
+
+#: admin/apps/content/content.php:1439
+msgid "Keep existing tags"
+msgstr "Manter as tags existentes"
+
+#: admin/apps/content/content.php:1448 admin/apps/content/content.php:1686
+#: admin/classes/uipress-app.php:1373
+msgid "Update"
+msgstr "Atualizar"
+
+#: admin/apps/content/content.php:1465 admin/apps/content/content.php:2567
+msgid "Batch Rename"
+msgstr "Renomear em lote"
+
+#: admin/apps/content/content.php:1473
+msgid "Attribute to rename"
+msgstr "Atributo para renomear"
+
+#: admin/apps/content/content.php:1480 admin/apps/content/content.php:2323
+#: admin/apps/menu-creator/menu-creator.php:1151
+#: admin/apps/menu-creator/menu-creator.php:1651
+#: admin/apps/menu-creator/menu-creator.php:1652
+#: admin/apps/users/uip-users.php:311 admin/apps/users/uip-users.php:389
+#: admin/apps/users/uip-users.php:1213 admin/classes/uipress-app.php:1371
+msgid "Name"
+msgstr "Nome"
+
+#: admin/apps/content/content.php:1481
+msgid "Meta Key"
+msgstr "Meta-chave"
+
+#: admin/apps/content/content.php:1482
+msgid "Alt Tag (Attachments only)"
+msgstr "Alt Tag (somente anexos)"
+
+#: admin/apps/content/content.php:1487
+msgid "Meta Key Name"
+msgstr "Nome da meta-chave"
+
+#: admin/apps/content/content.php:1498
+msgid "Filename Structure"
+msgstr "Estrutura do nome do arquivo"
+
+#: admin/apps/content/content.php:1506
+msgid "Rename Item"
+msgstr "Renomear item"
+
+#: admin/apps/content/content.php:1514 admin/apps/overview/overview.php:812
+msgid "Add"
+msgstr "Adicionar"
+
+#: admin/apps/content/content.php:1540
+msgid "New Text"
+msgstr "Novo texto"
+
+#: admin/apps/content/content.php:1542
+msgid "Date Format"
+msgstr "Formato de data"
+
+#: admin/apps/content/content.php:1544
+msgid "Start Number"
+msgstr "Número inicial"
+
+#: admin/apps/content/content.php:1546
+msgid "Meta key Name"
+msgstr "Nome da meta-chave"
+
+#: admin/apps/content/content.php:1548
+msgid "Find"
+msgstr "Achar"
+
+#: admin/apps/content/content.php:1552
+msgid "Replace"
+msgstr "Substituir"
+
+#: admin/apps/content/content.php:1576 admin/apps/content/content.php:1593
+#: admin/apps/menu-creator/menu-creator.php:1464
+msgid "Preview"
+msgstr "Visualizar"
+
+#: admin/apps/content/content.php:1579
+msgid "Current"
+msgstr "Atual"
+
+#: admin/apps/content/content.php:1580
+#: admin/apps/menu-creator/menu-creator.php:1136
+msgid "New"
+msgstr "Novo"
+
+#: admin/apps/content/content.php:1594
+msgid "Rename"
+msgstr "Renomear"
+
+#: admin/apps/content/content.php:1618 admin/classes/uipress-app.php:1365
+msgid "All Content"
+msgstr "Todo o conteúdo"
+
+#: admin/apps/content/content.php:1679
+#: admin/apps/menu-creator/menu-creator.php:1225
+#: admin/apps/users/uip-users.php:541
+msgid "Delete"
+msgstr "Excluir"
+
+#: admin/apps/content/content.php:1684
+msgid "Edit Image"
+msgstr "Editar imagem"
+
+#: admin/apps/content/content.php:1715 admin/apps/users/uip-users.php:309
+msgid "Details"
+msgstr "Detalhes"
+
+#: admin/apps/content/content.php:1771 admin/apps/content/content.php:1772
+#: admin/apps/overview/overview.php:715
+msgid "Title"
+msgstr "Título"
+
+#: admin/apps/content/content.php:1778
+msgid "Alt Text"
+msgstr "Texto alternativo"
+
+#: admin/apps/content/content.php:1779
+msgid "Alt"
+msgstr "Alt"
+
+#: admin/apps/content/content.php:1783 admin/apps/content/content.php:1784
+msgid "Caption"
+msgstr "Rubrica"
+
+#: admin/apps/content/content.php:1788 admin/apps/content/content.php:1789
+#: admin/apps/users/uip-users.php:1353
+msgid "Description"
+msgstr "Descrição"
+
+#: admin/apps/content/content.php:1799
+msgid "Meta Data"
+msgstr "Metadados"
+
+#: admin/apps/content/content.php:1819 admin/apps/content/content.php:1824
+#: admin/apps/content/content.php:2339
+#: admin/apps/menu-creator/menu-creator.php:1155
+#: admin/apps/menu-creator/menu-creator.php:1294
+#: admin/classes/uipress-app.php:1151
+msgid "Status"
+msgstr "Status"
+
+#: admin/apps/content/content.php:1825
+msgid "Search status..."
+msgstr "Estado da pesquisa..."
+
+#: admin/apps/content/content.php:1927
+msgid "Filters"
+msgstr "Filtros"
+
+#: admin/apps/content/content.php:1932
+msgid "Upload"
+msgstr "Envio"
+
+#: admin/apps/content/content.php:1954
+msgid "Items Per Page"
+msgstr "Itens por página"
+
+#: admin/apps/content/content.php:1964
+msgid "Columns"
+msgstr "Colunas"
+
+#: admin/apps/content/content.php:1976
+msgid "Search..."
+msgstr "Procurar..."
+
+#: admin/apps/content/content.php:1984
+msgid "of"
+msgstr "do"
+
+#: admin/apps/content/content.php:1987
+msgid "items"
+msgstr "Itens"
+
+#: admin/apps/content/content.php:2011 admin/apps/content/content.php:2014
+msgid "Post Types"
+msgstr "Tipos de postagem"
+
+#: admin/apps/content/content.php:2015
+msgid "Search Post Types..."
+msgstr "Pesquisar tipos de postagem..."
+
+#: admin/apps/content/content.php:2022 admin/apps/content/content.php:2025
+msgid "Post Status"
+msgstr "Status da postagem"
+
+#: admin/apps/content/content.php:2026
+msgid "Search Post Statuses..."
+msgstr "Pesquisar status de postagem..."
+
+#: admin/apps/content/content.php:2039
+msgid "Posted On"
+msgstr "Postado em"
+
+#: admin/apps/content/content.php:2040
+msgid "Posted After"
+msgstr "Postado depois"
+
+#: admin/apps/content/content.php:2041
+msgid "Posted Before"
+msgstr "Postado antes"
+
+#: admin/apps/content/content.php:2056 admin/apps/content/content.php:2059
+msgid "Media Types"
+msgstr "Tipos de mídia"
+
+#: admin/apps/content/content.php:2060
+msgid "Search Media Types..."
+msgstr "Pesquisar tipos de mídia..."
+
+#: admin/apps/content/content.php:2089
+msgid "Clear Filters"
+msgstr "Limpar filtros"
+
+#: admin/apps/content/content.php:2090
+msgid "Save as view"
+msgstr "Salvar como visualização"
+
+#: admin/apps/content/content.php:2136
+msgid "Posted"
+msgstr "Publicado"
+
+#: admin/apps/content/content.php:2327
+msgid "Type"
+msgstr "Modelo"
+
+#: admin/apps/content/content.php:2331
+msgid "Author"
+msgstr "Autor"
+
+#: admin/apps/content/content.php:2335
+#: admin/apps/menu-creator/menu-creator.php:1159
+#: admin/apps/overview/overview.php:904 admin/apps/users/uip-users.php:1333
+msgid "Date"
+msgstr "Encontro"
+
+#: admin/apps/content/content.php:2483
+msgid "Load More"
+msgstr "Carregue mais"
+
+#: admin/apps/content/content.php:2492
+msgid "No content found"
+msgstr "Nenhum conteúdo encontrado"
+
+#: admin/apps/content/content.php:2511 admin/apps/users/uip-users.php:547
+#: admin/classes/uipress-app.php:1327
+msgid "View"
+msgstr "Visão"
+
+#: admin/apps/content/content.php:2518
+#: admin/apps/menu-creator/menu-creator.php:1203
+#: admin/apps/users/uip-users.php:523 admin/classes/uipress-app.php:1328
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/apps/content/content.php:2525
+msgid "Quick Edit"
+msgstr "Edição rápida"
+
+#: admin/apps/content/content.php:2532
+#: admin/apps/menu-creator/menu-creator.php:1210
+msgid "Duplicate"
+msgstr "Duplicado"
+
+#: admin/apps/content/content.php:2540
+msgid "Delete Item"
+msgstr "Apagar item"
+
+#: admin/apps/content/content.php:2560
+msgid "items selected"
+msgstr "itens selecionados"
+
+#: admin/apps/content/content.php:2573
+msgid "Categories & Tags"
+msgstr "Categorias e tags"
+
+#: admin/apps/content/content.php:2579
+msgid "Delete Selected"
+msgstr "Excluir selecionados"
+
+#: admin/apps/content/content.php:2585
+msgid "Clear Selection"
+msgstr "Seleção clara"
+
+#: admin/apps/content/content.php:2607
+msgid "Create New View"
+msgstr "Criar nova visualização"
+
+#: admin/apps/content/content.php:2612
+msgid "View name"
+msgstr "Ver nome"
+
+#: admin/apps/content/content.php:2615
+msgid "View Name"
+msgstr "Ver nome"
+
+#: admin/apps/content/content.php:2623
+#: admin/apps/menu-creator/menu-creator.php:1709
+#: admin/apps/overview/overview.php:836 admin/classes/styles.php:437
+msgid "Save"
+msgstr "Salvar"
+
+#: admin/apps/menu-creator/menu-creator.php:405
+#: admin/apps/menu-creator/menu-creator.php:1044
+#: admin/apps/menu-creator/menu-creator.php:1052
+#: admin/apps/menu-creator/menu-creator.php:1131
+#: admin/apps/menu-creator/menu-creator.php:1699
+msgid "Menu Creator"
+msgstr "Criador de menus"
+
+#: admin/apps/menu-creator/menu-creator.php:406
+msgid "Creates custom admin menus."
+msgstr "Cria menus de administração personalizados."
+
+#: admin/apps/menu-creator/menu-creator.php:410
+msgid "Disable Menu Creator?"
+msgstr "Desativar o criador de menus?"
+
+#: admin/apps/menu-creator/menu-creator.php:411
+msgid "If disabled, the menu creator will not be available to any users."
+msgstr ""
+"Se desabilitado, o criador do menu não estará disponível para nenhum usuário."
+
+#: admin/apps/menu-creator/menu-creator.php:651
+msgctxt "post type general name"
+msgid "Admin Menu"
+msgstr "Menu de administração"
+
+#: admin/apps/menu-creator/menu-creator.php:652
+msgctxt "post type singular name"
+msgid "admin menu"
+msgstr "menu de administração"
+
+#: admin/apps/menu-creator/menu-creator.php:653
+msgctxt "admin menu"
+msgid "Admin Menus"
+msgstr "Menus de administração"
+
+#: admin/apps/menu-creator/menu-creator.php:654
+msgctxt "add new on admin bar"
+msgid "Admin Menu"
+msgstr "Menu de administração"
+
+#: admin/apps/menu-creator/menu-creator.php:655
+msgctxt "Admin Menu"
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: admin/apps/menu-creator/menu-creator.php:656
+msgid "Add New Admin Menu"
+msgstr "Adicionar novo menu de administração"
+
+#: admin/apps/menu-creator/menu-creator.php:657
+msgid "New Admin Menu"
+msgstr "Novo menu de administração"
+
+#: admin/apps/menu-creator/menu-creator.php:658
+msgid "Edit Admin Menu"
+msgstr "Editar menu de administração"
+
+#: admin/apps/menu-creator/menu-creator.php:659
+msgid "View Admin Menu"
+msgstr "Ver menu de administração"
+
+#: admin/apps/menu-creator/menu-creator.php:660
+msgid "All Admin Menus"
+msgstr "Todos os menus de administração"
+
+#: admin/apps/menu-creator/menu-creator.php:661
+msgid "Search Admin Menus"
+msgstr "Pesquisar menus de administração"
+
+#: admin/apps/menu-creator/menu-creator.php:662
+msgid "No Admin Menus found."
+msgstr "Nenhum Menu Admin encontrado."
+
+#: admin/apps/menu-creator/menu-creator.php:663
+msgid "No Admin Menus found in Trash."
+msgstr "Nenhum menu de administração encontrado na lixeira."
+
+#: admin/apps/menu-creator/menu-creator.php:759
+msgid "Status Updated"
+msgstr "Status atualizado"
+
+#: admin/apps/menu-creator/menu-creator.php:783
+msgid "You don't have permission to delete this"
+msgstr "Você não tem permissão para excluir isso"
+
+#: admin/apps/menu-creator/menu-creator.php:791
+msgid "Unable to delete menu"
+msgstr "Não foi possível excluir o menu"
+
+#: admin/apps/menu-creator/menu-creator.php:796
+msgid "Menu deleted"
+msgstr "Menu excluído"
+
+#: admin/apps/menu-creator/menu-creator.php:820
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "Não foi possível duplicar o menu, o menu está corrompido"
+
+#: admin/apps/menu-creator/menu-creator.php:826
+msgid "(copy)"
+msgstr "(cópia de)"
+
+#: admin/apps/menu-creator/menu-creator.php:834
+msgid "Unable to duplicate menu"
+msgstr "Não foi possível duplicar o menu"
+
+#: admin/apps/menu-creator/menu-creator.php:844
+msgid "Menu duplicated"
+msgstr "Menu duplicado"
+
+#: admin/apps/menu-creator/menu-creator.php:873
+msgid "Unable to save, menu is corrupted"
+msgstr "Não foi possível salvar, o menu está corrompido"
+
+#: admin/apps/menu-creator/menu-creator.php:894
+msgid "Unable to save menu"
+msgstr "Não foi possível salvar o menu"
+
+#: admin/apps/menu-creator/menu-creator.php:917
+msgid "Menu Saved"
+msgstr "Menu salvo"
+
+#: admin/apps/menu-creator/menu-creator.php:962
+#: admin/apps/users/uip-users.php:1321 admin/classes/settings.php:328
+msgid "User"
+msgstr "Do utilizador"
+
+#: admin/apps/menu-creator/menu-creator.php:977
+#: admin/apps/menu-creator/menu-creator.php:988
+#: admin/apps/users/uip-users.php:1285 admin/classes/settings.php:343
+#: admin/classes/settings.php:354
+msgid "Role"
+msgstr "Função"
+
+#: admin/apps/menu-creator/menu-creator.php:995 admin/classes/settings.php:361
+msgid "Nothing found for term:"
+msgstr "Nada encontrado para o termo:"
+
+#: admin/apps/menu-creator/menu-creator.php:1044
+#, php-format
+msgid "%s Menu Creator"
+msgstr "%s Criador de menus"
+
+#: admin/apps/menu-creator/menu-creator.php:1099
+msgid "Upgrade to UiPress Pro to unlock the menu creator"
+msgstr "Atualize para o UiPress Pro para desbloquear o criador do menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1142
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "Parece que você ainda não criou nenhum menu de administração"
+
+#: admin/apps/menu-creator/menu-creator.php:1143
+msgid "Create your first admin menu"
+msgstr "Crie seu primeiro menu de administração"
+
+#: admin/apps/menu-creator/menu-creator.php:1217
+#: admin/apps/menu-creator/menu-creator.php:1718
+#: admin/apps/users/uip-users.php:559 admin/classes/settings.php:248
+#: admin/classes/styles.php:447
+msgid "Export"
+msgstr "Exportar"
+
+#: admin/apps/menu-creator/menu-creator.php:1264
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"O criador de menus não é otimizado para dispositivos móveis. Para melhores "
+"resultados, mude para uma tela maior"
+
+#: admin/apps/menu-creator/menu-creator.php:1279
+msgid "Menu Items"
+msgstr "Itens do menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1283
+msgid "Menu Settings"
+msgstr "Configurações do Menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1314
+#: admin/apps/menu-creator/menu-creator.php:1315
+msgid "Menu Name"
+msgstr "Nome do Menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1319
+msgid "Menu Applies to"
+msgstr "Menu Aplica-se a"
+
+#: admin/apps/menu-creator/menu-creator.php:1323
+msgid "Inclusive"
+msgstr "Inclusivo"
+
+#: admin/apps/menu-creator/menu-creator.php:1327
+msgid "Exclusive"
+msgstr "Exclusivo"
+
+#: admin/apps/menu-creator/menu-creator.php:1331
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr ""
+"No modo Inclusivo, este menu será carregado para todos os nomes de usuário e "
+"funções selecionados abaixo."
+
+#: admin/apps/menu-creator/menu-creator.php:1334
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"No modo Exclusivo, este menu será carregado para todos os usuários, exceto "
+"os Nomes de usuário e funções selecionados abaixo."
+
+#: admin/apps/menu-creator/menu-creator.php:1340
+msgid "Choose users or roles..."
+msgstr "Escolha usuários ou funções..."
+
+#: admin/apps/menu-creator/menu-creator.php:1342
+msgid "Search roles and users..."
+msgstr "Pesquisar funções e usuários..."
+
+#: admin/apps/menu-creator/menu-creator.php:1351
+msgid "Custom Items"
+msgstr "Itens personalizados"
+
+#: admin/apps/menu-creator/menu-creator.php:1355
+msgid "New Separator"
+msgstr "Novo separador"
+
+#: admin/apps/menu-creator/menu-creator.php:1358
+msgid "New Custom Link"
+msgstr "Novo link personalizado"
+
+#: admin/apps/menu-creator/menu-creator.php:1363
+msgid "Available Menu Items"
+msgstr "Itens de menu disponíveis"
+
+#: admin/apps/menu-creator/menu-creator.php:1370
+msgid "Search menu items"
+msgstr "Pesquisar itens do menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1518
+msgid "Add some menu items from the left toolbar to get started"
+msgstr ""
+"Adicione alguns itens de menu na barra de ferramentas esquerda para começar"
+
+#: admin/apps/menu-creator/menu-creator.php:1537
+msgid "Separator"
+msgstr "Separador"
+
+#: admin/apps/menu-creator/menu-creator.php:1642
+msgid "Edit Menu Item"
+msgstr "Editar item de menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1656
+#: admin/apps/menu-creator/menu-creator.php:1657
+msgid "Link"
+msgstr "Link"
+
+#: admin/apps/menu-creator/menu-creator.php:1661
+msgid "Classes"
+msgstr "Aulas"
+
+#: admin/apps/menu-creator/menu-creator.php:1663
+msgid "Custom classes"
+msgstr "Aulas personalizadas"
+
+#: admin/apps/menu-creator/menu-creator.php:1667
+msgid "Opens in new tab?"
+msgstr "Abre em nova aba?"
+
+#: admin/apps/menu-creator/menu-creator.php:1677
+msgid "Icon"
+msgstr "Ícone"
+
+#: admin/apps/menu-creator/menu-creator.php:1702
+msgid "Back to all menus"
+msgstr "Voltar para todos os menus"
+
+#: admin/apps/menu-creator/menu-creator.php:1727
+msgid "Import Menu"
+msgstr "Importar menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1736 admin/classes/settings.php:265
+msgid "Reset Settings"
+msgstr "Redefinir as configurações"
+
+#: admin/apps/overview/analytics.php:74
+msgid "Analytics account removed"
+msgstr "Conta do Google Analytics removida"
+
+#: admin/apps/overview/analytics.php:93
+msgid "Unable to connect account"
+msgstr "Não foi possível conectar a conta"
+
+#: admin/apps/overview/analytics.php:106
+msgid "Analytics account connected"
+msgstr "Conta do Google Analytics conectada"
+
+#: admin/apps/overview/analytics.php:310 admin/apps/overview/analytics.php:718
+#: admin/apps/overview/overview.php:761
+msgid "Site Users"
+msgstr "Usuários do site"
+
+#: admin/apps/overview/analytics.php:318 admin/apps/overview/overview.php:762
+msgid "Site Users (comparison period)"
+msgstr "Usuários do site (período de comparação)"
+
+#: admin/apps/overview/analytics.php:383 admin/apps/overview/analytics.php:700
+#: admin/apps/overview/overview.php:759
+msgid "Page Views"
+msgstr "Visualizações de página"
+
+#: admin/apps/overview/analytics.php:391
+msgid "Page Views (comparison period)"
+msgstr "Visualizações de página (período de comparação)"
+
+#: admin/apps/overview/analytics.php:608 admin/apps/overview/analytics.php:709
+msgid "Page Speed"
+msgstr "Velocidade da página"
+
+#: admin/apps/overview/analytics.php:616
+msgid "Page Speed (comparison period)"
+msgstr "Velocidade da página (período de comparação)"
+
+#: admin/apps/overview/analytics.php:663 admin/apps/overview/analytics.php:703
+#: admin/apps/overview/analytics.php:712 admin/apps/overview/analytics.php:721
+#: admin/apps/overview/analytics.php:730 admin/apps/overview/analytics.php:739
+#: admin/apps/overview/analytics.php:748 admin/apps/overview/analytics.php:757
+#: admin/apps/overview/analytics.php:766 admin/apps/overview/analytics.php:775
+#: admin/apps/overview/analytics.php:784 admin/apps/overview/analytics.php:793
+#: admin/apps/overview/analytics.php:802 admin/apps/overview/analytics.php:811
+#: admin/apps/overview/analytics.php:820 admin/apps/overview/analytics.php:829
+#: admin/apps/overview/analytics.php:838 admin/apps/overview/analytics.php:847
+#: admin/apps/overview/analytics.php:856 admin/apps/overview/analytics.php:865
+#: admin/apps/overview/analytics.php:874 admin/apps/overview/analytics.php:883
+msgid "Analytics"
+msgstr "Análise"
+
+#: admin/apps/overview/analytics.php:665
+msgid "Creates the google analytics cards for the overview page."
+msgstr "Cria os cartões do Google Analytics para a página de visão geral."
+
+#: admin/apps/overview/analytics.php:681
+msgid "Google Analytics disabled for"
+msgstr "Google Analytics desativado para"
+
+#: admin/apps/overview/analytics.php:682
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr ""
+"O Google Analytics será desativado na página de visão geral para qualquer "
+"usuário ou função que você selecionar"
+
+#: admin/apps/overview/analytics.php:702
+msgid "Display website page views within the date range."
+msgstr "Exiba visualizações de página do site dentro do intervalo de datas."
+
+#: admin/apps/overview/analytics.php:711
+msgid "Display website page speed within the date range."
+msgstr "Exiba a velocidade da página do site dentro do intervalo de datas."
+
+#: admin/apps/overview/analytics.php:720
+msgid "Display website users within the date range."
+msgstr "Exibir usuários do site dentro do intervalo de datas."
+
+#: admin/apps/overview/analytics.php:727
+msgid "Site visits by device"
+msgstr "Visitas ao site por dispositivo"
+
+#: admin/apps/overview/analytics.php:729
+msgid "Display site usage by device within the date range."
+msgstr "Exiba o uso do site por dispositivo dentro do intervalo de datas."
+
+#: admin/apps/overview/analytics.php:736 admin/apps/overview/overview.php:841
+msgid "Bounce Rate"
+msgstr "Taxa de rejeição"
+
+#: admin/apps/overview/analytics.php:738
+msgid "Display site bounce rate within the date range."
+msgstr "Exibir taxa de rejeição do site dentro do período."
+
+#: admin/apps/overview/analytics.php:745
+msgid "Session Duration"
+msgstr "Duração da sessão"
+
+#: admin/apps/overview/analytics.php:747
+msgid "Display site session duration within the date range."
+msgstr "Exibe a duração da sessão do site dentro do intervalo de datas."
+
+#: admin/apps/overview/analytics.php:754
+msgid "Visits by Country"
+msgstr "Visitas por país"
+
+#: admin/apps/overview/analytics.php:756
+msgid "Displays country user data within the date range."
+msgstr "Exibe os dados do usuário do país dentro do intervalo de datas."
+
+#: admin/apps/overview/analytics.php:763
+msgid "Traffic Sources"
+msgstr "Fontes de tráfego"
+
+#: admin/apps/overview/analytics.php:765
+msgid "Displays traffic source info within the date range."
+msgstr "Exibe informações de origem de tráfego dentro do intervalo de datas."
+
+#: admin/apps/overview/analytics.php:772
+msgid "Visits By Page"
+msgstr "Visitas por página"
+
+#: admin/apps/overview/analytics.php:774
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr "Exibe o tráfego das páginas de site mais populares dentro do período."
+
+#: admin/apps/overview/analytics.php:781
+msgid "Event Count By Event Name"
+msgstr "Contagem de eventos por nome de evento"
+
+#: admin/apps/overview/analytics.php:783
+msgid "Display list of events within the date range."
+msgstr "Exibe a lista de eventos dentro do intervalo de datas."
+
+#: admin/apps/overview/analytics.php:790
+msgid "Sessions by channel grouping"
+msgstr "Sessões por agrupamento de canais"
+
+#: admin/apps/overview/analytics.php:792
+msgid "Display sessions by channel grouping within the date range."
+msgstr "Exiba sessões por agrupamento de canais dentro do período."
+
+#: admin/apps/overview/analytics.php:799
+msgid "User in the last 30 minutes"
+msgstr "Usuário nos últimos 30 minutos"
+
+#: admin/apps/overview/analytics.php:801
+msgid "Displays active users from the last 30 minutes."
+msgstr "Exibe usuários ativos dos últimos 30 minutos."
+
+#: admin/apps/overview/analytics.php:808
+msgid "Engagement Rate"
+msgstr "Índice de comprometimento"
+
+#: admin/apps/overview/analytics.php:810
+msgid "Displays average angagement rate for date range"
+msgstr "Exibe a taxa média de engajamento para o período"
+
+#: admin/apps/overview/analytics.php:817 admin/apps/overview/overview.php:783
+msgid "Site Revenue"
+msgstr "Receita do site"
+
+#: admin/apps/overview/analytics.php:819
+msgid ""
+"Displays site revenue for date range. The sum of revenue from purchases, "
+"subscriptions, and advertising."
+msgstr ""
+"Exibe a receita do site para o intervalo de datas. A soma da receita de "
+"compras, assinaturas e publicidade."
+
+#: admin/apps/overview/analytics.php:826
+msgid "New vs Returning Users"
+msgstr "Usuários novos x recorrentes"
+
+#: admin/apps/overview/analytics.php:828
+msgid "Displays new vs returning users for the date range."
+msgstr "Exibe usuários novos x recorrentes para o período."
+
+#: admin/apps/overview/analytics.php:835
+msgid "Top Cities"
+msgstr "Principais cidades"
+
+#: admin/apps/overview/analytics.php:837
+msgid "Displays page views by city for the date range."
+msgstr "Exibe visualizações de página por cidade para o intervalo de datas."
+
+#: admin/apps/overview/analytics.php:844 admin/apps/overview/overview.php:785
+msgid "Ecommerce Overview"
+msgstr "Visão geral do comércio eletrônico"
+
+#: admin/apps/overview/analytics.php:846
+msgid "Displays add to cart, checkout and purchase data for the date range."
+msgstr ""
+"Exibe dados de adição ao carrinho, checkout e compra para o intervalo de "
+"datas."
+
+#: admin/apps/overview/analytics.php:853 admin/apps/overview/overview.php:781
+#: admin/apps/overview/overview.php:782
+msgid "Conversion Rate"
+msgstr "Taxa de conversão"
+
+#: admin/apps/overview/analytics.php:855
+msgid ""
+"The percentage of active users who made their first purchase for the date "
+"range."
+msgstr ""
+"A porcentagem de usuários ativos que fizeram sua primeira compra no período."
+
+#: admin/apps/overview/analytics.php:862
+msgid "Top Products"
+msgstr "Principais produtos"
+
+#: admin/apps/overview/analytics.php:864
+msgid "Products with the most sales for for the date range."
+msgstr "Produtos com mais vendas para o período."
+
+#: admin/apps/overview/analytics.php:871
+msgid "Conversions in the last 30 minutes"
+msgstr "Conversões nos últimos 30 minutos"
+
+#: admin/apps/overview/analytics.php:873
+msgid "Conversions logged in the last 30 minutes."
+msgstr "Conversões registradas nos últimos 30 minutos."
+
+#: admin/apps/overview/analytics.php:880
+msgid "Page Views in the last 30 minutes"
+msgstr "Visualizações de página nos últimos 30 minutos"
+
+#: admin/apps/overview/analytics.php:882
+msgid "Page views in the last 30 minutes."
+msgstr "Visualizações de página nos últimos 30 minutos."
+
+#: admin/apps/overview/analytics.php:1013
+msgid "Unable to fetch analytics data at this moment. Please try again later"
+msgstr ""
+"Não é possível buscar dados de análise neste momento. Por favor, tente "
+"novamente mais tarde"
+
+#: admin/apps/overview/overview.php:106 admin/apps/overview/overview.php:1150
+msgid "Overview"
+msgstr "Visão geral"
+
+#: admin/apps/overview/overview.php:107
+msgid "Creates the overview page."
+msgstr "Cria a página de visão geral."
+
+#: admin/apps/overview/overview.php:111
+msgid "Disable Overview Page?"
+msgstr "Desativar página de visão geral?"
+
+#: admin/apps/overview/overview.php:112
+msgid "Overview page will be hidden when this option is activated."
+msgstr "A página de visão geral ficará oculta quando esta opção for ativada."
+
+#: admin/apps/overview/overview.php:119
+msgid "Overview Page Disabled For"
+msgstr "Página de visão geral desativada para"
+
+#: admin/apps/overview/overview.php:120
+msgid "Overview Page will be disabled for any users or roles you select"
+msgstr ""
+"A página de visão geral será desativada para todos os usuários ou funções "
+"que você selecionar"
+
+#: admin/apps/overview/overview.php:128
+msgid "Who can edit the overview page?"
+msgstr "Quem pode editar a página de visão geral?"
+
+#: admin/apps/overview/overview.php:129
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If none "
+"are chosen it will fall back to administrators only"
+msgstr ""
+"Qualquer função ou usuário escolhido aqui poderá editar a página de visão "
+"geral. Se nenhum for escolhido, ele retornará apenas aos administradores"
+
+#: admin/apps/overview/overview.php:137
+msgid "Default report start date"
+msgstr "Data de início do relatório padrão"
+
+#: admin/apps/overview/overview.php:138
+msgid ""
+"By default the overview date range will start 7 days before current date. "
+"Add a number of days between 1 and 90 to change length of date range"
+msgstr ""
+"Por padrão, o intervalo de datas da visão geral começará 7 dias antes da "
+"data atual. Adicione um número de dias entre 1 e 90 para alterar a duração "
+"do período"
+
+#: admin/apps/overview/overview.php:146
+msgid "Default report end date offset"
+msgstr "Compensação da data de término do relatório padrão"
+
+#: admin/apps/overview/overview.php:147
+msgid ""
+"By default the overview date range will end on the current day (0). To end "
+"the report on yesterday for example, enter 1"
+msgstr ""
+"Por padrão, o intervalo de datas da visão geral terminará no dia atual (0). "
+"Para encerrar o relatório de ontem, por exemplo, insira 1"
+
+#: admin/apps/overview/overview.php:155
+msgid "Reporting Currency Symbol"
+msgstr "Símbolo de moeda do relatório"
+
+#: admin/apps/overview/overview.php:156
+msgid ""
+"If you are using google analytics commerce reports, enter the currency "
+"symbol your reports are in here"
+msgstr ""
+"Se você estiver usando relatórios de comércio do Google Analytics, insira o "
+"símbolo de moeda em que seus relatórios estão aqui"
+
+#: admin/apps/overview/overview.php:164
+msgid "Custom welcome message"
+msgstr "Mensagem de boas-vindas personalizada"
+
+#: admin/apps/overview/overview.php:165
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr ""
+"Adicione uma mensagem de boas-vindas personalizada aqui para ser exibida na "
+"página de visão geral"
+
+#: admin/apps/overview/overview.php:243 admin/apps/overview/overview.php:384
+#: admin/apps/overview/woocommerce.php:158
+msgid "ago"
+msgstr "atrás"
+
+#: admin/apps/overview/overview.php:259 admin/apps/overview/overview.php:447
+#: admin/apps/overview/woocommerce.php:183
+#: admin/apps/overview/woocommerce.php:265
+msgid "Posts fetched"
+msgstr "Postagens buscadas"
+
+#: admin/apps/overview/overview.php:267
+msgid "No posts posted during the date range."
+msgstr "Nenhuma postagem postada durante o período."
+
+#: admin/apps/overview/overview.php:282
+msgid "Unable to save dash at this time"
+msgstr "Não foi possível salvar o traço neste momento"
+
+#: admin/apps/overview/overview.php:292
+msgid "Dashboard settings saved"
+msgstr "Configurações do painel salvas"
+
+#: admin/apps/overview/overview.php:307
+msgid "Dashboard settings reset"
+msgstr "Redefinição das configurações do painel"
+
+#: admin/apps/overview/overview.php:320 admin/apps/overview/overview.php:328
+msgid "Unable to load shortcode at this time"
+msgstr "Não é possível carregar o código de acesso neste momento"
+
+#: admin/apps/overview/overview.php:335
+msgid "Shortcode loaded"
+msgstr "Código de acesso carregado"
+
+#: admin/apps/overview/overview.php:454
+msgid "No comments during the date range."
+msgstr "Nenhum comentário durante o período."
+
+#: admin/apps/overview/overview.php:477
+msgid "Core version"
+msgstr "Versão principal"
+
+#: admin/apps/overview/overview.php:482
+msgid "PHP version"
+msgstr "Versão do PHP"
+
+#: admin/apps/overview/overview.php:487
+msgid "Active Plugins"
+msgstr "Plug-ins ativos"
+
+#: admin/apps/overview/overview.php:492
+msgid "Inactive Plugins"
+msgstr "Plug-ins inativos"
+
+#: admin/apps/overview/overview.php:497
+msgid "Installed Themes"
+msgstr "Temas instalados"
+
+#: admin/apps/overview/overview.php:532
+msgid "Unable to fetch quote of the day"
+msgstr "Não foi possível buscar a cotação do dia"
+
+#: admin/apps/overview/overview.php:570
+msgid "Passed Checks"
+msgstr "Verificações aprovadas"
+
+#: admin/apps/overview/overview.php:578
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: admin/apps/overview/overview.php:586
+msgid "Critical"
+msgstr "Crítico"
+
+#: admin/apps/overview/overview.php:597
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "Dê uma olhada nos %d itens no"
+
+#: admin/apps/overview/overview.php:598
+msgid "Site Health screen"
+msgstr "Tela de integridade do site"
+
+#: admin/apps/overview/overview.php:606
+msgid "Device Visits"
+msgstr "Visitas do dispositivo"
+
+#: admin/apps/overview/overview.php:693
+msgid "Card width"
+msgstr "Largura do cartão"
+
+#: admin/apps/overview/overview.php:694
+msgid "Column width"
+msgstr "Largura da coluna"
+
+#: admin/apps/overview/overview.php:695
+msgid "Column settings"
+msgstr "Configurações de coluna"
+
+#: admin/apps/overview/overview.php:696
+msgid "Column Size"
+msgstr "Tamanho da coluna"
+
+#: admin/apps/overview/overview.php:697
+msgid "Remove Card"
+msgstr "Remover cartão"
+
+#: admin/apps/overview/overview.php:698 admin/apps/overview/overview.php:799
+msgid "Delete Column"
+msgstr "Excluir coluna"
+
+#: admin/apps/overview/overview.php:699
+msgid "In the"
+msgstr "No"
+
+#: admin/apps/overview/overview.php:700
+msgid "day range"
+msgstr "intervalo de dias"
+
+#: admin/apps/overview/overview.php:701
+msgid "xxsmall (1/6)"
+msgstr "xxpequeno (1/6)"
+
+#: admin/apps/overview/overview.php:702
+msgid "xsmall (1/5)"
+msgstr "xpequeno (1/5)"
+
+#: admin/apps/overview/overview.php:703
+msgid "small (1/4)"
+msgstr "pequeno (1/4)"
+
+#: admin/apps/overview/overview.php:704
+msgid "small medium (1/3)"
+msgstr "médio pequeno (1/3)"
+
+#: admin/apps/overview/overview.php:705
+msgid "medium (1/2)"
+msgstr "médio (1/2)"
+
+#: admin/apps/overview/overview.php:706
+msgid "medium large (2/3)"
+msgstr "médio grande (2/3)"
+
+#: admin/apps/overview/overview.php:707
+msgid "large (3/4)"
+msgstr "grande (3/4)"
+
+#: admin/apps/overview/overview.php:708
+msgid "xlarge (1/1)"
+msgstr "xgrande (1/1)"
+
+#: admin/apps/overview/overview.php:709
+msgid "I am an empty column. Drag cards into me."
+msgstr "Eu sou uma coluna vazia. Arraste as cartas para mim."
+
+#: admin/apps/overview/overview.php:710
+msgid "Column Added"
+msgstr "Coluna adicionada"
+
+#: admin/apps/overview/overview.php:711
+msgid "Add card"
+msgstr "Adicionar cartão"
+
+#: admin/apps/overview/overview.php:712
+msgid "Section added"
+msgstr "Seção adicionada"
+
+#: admin/apps/overview/overview.php:713
+msgid "Search Cards"
+msgstr "Cartões de pesquisa"
+
+#: admin/apps/overview/overview.php:714
+msgid "Pro"
+msgstr "Pró"
+
+#: admin/apps/overview/overview.php:716 admin/apps/overview/overview.php:922
+msgid "Shortcode"
+msgstr "Código curto"
+
+#: admin/apps/overview/overview.php:717
+msgid "Video URL"
+msgstr "URL do vídeo"
+
+#: admin/apps/overview/overview.php:718
+msgid "Embed Type"
+msgstr "Tipo de incorporação"
+
+#: admin/apps/overview/overview.php:719
+msgid "UiPress Pro feature"
+msgstr "Recurso UiPress Pro"
+
+#: admin/apps/overview/overview.php:720
+msgid "Upgrade to one of our premium plans to unlock this feature."
+msgstr ""
+"Atualize para um de nossos planos premium para desbloquear esse recurso."
+
+#: admin/apps/overview/overview.php:721
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/apps/overview/overview.php:722
+msgid "Card Added"
+msgstr "Cartão adicionado"
+
+#: admin/apps/overview/overview.php:723
+msgid "Card Background colour"
+msgstr "Cor de fundo do cartão"
+
+#: admin/apps/overview/overview.php:724
+msgid "# Hex code only (#fff)"
+msgstr "# Somente código hexadecimal (#fff)"
+
+#: admin/apps/overview/overview.php:725
+msgid "Use light color for text"
+msgstr "Usar cor clara para texto"
+
+#: admin/apps/overview/overview.php:726
+msgid "Chart Type"
+msgstr "Tipo de Gráfico"
+
+#: admin/apps/overview/overview.php:727
+msgid "Line Chart"
+msgstr "Gráfico de linha"
+
+#: admin/apps/overview/overview.php:728
+msgid "Bar Chart"
+msgstr "Gráfico de barras"
+
+#: admin/apps/overview/overview.php:729
+msgid "vs previous"
+msgstr "vs anterior"
+
+#: admin/apps/overview/overview.php:730 admin/apps/overview/overview.php:829
+msgid "days"
+msgstr "dias"
+
+#: admin/apps/overview/overview.php:731
+msgid "Doughnut"
+msgstr "Rosquinha"
+
+#: admin/apps/overview/overview.php:732
+msgid "Polar Area"
+msgstr "Área Polar"
+
+#: admin/apps/overview/overview.php:733
+msgid "Bar"
+msgstr "Bar"
+
+#: admin/apps/overview/overview.php:734 admin/apps/overview/overview.php:741
+msgid "Horizontal Bar"
+msgstr "Barra horizontal"
+
+#: admin/apps/overview/overview.php:735
+msgid "Country"
+msgstr "País"
+
+#: admin/apps/overview/overview.php:736
+msgid "Visits"
+msgstr "Visitas"
+
+#: admin/apps/overview/overview.php:737
+msgid "Change"
+msgstr "Mudar"
+
+#: admin/apps/overview/overview.php:738
+msgid "No Background"
+msgstr "Sem fundo"
+
+#: admin/apps/overview/overview.php:739
+msgid "Hide Map"
+msgstr "Ocultar mapa"
+
+#: admin/apps/overview/overview.php:740
+msgid "Connect your account to use this card"
+msgstr "Conecte sua conta para usar este cartão"
+
+#: admin/apps/overview/overview.php:742
+msgid "Hide Chart"
+msgstr "Ocultar gráfico"
+
+#: admin/apps/overview/overview.php:743
+msgid "Source"
+msgstr "Fonte"
+
+#: admin/apps/overview/overview.php:744
+msgid "Page"
+msgstr "Página"
+
+#: admin/apps/overview/overview.php:745
+msgid "Product"
+msgstr "produtos"
+
+#: admin/apps/overview/overview.php:746
+msgid "Sold"
+msgstr "Vendido"
+
+#: admin/apps/overview/overview.php:747
+msgid "Value"
+msgstr "Valor"
+
+#: admin/apps/overview/overview.php:748
+msgid "WooCommerce is required to use this card"
+msgstr "WooCommerce é necessário para usar este cartão"
+
+#: admin/apps/overview/overview.php:749 admin/classes/uipress-app.php:1380
+msgid "Please select a valid JSON file"
+msgstr "Selecione um arquivo JSON válido"
+
+#: admin/apps/overview/overview.php:750 admin/classes/uipress-app.php:1381
+msgid "File is to big"
+msgstr "O arquivo é muito grande"
+
+#: admin/apps/overview/overview.php:751
+msgid "Layout Imported"
+msgstr "Layout importado"
+
+#: admin/apps/overview/overview.php:752
+msgid "Unable to import layout"
+msgstr "Não foi possível importar o layout"
+
+#: admin/apps/overview/overview.php:753
+msgid "Are you sure you want to clear the current layout? There is no undo."
+msgstr "Tem certeza de que deseja limpar o layout atual? Não há desfazer."
+
+#: admin/apps/overview/overview.php:754
+msgid "Available Cards"
+msgstr "Cartões disponíveis"
+
+#: admin/apps/overview/overview.php:755
+msgid "Event Count"
+msgstr "Contagem de eventos"
+
+#: admin/apps/overview/overview.php:756
+msgid "Event Name"
+msgstr "Nome do evento"
+
+#: admin/apps/overview/overview.php:757
+msgid "Channel"
+msgstr "Canal"
+
+#: admin/apps/overview/overview.php:758
+msgid "Sessions"
+msgstr "Sessões"
+
+#: admin/apps/overview/overview.php:760
+msgid "Page Views  (comparison period)"
+msgstr "Visualizações de página (período de comparação)"
+
+#: admin/apps/overview/overview.php:763
+msgid "To"
+msgstr "Para"
+
+#: admin/apps/overview/overview.php:764
+msgid "From"
+msgstr "A partir de"
+
+#: admin/apps/overview/overview.php:765
+msgid "Date Range"
+msgstr "Período"
+
+#: admin/apps/overview/overview.php:766
+msgid "Custom Comparison Dates"
+msgstr "Datas de comparação personalizadas"
+
+#: admin/apps/overview/overview.php:767
+msgid "Apply"
+msgstr "Aplicar"
+
+#: admin/apps/overview/overview.php:768
+msgid "vs"
+msgstr "vs"
+
+#: admin/apps/overview/overview.php:769
+msgid "Custom Range"
+msgstr "Faixa personalizada"
+
+#: admin/apps/overview/overview.php:770 admin/classes/uipress-app.php:1397
+msgid "Today"
+msgstr "Hoje"
+
+#: admin/apps/overview/overview.php:771 admin/classes/uipress-app.php:1398
+msgid "Yesterday"
+msgstr "Ontem"
+
+#: admin/apps/overview/overview.php:772
+msgid "Last 7 days"
+msgstr "Últimos 7 dias"
+
+#: admin/apps/overview/overview.php:773
+msgid "Last 30 days"
+msgstr "Últimos 30 dias"
+
+#: admin/apps/overview/overview.php:774
+msgid "Last 60 days"
+msgstr "Últimos 60 dias"
+
+#: admin/apps/overview/overview.php:775
+msgid "Last 90 days"
+msgstr "Últimos 90 dias"
+
+#: admin/apps/overview/overview.php:776 admin/classes/uipress-app.php:1395
+msgid "This Month"
+msgstr "Este mês"
+
+#: admin/apps/overview/overview.php:777 admin/classes/uipress-app.php:1396
+msgid "Last Month"
+msgstr "Mês passado"
+
+#: admin/apps/overview/overview.php:778
+msgid "Purchases"
+msgstr "Compras"
+
+#: admin/apps/overview/overview.php:779
+msgid "Added to cart"
+msgstr "Adicionado ao carrinho"
+
+#: admin/apps/overview/overview.php:780
+msgid "Checkout started"
+msgstr "Check-out iniciado"
+
+#: admin/apps/overview/overview.php:784
+msgid "Site Revenue (comparison)"
+msgstr "Receita do site (comparação)"
+
+#: admin/apps/overview/overview.php:786
+msgid "Visits By Device"
+msgstr "Visitas por dispositivo"
+
+#: admin/apps/overview/overview.php:787
+msgid "Device Category"
+msgstr "Categoria do dispositivo"
+
+#: admin/apps/overview/overview.php:788
+msgid "Active Users"
+msgstr "Usuários ativos"
+
+#: admin/apps/overview/overview.php:789 admin/apps/overview/overview.php:791
+msgid "Product Name"
+msgstr "Nome do Produto"
+
+#: admin/apps/overview/overview.php:790
+msgid "Sales"
+msgstr "Vendas"
+
+#: admin/apps/overview/overview.php:792
+msgid "Quantity Sold"
+msgstr "Quantidade vendida"
+
+#: admin/apps/overview/overview.php:793 admin/apps/overview/overview.php:807
+msgid "Revenue"
+msgstr "receita"
+
+#: admin/apps/overview/overview.php:794
+msgid "Column Removed"
+msgstr "Coluna removida"
+
+#: admin/apps/overview/overview.php:795
+msgid "Section Removed"
+msgstr "Seção removida"
+
+#: admin/apps/overview/overview.php:796
+msgid "View Plans"
+msgstr "Ver planos"
+
+#: admin/apps/overview/overview.php:797
+msgid "Unable to fetch analytics data, please try again later"
+msgstr "Não foi possível buscar dados de análise. Tente novamente mais tarde"
+
+#: admin/apps/overview/overview.php:798
+msgid "Column background colour"
+msgstr "Cor de fundo da coluna"
+
+#: admin/apps/overview/overview.php:800
+msgid "Hide card title"
+msgstr "Ocultar título do cartão"
+
+#: admin/apps/overview/overview.php:801 admin/apps/overview/overview.php:895
+msgid "Site Health"
+msgstr "Integridade do site"
+
+#: admin/apps/overview/overview.php:802
+msgid "Conversions"
+msgstr "Conversões"
+
+#: admin/apps/overview/overview.php:803
+msgid "This card only works with google analytics 4 accounts"
+msgstr "Este cartão só funciona com contas do Google Analytics 4"
+
+#: admin/apps/overview/overview.php:804
+msgid "This card only works with universal analytics propeties."
+msgstr "Este cartão só funciona com propriedades analíticas universais."
+
+#: admin/apps/overview/overview.php:805
+msgid "Orders"
+msgstr "Pedidos"
+
+#: admin/apps/overview/overview.php:806
+msgid "Orders (comparison period)."
+msgstr "Encomendas (período de comparação)."
+
+#: admin/apps/overview/overview.php:808
+msgid "Revenue (comparison period)."
+msgstr "Receita (período de comparação)."
+
+#: admin/apps/overview/overview.php:809
+msgid "Current Period"
+msgstr "Período atual"
+
+#: admin/apps/overview/overview.php:810
+msgid "Comparison Period"
+msgstr "Período de comparação"
+
+#: admin/apps/overview/overview.php:811
+msgid "Match Card Height"
+msgstr "Altura do cartão de correspondência"
+
+#: admin/apps/overview/overview.php:813
+msgid "What would you like to do?"
+msgstr "O que você gostaria de fazer?"
+
+#: admin/apps/overview/overview.php:814
+msgid "To do"
+msgstr "Façam"
+
+#: admin/apps/overview/overview.php:815
+msgid "Done"
+msgstr "Feito"
+
+#: admin/apps/overview/overview.php:816
+msgid "Size"
+msgstr "Tamanho"
+
+#: admin/apps/overview/overview.php:817
+msgid "Background Colour"
+msgstr "Cor de fundo"
+
+#: admin/apps/overview/overview.php:818
+msgid "Custom CSS class"
+msgstr "Classe CSS personalizada"
+
+#: admin/apps/overview/overview.php:819
+msgid "Add New Card"
+msgstr "Adicionar novo cartão"
+
+#: admin/apps/overview/overview.php:820 admin/apps/overview/overview.php:1249
+#: admin/classes/settings.php:78 admin/classes/settings.php:91
+#: admin/classes/settings.php:226 admin/classes/uipress-app.php:1406
+msgid "Settings"
+msgstr "Definições"
+
+#: admin/apps/overview/overview.php:821
+msgid "Card Settings"
+msgstr "Configurações do cartão"
+
+#: admin/apps/overview/overview.php:822
+msgid "Move Column Down"
+msgstr "Mover coluna para baixo"
+
+#: admin/apps/overview/overview.php:823
+msgid "Move Column Up"
+msgstr "Mover coluna para cima"
+
+#: admin/apps/overview/overview.php:824
+msgid "Add new column"
+msgstr "Adicionar nova coluna"
+
+#: admin/apps/overview/overview.php:825
+msgid "Section Settings"
+msgstr "Configurações de seção"
+
+#: admin/apps/overview/overview.php:826
+msgid "Toggle section visibility"
+msgstr "Alternar visibilidade da seção"
+
+#: admin/apps/overview/overview.php:827
+msgid "Page Settings"
+msgstr "Configurações da página"
+
+#: admin/apps/overview/overview.php:828
+msgid "In the last"
+msgstr "No ultimo"
+
+#: admin/apps/overview/overview.php:830 admin/apps/users/uip-users-ajax.php:662
+msgid "Something has gone wrong"
+msgstr "Algo deu errado"
+
+#: admin/apps/overview/overview.php:831
+msgid "Connect your matomo site to use this card"
+msgstr "Conecte seu site matomo para usar este cartão"
+
+#: admin/apps/overview/overview.php:832
+msgid "Connect Matomo Analytics"
+msgstr "Conecte o Matomo Analytics"
+
+#: admin/apps/overview/overview.php:833
+msgid "Auth Token"
+msgstr "Token de autenticação"
+
+#: admin/apps/overview/overview.php:834
+msgid "Matomo Url"
+msgstr "URL de Matomo"
+
+#: admin/apps/overview/overview.php:835
+msgid "Matomo Site ID"
+msgstr "ID do site Matomo"
+
+#: admin/apps/overview/overview.php:837
+msgid "Click below to change matomo account"
+msgstr "Clique abaixo para alterar a conta do matomo"
+
+#: admin/apps/overview/overview.php:838
+msgid "Change account"
+msgstr "Mudar de conta"
+
+#: admin/apps/overview/overview.php:839
+msgid "City"
+msgstr "Cidade"
+
+#: admin/apps/overview/overview.php:840
+msgid "Average Page Load"
+msgstr "Carregamento médio de página"
+
+#: admin/apps/overview/overview.php:842
+msgid "Exit Rate"
+msgstr "Taxa de saída"
+
+#: admin/apps/overview/overview.php:843
+msgid "Average Time On Page"
+msgstr "Tempo médio na página"
+
+#: admin/apps/overview/overview.php:844
+msgid "Referer"
+msgstr "Referenciador"
+
+#: admin/apps/overview/overview.php:845
+msgid "Section name"
+msgstr "Nome da Seção"
+
+#: admin/apps/overview/overview.php:846
+msgid "Section description"
+msgstr "Descrição da seção"
+
+#: admin/apps/overview/overview.php:868
+msgid "Recently Published"
+msgstr "Publicado recentemente"
+
+#: admin/apps/overview/overview.php:870
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr ""
+"Exiba postagens, páginas e CPTs publicados dentro do intervalo de datas."
+
+#: admin/apps/overview/overview.php:871 admin/apps/overview/overview.php:880
+#: admin/apps/overview/overview.php:889 admin/apps/overview/overview.php:898
+#: admin/apps/overview/overview.php:907 admin/apps/overview/overview.php:916
+#: admin/apps/overview/overview.php:925 admin/apps/overview/overview.php:934
+#: admin/apps/overview/overview.php:943 admin/apps/overview/overview.php:952
+#: admin/classes/uipress-app.php:2526
+msgid "General"
+msgstr "Em geral"
+
+#: admin/apps/overview/overview.php:877
+msgid "Recent Comments"
+msgstr "comentários recentes"
+
+#: admin/apps/overview/overview.php:879
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr ""
+"Exibe o total de comentários e comentários recentes publicados no intervalo "
+"de datas."
+
+#: admin/apps/overview/overview.php:886
+msgid "System Info"
+msgstr "Informação do sistema"
+
+#: admin/apps/overview/overview.php:888
+msgid "Displays info our about your cms and server setup."
+msgstr "Exibe informações sobre seu cms e configuração do servidor."
+
+#: admin/apps/overview/overview.php:897
+msgid "Displays info our about your sites health."
+msgstr "Exibe informações sobre a saúde de seus sites."
+
+#: admin/apps/overview/overview.php:906
+msgid "Displays current time and date"
+msgstr "Exibe a hora e a data atuais"
+
+#: admin/apps/overview/overview.php:913
+msgid "Video"
+msgstr "Vídeo"
+
+#: admin/apps/overview/overview.php:915
+msgid "Displays a custom video"
+msgstr "Exibe um vídeo personalizado"
+
+#: admin/apps/overview/overview.php:924
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "Emite um shortcode do WordPress para o cartão"
+
+#: admin/apps/overview/overview.php:931
+msgid "Custom HTML"
+msgstr "HTML personalizado"
+
+#: admin/apps/overview/overview.php:933
+msgid "Outputs custom HTML to the card"
+msgstr "Gera HTML personalizado para o cartão"
+
+#: admin/apps/overview/overview.php:940
+msgid "Quote of the day"
+msgstr "Citação do dia"
+
+#: admin/apps/overview/overview.php:942
+msgid "Shows a random quote of the day"
+msgstr "Mostra uma cotação aleatória do dia"
+
+#: admin/apps/overview/overview.php:949
+msgid "To do list"
+msgstr "Lista de afazeres"
+
+#: admin/apps/overview/overview.php:951
+msgid "A simple todo list card"
+msgstr "Um simples cartão de lista de tarefas"
+
+#: admin/apps/overview/overview.php:1038
+msgid "Hello"
+msgstr "Olá"
+
+#: admin/apps/overview/overview.php:1187
+msgid "Clear Layout"
+msgstr "Limpar layout"
+
+#: admin/apps/overview/overview.php:1191 admin/apps/overview/overview.php:1234
+msgid "New Section"
+msgstr "Nova seção"
+
+#: admin/apps/overview/overview.php:1196 admin/apps/overview/overview.php:1237
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+#: admin/apps/overview/overview.php:1240
+msgid "Exit edit mode"
+msgstr "Sair do modo de edição"
+
+#: admin/apps/overview/overview.php:1253
+msgid "Editing Mode"
+msgstr "Modo de edição"
+
+#: admin/apps/overview/overview.php:1265
+msgid "Disconnect Analytics"
+msgstr "Desconectar o Analytics"
+
+#: admin/apps/overview/overview.php:1275
+msgid "Export Layout"
+msgstr "Exportar layout"
+
+#: admin/apps/overview/overview.php:1284
+msgid "Import Layout"
+msgstr "Importar layout"
+
+#: admin/apps/overview/overview.php:1298 admin/classes/settings.php:258
+#: admin/classes/styles.php:457
+msgid "Unlock Export and Import features with pro"
+msgstr "Desbloqueie recursos de exportação e importação com pro"
+
+#: admin/apps/overview/overview.php:1321
+msgid "Home"
+msgstr "Casa"
+
+#: admin/apps/overview/overview.php:1369
+msgid "It's a little quiet around here"
+msgstr "Está um pouco quieto por aqui"
+
+#: admin/apps/overview/overview.php:1371
+msgid ""
+"Looks like you haven't created a dashboard yet. Enter edit mode to get "
+"started or import a default template"
+msgstr ""
+"Parece que você ainda não criou um painel. Entre no modo de edição para "
+"começar ou importe um modelo padrão"
+
+#: admin/apps/overview/overview.php:1374
+msgid "Import default template"
+msgstr "Importar modelo padrão"
+
+#: admin/apps/overview/overview.php:1375
+msgid "Enter edit mode"
+msgstr "Entre no modo de edição"
+
+#: admin/apps/overview/overview.php:1419
+msgid "Match Column Height"
+msgstr "Corresponder à Altura da Coluna"
+
+#: admin/apps/overview/overview.php:1427
+msgid "Hide section title"
+msgstr "Ocultar título da seção"
+
+#: admin/apps/overview/overview.php:1435
+msgid "Section Width"
+msgstr "Largura da secção"
+
+#: admin/apps/overview/overview.php:1452
+msgid "Remove Section"
+msgstr "Remover seção"
+
+#: admin/apps/overview/woocommerce.php:46
+#: admin/apps/overview/woocommerce.php:125
+#: admin/apps/overview/woocommerce.php:203
+msgid "Woocommerce is required for this widget"
+msgstr "Woocommerce é necessário para este widget"
+
+#: admin/apps/overview/woocommerce.php:74
+msgid "Total Revenue"
+msgstr "Rendimento total"
+
+#: admin/apps/overview/woocommerce.php:76
+msgid "Display total sales revenue in your store within the date range."
+msgstr "Exiba a receita total de vendas em sua loja dentro do período."
+
+#: admin/apps/overview/woocommerce.php:77
+#: admin/apps/overview/woocommerce.php:86
+#: admin/apps/overview/woocommerce.php:95
+#: admin/apps/overview/woocommerce.php:104
+#: admin/apps/overview/woocommerce.php:113
+msgid "Commerce"
+msgstr "Comércio"
+
+#: admin/apps/overview/woocommerce.php:83
+msgid "Total Orders"
+msgstr "Total de pedidos"
+
+#: admin/apps/overview/woocommerce.php:85
+msgid "Display total orders in your store within the date range."
+msgstr "Exiba o total de pedidos em sua loja dentro do intervalo de datas."
+
+#: admin/apps/overview/woocommerce.php:92
+msgid "Average Order Value"
+msgstr "Valor médio do pedido"
+
+#: admin/apps/overview/woocommerce.php:94
+msgid "Display average order value in your store within the date range."
+msgstr "Exiba o valor médio do pedido em sua loja dentro do período."
+
+#: admin/apps/overview/woocommerce.php:101
+msgid "Recent Orders"
+msgstr "pedidos recentes"
+
+#: admin/apps/overview/woocommerce.php:103
+msgid "Display recent orders from your store within the date range."
+msgstr "Exiba pedidos recentes de sua loja dentro do intervalo de datas."
+
+#: admin/apps/overview/woocommerce.php:110
+msgid "Popular Products"
+msgstr "Produtos populares"
+
+#: admin/apps/overview/woocommerce.php:112
+msgid "Display top selling products from your store within the date range."
+msgstr "Exiba os produtos mais vendidos da sua loja no período."
+
+#: admin/apps/overview/woocommerce.php:191
+msgid "No orders during the date range."
+msgstr "Nenhum pedido durante o período."
+
+#: admin/apps/overview/woocommerce.php:272
+msgid "No products sold during the date range."
+msgstr "Nenhum produto foi vendido durante o período."
+
+#: admin/apps/users/uip-history.php:132
+msgid "Once every 1 minutes"
+msgstr "Uma vez a cada 1 minuto"
+
+#: admin/apps/users/uip-history.php:145
+msgctxt "post type general name"
+msgid "History"
+msgstr "História"
+
+#: admin/apps/users/uip-history.php:146
+msgctxt "post type singular name"
+msgid "history"
+msgstr "história"
+
+#: admin/apps/users/uip-history.php:147
+msgctxt "admin menu"
+msgid "History"
+msgstr "História"
+
+#: admin/apps/users/uip-history.php:148
+msgctxt "add new on admin bar"
+msgid "History"
+msgstr "História"
+
+#: admin/apps/users/uip-history.php:149
+msgctxt "history"
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: admin/apps/users/uip-history.php:150
+msgid "Add New History"
+msgstr "Adicionar novo histórico"
+
+#: admin/apps/users/uip-history.php:151
+msgid "New History"
+msgstr "Novo histórico"
+
+#: admin/apps/users/uip-history.php:152
+msgid "Edit History"
+msgstr "Editar histórico"
+
+#: admin/apps/users/uip-history.php:153
+msgid "View History"
+msgstr "Ver histórico"
+
+#: admin/apps/users/uip-history.php:154
+msgid "All History"
+msgstr "Todo o histórico"
+
+#: admin/apps/users/uip-history.php:155
+msgid "Search History"
+msgstr "Histórico de busca"
+
+#: admin/apps/users/uip-history.php:156
+msgid "No History found."
+msgstr "Nenhum histórico encontrado."
+
+#: admin/apps/users/uip-history.php:157
+msgid "No History found in Trash."
+msgstr "Nenhum histórico encontrado na lixeira."
+
+#: admin/apps/users/uip-user-groups.php:41
+msgctxt "post type general name"
+msgid "Group"
+msgstr "Grupo"
+
+#: admin/apps/users/uip-user-groups.php:42
+msgctxt "post type singular name"
+msgid "Group"
+msgstr "Grupo"
+
+#: admin/apps/users/uip-user-groups.php:43
+msgctxt "admin menu"
+msgid "Groups"
+msgstr "Grupos"
+
+#: admin/apps/users/uip-user-groups.php:44
+msgctxt "add new on admin bar"
+msgid "Group"
+msgstr "Grupo"
+
+#: admin/apps/users/uip-user-groups.php:45
+msgctxt "Group"
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: admin/apps/users/uip-user-groups.php:46
+#: admin/apps/users/uip-user-groups.php:57
+msgid "Add New Group"
+msgstr "Adicionar novo grupo"
+
+#: admin/apps/users/uip-user-groups.php:47
+msgid "New Group"
+msgstr "Novo grupo"
+
+#: admin/apps/users/uip-user-groups.php:48
+msgid "Edit Group"
+msgstr "Editar grupo"
+
+#: admin/apps/users/uip-user-groups.php:49
+msgid "View Group"
+msgstr "Ver grupo"
+
+#: admin/apps/users/uip-user-groups.php:50
+msgid "All Groups"
+msgstr "Todos os grupos"
+
+#: admin/apps/users/uip-user-groups.php:51
+msgid "Search Groups"
+msgstr "Grupos de pesquisa"
+
+#: admin/apps/users/uip-user-groups.php:52
+msgid "No Groups found."
+msgstr "Nenhum grupo encontrado."
+
+#: admin/apps/users/uip-user-groups.php:53
+msgid "No Groups found in Trash."
+msgstr "Nenhum grupo encontrado na lixeira."
+
+#: admin/apps/users/uip-user-groups.php:80
+msgid "No group to delete"
+msgstr "Nenhum grupo para excluir"
+
+#: admin/apps/users/uip-user-groups.php:90
+msgid "Unable to delete the group"
+msgstr "Não foi possível excluir o grupo"
+
+#: admin/apps/users/uip-user-groups.php:147
+msgid "Group deleted"
+msgstr "Grupo excluído"
+
+#: admin/apps/users/uip-user-groups.php:166
+msgid "Unable to move folder group itself"
+msgstr "Não é possível mover o próprio grupo de pastas"
+
+#: admin/apps/users/uip-user-groups.php:180
+msgid "Unable to move group"
+msgstr "Não foi possível mover o grupo"
+
+#: admin/apps/users/uip-user-groups.php:208
+msgid "Group moved"
+msgstr "Grupo movido"
+
+#: admin/apps/users/uip-user-groups.php:227
+msgid "No item to move"
+msgstr "Nenhum item para mover"
+
+#: admin/apps/users/uip-user-groups.php:241
+msgid "Item moved"
+msgstr "Item movido"
+
+#: admin/apps/users/uip-user-groups.php:259
+msgid "No users to move"
+msgstr "Nenhum usuário para mover"
+
+#: admin/apps/users/uip-user-groups.php:277
+msgid "User moved"
+msgstr "Usuário movido"
+
+#: admin/apps/users/uip-user-groups.php:318
+msgid "Group updated"
+msgstr "Grupo atualizado"
+
+#: admin/apps/users/uip-user-groups.php:339 admin/classes/folders.php:557
+msgid "Title is required"
+msgstr "O título é obrigatório"
+
+#: admin/apps/users/uip-user-groups.php:345 admin/classes/folders.php:563
+msgid "Colour is required"
+msgstr "A cor é obrigatória"
+
+#: admin/apps/users/uip-user-groups.php:360
+msgid "Unable to create group"
+msgstr "Não foi possível criar o grupo"
+
+#: admin/apps/users/uip-user-groups.php:372
+msgid "Group created"
+msgstr "Grupo criado"
+
+#: admin/apps/users/uip-users-ajax.php:415
+msgid "Unknown"
+msgstr "Desconhecido"
+
+#: admin/apps/users/uip-users-ajax.php:511
+#: admin/apps/users/uip-users-ajax.php:577
+msgid "You don't have sufficent priviledges to edit users"
+msgstr "Você não tem privilégios suficientes para editar usuários"
+
+#: admin/apps/users/uip-users-ajax.php:517
+#: admin/apps/users/uip-users-ajax.php:1023
+msgid "Email is not valid"
+msgstr "E-mail não é válido"
+
+#: admin/apps/users/uip-users-ajax.php:528
+#: admin/apps/users/uip-users-ajax.php:1016
+msgid "Email already exists"
+msgstr "e-mail já existe"
+
+#: admin/apps/users/uip-users-ajax.php:557
+#: admin/apps/users/uip-users-ajax.php:1069
+msgid "User saved"
+msgstr "Usuário salvo"
+
+#: admin/apps/users/uip-users-ajax.php:583
+msgid "No users sent to update"
+msgstr "Nenhum usuário enviado para atualização"
+
+#: admin/apps/users/uip-users-ajax.php:589
+msgid "No roles sent to update"
+msgstr "Nenhuma função enviada para atualização"
+
+#: admin/apps/users/uip-users-ajax.php:610
+msgid "User roles updated"
+msgstr "Funções do usuário atualizadas"
+
+#: admin/apps/users/uip-users-ajax.php:630
+#: admin/apps/users/uip-users-ajax.php:716
+#: admin/apps/users/uip-users-ajax.php:777
+#: admin/apps/users/uip-users-ajax.php:818
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr "Você não tem privilégios suficientes para gerenciar funções"
+
+#: admin/apps/users/uip-users-ajax.php:636
+msgid "Original role name required"
+msgstr "O nome da função original é obrigatório"
+
+#: admin/apps/users/uip-users-ajax.php:642
+#: admin/apps/users/uip-users-ajax.php:722
+#: admin/apps/users/uip-users-ajax.php:783
+#: admin/apps/users/uip-users-ajax.php:836
+#: admin/apps/users/uip-users-ajax.php:879
+#: admin/apps/users/uip-users-ajax.php:885
+#: admin/apps/users/uip-users-ajax.php:944
+#: admin/apps/users/uip-users-ajax.php:950
+msgid "Role name is required"
+msgstr "O nome da função é obrigatório"
+
+#: admin/apps/users/uip-users-ajax.php:667
+msgid "Role saved"
+msgstr "Função salva"
+
+#: admin/apps/users/uip-users-ajax.php:686
+msgid "You don't have sufficent priviledges to do this"
+msgstr "Você não tem privilégios suficientes para fazer isso"
+
+#: admin/apps/users/uip-users-ajax.php:697
+msgid "User logged out everywhere"
+msgstr "Usuário desconectado em todos os lugares"
+
+#: admin/apps/users/uip-users-ajax.php:728
+msgid "Role label cannot contain spaces"
+msgstr "O rótulo da função não pode conter espaços"
+
+#: admin/apps/users/uip-users-ajax.php:734
+msgid "Role label is required"
+msgstr "O rótulo da função é obrigatório"
+
+#: admin/apps/users/uip-users-ajax.php:753
+msgid "Unable to add role. Make sure role name is unique"
+msgstr ""
+"Não foi possível adicionar a função. Verifique se o nome da função é "
+"exclusivo"
+
+#: admin/apps/users/uip-users-ajax.php:758
+msgid "Role created"
+msgstr "Função criada"
+
+#: admin/apps/users/uip-users-ajax.php:792
+#: admin/apps/users/uip-users-ajax.php:843
+msgid "You can't delete a role that is currently assigned to yourself"
+msgstr "Você não pode excluir uma função que está atribuída a você no momento"
+
+#: admin/apps/users/uip-users-ajax.php:799
+msgid "Role deleted"
+msgstr "Função excluída"
+
+#: admin/apps/users/uip-users-ajax.php:824
+msgid "No roles to delete"
+msgstr "Nenhuma função para excluir"
+
+#: admin/apps/users/uip-users-ajax.php:852
+msgid "Roles deleted"
+msgstr "Funções excluídas"
+
+#: admin/apps/users/uip-users-ajax.php:873
+msgid "You don't have sufficent priviledges to add this capability"
+msgstr "Você não tem privilégios suficientes para adicionar esse recurso"
+
+#: admin/apps/users/uip-users-ajax.php:891
+#: admin/apps/users/uip-users-ajax.php:956
+msgid "Role name cannot contain spaces"
+msgstr "O nome da função não pode conter espaços"
+
+#: admin/apps/users/uip-users-ajax.php:897
+msgid "Capability name cannot contain spaces"
+msgstr "O nome do recurso não pode conter espaços"
+
+#: admin/apps/users/uip-users-ajax.php:912
+msgid "Unable to add capability. Make sure role name is unique"
+msgstr ""
+"Não foi possível adicionar capacidade. Verifique se o nome da função é "
+"exclusivo"
+
+#: admin/apps/users/uip-users-ajax.php:917
+msgid "Capability added"
+msgstr "Capacidade adicionada"
+
+#: admin/apps/users/uip-users-ajax.php:938
+msgid "You don't have sufficent priviledges to delete this capability"
+msgstr "Você não tem privilégios suficientes para excluir esse recurso"
+
+#: admin/apps/users/uip-users-ajax.php:971
+msgid "Unable to delete capability. Make sure role name is unique"
+msgstr ""
+"Não foi possível excluir o recurso. Verifique se o nome da função é exclusivo"
+
+#: admin/apps/users/uip-users-ajax.php:976
+msgid "Capability deleted"
+msgstr "Recurso excluído"
+
+#: admin/apps/users/uip-users-ajax.php:996
+msgid "You don't have sufficent priviledges to create users"
+msgstr "Você não tem privilégios suficientes para criar usuários"
+
+#: admin/apps/users/uip-users-ajax.php:1003
+msgid "Username already exists"
+msgstr "O nome de usuário já existe"
+
+#: admin/apps/users/uip-users-ajax.php:1009
+msgid "Username is not valid"
+msgstr "nome de usuário não é válido"
+
+#: admin/apps/users/uip-users-ajax.php:1029
+msgid "Password is required"
+msgstr "Senha requerida"
+
+#: admin/apps/users/uip-users-ajax.php:1088
+#: admin/apps/users/uip-users-ajax.php:1127
+msgid "You don't have sufficent priviledges to edit this user"
+msgstr "Você não tem privilégios suficientes para editar este usuário"
+
+#: admin/apps/users/uip-users-ajax.php:1097
+msgid "Password reset link sent"
+msgstr "Link de redefinição de senha enviado"
+
+#: admin/apps/users/uip-users-ajax.php:1101
+msgid "Unable to send password reset email at the moment"
+msgstr "Não é possível enviar e-mail de redefinição de senha no momento"
+
+#: admin/apps/users/uip-users-ajax.php:1121
+msgid "No users sent to reset passwords!"
+msgstr "Nenhum usuário enviado para redefinir senhas!"
+
+#: admin/apps/users/uip-users-ajax.php:1141
+msgid "Unable to send password reset email"
+msgstr "Não foi possível enviar e-mail de redefinição de senha"
+
+#: admin/apps/users/uip-users-ajax.php:1142
+#: admin/apps/users/uip-users-ajax.php:1315
+#: admin/apps/users/uip-users-ajax.php:1325
+#, php-format
+msgid "User ID: %s"
+msgstr "ID do usuário: %s"
+
+#: admin/apps/users/uip-users-ajax.php:1148
+msgid "Password reset links succesfully sent"
+msgstr "Links de redefinição de senha enviados com sucesso"
+
+#: admin/apps/users/uip-users-ajax.php:1173
+msgid "Subject is required"
+msgstr "O assunto é obrigatório"
+
+#: admin/apps/users/uip-users-ajax.php:1179
+msgid "Reply to email is required"
+msgstr "A resposta ao e-mail é obrigatória"
+
+#: admin/apps/users/uip-users-ajax.php:1185
+msgid "Message is required"
+msgstr "A mensagem é obrigatória"
+
+#: admin/apps/users/uip-users-ajax.php:1200
+msgid "No email to send message to."
+msgstr "Nenhum e-mail para enviar mensagem."
+
+#: admin/apps/users/uip-users-ajax.php:1232
+msgid "Unable to send mail at this time"
+msgstr "Não é possível enviar e-mail neste momento"
+
+#: admin/apps/users/uip-users-ajax.php:1237
+msgid "Message sent"
+msgstr "Mensagem enviada"
+
+#: admin/apps/users/uip-users-ajax.php:1261
+msgid "You can't delete yourself!"
+msgstr "Você não pode se excluir!"
+
+#: admin/apps/users/uip-users-ajax.php:1270
+msgid "User successfully deleted"
+msgstr "Usuário excluído com sucesso"
+
+#: admin/apps/users/uip-users-ajax.php:1274
+#: admin/apps/users/uip-users-ajax.php:1279
+#: admin/apps/users/uip-users-ajax.php:1305
+msgid "You don't have sufficent priviledges to delete this user"
+msgstr "Você não tem privilégios suficientes para excluir este usuário"
+
+#: admin/apps/users/uip-users-ajax.php:1299
+msgid "No users sent to delete!"
+msgstr "Nenhum usuário enviado para excluir!"
+
+#: admin/apps/users/uip-users-ajax.php:1314
+msgid "You can't delete yourself"
+msgstr "Você não pode se excluir"
+
+#: admin/apps/users/uip-users-ajax.php:1324
+msgid "Unable to delete this user"
+msgstr "Não foi possível excluir este usuário"
+
+#: admin/apps/users/uip-users-ajax.php:1331
+msgid "Users successfully deleted"
+msgstr "Usuários excluídos com sucesso"
+
+#: admin/apps/users/uip-users.php:53 admin/apps/users/uip-users.php:266
+#: admin/apps/users/uip-users.php:377 admin/apps/users/uip-users.php:1291
+msgid "Users"
+msgstr "Usuários"
+
+#: admin/apps/users/uip-users.php:54
+msgid "Creates user management page"
+msgstr "Cria página de gerenciamento de usuários"
+
+#: admin/apps/users/uip-users.php:58
+msgid "Disable Users Page?"
+msgstr "Desativar página de usuários?"
+
+#: admin/apps/users/uip-users.php:59
+msgid ""
+"If disabled, the user management page will not be available to any users."
+msgstr ""
+"Se desativada, a página de gerenciamento de usuários não estará disponível "
+"para nenhum usuário."
+
+#: admin/apps/users/uip-users.php:66
+msgid "User management page Disabled for"
+msgstr "Página de gerenciamento de usuários Desativada para"
+
+#: admin/apps/users/uip-users.php:67
+msgid ""
+"When the user management page module is disabled, the user management page "
+"will not be accesible for the users / roles"
+msgstr ""
+"Quando o módulo da página de gerenciamento de usuários estiver desabilitado, "
+"a página de gerenciamento de usuários não estará acessível para os "
+"usuários/funções"
+
+#: admin/apps/users/uip-users.php:75
+msgid "Enable user activity log?"
+msgstr "Ativar o registro de atividades do usuário?"
+
+#: admin/apps/users/uip-users.php:76
+msgid ""
+"If enabled, uipress will log actions taken by all users, including page "
+"views, comments, post creation etc."
+msgstr ""
+"Se ativado, o uipress registrará as ações realizadas por todos os usuários, "
+"incluindo visualizações de página, comentários, criação de postagens etc."
+
+#: admin/apps/users/uip-users.php:84
+msgid "Disable page view logging"
+msgstr "Desabilitar o registro de visualização de página"
+
+#: admin/apps/users/uip-users.php:87
+#, php-format
+msgid ""
+"By Default, %s will track page views for logged in users as part of the "
+"activity log. While sometimes useful, this will have the biggest impact on "
+"the log size in the database. Disabling this feature will keep the log "
+"smaller."
+msgstr ""
+"Por padrão, %s rastreará visualizações de página para usuários logados como "
+"parte do log de atividades. Embora às vezes seja útil, isso terá o maior "
+"impacto no tamanho do log no banco de dados. Desativar esse recurso manterá "
+"o log menor."
+
+#: admin/apps/users/uip-users.php:99
+msgid "Enable recent page view logging"
+msgstr "Ativar registro de visualização de página recente"
+
+#: admin/apps/users/uip-users.php:100
+#, php-format
+msgid ""
+"Seperate to the main history log, %s will keep 5 recent page views in the "
+"user meta. This can have a small impact on the page load speed."
+msgstr ""
+"Separado do registro do histórico principal, %s manterá 5 visualizações de "
+"página recentes na meta do usuário. Isso pode ter um pequeno impacto na "
+"velocidade de carregamento da página."
+
+#: admin/apps/users/uip-users.php:108
+msgid "How long to keep history?"
+msgstr "Quanto tempo para manter a história?"
+
+#: admin/apps/users/uip-users.php:109
+msgid ""
+"By default, activity items will be deleted after 60 days, enter the amount "
+"of days to keep items to change this"
+msgstr ""
+"Por padrão, os itens de atividade serão excluídos após 60 dias, insira a "
+"quantidade de dias para manter os itens para alterar isso"
+
+#: admin/apps/users/uip-users.php:118
+msgid "Delay history entries?"
+msgstr "Atrasar entradas do histórico?"
+
+#: admin/apps/users/uip-users.php:120
+msgid ""
+"Use scheduled tasks to insert the history actions to avoid any extra page "
+"load speed. By default entries are added as they happen, with this enabled "
+"there will be delay of about 10 seconds before actions appear."
+msgstr ""
+"Use tarefas agendadas para inserir as ações do histórico para evitar "
+"qualquer velocidade extra de carregamento da página. Por padrão, as entradas "
+"são adicionadas à medida que acontecem, com isso ativado, haverá um atraso "
+"de cerca de 10 segundos antes que as ações apareçam."
+
+#: admin/apps/users/uip-users.php:131
+msgid "Anonymize user IP addresses?"
+msgstr "Anonimizar os endereços IP dos usuários?"
+
+#: admin/apps/users/uip-users.php:132
+msgid ""
+"Each history item logs the users IP address, enable this to anonymize the "
+"address."
+msgstr ""
+"Cada item do histórico registra o endereço IP do usuário, ative isso para "
+"anonimizar o endereço."
+
+#: admin/apps/users/uip-users.php:217 admin/apps/users/uip-users.php:218
+msgid "User Management"
+msgstr "Gerenciamento de usuários"
+
+#: admin/apps/users/uip-users.php:270 admin/apps/users/uip-users.php:328
+#: admin/apps/users/uip-users.php:1244
+msgid "Roles"
+msgstr "Funções"
+
+#: admin/apps/users/uip-users.php:274
+msgid "Activity"
+msgstr "Atividade"
+
+#: admin/apps/users/uip-users.php:290
+msgid "results"
+msgstr "resultados"
+
+#: admin/apps/users/uip-users.php:291 admin/apps/users/uip-users.php:316
+msgid "Previous"
+msgstr "Anterior"
+
+#: admin/apps/users/uip-users.php:292 admin/apps/users/uip-users.php:315
+msgid "Next"
+msgstr "Próximo"
+
+#: admin/apps/users/uip-users.php:293
+msgid "Search users"
+msgstr "Pesquisar usuários"
+
+#: admin/apps/users/uip-users.php:294
+msgid "Filter by role"
+msgstr "Filtrar por função"
+
+#: admin/apps/users/uip-users.php:295
+msgid "Search roles"
+msgstr "Pesquisar papéis"
+
+#: admin/apps/users/uip-users.php:296
+msgid "Table options"
+msgstr "Opções de mesa"
+
+#: admin/apps/users/uip-users.php:297
+msgid "Order"
+msgstr "Ordem"
+
+#: admin/apps/users/uip-users.php:298
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: admin/apps/users/uip-users.php:299
+msgid "Descending"
+msgstr "descendente"
+
+#: admin/apps/users/uip-users.php:300
+msgid "Sort By"
+msgstr "Ordenar por"
+
+#: admin/apps/users/uip-users.php:301
+msgid "Per page"
+msgstr "Por página"
+
+#: admin/apps/users/uip-users.php:302
+msgid "Fields"
+msgstr "Campos"
+
+#: admin/apps/users/uip-users.php:303
+msgid "Date created"
+msgstr "Data Criada"
+
+#: admin/apps/users/uip-users.php:304
+msgid "On"
+msgstr "Sobre"
+
+#: admin/apps/users/uip-users.php:305
+msgid "After"
+msgstr "Depois"
+
+#: admin/apps/users/uip-users.php:306
+msgid "Before"
+msgstr "Antes da"
+
+#: admin/apps/users/uip-users.php:307 admin/apps/users/uip-users.php:308
+msgid "Date filters"
+msgstr "Filtros de data"
+
+#: admin/apps/users/uip-users.php:310
+msgid "Account created"
+msgstr "Conta criada"
+
+#: admin/apps/users/uip-users.php:312 admin/apps/users/uip-users.php:326
+#: admin/apps/users/uip-users.php:1219
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/apps/users/uip-users.php:313
+msgid "Recent page views"
+msgstr "Visualizações de página recentes"
+
+#: admin/apps/users/uip-users.php:314
+msgid "Recent activity"
+msgstr "Atividade recente"
+
+#: admin/apps/users/uip-users.php:317
+msgid "Last login"
+msgstr "Último Login"
+
+#: admin/apps/users/uip-users.php:318
+msgid "Login location"
+msgstr "Local de início de sessão"
+
+#: admin/apps/users/uip-users.php:319
+msgid "No recent activity"
+msgstr "Nenhuma atividade recente"
+
+#: admin/apps/users/uip-users.php:320
+msgid "Total posts"
+msgstr "Total de postagens"
+
+#: admin/apps/users/uip-users.php:321
+msgid "Total comments"
+msgstr "Total de comentários"
+
+#: admin/apps/users/uip-users.php:322
+msgid "User Options"
+msgstr "Opções do usuário"
+
+#: admin/apps/users/uip-users.php:323 admin/apps/users/uip-users.php:332
+msgid "Edit user"
+msgstr "Editar usuário"
+
+#: admin/apps/users/uip-users.php:324
+msgid "First name"
+msgstr "Primeiro nome"
+
+#: admin/apps/users/uip-users.php:325
+msgid "Last name"
+msgstr "Sobrenome"
+
+#: admin/apps/users/uip-users.php:327
+msgid "Assign roles"
+msgstr "Atribuir funções"
+
+#: admin/apps/users/uip-users.php:329
+msgid "User notes"
+msgstr "Notas do usuário"
+
+#: admin/apps/users/uip-users.php:330
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: admin/apps/users/uip-users.php:331
+msgid "Update user"
+msgstr "Atualizar usuário"
+
+#: admin/apps/users/uip-users.php:333
+msgid "Send password reset"
+msgstr "Enviar redefinição de senha"
+
+#: admin/apps/users/uip-users.php:334 admin/apps/users/uip-users.php:342
+msgid "Send message"
+msgstr "Enviar mensagem"
+
+#: admin/apps/users/uip-users.php:335
+msgid "Delete user"
+msgstr "Deletar usuário"
+
+#: admin/apps/users/uip-users.php:336
+msgid "Are you sure you want to delete this user?"
+msgstr "Tem certeza de que deseja excluir este usuário?"
+
+#: admin/apps/users/uip-users.php:337
+msgid "Are you sure you want to the selected users?"
+msgstr "Tem certeza de que deseja os usuários selecionados?"
+
+#: admin/apps/users/uip-users.php:338
+msgid ""
+"Are you sure you want to send password reset links to the selected users?"
+msgstr ""
+"Tem certeza de que deseja enviar links de redefinição de senha para os "
+"usuários selecionados?"
+
+#: admin/apps/users/uip-users.php:339
+msgid "Recipient"
+msgstr "Destinatário"
+
+#: admin/apps/users/uip-users.php:340
+msgid "Subject"
+msgstr "Sujeito"
+
+#: admin/apps/users/uip-users.php:341
+msgid "Message"
+msgstr "Mensagem"
+
+#: admin/apps/users/uip-users.php:343
+msgid "Reply to email"
+msgstr "Responder ao e-mail"
+
+#: admin/apps/users/uip-users.php:344
+msgid "New user"
+msgstr "Novo usuário"
+
+#: admin/apps/users/uip-users.php:345
+msgid "Save user"
+msgstr "Salvar usuário"
+
+#: admin/apps/users/uip-users.php:346
+msgid "Password"
+msgstr "Senha"
+
+#: admin/apps/users/uip-users.php:347 admin/apps/users/uip-users.php:1207
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: admin/apps/users/uip-users.php:348 admin/apps/users/uip-users.php:1279
+msgid "Role name"
+msgstr "Nome do papel"
+
+#: admin/apps/users/uip-users.php:349
+msgid "Edit role"
+msgstr "Editar função"
+
+#: admin/apps/users/uip-users.php:350
+msgid "Save role"
+msgstr "Salvar função"
+
+#: admin/apps/users/uip-users.php:351
+msgid "Capabilities"
+msgstr "Capacidades"
+
+#: admin/apps/users/uip-users.php:353
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"No momento, você está editando a função de administrador. Geralmente, essa é "
+"a função mais importante no site, portanto, certifique-se de não remover "
+"recursos necessários."
+
+#: admin/apps/users/uip-users.php:356
+msgid "Delete role"
+msgstr "Excluir função"
+
+#: admin/apps/users/uip-users.php:357
+msgid "Are you sure you want to delete this role?"
+msgstr "Tem certeza de que deseja excluir esta função?"
+
+#: admin/apps/users/uip-users.php:358
+msgid "Are you sure you want to delete these roles?"
+msgstr "Tem certeza de que deseja excluir essas funções?"
+
+#: admin/apps/users/uip-users.php:359
+msgid "Role options"
+msgstr "Opções de função"
+
+#: admin/apps/users/uip-users.php:360
+msgid "Clone"
+msgstr "Clone"
+
+#: admin/apps/users/uip-users.php:361
+msgid "New role"
+msgstr "Novo papel"
+
+#: admin/apps/users/uip-users.php:362
+msgid "Role label"
+msgstr "Rótulo da função"
+
+#: admin/apps/users/uip-users.php:363
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "Palavra única, sem espaços. Sublinhados e traços permitidos"
+
+#: admin/apps/users/uip-users.php:364
+msgid "copy"
+msgstr "cópia de"
+
+#: admin/apps/users/uip-users.php:365
+msgid "search roles"
+msgstr "papéis de pesquisa"
+
+#: admin/apps/users/uip-users.php:366
+msgid "Search history"
+msgstr "Histórico de busca"
+
+#: admin/apps/users/uip-users.php:367
+msgid "All actions"
+msgstr "Todas as ações"
+
+#: admin/apps/users/uip-users.php:368
+msgid "Add custom capability (Single word, no spaces)"
+msgstr "Adicionar recurso personalizado (palavra única, sem espaços)"
+
+#: admin/apps/users/uip-users.php:369
+msgid "Add capability"
+msgstr "Adicionar capacidade"
+
+#: admin/apps/users/uip-users.php:370
+msgid "roles selected"
+msgstr "funções selecionadas"
+
+#: admin/apps/users/uip-users.php:371
+msgid "Delete selected"
+msgstr "Excluir selecionado"
+
+#: admin/apps/users/uip-users.php:372
+msgid "Deselect"
+msgstr "Desmarcar"
+
+#: admin/apps/users/uip-users.php:373
+msgid "Delete users"
+msgstr "Excluir usuários"
+
+#: admin/apps/users/uip-users.php:374
+msgid "Clear selection"
+msgstr "Seleção clara"
+
+#: admin/apps/users/uip-users.php:375
+msgid "recipients"
+msgstr "destinatários"
+
+#: admin/apps/users/uip-users.php:376 admin/classes/uipress-app.php:1409
+msgid "users"
+msgstr "usuários"
+
+#: admin/apps/users/uip-users.php:378
+msgid "Replace existing roles"
+msgstr "Substituir funções existentes"
+
+#: admin/apps/users/uip-users.php:379
+msgid "Update roles"
+msgstr "Atualizar funções"
+
+#: admin/apps/users/uip-users.php:380
+msgid "users selected"
+msgstr "usuários selecionados"
+
+#: admin/apps/users/uip-users.php:381
+msgid "Choose image"
+msgstr "Escolher imagem"
+
+#: admin/apps/users/uip-users.php:382
+msgid "Profile image"
+msgstr "Imagem de perfil"
+
+#: admin/apps/users/uip-users.php:383 admin/apps/users/uip-users.php:387
+#: admin/apps/users/uip-users.php:1250
+msgid "Groups"
+msgstr "Grupos"
+
+#: admin/apps/users/uip-users.php:384
+msgid "All users"
+msgstr "Todos os usuários"
+
+#: admin/apps/users/uip-users.php:385
+msgid "No group"
+msgstr "Nenhum grupo"
+
+#: admin/apps/users/uip-users.php:386
+msgid "No groups created yet."
+msgstr "Nenhum grupo criado ainda."
+
+#: admin/apps/users/uip-users.php:388
+msgid "New group"
+msgstr "Novo grupo"
+
+#: admin/apps/users/uip-users.php:390
+msgid "Color"
+msgstr "Cor"
+
+#: admin/apps/users/uip-users.php:391
+msgid "Create group"
+msgstr "Criar grupo"
+
+#: admin/apps/users/uip-users.php:392
+msgid "Group name"
+msgstr "Nome do grupo"
+
+#: admin/apps/users/uip-users.php:393
+msgid "Edit group"
+msgstr "Editar grupo"
+
+#: admin/apps/users/uip-users.php:394
+msgid "Update group"
+msgstr "Atualizar grupo"
+
+#: admin/apps/users/uip-users.php:395
+msgid "Remove from group"
+msgstr "Remover do grupo"
+
+#: admin/apps/users/uip-users.php:396
+msgid "User groups"
+msgstr "Grupos de usuários"
+
+#: admin/apps/users/uip-users.php:397
+msgid "Assign groups"
+msgstr "Atribuir grupos"
+
+#: admin/apps/users/uip-users.php:398
+msgid "Search groups"
+msgstr "Grupos de pesquisa"
+
+#: admin/apps/users/uip-users.php:399
+msgid "Pro feature"
+msgstr "Recurso profissional"
+
+#: admin/apps/users/uip-users.php:400
+msgid "Upgrade to UiPress Pro to unlock the user management and activity logs"
+msgstr ""
+"Atualize para o UiPress Pro para desbloquear o gerenciamento de usuários e "
+"os logs de atividades"
+
+#: admin/apps/users/uip-users.php:401
+msgid "View Uipress Pro plans"
+msgstr "Veja os planos do Uipress Pro"
+
+#: admin/apps/users/uip-users.php:402
+msgid "Group icon"
+msgstr "Ícone de grupo"
+
+#: admin/apps/users/uip-users.php:403
+msgid "Logout everywhere else"
+msgstr "Sair em qualquer outro lugar"
+
+#: admin/apps/users/uip-users.php:404
+msgid "Open profile"
+msgstr "Abrir perfil"
+
+#: admin/apps/users/uip-users.php:405
+msgid ""
+"Are you sure you want to delete this capability? This will remove the "
+"capability sitewide. Please note not all capabilities can be deleted."
+msgstr ""
+"Tem certeza de que deseja excluir esse recurso? Isso removerá o recurso em "
+"todo o site. Observe que nem todos os recursos podem ser excluídos."
+
+#: admin/apps/users/uip-users.php:517
+msgid "Read"
+msgstr "Ler"
+
+#: admin/apps/users/uip-users.php:529
+msgid "Publish"
+msgstr "Publicar"
+
+#: admin/apps/users/uip-users.php:535 admin/classes/uipress-app.php:1335
+msgid "Create"
+msgstr "Crio"
+
+#: admin/apps/users/uip-users.php:553
+msgid "Manage"
+msgstr "Gerenciar"
+
+#: admin/apps/users/uip-users.php:565 admin/classes/settings.php:242
+#: admin/classes/styles.php:442
+msgid "Import"
+msgstr "Importar"
+
+#: admin/apps/users/uip-users.php:571
+msgid "Custom"
+msgstr "Personalizado"
+
+#: admin/apps/users/uip-users.php:737
+msgid "User no longer exists"
+msgstr "O usuário não existe mais"
+
+#: admin/apps/users/uip-users.php:742 admin/apps/users/uip-users.php:1106
+#, php-format
+msgid "%s ago"
+msgstr "%s atrás"
+
+#: admin/apps/users/uip-users.php:753 admin/apps/users/uip-users.php:1370
+msgid "Page view"
+msgstr "Visualização de página"
+
+#: admin/apps/users/uip-users.php:755
+msgid "Viewed page"
+msgstr "Página visualizada"
+
+#: admin/apps/users/uip-users.php:764 admin/apps/users/uip-users.php:1374
+msgid "Post created"
+msgstr "Postagem criada"
+
+#: admin/apps/users/uip-users.php:766
+msgid "Created post"
+msgstr "Postagem criada"
+
+#: admin/apps/users/uip-users.php:769 admin/apps/users/uip-users.php:790
+#: admin/apps/users/uip-users.php:838
+msgid "View page"
+msgstr "Ver pagina"
+
+#: admin/apps/users/uip-users.php:773 admin/apps/users/uip-users.php:794
+#: admin/apps/users/uip-users.php:811 admin/apps/users/uip-users.php:842
+msgid "Edit page"
+msgstr "Editar Página"
+
+#: admin/apps/users/uip-users.php:785
+msgid "Post modified"
+msgstr "Postagem modificada"
+
+#: admin/apps/users/uip-users.php:787
+msgid "Modified post"
+msgstr "Postagem modificada"
+
+#: admin/apps/users/uip-users.php:806
+msgid "Post moved to trash"
+msgstr "Postagem movida para a lixeira"
+
+#: admin/apps/users/uip-users.php:808
+msgid "Moved post to trash"
+msgstr "Postagem movida para a lixeira"
+
+#: admin/apps/users/uip-users.php:820 admin/apps/users/uip-users.php:1386
+msgid "Post deleted"
+msgstr "Postagem excluída"
+
+#: admin/apps/users/uip-users.php:822
+msgid "Deleted post"
+msgstr "Postagem excluída"
+
+#: admin/apps/users/uip-users.php:831 admin/apps/users/uip-users.php:1390
+msgid "Post status change"
+msgstr "Mudança de status da postagem"
+
+#: admin/apps/users/uip-users.php:834
+#, php-format
+msgid "Post status changed from %s to %s"
+msgstr "Status da postagem alterado de %s para %s"
+
+#: admin/apps/users/uip-users.php:855
+msgid "Posted a comment"
+msgstr "Postou um comentário"
+
+#: admin/apps/users/uip-users.php:857
+msgid "Posted a comment on post"
+msgstr "Postou um comentário na postagem"
+
+#: admin/apps/users/uip-users.php:868 admin/apps/users/uip-users.php:898
+msgid "View comment"
+msgstr "Ver comentário"
+
+#: admin/apps/users/uip-users.php:872 admin/apps/users/uip-users.php:902
+msgid "Edit comment"
+msgstr "Editar comentário"
+
+#: admin/apps/users/uip-users.php:884
+msgid "Trashed a comment"
+msgstr "Descartou um comentário"
+
+#: admin/apps/users/uip-users.php:886
+msgid "Moved a comment to the trash"
+msgstr "Um comentário movido para a lixeira"
+
+#: admin/apps/users/uip-users.php:912
+msgid "Deleted a comment"
+msgstr "Excluiu um comentário"
+
+#: admin/apps/users/uip-users.php:914
+msgid "Permanently deleted a comment"
+msgstr "Excluiu permanentemente um comentário"
+
+#: admin/apps/users/uip-users.php:920 admin/apps/users/uip-users.php:1403
+msgid "Plugin activated"
+msgstr "Plugin ativado"
+
+#: admin/apps/users/uip-users.php:922
+#, php-format
+msgid "A plugin called %s was activated"
+msgstr "Um plugin chamado %s foi ativado"
+
+#: admin/apps/users/uip-users.php:928 admin/apps/users/uip-users.php:1407
+msgid "Plugin deactivated"
+msgstr "Plugin desativado"
+
+#: admin/apps/users/uip-users.php:930
+#, php-format
+msgid "A plugin called %s was deactivated"
+msgstr "Um plugin chamado %s foi desativado"
+
+#: admin/apps/users/uip-users.php:936
+msgid "User logged in"
+msgstr "Usuário logado"
+
+#: admin/apps/users/uip-users.php:938
+#, php-format
+msgid "Logged in with ip address %s. Country: %s"
+msgstr "Conectado com o endereço IP %s. País: %s"
+
+#: admin/apps/users/uip-users.php:944
+msgid "User logged out"
+msgstr "Usuário desconectado"
+
+#: admin/apps/users/uip-users.php:946
+#, php-format
+msgid "Logged out with ip address %s. Country: %s"
+msgstr "Desconectado com o endereço IP %s. País: %s"
+
+#: admin/apps/users/uip-users.php:982 admin/apps/users/uip-users.php:988
+#: admin/apps/users/uip-users.php:1002
+msgid "Site option changed"
+msgstr "Opção de site alterada"
+
+#: admin/apps/users/uip-users.php:984
+#, php-format
+msgid "Site option (%s) was changed from %s to %s"
+msgstr "A opção do site (%s) foi alterada de %s para %s"
+
+#: admin/apps/users/uip-users.php:990
+#, php-format
+msgid "Site option was changed. %s"
+msgstr "A opção do site foi alterada. %s"
+
+#: admin/apps/users/uip-users.php:1004
+#, php-format
+msgid "Site option (%s) was added with a value of (%s)"
+msgstr "A opção de site (%s) foi adicionada com um valor de (%s)"
+
+#: admin/apps/users/uip-users.php:1010
+msgid "Uploaded attachment"
+msgstr "Anexo enviado"
+
+#: admin/apps/users/uip-users.php:1012
+#, php-format
+msgid "Attachment called (%s) was uploaded to (%s). Attachment ID: %s"
+msgstr "O anexo chamado (%s) foi carregado para (%s). ID do anexo: %s"
+
+#: admin/apps/users/uip-users.php:1021
+msgid "View attachment"
+msgstr "Ver anexo"
+
+#: admin/apps/users/uip-users.php:1029
+msgid "Deleted attachment"
+msgstr "Anexo excluído"
+
+#: admin/apps/users/uip-users.php:1031
+#, php-format
+msgid "Attachment called (%s) was deleted. Attachment ID: %s"
+msgstr "O anexo chamado (%s) foi excluído. ID do anexo: %s"
+
+#: admin/apps/users/uip-users.php:1037 admin/apps/users/uip-users.php:1262
+#: admin/apps/users/uip-users.php:1435
+msgid "User created"
+msgstr "Usuário criado"
+
+#: admin/apps/users/uip-users.php:1039
+#, php-format
+msgid "New user created with username (%s) and email (%s)"
+msgstr "Novo usuário criado com nome de usuário (%s) e email (%s)"
+
+#: admin/apps/users/uip-users.php:1045 admin/apps/users/uip-users.php:1439
+msgid "User deleted"
+msgstr "Usuário excluído"
+
+#: admin/apps/users/uip-users.php:1047
+#, php-format
+msgid "A user with username (%s) and email (%s) was deleted"
+msgstr "Um usuário com nome de usuário (%s) e e-mail (%s) foi excluído"
+
+#: admin/apps/users/uip-users.php:1082 admin/apps/users/uip-users.php:1443
+msgid "User updated"
+msgstr "Usuário atualizado"
+
+#: admin/apps/users/uip-users.php:1084
+#, php-format
+msgid "A user with username (%s) and email (%s) was updated from (%s) to (%s)"
+msgstr ""
+"Um usuário com nome de usuário (%s) e e-mail (%s) foi atualizado de (%s) "
+"para (%s)"
+
+#: admin/apps/users/uip-users.php:1226
+msgid "First Name"
+msgstr "Primeiro nome"
+
+#: admin/apps/users/uip-users.php:1232
+msgid "Last Name"
+msgstr "Sobrenome"
+
+#: admin/apps/users/uip-users.php:1238
+msgid "Last Login"
+msgstr "Último Login"
+
+#: admin/apps/users/uip-users.php:1256
+msgid "User ID"
+msgstr "ID do usuário"
+
+#: admin/apps/users/uip-users.php:1298
+msgid "Permissions granted"
+msgstr "Permissões concedidas"
+
+#: admin/apps/users/uip-users.php:1315
+msgid "ID"
+msgstr "EU IRIA"
+
+#: admin/apps/users/uip-users.php:1327
+msgid "IP Address"
+msgstr "Endereço de IP"
+
+#: admin/apps/users/uip-users.php:1340
+msgid "Time"
+msgstr "Tempo"
+
+#: admin/apps/users/uip-users.php:1347
+msgid "Action"
+msgstr "Ação"
+
+#: admin/apps/users/uip-users.php:1378
+msgid "Post updated"
+msgstr "Postagem atualizada"
+
+#: admin/apps/users/uip-users.php:1382
+msgid "Post trashed"
+msgstr "Postagem na lixeira"
+
+#: admin/apps/users/uip-users.php:1394
+msgid "Trashed comment"
+msgstr "Comentário na lixeira"
+
+#: admin/apps/users/uip-users.php:1398
+msgid "Deelete comment"
+msgstr "Excluir comentário"
+
+#: admin/apps/users/uip-users.php:1411
+msgid "User login"
+msgstr "Login de usuário"
+
+#: admin/apps/users/uip-users.php:1415
+msgid "User logout"
+msgstr "Logout do usuário"
+
+#: admin/apps/users/uip-users.php:1419
+msgid "Option change"
+msgstr "Alteração de opção"
+
+#: admin/apps/users/uip-users.php:1423
+msgid "Site option added"
+msgstr "Opção de site adicionada"
+
+#: admin/apps/users/uip-users.php:1427
+msgid "Attachmnet uploaded"
+msgstr "Anexo enviado"
+
+#: admin/apps/users/uip-users.php:1431
+msgid "Attachmnet deleted"
+msgstr "Anexo excluído"
+
+#: admin/classes/debug.php:133 admin/classes/debug.php:139
+#: admin/classes/debug.php:161
+msgid "Unable to register UiPress at this time"
+msgstr "Não é possível registrar o UiPress neste momento"
+
+#: admin/classes/debug.php:152
+msgid "UiPress succesfully activated"
+msgstr "UiPress ativado com sucesso"
+
+#: admin/classes/folders.php:112 admin/classes/uipress-app.php:453
+#: admin/classes/uipress-app.php:1367
+msgid "Folders"
+msgstr "Pastas"
+
+#: admin/classes/folders.php:113
+msgid "Creates media folder system."
+msgstr "Cria um sistema de pastas de mídia."
+
+#: admin/classes/folders.php:117
+msgid "Disable Folders?"
+msgstr "Desativar pastas?"
+
+#: admin/classes/folders.php:118
+msgid "No media folders will be displayed when this option is activated."
+msgstr "Nenhuma pasta de mídia será exibida quando esta opção estiver ativada."
+
+#: admin/classes/folders.php:125
+msgid "Folders Disabled For"
+msgstr "Pastas desativadas para"
+
+#: admin/classes/folders.php:126
+#, php-format
+msgid "%s folders will be disabled for any users or roles you select"
+msgstr ""
+"As pastas %s serão desativadas para qualquer usuário ou função que você "
+"selecionar"
+
+#: admin/classes/folders.php:134
+msgid "Enable folders for post types"
+msgstr "Ativar pastas para tipos de postagem"
+
+#: admin/classes/folders.php:135
+#, php-format
+msgid "%s folders will be enabled post, page and custom post types you choose"
+msgstr ""
+"As pastas %s serão habilitadas para postagem, página e tipos de postagem "
+"personalizados que você escolher"
+
+#: admin/classes/folders.php:171
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "Ações"
+
+#: admin/classes/folders.php:173
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "Cardápio"
+
+#: admin/classes/folders.php:311
+msgid "No folder to delete"
+msgstr "Nenhuma pasta para excluir"
+
+#: admin/classes/folders.php:321
+msgid "Unable to delete the folder"
+msgstr "Não foi possível excluir a pasta"
+
+#: admin/classes/folders.php:372
+msgid "Folder deleted"
+msgstr "Pasta excluída"
+
+#: admin/classes/folders.php:391
+msgid "Unable to move folder into itself"
+msgstr "Não é possível mover a pasta para si mesma"
+
+#: admin/classes/folders.php:405
+msgid "Unable to move folder"
+msgstr "Não foi possível mover a pasta"
+
+#: admin/classes/folders.php:433
+msgid "Folder moved"
+msgstr "Pasta movida"
+
+#: admin/classes/folders.php:536
+msgid "Folder updated"
+msgstr "Pasta atualizada"
+
+#: admin/classes/folders.php:578
+msgid "Unable to create folder"
+msgstr "Não foi possível criar a pasta"
+
+#: admin/classes/folders.php:589
+msgid "Folder created"
+msgstr "Pasta criada"
+
+#: admin/classes/settings.php:144
+msgid "Unable to save user settings"
+msgstr "Não foi possível salvar as configurações do usuário"
+
+#: admin/classes/settings.php:150 admin/classes/uipress-app.php:1358
+msgid "Settings saved"
+msgstr "Configurações salvas"
+
+#: admin/classes/settings.php:164
+msgid "Settings reset"
+msgstr "Redefinição de configurações"
+
+#: admin/classes/settings.php:209 admin/classes/styles.php:432
+msgid "Version"
+msgstr "Versão"
+
+#: admin/classes/settings.php:230
+msgid "Save settings"
+msgstr "Salvar configurações"
+
+#: admin/classes/settings.php:413
+msgid "No licence key provided"
+msgstr "Nenhuma chave de licença fornecida"
+
+#: admin/classes/settings.php:445
+msgid "Licence removed"
+msgstr "Licença removida"
+
+#: admin/classes/styles.php:138 admin/classes/styles.php:151
+#: admin/classes/styles.php:430
+msgid "Styles"
+msgstr "Estilos"
+
+#: admin/classes/styles.php:213
+msgid "Unable to fetch themes at this moment. Please try again later"
+msgstr ""
+"Não é possível buscar temas neste momento. Por favor, tente novamente mais "
+"tarde"
+
+#: admin/classes/styles.php:247
+msgid "Unable to like theme at this moment. Please try again later"
+msgstr ""
+"Não é possível gostar do tema neste momento. Por favor, tente novamente mais "
+"tarde"
+
+#: admin/classes/styles.php:266
+msgid "Unable to save styles"
+msgstr "Não foi possível salvar estilos"
+
+#: admin/classes/styles.php:292
+msgid "Styles saved"
+msgstr "Estilos salvos"
+
+#: admin/classes/styles.php:411
+msgid ""
+"Uipress styles isn't optimised for mobile devices. Switch to a larger screen "
+"to modify UiPress Styles"
+msgstr ""
+"Os estilos Uipress não são otimizados para dispositivos móveis. Mude para "
+"uma tela maior para modificar os estilos UiPress"
+
+#: admin/classes/styles.php:469
+msgid "Clear All"
+msgstr "Limpar tudo"
+
+#: admin/classes/styles.php:533
+msgid "Global"
+msgstr "Global"
+
+#: admin/classes/styles.php:536
+msgid "Body Background"
+msgstr "Fundo do corpo"
+
+#: admin/classes/styles.php:547
+msgid "Default Background"
+msgstr "Plano de fundo padrão"
+
+#: admin/classes/styles.php:558
+msgid "Muted Background"
+msgstr "Fundo silenciado"
+
+#: admin/classes/styles.php:569
+msgid "Muted Background Accent"
+msgstr "Acento de fundo silenciado"
+
+#: admin/classes/styles.php:580
+msgid "Primary Color"
+msgstr "Cor primária"
+
+#: admin/classes/styles.php:591
+msgid "Primary Color Wash"
+msgstr "Lavagem de cor primária"
+
+#: admin/classes/styles.php:602
+msgid "Primary Color Hover"
+msgstr "Passar o mouse da cor primária"
+
+#: admin/classes/styles.php:613
+msgid "Secondary Color"
+msgstr "Cor Secundária"
+
+#: admin/classes/styles.php:624
+msgid "Secondary Color Hover"
+msgstr "Passar o mouse em cores secundárias"
+
+#: admin/classes/styles.php:635
+msgid "Font"
+msgstr "Fonte"
+
+#: admin/classes/styles.php:646
+msgid "Border Width"
+msgstr "Largura da borda"
+
+#: admin/classes/styles.php:657
+msgid "Border Radius"
+msgstr "Raio da borda"
+
+#: admin/classes/styles.php:668
+msgid "Border Colour"
+msgstr "Cor da borda"
+
+#: admin/classes/styles.php:679
+msgid "Notification Background"
+msgstr "Plano de fundo da notificação"
+
+#: admin/classes/styles.php:696
+msgid "Base font size"
+msgstr "Tamanho da fonte básica"
+
+#: admin/classes/styles.php:707 admin/classes/styles.php:1008
+#: admin/classes/styles.php:1148
+msgid "Text Color"
+msgstr "Cor do texto"
+
+#: admin/classes/styles.php:718
+msgid "Text Emphasis Color"
+msgstr "Cor da Ênfase do Texto"
+
+#: admin/classes/styles.php:729
+msgid "Text Muted Color"
+msgstr "Cor silenciada do texto"
+
+#: admin/classes/styles.php:745
+msgid "Buttons"
+msgstr "Botões"
+
+#: admin/classes/styles.php:748
+msgid "Button Border Radius"
+msgstr "Raio da borda do botão"
+
+#: admin/classes/styles.php:760
+msgid "Button Border Width"
+msgstr "Largura da borda do botão"
+
+#: admin/classes/styles.php:772
+msgid "Default Button Border Colour"
+msgstr "Cor padrão da borda do botão"
+
+#: admin/classes/styles.php:784
+msgid "Default Button Background Colour"
+msgstr "Cor de fundo do botão padrão"
+
+#: admin/classes/styles.php:796
+msgid "Default Button Hover Background Colour"
+msgstr "Cor de fundo padrão do botão suspenso"
+
+#: admin/classes/styles.php:808
+msgid "Default Button Text Colour"
+msgstr "Cor do texto do botão padrão"
+
+#: admin/classes/styles.php:821
+msgid "Primary Button Border Colour"
+msgstr "Cor da borda do botão principal"
+
+#: admin/classes/styles.php:833
+msgid "Primary Button Background Colour"
+msgstr "Cor de fundo do botão principal"
+
+#: admin/classes/styles.php:845
+msgid "Primary Button Hover Background Colour"
+msgstr "Cor de fundo do botão principal"
+
+#: admin/classes/styles.php:857
+msgid "Primary Button Text Colour"
+msgstr "Cor do texto do botão principal"
+
+#: admin/classes/styles.php:870
+msgid "Danger Button Border Colour"
+msgstr "Cor da borda do botão de perigo"
+
+#: admin/classes/styles.php:882
+msgid "Danger Button Background Colour"
+msgstr "Cor de fundo do botão de perigo"
+
+#: admin/classes/styles.php:894
+msgid "Danger Button Hover Background Colour"
+msgstr "Cor de fundo do botão de perigo"
+
+#: admin/classes/styles.php:906
+msgid "Danger Button Text Colour"
+msgstr "Cor do texto do botão de perigo"
+
+#: admin/classes/styles.php:919
+msgid "Page Action Button Border Colour"
+msgstr "Cor da borda do botão de ação da página"
+
+#: admin/classes/styles.php:931
+msgid "Page Action Button Background Colour"
+msgstr "Cor de fundo do botão de ação da página"
+
+#: admin/classes/styles.php:943
+msgid "Page Action Button Hover Background Colour"
+msgstr "Cor de fundo do botão de ação da página"
+
+#: admin/classes/styles.php:955
+msgid "Page Action Button Text Colour"
+msgstr "Cor do texto do botão de ação da página"
+
+#: admin/classes/styles.php:973 admin/classes/uipress-app.php:2669
+msgid "Menu"
+msgstr "Cardápio"
+
+#: admin/classes/styles.php:975
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: admin/classes/styles.php:986 admin/classes/styles.php:1170
+msgid "Secondary background Color"
+msgstr "Cor de fundo secundária"
+
+#: admin/classes/styles.php:997
+msgid "Button Hover background Color"
+msgstr "Cor de fundo do botão Passar o mouse"
+
+#: admin/classes/styles.php:1019
+msgid "Active Text Color"
+msgstr "Cor do texto ativo"
+
+#: admin/classes/styles.php:1030
+msgid "Active Top Level Item background colour"
+msgstr "Cor de fundo do item de nível superior ativo"
+
+#: admin/classes/styles.php:1041
+msgid "Search Input background colour"
+msgstr "Cor de fundo da entrada de pesquisa"
+
+#: admin/classes/styles.php:1052
+msgid "Search Input text colour"
+msgstr "Cor do texto de entrada de pesquisa"
+
+#: admin/classes/styles.php:1063
+msgid "Submenu Text Color"
+msgstr "Cor do texto do submenu"
+
+#: admin/classes/styles.php:1074
+msgid "Submenu Active Text Color"
+msgstr "Cor do texto ativo do submenu"
+
+#: admin/classes/styles.php:1085
+msgid "Submenu Hover Text Color"
+msgstr "Cor do texto do cursor do submenu"
+
+#: admin/classes/styles.php:1096
+msgid "Width"
+msgstr "Largura"
+
+#: admin/classes/styles.php:1108
+msgid "Padding"
+msgstr "Preenchimento"
+
+#: admin/classes/styles.php:1120
+msgid "Logo Height"
+msgstr "Altura do logotipo"
+
+#: admin/classes/styles.php:1134 admin/classes/uipress-app.php:2773
+msgid "Toolbar"
+msgstr "Barra de ferramentas"
+
+#: admin/classes/styles.php:1137
+msgid "Toolbar Background Color"
+msgstr "Cor de fundo da barra de ferramentas"
+
+#: admin/classes/styles.php:1159
+msgid "Link Hover Text Color"
+msgstr "Cor do Texto de Passagem do Link"
+
+#: admin/classes/styles.php:1183
+msgid "Cards"
+msgstr "Cartões"
+
+#: admin/classes/styles.php:1186 admin/classes/styles.php:1270
+msgid "Background color"
+msgstr "Cor de fundo"
+
+#: admin/classes/styles.php:1198
+msgid "Border color"
+msgstr "Cor da borda"
+
+#: admin/classes/styles.php:1210
+msgid "Border radius"
+msgstr "Raio da borda"
+
+#: admin/classes/styles.php:1222
+msgid "Shadow spread"
+msgstr "Sombra espalhada"
+
+#: admin/classes/styles.php:1234
+msgid "Shadow blur"
+msgstr "Desfoque de sombra"
+
+#: admin/classes/styles.php:1246
+msgid "Shadow color"
+msgstr "Cor da sombra"
+
+#: admin/classes/styles.php:1267 admin/classes/uipress-app.php:2944
+msgid "Login"
+msgstr "Conecte-se"
+
+#: admin/classes/uipress-app.php:268
+msgctxt "post type general name"
+msgid "Folder"
+msgstr "Pasta"
+
+#: admin/classes/uipress-app.php:269
+msgctxt "post type singular name"
+msgid "folder"
+msgstr "pasta"
+
+#: admin/classes/uipress-app.php:270
+msgctxt "admin menu"
+msgid "Folders"
+msgstr "Pastas"
+
+#: admin/classes/uipress-app.php:271
+msgctxt "add new on admin bar"
+msgid "Folder"
+msgstr "Pasta"
+
+#: admin/classes/uipress-app.php:272
+msgctxt "folder"
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: admin/classes/uipress-app.php:273 admin/classes/uipress-app.php:284
+msgid "Add New Folder"
+msgstr "Adicionar nova pasta"
+
+#: admin/classes/uipress-app.php:274 admin/classes/uipress-app.php:1368
+msgid "New Folder"
+msgstr "Nova pasta"
+
+#: admin/classes/uipress-app.php:275 admin/classes/uipress-app.php:1372
+msgid "Edit Folder"
+msgstr "Editar pasta"
+
+#: admin/classes/uipress-app.php:276
+msgid "View Folder"
+msgstr "Ver pasta"
+
+#: admin/classes/uipress-app.php:277
+msgid "All Folders"
+msgstr "Todas as pastas"
+
+#: admin/classes/uipress-app.php:278
+msgid "Search Folders"
+msgstr "Pastas de pesquisa"
+
+#: admin/classes/uipress-app.php:279
+msgid "No Folders found."
+msgstr "Nenhuma pasta encontrada."
+
+#: admin/classes/uipress-app.php:280
+msgid "No Folders found in Trash."
+msgstr "Nenhuma pasta encontrada na Lixeira."
+
+#: admin/classes/uipress-app.php:1167
+msgid "active"
+msgstr "ativo"
+
+#: admin/classes/uipress-app.php:1171
+msgid "inactive"
+msgstr "inativo"
+
+#: admin/classes/uipress-app.php:1320
+msgid "Menu Preferences"
+msgstr "Preferências do Menu"
+
+#: admin/classes/uipress-app.php:1321
+msgid "Hide search bar"
+msgstr "Ocultar barra de pesquisa"
+
+#: admin/classes/uipress-app.php:1322
+msgid "Hide Icons"
+msgstr "Ocultar ícones"
+
+#: admin/classes/uipress-app.php:1323
+msgid "Show submenu on hover"
+msgstr "Mostrar submenu ao passar o mouse"
+
+#: admin/classes/uipress-app.php:1324
+msgid "Search Menu"
+msgstr "Menu de pesquisa"
+
+#: admin/classes/uipress-app.php:1326
+msgid "Search"
+msgstr "Procurar"
+
+#: admin/classes/uipress-app.php:1329
+msgid "Show more"
+msgstr "Mostre mais"
+
+#: admin/classes/uipress-app.php:1330
+msgid "other matches"
+msgstr "outras partidas"
+
+#: admin/classes/uipress-app.php:1331 admin/classes/uipress-app.php:1359
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+#: admin/classes/uipress-app.php:1332 admin/classes/uipress-app.php:1337
+msgid "View Site"
+msgstr "Ver site"
+
+#: admin/classes/uipress-app.php:1333
+msgid "Dashboard"
+msgstr "Painel"
+
+#: admin/classes/uipress-app.php:1334
+msgid "Search Site"
+msgstr "Site de pesquisa"
+
+#: admin/classes/uipress-app.php:1336
+msgid "Create New"
+msgstr "Crie um novo"
+
+#: admin/classes/uipress-app.php:1338
+msgid "Updates"
+msgstr "Atualizações"
+
+#: admin/classes/uipress-app.php:1339
+msgid "Preferences"
+msgstr "Preferências"
+
+#: admin/classes/uipress-app.php:1340
+msgid "Dark mode"
+msgstr "Modo escuro"
+
+#: admin/classes/uipress-app.php:1341
+msgid "Show screen options toggle"
+msgstr "Mostrar opções de tela alternar"
+
+#: admin/classes/uipress-app.php:1342
+msgid "Screen options"
+msgstr "Opções de tela"
+
+#: admin/classes/uipress-app.php:1343
+msgid "Hide admin bar links (left)"
+msgstr "Ocultar links da barra de administração (esquerda)"
+
+#: admin/classes/uipress-app.php:1344
+msgid "Logout"
+msgstr "Sair"
+
+#: admin/classes/uipress-app.php:1345
+msgid "Notifications"
+msgstr "Notificações"
+
+#: admin/classes/uipress-app.php:1346
+msgid "Hide notification"
+msgstr "Ocultar notificação"
+
+#: admin/classes/uipress-app.php:1347
+msgid "hidden notifications"
+msgstr "notificações ocultas"
+
+#: admin/classes/uipress-app.php:1348
+msgid "show all"
+msgstr "mostre tudo"
+
+#: admin/classes/uipress-app.php:1349
+msgid "Notifiction Hidden"
+msgstr "Notificação oculta"
+
+#: admin/classes/uipress-app.php:1350
+msgid "Toggle Menu"
+msgstr "Alternar menu"
+
+#: admin/classes/uipress-app.php:1351
+msgid "Choose users or roles"
+msgstr "Escolha usuários ou funções"
+
+#: admin/classes/uipress-app.php:1352
+msgid "Search users and roles"
+msgstr "Pesquisar usuários e funções"
+
+#: admin/classes/uipress-app.php:1353
+msgid "Choose Image"
+msgstr "Escolha a imagem"
+
+#: admin/classes/uipress-app.php:1354
+msgid "Choose Post Types"
+msgstr "Escolha os tipos de postagem"
+
+#: admin/classes/uipress-app.php:1355 admin/classes/uipress-app.php:1356
+msgid "Searach Post Types"
+msgstr "Tipos de postagem de pesquisa"
+
+#: admin/classes/uipress-app.php:1360
+msgid "Default"
+msgstr "Predefinição"
+
+#: admin/classes/uipress-app.php:1361
+msgid "Add File"
+msgstr "Adicionar ficheiro"
+
+#: admin/classes/uipress-app.php:1362
+msgid "URL to file"
+msgstr "URL para arquivo"
+
+#: admin/classes/uipress-app.php:1363
+msgid "Remove"
+msgstr "Remover"
+
+#: admin/classes/uipress-app.php:1364
+msgid "All media"
+msgstr "Todas as mídias"
+
+#: admin/classes/uipress-app.php:1366
+msgid "No folder"
+msgstr "Nenhuma pasta"
+
+#: admin/classes/uipress-app.php:1369
+msgid "Folder Name"
+msgstr "Nome da pasta"
+
+#: admin/classes/uipress-app.php:1370
+msgid "Colour"
+msgstr "Cor"
+
+#: admin/classes/uipress-app.php:1374
+msgid "1 File"
+msgstr "1 arquivo"
+
+#: admin/classes/uipress-app.php:1375
+msgid "files"
+msgstr "arquivos"
+
+#: admin/classes/uipress-app.php:1376
+msgid "You haven't created a folder yet"
+msgstr "Você ainda não criou uma pasta"
+
+#: admin/classes/uipress-app.php:1377
+msgid "Remove from folder"
+msgstr "Remover da pasta"
+
+#: admin/classes/uipress-app.php:1378
+msgid ""
+"Upgrade to pro to unlock the notification center. View, edit and organise "
+"all your plugin and theme notifications in one place"
+msgstr ""
+"Atualize para pro para desbloquear o centro de notificações. Visualize, "
+"edite e organize todas as notificações de plugins e temas em um só lugar"
+
+#: admin/classes/uipress-app.php:1379
+msgid ""
+"Upgrade to pro to gain full control of search results and included post types"
+msgstr ""
+"Atualize para o profissional para obter controle total dos resultados da "
+"pesquisa e dos tipos de postagem incluídos"
+
+#: admin/classes/uipress-app.php:1382
+msgid "Styles Imported"
+msgstr "Estilos importados"
+
+#: admin/classes/uipress-app.php:1383
+msgid "Settings Imported"
+msgstr "Configurações importadas"
+
+#: admin/classes/uipress-app.php:1384
+msgid "Remove Licence"
+msgstr "Remover licença"
+
+#: admin/classes/uipress-app.php:1385
+#, php-format
+msgid "%s Pro is active"
+msgstr "%s Pro está ativo"
+
+#: admin/classes/uipress-app.php:1386
+#, php-format
+msgid "%s Pro"
+msgstr "%s Profissional"
+
+#: admin/classes/uipress-app.php:1387
+msgid "Activate"
+msgstr "Ativar"
+
+#: admin/classes/uipress-app.php:1388
+msgid "Add a pro licence to unlock pro features."
+msgstr ""
+"Adicione uma licença profissional para desbloquear recursos profissionais."
+
+#: admin/classes/uipress-app.php:1389
+msgid "Choose Icon"
+msgstr "Escolha o ícone"
+
+#: admin/classes/uipress-app.php:1390
+msgid "Are you sure you want to delete this?"
+msgstr "Tem certeza de que deseja excluir isso?"
+
+#: admin/classes/uipress-app.php:1391
+msgid "Import started"
+msgstr "Importação iniciada"
+
+#: admin/classes/uipress-app.php:1392
+msgid "Are you sure you want to reset the settings?"
+msgstr "Tem certeza de que deseja redefinir as configurações?"
+
+#: admin/classes/uipress-app.php:1393
+msgid "Last 7 Days"
+msgstr "Últimos 7 dias"
+
+#: admin/classes/uipress-app.php:1394
+msgid "Last 30 Days"
+msgstr "Últimos 30 dias"
+
+#: admin/classes/uipress-app.php:1399
+msgid "selected"
+msgstr "selecionado"
+
+#: admin/classes/uipress-app.php:1400
+msgid "Theme Library"
+msgstr "Biblioteca de temas"
+
+#: admin/classes/uipress-app.php:1401
+msgid "Library"
+msgstr "Biblioteca"
+
+#: admin/classes/uipress-app.php:1402
+msgid "Import Theme"
+msgstr "Importar tema"
+
+#: admin/classes/uipress-app.php:1403
+msgid "Pro template"
+msgstr "Modelo profissional"
+
+#: admin/classes/uipress-app.php:1404
+msgid "Theme Imported"
+msgstr "Tema importado"
+
+#: admin/classes/uipress-app.php:1405
+msgid "Made by"
+msgstr "Feito por"
+
+#: admin/classes/uipress-app.php:1407
+msgid "Failed to fetch folder content"
+msgstr "Falha ao buscar o conteúdo da pasta"
+
+#: admin/classes/uipress-app.php:1408
+msgid "user"
+msgstr "do utilizador"
+
+#: admin/classes/uipress-app.php:1850
+msgid "Unkown Post Type"
+msgstr "Tipo de postagem desconhecido"
+
+#: admin/classes/uipress-app.php:1853
+msgid "Unkown"
+msgstr "Desconhecido"
+
+#: admin/classes/uipress-app.php:1991
+msgid "Core"
+msgstr "Essencial"
+
+#: admin/classes/uipress-app.php:1997
+msgid "Themes"
+msgstr "Temas"
+
+#: admin/classes/uipress-app.php:2003
+msgid "Plugins"
+msgstr "Plug-ins"
+
+#: admin/classes/uipress-app.php:2527
+msgid "General options"
+msgstr "Opções gerais"
+
+#: admin/classes/uipress-app.php:2532
+msgid "Network Override"
+msgstr "Substituição de rede"
+
+#: admin/classes/uipress-app.php:2533
+msgid "If enabled, all settings applied here will be pushed to subsites."
+msgstr ""
+"Se ativado, todas as configurações aplicadas aqui serão enviadas aos "
+"subsites."
+
+#: admin/classes/uipress-app.php:2542
+msgid "Set Dark Mode as Default"
+msgstr "Definir o modo escuro como padrão"
+
+#: admin/classes/uipress-app.php:2543
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr ""
+"Se ativado, o modo escuro assumirá como padrão true para usuários que não "
+"definiram uma preferência."
+
+#: admin/classes/uipress-app.php:2551
+msgid "Set Dark Mode according to prefers color scheme"
+msgstr "Defina o modo escuro de acordo com o esquema de cores preferido"
+
+#: admin/classes/uipress-app.php:2552
+msgid "UiPress will detetct the OS color scheme and update accordingly"
+msgstr ""
+"O UiPress detectará o esquema de cores do sistema operacional e atualizará "
+"de acordo"
+
+#: admin/classes/uipress-app.php:2560
+msgid "Disable dark mode"
+msgstr "Desative o modo escuro"
+
+#: admin/classes/uipress-app.php:2561
+msgid "If enabled, dark mode switch will not be available."
+msgstr "Se ativado, o interruptor do modo escuro não estará disponível."
+
+#: admin/classes/uipress-app.php:2569
+msgid "Set overview page as homepage"
+msgstr "Definir página de visão geral como página inicial"
+
+#: admin/classes/uipress-app.php:2570
+msgid ""
+"If enabled, the overview page will be the homepage when logging in and when "
+"accessing the admin area."
+msgstr ""
+"Se habilitada, a página de visão geral será a página inicial ao fazer login "
+"e ao acessar a área de administração."
+
+#: admin/classes/uipress-app.php:2578
+msgid "Set custom page as homepage"
+msgstr "Definir página personalizada como página inicial"
+
+#: admin/classes/uipress-app.php:2580
+msgid ""
+"If enabled, the page you choose will be the homepage when logging in and "
+"when accessing the admin area. For admin pages use a relative URL (path "
+"after /wp-admin/), for other pages use an absolute URL"
+msgstr ""
+"Se habilitada, a página que você escolher será a página inicial ao fazer "
+"login e ao acessar a área de administração. Para páginas de administração, "
+"use uma URL relativa (caminho após /wp-admin/), para outras páginas use uma "
+"URL absoluta"
+
+#: admin/classes/uipress-app.php:2590
+#, php-format
+msgid "Rename %s"
+msgstr "Renomear %s"
+
+#: admin/classes/uipress-app.php:2591
+#, php-format
+msgid "White label %s by changing the name displayed."
+msgstr "Etiqueta branca %s alterando o nome exibido."
+
+#: admin/classes/uipress-app.php:2599
+#, php-format
+msgid "Rename %s plugin author"
+msgstr "Renomear o autor do plug-in %s"
+
+#: admin/classes/uipress-app.php:2600
+#, php-format
+msgid "White label %s by changing the author in the plugin table."
+msgstr "Marca branca %s alterando o autor na tabela de plugins."
+
+#: admin/classes/uipress-app.php:2608
+#, php-format
+msgid "Change %s plugin URL"
+msgstr "Alterar URL do plug-in %s"
+
+#: admin/classes/uipress-app.php:2609
+#, php-format
+msgid "White label %s by changing the plugin URL in the plugin table."
+msgstr "Marca branca %s alterando o URL do plug-in na tabela de plug-ins."
+
+#: admin/classes/uipress-app.php:2617
+msgid "App Icon"
+msgstr "Ícone do aplicativo"
+
+#: admin/classes/uipress-app.php:2618
+#, php-format
+msgid "Replace %s plugin icon with your own"
+msgstr "Substitua o ícone do plug-in %s pelo seu"
+
+#: admin/classes/uipress-app.php:2626
+msgid "Admin Favicon"
+msgstr "Favicon do administrador"
+
+#: admin/classes/uipress-app.php:2627
+msgid "Add an image to be used as the site favicon for admin pages."
+msgstr ""
+"Adicione uma imagem a ser usada como favicon do site para páginas de "
+"administração."
+
+#: admin/classes/uipress-app.php:2635
+#, php-format
+msgid "Hide %s from plugin table"
+msgstr "Ocultar %s da tabela de plugins"
+
+#: admin/classes/uipress-app.php:2636
+#, php-format
+msgid "If enabled, %s will be hidden from the plugin table"
+msgstr "Se ativado, %s ficará oculto da tabela de plugins"
+
+#: admin/classes/uipress-app.php:2644
+msgid "Hide Footer"
+msgstr "Ocultar rodapé"
+
+#: admin/classes/uipress-app.php:2645
+msgid "Hide the footer text that shows at the bottom of every admin page"
+msgstr ""
+"Oculte o texto do rodapé que aparece na parte inferior de cada página de "
+"administração"
+
+#: admin/classes/uipress-app.php:2653
+msgid "Footer Text"
+msgstr "Texto de rodapé"
+
+#: admin/classes/uipress-app.php:2654
+msgid "Text entered here will be present at the bottom of admin pages"
+msgstr ""
+"O texto inserido aqui estará presente na parte inferior das páginas de "
+"administração"
+
+#: admin/classes/uipress-app.php:2670 admin/classes/uipress-app.php:2675
+msgid "Creates new admin menu."
+msgstr "Cria um novo menu de administração."
+
+#: admin/classes/uipress-app.php:2674
+msgid "Disable Admin Menu Module"
+msgstr "Desativar o módulo do menu de administração"
+
+#: admin/classes/uipress-app.php:2682
+msgid "Menu Disabled for"
+msgstr "Menu Desativado para"
+
+#: admin/classes/uipress-app.php:2683
+#, php-format
+msgid "%s menu will be disabled for any users or roles you select"
+msgstr ""
+"O menu %s será desabilitado para qualquer usuário ou função que você "
+"selecionar"
+
+#: admin/classes/uipress-app.php:2691
+msgid "Logo Light Mode"
+msgstr "Modo de luz do logotipo"
+
+#: admin/classes/uipress-app.php:2692
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "Define o logotipo da barra de administração no modo claro."
+
+#: admin/classes/uipress-app.php:2699
+msgid "Logo Dark Mode"
+msgstr "Modo escuro do logotipo"
+
+#: admin/classes/uipress-app.php:2700
+msgid "Optional dark mode logo for admin bar."
+msgstr "Logotipo de modo escuro opcional para barra de administração."
+
+#: admin/classes/uipress-app.php:2707
+#, php-format
+msgid "Load %s Menu on front end"
+msgstr "Carregar o menu %s no front end"
+
+#: admin/classes/uipress-app.php:2708
+#, php-format
+msgid ""
+"If enabled, %s menu will load on the front end. Please note, this will not "
+"work on all themes and styling will vary"
+msgstr ""
+"Se ativado, o menu %s será carregado no front end. Observe que isso não "
+"funcionará em todos os temas e o estilo varia"
+
+#: admin/classes/uipress-app.php:2716
+#, php-format
+msgid "Only Load %s Menu on front end for"
+msgstr "Carregar o menu %s apenas no front end para"
+
+#: admin/classes/uipress-app.php:2717
+msgid "Only load front end menu for selected roles and usernames"
+msgstr ""
+"Carregar apenas o menu de front-end para funções e nomes de usuário "
+"selecionados"
+
+#: admin/classes/uipress-app.php:2725
+msgid "Collapsed Menu Logo Light Mode"
+msgstr "Modo de luz do logotipo do menu recolhido"
+
+#: admin/classes/uipress-app.php:2726
+msgid "Optional logo for when the menu is collapsed."
+msgstr "Logo opcional para quando o menu estiver recolhido."
+
+#: admin/classes/uipress-app.php:2733
+msgid "Collapsed Menu Logo Dark Mode"
+msgstr "Modo escuro do logotipo do menu recolhido"
+
+#: admin/classes/uipress-app.php:2734
+msgid "Optional dark nmode logo for when the menu is collapsed."
+msgstr "Logotipo nmode escuro opcional para quando o menu estiver recolhido."
+
+#: admin/classes/uipress-app.php:2741
+msgid "Show site title in menu"
+msgstr "Mostrar o título do site no menu"
+
+#: admin/classes/uipress-app.php:2742
+msgid ""
+"If enabled, the site title will be displayed in the menu next to the logo"
+msgstr "Se ativado, o título do site será exibido no menu ao lado do logotipo"
+
+#: admin/classes/uipress-app.php:2749 admin/classes/uipress-app.php:2811
+msgid "Disable Search"
+msgstr "Desativar pesquisa"
+
+#: admin/classes/uipress-app.php:2750
+msgid "Disables admin menu search."
+msgstr "Desativa a pesquisa do menu de administração."
+
+#: admin/classes/uipress-app.php:2757
+msgid "Set collapsed menu as default"
+msgstr "Definir menu recolhido como padrão"
+
+#: admin/classes/uipress-app.php:2758
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"Se ativado, o menu será padronizado para o menu reduzido para usuários que "
+"não definiram uma preferência."
+
+#: admin/classes/uipress-app.php:2774
+msgid "Creates new admin toolbar."
+msgstr "Cria uma nova barra de ferramentas de administração."
+
+#: admin/classes/uipress-app.php:2778
+msgid "Disable ToolBar Module?"
+msgstr "Desativar o módulo ToolBar?"
+
+#: admin/classes/uipress-app.php:2779
+msgid ""
+"Creates new admin bar, adds user off canvas menu, builds global search and "
+"notification center."
+msgstr ""
+"Cria uma nova barra de administração, adiciona usuário fora do menu de tela, "
+"cria pesquisa global e centro de notificação."
+
+#: admin/classes/uipress-app.php:2786
+msgid "Admin Bar Disabled For"
+msgstr "Barra de administração desativada para"
+
+#: admin/classes/uipress-app.php:2787
+#, php-format
+msgid "%s toolbar module will be disabled for any users or roles you select"
+msgstr ""
+"O módulo da barra de ferramentas %s será desabilitado para qualquer usuário "
+"ou função que você selecionar"
+
+#: admin/classes/uipress-app.php:2795
+msgid "Hide admin bar links (left side)"
+msgstr "Ocultar links da barra de administração (lado esquerdo)"
+
+#: admin/classes/uipress-app.php:2796
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"Desativa os links herdados no lado esquerdo da barra de administração para "
+"todos os usuários. Também oculta a preferência do usuário."
+
+#: admin/classes/uipress-app.php:2803
+msgid "Enable floating flyout toolbar"
+msgstr "Ativar barra de ferramentas de submenu flutuante"
+
+#: admin/classes/uipress-app.php:2804
+msgid "Changes the toolbar to a floating flyout toolbar"
+msgstr ""
+"Altera a barra de ferramentas para uma barra de ferramentas de submenu "
+"flutuante"
+
+#: admin/classes/uipress-app.php:2812
+msgid "Disables search icon and global search function from admin bar."
+msgstr ""
+"Desativa o ícone de pesquisa e a função de pesquisa global da barra de "
+"administração."
+
+#: admin/classes/uipress-app.php:2819
+msgid "Disable Create Button"
+msgstr "Desabilitar o botão Criar"
+
+#: admin/classes/uipress-app.php:2820
+msgid "Disables the 'create' button in the admin bar."
+msgstr "Desativa o botão 'criar' na barra de administração."
+
+#: admin/classes/uipress-app.php:2827
+msgid "Open View Website in new tab"
+msgstr "Abra Exibir site em nova guia"
+
+#: admin/classes/uipress-app.php:2828
+msgid ""
+"When enabled, clicking on view website or the home button will open in a new "
+"browser tab"
+msgstr ""
+"Quando ativado, clicar em visualizar site ou no botão home abrirá em uma "
+"nova guia do navegador"
+
+#: admin/classes/uipress-app.php:2835
+msgid "Disable View Website Button"
+msgstr "Desativar botão Visualizar site"
+
+#: admin/classes/uipress-app.php:2836
+msgid "Disables the view website link button in the admin bar."
+msgstr ""
+"Desativa o botão de visualização do link do site na barra de administração."
+
+#: admin/classes/uipress-app.php:2843
+#, php-format
+msgid "Load %s admin bar on front end"
+msgstr "Carregar a barra de administração do %s no front end"
+
+#: admin/classes/uipress-app.php:2844
+#, php-format
+msgid ""
+"If enabled, %s toolbar will load on the front end. Please note, this will "
+"not work on all themes and styling will vary"
+msgstr ""
+"Se habilitada, a barra de ferramentas %s será carregada no front end. "
+"Observe que isso não funcionará em todos os temas e o estilo varia"
+
+#: admin/classes/uipress-app.php:2852
+msgid "Hide admin bar on front end"
+msgstr "Ocultar a barra de administração no front-end"
+
+#: admin/classes/uipress-app.php:2853
+msgid "If enabled, front end admin bar will not load."
+msgstr "Se ativado, a barra de administração do front-end não será carregada."
+
+#: admin/classes/uipress-app.php:2861
+msgid "Disable Notification Center"
+msgstr "Desativar Central de Notificações"
+
+#: admin/classes/uipress-app.php:2862
+msgid "If disabled, notifcations will show in the normal way"
+msgstr "Se desabilitado, as notificações serão exibidas normalmente"
+
+#: admin/classes/uipress-app.php:2870
+msgid "Post Types available in Search"
+msgstr "Tipos de postagem disponíveis na Pesquisa"
+
+#: admin/classes/uipress-app.php:2871
+msgid "The global search will only search the selected post types."
+msgstr "A pesquisa global pesquisará apenas os tipos de postagem selecionados."
+
+#: admin/classes/uipress-app.php:2879
+msgid "Post Types available in create button (new)"
+msgstr "Tipos de postagem disponíveis no botão criar (novo)"
+
+#: admin/classes/uipress-app.php:2880
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr ""
+"Apenas os tipos de postagem selecionados serão exibidos na lista suspensa de "
+"criação."
+
+#: admin/classes/uipress-app.php:2888
+msgid "Only show notifications to"
+msgstr "Mostrar notificações apenas para"
+
+#: admin/classes/uipress-app.php:2889
+#, php-format
+msgid ""
+"%s will hide all notifications from all users except those selected below"
+msgstr ""
+"%s ocultará todas as notificações de todos os usuários exceto os "
+"selecionados abaixo"
+
+#: admin/classes/uipress-app.php:2897
+msgid "Only show updates to"
+msgstr "Mostrar apenas atualizações para"
+
+#: admin/classes/uipress-app.php:2898
+#, php-format
+msgid "%s will hide all updates from all users except those selected below"
+msgstr ""
+"%s ocultará todas as atualizações de todos os usuários exceto os "
+"selecionados abaixo"
+
+#: admin/classes/uipress-app.php:2914
+msgid "Theme"
+msgstr "Tema"
+
+#: admin/classes/uipress-app.php:2915 admin/classes/uipress-app.php:2945
+#: admin/classes/uipress-app.php:3000
+msgid "Styles page content."
+msgstr "Conteúdo da página de estilos."
+
+#: admin/classes/uipress-app.php:2919
+msgid "Disable Admin Theme Module"
+msgstr "Desativar o módulo de tema do administrador"
+
+#: admin/classes/uipress-app.php:2920
+msgid "When the theme is disabled, pages will be styles in the original way."
+msgstr ""
+"Quando o tema estiver desabilitado, as páginas terão estilos da forma "
+"original."
+
+#: admin/classes/uipress-app.php:2927
+msgid "Theme Disabled for"
+msgstr "Tema desativado para"
+
+#: admin/classes/uipress-app.php:2928
+msgid ""
+"When the theme is disabled, pages will be styles in the original way for "
+"selected users or roles."
+msgstr ""
+"Quando o tema estiver desabilitado, as páginas terão estilos da maneira "
+"original para usuários ou funções selecionados."
+
+#: admin/classes/uipress-app.php:2949
+msgid "Disable Login Module"
+msgstr "Desativar módulo de login"
+
+#: admin/classes/uipress-app.php:2950
+msgid ""
+"When the login module is disabled, the login page will be displayed in the "
+"original way."
+msgstr ""
+"Quando o módulo de login estiver desabilitado, a página de login será "
+"exibida da forma original."
+
+#: admin/classes/uipress-app.php:2958
+msgid "Dark Mode"
+msgstr "Modo escuro"
+
+#: admin/classes/uipress-app.php:2959
+msgid "Puts the login page in dark mode for all users."
+msgstr "Coloca a página de login no modo escuro para todos os usuários."
+
+#: admin/classes/uipress-app.php:2966
+msgid "Disable Language Selector"
+msgstr "Desativar seletor de idioma"
+
+#: admin/classes/uipress-app.php:2967
+msgid "Removes the language selector added to the login page"
+msgstr "Remove o seletor de idioma adicionado à página de login"
+
+#: admin/classes/uipress-app.php:2974
+msgid "Login Logo"
+msgstr "Logotipo de login"
+
+#: admin/classes/uipress-app.php:2975
+msgid "Sets the logo for the login page"
+msgstr "Define o logotipo para a página de login"
+
+#: admin/classes/uipress-app.php:2982
+msgid "Login Background"
+msgstr "Plano de fundo de login"
+
+#: admin/classes/uipress-app.php:2983
+msgid "Sets an optional background image on the login page."
+msgstr "Define uma imagem de plano de fundo opcional na página de login."
+
+#: admin/classes/uipress-app.php:2999
+msgid "Advanced"
+msgstr "Avançado"
+
+#: admin/classes/uipress-app.php:3004
+msgid "Advanced Disabled For"
+msgstr "Avançado Desativado para"
+
+#: admin/classes/uipress-app.php:3005
+msgid "Code added here will not load for any users or roles you select"
+msgstr ""
+"O código adicionado aqui não será carregado para nenhum usuário ou função "
+"que você selecionar"
+
+#: admin/classes/uipress-app.php:3013
+msgid "Enqueue scripts"
+msgstr "Enfileirar scripts"
+
+#: admin/classes/uipress-app.php:3014
+msgid "Add scripts to the head of every admin page and login page"
+msgstr ""
+"Adicione scripts ao cabeçalho de cada página de administração e página de "
+"login"
+
+#: admin/classes/uipress-app.php:3022
+msgid "Enqueue styles"
+msgstr "Estilos de fila"
+
+#: admin/classes/uipress-app.php:3023
+msgid "Add stylesheets to the head of every admin page and login page"
+msgstr ""
+"Adicione folhas de estilo ao cabeçalho de cada página de administração e "
+"página de login"
+
+#: admin/classes/uipress-app.php:3031
+msgid "Admin CSS"
+msgstr "CSS do administrador"
+
+#: admin/classes/uipress-app.php:3032
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr ""
+"O CSS adicionado aqui será carregado em todas as páginas de administração, "
+"bem como na página de login"
+
+#: admin/classes/uipress-app.php:3041
+msgid "Admin JavaScript"
+msgstr "JavaScript do administrador"
+
+#: admin/classes/uipress-app.php:3042
+msgid ""
+"JavaScript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr ""
+"O JavaScript adicionado aqui será carregado em todas as páginas de "
+"administração, bem como na página de login"
+
+#: admin/classes/uipress-app.php:3051
+msgid "HTML for document head"
+msgstr "HTML para cabeça de documento"
+
+#: admin/classes/uipress-app.php:3052
+msgid ""
+"Add HTML here to be added to every admin page and login page head section"
+msgstr ""
+"Adicione HTML aqui para ser adicionado a todas as páginas de administração e "
+"seção de cabeçalho da página de login"
+
+#: admin/classes/uipress-app.php:3061
+msgid "Safe Mode Key"
+msgstr "Chave do modo de segurança"
+
+#: admin/classes/uipress-app.php:3063
+msgid ""
+"Add a private key to allow you to disable uipress on specific pages with "
+"query paramaters. For example, add '?no_uip=your_key' to a URL and it wil "
+"stop uipress from loading on that page."
+msgstr ""
+"Adicione uma chave privada para permitir que você desative o uipress em "
+"páginas específicas com parâmetros de consulta. Por exemplo, adicione '?"
+"no_uip=your_key' a uma URL e isso impedirá que o uipress seja carregado "
+"nessa página."
+
+#: admin/classes/update.php:66
+msgid "Welcome to UiPress version "
+msgstr "Bem-vindo à versão UiPress"
+
+#: admin/classes/update.php:69 admin/classes/update.php:101
+msgid ""
+"Would you like to automatically import settings from your older version of "
+"uipress?"
+msgstr ""
+"Você gostaria de importar automaticamente as configurações de sua versão "
+"mais antiga do uipress?"
+
+#: admin/classes/update.php:71
+msgid "Don't show again"
+msgstr "Não mostre novamente"
+
+#: admin/classes/update.php:72 admin/classes/update.php:103
+msgid "Import settings"
+msgstr "Configurações de Importação"
+
+#: admin/classes/update.php:115
+msgid "Check for updates"
+msgstr "Verifique se há atualizações"
+
+#: admin/classes/update.php:141
+msgid "Unable to contact update server"
+msgstr "Não foi possível entrar em contato com o servidor de atualização"
+
+#: admin/classes/update.php:156
+msgid "Update available"
+msgstr "Atualização disponível"
+
+#: admin/classes/update.php:162
+msgid "No Updates available"
+msgstr "Nenhuma atualização disponível"
+
+#: admin/classes/update.php:180
+msgid "Message dismissed"
+msgstr "Mensagem dispensada"
+
+#: admin/classes/update.php:204
+msgid "No settings to import"
+msgstr "Nenhuma configuração para importar"
+
+#: admin/classes/update.php:350
+msgid "Settings imported"
+msgstr "Configurações importadas"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress"
+msgstr "UiPress"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress admin extension with a streamlined dashboard, Google "
+"Analytics & WooCommerce Integration, intuitive media library, dark mode and "
+"much more."
+msgstr ""
+"Poderosa extensão de administração do WordPress com um painel simplificado, "
+"integração do Google Analytics e WooCommerce, biblioteca de mídia intuitiva, "
+"modo escuro e muito mais."
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "Administrador 2020"

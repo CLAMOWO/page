@@ -1,0 +1,4728 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress\n"
+"POT-Creation-Date: 2022-06-12 12:06+0200\n"
+"PO-Revision-Date: 2022-06-22 20:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? 2 :"
+" 3);\n"
+"X-Team: Rubyvio https://rubyvio.com"
+"X-Poedit-Basepath: ..\n"
+"X-Translate-Version: beta; wp-6.0"
+"X-Human revision: none;
+
+#: admin/apps/admin-pages/admin-pages.php:110
+#: admin/apps/menu-creator/menu-creator.php:1304
+msgid "Apply to subsites"
+msgstr "הגש על אתרי משנה"
+
+#: admin/apps/admin-pages/admin-pages.php:121
+msgid "Menu Icon"
+msgstr "סמל תפריט"
+
+#: admin/apps/admin-pages/admin-pages.php:131
+msgid "Manually add to menu?"
+msgstr "להוסיף לתפריט באופן ידני?"
+
+#: admin/apps/admin-pages/admin-pages.php:250
+msgid "Admin Pages - Beta"
+msgstr "דפי ניהול - בטא"
+
+#: admin/apps/admin-pages/admin-pages.php:251
+msgid "Creates custom admin pages."
+msgstr "יוצר דפי ניהול מותאמים אישית."
+
+#: admin/apps/admin-pages/admin-pages.php:255
+msgid "Disable custom admin pages?"
+msgstr "להשבית דפי ניהול מותאמים אישית?"
+
+#: admin/apps/admin-pages/admin-pages.php:256
+msgid "If disabled, the admin pages will not be available to any users."
+msgstr "אם מושבת, דפי הניהול לא יהיו זמינים לאף משתמש."
+
+#: admin/apps/admin-pages/admin-pages.php:263
+msgid "Admin Page Slug"
+msgstr "Slug של דף מנהל"
+
+#: admin/apps/admin-pages/admin-pages.php:264
+msgid ""
+"This defaults to admin-pages. Changes to this will need you to resave "
+"permalink structure."
+msgstr ""
+"זה כברירת מחדל לדפי ניהול. שינויים בזה יחייבו אותך לשמור מחדש את מבנה הקישור "
+"הקבוע."
+
+#: admin/apps/admin-pages/admin-pages.php:271
+msgid "Who can edit and create admin pages?"
+msgstr "מי יכול לערוך וליצור דפי ניהול?"
+
+#: admin/apps/admin-pages/admin-pages.php:272
+msgid ""
+"Editing and creation of admin pages will be disabled for the users or roles "
+"you select"
+msgstr "עריכה ויצירה של דפי ניהול יושבתו עבור המשתמשים או התפקידים שתבחר"
+
+#: admin/apps/admin-pages/admin-pages.php:280
+msgid "Who can see admin pages?"
+msgstr "מי יכול לראות דפי ניהול?"
+
+#: admin/apps/admin-pages/admin-pages.php:281
+msgid "UiPress will only show admin pages for the users or roles you select"
+msgstr "UiPress תציג רק דפי ניהול עבור המשתמשים או התפקידים שתבחר"
+
+#: admin/apps/admin-pages/admin-pages.php:320
+msgctxt "post type general name"
+msgid "Admin Page"
+msgstr "דף ניהול"
+
+#: admin/apps/admin-pages/admin-pages.php:321
+msgctxt "post type singular name"
+msgid "Admin Page"
+msgstr "דף ניהול"
+
+#: admin/apps/admin-pages/admin-pages.php:322
+msgctxt "admin menu"
+msgid "Admin Pages"
+msgstr "דפי ניהול"
+
+#: admin/apps/admin-pages/admin-pages.php:323
+msgctxt "add new on admin bar"
+msgid "Admin Page"
+msgstr "דף ניהול"
+
+#: admin/apps/admin-pages/admin-pages.php:324
+msgctxt "Admin Page"
+msgid "Add New"
+msgstr "הוסף חדש"
+
+#: admin/apps/admin-pages/admin-pages.php:325
+msgid "Add New Admin Page"
+msgstr "הוסף דף ניהול חדש"
+
+#: admin/apps/admin-pages/admin-pages.php:326
+msgid "New Admin Page"
+msgstr "דף ניהול חדש"
+
+#: admin/apps/admin-pages/admin-pages.php:327
+msgid "Edit Admin Page"
+msgstr "ערוך את דף הניהול"
+
+#: admin/apps/admin-pages/admin-pages.php:328
+msgid "View Admin Page"
+msgstr "הצג את דף הניהול"
+
+#: admin/apps/admin-pages/admin-pages.php:329
+msgid "All Admin Pages"
+msgstr "כל דפי הניהול"
+
+#: admin/apps/admin-pages/admin-pages.php:330
+msgid "Search Admin Pages"
+msgstr "חפש בדפי ניהול"
+
+#: admin/apps/admin-pages/admin-pages.php:331
+msgid "No Admin Pages found."
+msgstr "לא נמצאו דפי ניהול."
+
+#: admin/apps/admin-pages/admin-pages.php:332
+msgid "No Admin Pages found in Trash."
+msgstr "לא נמצאו דפי ניהול באשפה."
+
+#: admin/apps/admin-pages/admin-pages.php:336
+#: admin/apps/menu-creator/menu-creator.php:667
+#: admin/apps/users/uip-history.php:161
+msgid "Description."
+msgstr "תיאור."
+
+#: admin/apps/content/content.php:96
+msgid "Content Page"
+msgstr "עמוד תוכן"
+
+#: admin/apps/content/content.php:97
+msgid "Creates content page"
+msgstr "יוצר דף תוכן"
+
+#: admin/apps/content/content.php:101
+msgid "Disable Content Page?"
+msgstr "להשבית את דף התוכן?"
+
+#: admin/apps/content/content.php:102
+msgid "If disabled, the content page will not be available to any users."
+msgstr "אם מושבת, דף התוכן לא יהיה זמין לאף משתמש."
+
+#: admin/apps/content/content.php:109
+msgid "Content Page Disabled for"
+msgstr "דף תוכן מושבת עבור"
+
+#: admin/apps/content/content.php:110
+msgid ""
+"When the content page module is disabled, the content page will not be "
+"accesible for the users / roles"
+msgstr ""
+"כאשר מודול דף התוכן מושבת, דף התוכן לא יהיה נגיש עבור המשתמשים / התפקידים"
+
+#: admin/apps/content/content.php:118
+msgid "Post types available in content page"
+msgstr "סוגי פוסטים זמינים בדף התוכן"
+
+#: admin/apps/content/content.php:119
+msgid "Only the selected post types will be available in the content page."
+msgstr "רק סוגי הפוסטים שנבחרו יהיו זמינים בדף התוכן."
+
+#: admin/apps/content/content.php:127
+msgid "Enable private library mode"
+msgstr "הפעל מצב ספרייה פרטית"
+
+#: admin/apps/content/content.php:128
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This also includes folders"
+msgstr ""
+"כאשר מופעל, דף התוכן יציג רק תוכן שנוצר או הועלה על ידי המשתמש המחובר כעת. "
+"זה כולל גם תיקיות"
+
+#: admin/apps/content/content.php:184
+msgid "Original Title / Value"
+msgstr "כותרת/ערך מקורי"
+
+#: admin/apps/content/content.php:188 admin/classes/styles.php:693
+msgid "Text"
+msgstr "טֶקסט"
+
+#: admin/apps/content/content.php:192 admin/apps/content/content.php:2033
+msgid "Date Created"
+msgstr "תאריך יצירה"
+
+#: admin/apps/content/content.php:196
+msgid "File Extension (attachments only)"
+msgstr "סיומת קובץ (קבצים מצורפים בלבד)"
+
+#: admin/apps/content/content.php:200
+msgid "Sequence Number"
+msgstr "מספר רצף"
+
+#: admin/apps/content/content.php:204
+msgid "Meta Value"
+msgstr "מטא ערך"
+
+#: admin/apps/content/content.php:208
+msgid "Find and Replace"
+msgstr "מצא והחלף"
+
+#: admin/apps/content/content.php:266 admin/classes/uipress-app.php:1731
+#: admin/classes/uipress-app.php:2073
+msgid "No preferences supplied to save"
+msgstr "לא סופקו העדפות לשמירה"
+
+#: admin/apps/content/content.php:288 admin/classes/uipress-app.php:1742
+#: admin/classes/uipress-app.php:2095
+msgid "Preferences saved"
+msgstr "ההעדפות נשמרו"
+
+#: admin/apps/content/content.php:291 admin/classes/uipress-app.php:1746
+#: admin/classes/uipress-app.php:2098
+msgid "Unable to save user preferences"
+msgstr "לא ניתן לשמור את העדפות המשתמש"
+
+#: admin/apps/content/content.php:320 admin/apps/content/content.php:328
+#: admin/apps/content/content.php:957
+msgid "Unable to save attachment"
+msgstr "לא ניתן לשמור את הקובץ המצורף"
+
+#: admin/apps/content/content.php:337
+msgid "Image Saved"
+msgstr "התמונה נשמרה"
+
+#: admin/apps/content/content.php:370
+msgid "Failed to upload file"
+msgstr "העלאת הקובץ נכשלה"
+
+#: admin/apps/content/content.php:400
+msgid "Items uploaded"
+msgstr "פריטים שהועלו"
+
+#: admin/apps/content/content.php:423
+msgid "Views updated"
+msgstr "צפיות עודכנו"
+
+#: admin/apps/content/content.php:455 admin/apps/content/content.php:517
+#: admin/apps/content/content.php:579 admin/apps/content/content.php:769
+#: admin/apps/menu-creator/menu-creator.php:752
+#: admin/apps/menu-creator/menu-creator.php:777
+#: admin/apps/menu-creator/menu-creator.php:814
+#: admin/apps/menu-creator/menu-creator.php:867
+#: admin/apps/menu-creator/menu-creator.php:936
+#: admin/apps/users/uip-user-groups.php:309 admin/classes/folders.php:528
+#: admin/classes/settings.php:308 admin/classes/uipress-app.php:1357
+msgid "Something went wrong"
+msgstr "משהו השתבש"
+
+#: admin/apps/content/content.php:460
+msgid "Items duplicated successfully"
+msgstr "פריטים שוכפלו בהצלחה"
+
+#: admin/apps/content/content.php:463
+msgid "Itms couldn't be duplicated"
+msgstr "לא ניתן היה לשכפל את זה"
+
+#: admin/apps/content/content.php:501 admin/apps/content/content.php:543
+msgid "No Meta Key provided"
+msgstr "לא מסופק מפתח מטא"
+
+#: admin/apps/content/content.php:583
+msgid "Attributes Updated"
+msgstr "תכונות עודכנו"
+
+#: admin/apps/content/content.php:774
+msgid "Items deleted successfully"
+msgstr "פריטים נמחקו בהצלחה"
+
+#: admin/apps/content/content.php:777
+msgid "Itms couldn't be deleted"
+msgstr "לא ניתן היה למחוק אותו"
+
+#: admin/apps/content/content.php:799 admin/classes/folders.php:452
+#: admin/classes/folders.php:484
+msgid "No content to move"
+msgstr "אין תוכן להעביר"
+
+#: admin/apps/content/content.php:812 admin/classes/folders.php:466
+#: admin/classes/folders.php:497
+msgid "Content moved"
+msgstr "התוכן הועבר"
+
+#: admin/apps/content/content.php:938
+msgid "Unable to update item"
+msgstr "לא ניתן לעדכן את הפריט"
+
+#: admin/apps/content/content.php:968
+msgid "Item updated"
+msgstr "פריט עודכן"
+
+#: admin/apps/content/content.php:1007
+msgid "Items updated"
+msgstr "פריטים עודכנו"
+
+#: admin/apps/content/content.php:1319 admin/apps/content/content.php:1611
+msgid "Content"
+msgstr "תוֹכֶן"
+
+#: admin/apps/content/content.php:1362
+#: admin/apps/menu-creator/menu-creator.php:1096
+#: admin/classes/uipress-app.php:1325
+msgid "Pro Feature"
+msgstr "תכונה פרו"
+
+#: admin/apps/content/content.php:1365
+msgid "Upgrade to UiPress Pro to unlock the content page and content folders"
+msgstr "שדרג ל-UiPress Pro כדי לפתוח את דף התוכן ותיקיות התוכן"
+
+#: admin/apps/content/content.php:1367
+#: admin/apps/menu-creator/menu-creator.php:1101
+msgid "See UiPress Pro Plans"
+msgstr "ראה תוכניות UiPress Pro"
+
+#: admin/apps/content/content.php:1411
+msgid "Update Tags and Categories"
+msgstr "עדכן תגיות וקטגוריות"
+
+#: admin/apps/content/content.php:1418 admin/apps/content/content.php:1831
+#: admin/apps/content/content.php:1836 admin/apps/content/content.php:2068
+#: admin/apps/content/content.php:2071
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: admin/apps/content/content.php:1419 admin/apps/content/content.php:1837
+#: admin/apps/content/content.php:2072
+msgid "Search categories..."
+msgstr "חפש קטגוריות..."
+
+#: admin/apps/content/content.php:1424
+msgid "Keep existing categories"
+msgstr "שמור על קטגוריות קיימות"
+
+#: admin/apps/content/content.php:1433 admin/apps/content/content.php:1843
+#: admin/apps/content/content.php:1847 admin/apps/content/content.php:2080
+#: admin/apps/content/content.php:2083
+msgid "Tags"
+msgstr "תגים"
+
+#: admin/apps/content/content.php:1434 admin/apps/content/content.php:1848
+#: admin/apps/content/content.php:2084
+msgid "Search tags..."
+msgstr "חפש תגיות..."
+
+#: admin/apps/content/content.php:1439
+msgid "Keep existing tags"
+msgstr "שמור על תגים קיימים"
+
+#: admin/apps/content/content.php:1448 admin/apps/content/content.php:1686
+#: admin/classes/uipress-app.php:1373
+msgid "Update"
+msgstr "עדכון"
+
+#: admin/apps/content/content.php:1465 admin/apps/content/content.php:2567
+msgid "Batch Rename"
+msgstr "שינוי שם אצווה"
+
+#: admin/apps/content/content.php:1473
+msgid "Attribute to rename"
+msgstr "תכונה לשינוי שם"
+
+#: admin/apps/content/content.php:1480 admin/apps/content/content.php:2323
+#: admin/apps/menu-creator/menu-creator.php:1151
+#: admin/apps/menu-creator/menu-creator.php:1651
+#: admin/apps/menu-creator/menu-creator.php:1652
+#: admin/apps/users/uip-users.php:311 admin/apps/users/uip-users.php:389
+#: admin/apps/users/uip-users.php:1213 admin/classes/uipress-app.php:1371
+msgid "Name"
+msgstr "שֵׁם"
+
+#: admin/apps/content/content.php:1481
+msgid "Meta Key"
+msgstr "מפתח מטא"
+
+#: admin/apps/content/content.php:1482
+msgid "Alt Tag (Attachments only)"
+msgstr "Alt Tag (קבצים מצורפים בלבד)"
+
+#: admin/apps/content/content.php:1487
+msgid "Meta Key Name"
+msgstr "שם מפתח מטא"
+
+#: admin/apps/content/content.php:1498
+msgid "Filename Structure"
+msgstr "מבנה שם הקובץ"
+
+#: admin/apps/content/content.php:1506
+msgid "Rename Item"
+msgstr "שנה שם פריט"
+
+#: admin/apps/content/content.php:1514 admin/apps/overview/overview.php:812
+msgid "Add"
+msgstr "לְהוֹסִיף"
+
+#: admin/apps/content/content.php:1540
+msgid "New Text"
+msgstr "טקסט חדש"
+
+#: admin/apps/content/content.php:1542
+msgid "Date Format"
+msgstr "פורמט תאריך"
+
+#: admin/apps/content/content.php:1544
+msgid "Start Number"
+msgstr "מספר התחלה"
+
+#: admin/apps/content/content.php:1546
+msgid "Meta key Name"
+msgstr "שם מפתח מטא"
+
+#: admin/apps/content/content.php:1548
+msgid "Find"
+msgstr "למצוא"
+
+#: admin/apps/content/content.php:1552
+msgid "Replace"
+msgstr "החלף"
+
+#: admin/apps/content/content.php:1576 admin/apps/content/content.php:1593
+#: admin/apps/menu-creator/menu-creator.php:1464
+msgid "Preview"
+msgstr "תצוגה מקדימה"
+
+#: admin/apps/content/content.php:1579
+msgid "Current"
+msgstr "נוֹכְחִי"
+
+#: admin/apps/content/content.php:1580
+#: admin/apps/menu-creator/menu-creator.php:1136
+msgid "New"
+msgstr "חָדָשׁ"
+
+#: admin/apps/content/content.php:1594
+msgid "Rename"
+msgstr "שנה שם"
+
+#: admin/apps/content/content.php:1618 admin/classes/uipress-app.php:1365
+msgid "All Content"
+msgstr "כל התוכן"
+
+#: admin/apps/content/content.php:1679
+#: admin/apps/menu-creator/menu-creator.php:1225
+#: admin/apps/users/uip-users.php:541
+msgid "Delete"
+msgstr "לִמְחוֹק"
+
+#: admin/apps/content/content.php:1684
+msgid "Edit Image"
+msgstr "ערוך תמונה"
+
+#: admin/apps/content/content.php:1715 admin/apps/users/uip-users.php:309
+msgid "Details"
+msgstr "פרטים"
+
+#: admin/apps/content/content.php:1771 admin/apps/content/content.php:1772
+#: admin/apps/overview/overview.php:715
+msgid "Title"
+msgstr "כותרת"
+
+#: admin/apps/content/content.php:1778
+msgid "Alt Text"
+msgstr "טקסט חלופי"
+
+#: admin/apps/content/content.php:1779
+msgid "Alt"
+msgstr "Alt"
+
+#: admin/apps/content/content.php:1783 admin/apps/content/content.php:1784
+msgid "Caption"
+msgstr "כּוֹתֶרֶת"
+
+#: admin/apps/content/content.php:1788 admin/apps/content/content.php:1789
+#: admin/apps/users/uip-users.php:1353
+msgid "Description"
+msgstr "תיאור"
+
+#: admin/apps/content/content.php:1799
+msgid "Meta Data"
+msgstr "מטא נתונים"
+
+#: admin/apps/content/content.php:1819 admin/apps/content/content.php:1824
+#: admin/apps/content/content.php:2339
+#: admin/apps/menu-creator/menu-creator.php:1155
+#: admin/apps/menu-creator/menu-creator.php:1294
+#: admin/classes/uipress-app.php:1151
+msgid "Status"
+msgstr "סטָטוּס"
+
+#: admin/apps/content/content.php:1825
+msgid "Search status..."
+msgstr "סטטוס חיפוש..."
+
+#: admin/apps/content/content.php:1927
+msgid "Filters"
+msgstr "מסננים"
+
+#: admin/apps/content/content.php:1932
+msgid "Upload"
+msgstr "העלה"
+
+#: admin/apps/content/content.php:1954
+msgid "Items Per Page"
+msgstr "פריטים לכל עמוד"
+
+#: admin/apps/content/content.php:1964
+msgid "Columns"
+msgstr "עמודות"
+
+#: admin/apps/content/content.php:1976
+msgid "Search..."
+msgstr "לחפש..."
+
+#: admin/apps/content/content.php:1984
+msgid "of"
+msgstr "שֶׁל"
+
+#: admin/apps/content/content.php:1987
+msgid "items"
+msgstr "פריטים"
+
+#: admin/apps/content/content.php:2011 admin/apps/content/content.php:2014
+msgid "Post Types"
+msgstr "סוגי פוסטים"
+
+#: admin/apps/content/content.php:2015
+msgid "Search Post Types..."
+msgstr "חפש סוגי פוסטים..."
+
+#: admin/apps/content/content.php:2022 admin/apps/content/content.php:2025
+msgid "Post Status"
+msgstr "סטטוס פוסט"
+
+#: admin/apps/content/content.php:2026
+msgid "Search Post Statuses..."
+msgstr "חפש סטטוסים של פוסטים..."
+
+#: admin/apps/content/content.php:2039
+msgid "Posted On"
+msgstr "פורסם ב"
+
+#: admin/apps/content/content.php:2040
+msgid "Posted After"
+msgstr "פורסם לאחר"
+
+#: admin/apps/content/content.php:2041
+msgid "Posted Before"
+msgstr "פורסם לפני"
+
+#: admin/apps/content/content.php:2056 admin/apps/content/content.php:2059
+msgid "Media Types"
+msgstr "סוגי מדיה"
+
+#: admin/apps/content/content.php:2060
+msgid "Search Media Types..."
+msgstr "חפש סוגי מדיה..."
+
+#: admin/apps/content/content.php:2089
+msgid "Clear Filters"
+msgstr "נקה מסננים"
+
+#: admin/apps/content/content.php:2090
+msgid "Save as view"
+msgstr "שמור כתצוגה"
+
+#: admin/apps/content/content.php:2136
+msgid "Posted"
+msgstr "פורסם"
+
+#: admin/apps/content/content.php:2327
+msgid "Type"
+msgstr "סוּג"
+
+#: admin/apps/content/content.php:2331
+msgid "Author"
+msgstr "מְחַבֵּר"
+
+#: admin/apps/content/content.php:2335
+#: admin/apps/menu-creator/menu-creator.php:1159
+#: admin/apps/overview/overview.php:904 admin/apps/users/uip-users.php:1333
+msgid "Date"
+msgstr "תַאֲרִיך"
+
+#: admin/apps/content/content.php:2483
+msgid "Load More"
+msgstr "טען עוד"
+
+#: admin/apps/content/content.php:2492
+msgid "No content found"
+msgstr "לא נמצא תוכן"
+
+#: admin/apps/content/content.php:2511 admin/apps/users/uip-users.php:547
+#: admin/classes/uipress-app.php:1327
+msgid "View"
+msgstr "נוף"
+
+#: admin/apps/content/content.php:2518
+#: admin/apps/menu-creator/menu-creator.php:1203
+#: admin/apps/users/uip-users.php:523 admin/classes/uipress-app.php:1328
+msgid "Edit"
+msgstr "לַעֲרוֹך"
+
+#: admin/apps/content/content.php:2525
+msgid "Quick Edit"
+msgstr "עריכה מהירה"
+
+#: admin/apps/content/content.php:2532
+#: admin/apps/menu-creator/menu-creator.php:1210
+msgid "Duplicate"
+msgstr "לְשַׁכְפֵּל"
+
+#: admin/apps/content/content.php:2540
+msgid "Delete Item"
+msgstr "למחוק פריט"
+
+#: admin/apps/content/content.php:2560
+msgid "items selected"
+msgstr "פריטים שנבחרו"
+
+#: admin/apps/content/content.php:2573
+msgid "Categories & Tags"
+msgstr "קטגוריות ותגיות"
+
+#: admin/apps/content/content.php:2579
+msgid "Delete Selected"
+msgstr "מחק את הנבחר"
+
+#: admin/apps/content/content.php:2585
+msgid "Clear Selection"
+msgstr "נקה בחירה"
+
+#: admin/apps/content/content.php:2607
+msgid "Create New View"
+msgstr "צור תצוגה חדשה"
+
+#: admin/apps/content/content.php:2612
+msgid "View name"
+msgstr "הצג שם"
+
+#: admin/apps/content/content.php:2615
+msgid "View Name"
+msgstr "הצג שם"
+
+#: admin/apps/content/content.php:2623
+#: admin/apps/menu-creator/menu-creator.php:1709
+#: admin/apps/overview/overview.php:836 admin/classes/styles.php:437
+msgid "Save"
+msgstr "להציל"
+
+#: admin/apps/menu-creator/menu-creator.php:405
+#: admin/apps/menu-creator/menu-creator.php:1044
+#: admin/apps/menu-creator/menu-creator.php:1052
+#: admin/apps/menu-creator/menu-creator.php:1131
+#: admin/apps/menu-creator/menu-creator.php:1699
+msgid "Menu Creator"
+msgstr "יוצר תפריט"
+
+#: admin/apps/menu-creator/menu-creator.php:406
+msgid "Creates custom admin menus."
+msgstr "יוצר תפריטי ניהול מותאמים אישית."
+
+#: admin/apps/menu-creator/menu-creator.php:410
+msgid "Disable Menu Creator?"
+msgstr "להשבית את יוצר התפריטים?"
+
+#: admin/apps/menu-creator/menu-creator.php:411
+msgid "If disabled, the menu creator will not be available to any users."
+msgstr "אם מושבת, יוצר התפריט לא יהיה זמין לאף משתמש."
+
+#: admin/apps/menu-creator/menu-creator.php:651
+msgctxt "post type general name"
+msgid "Admin Menu"
+msgstr "תפריט ניהול"
+
+#: admin/apps/menu-creator/menu-creator.php:652
+msgctxt "post type singular name"
+msgid "admin menu"
+msgstr "תפריט ניהול"
+
+#: admin/apps/menu-creator/menu-creator.php:653
+msgctxt "admin menu"
+msgid "Admin Menus"
+msgstr "תפריטי ניהול"
+
+#: admin/apps/menu-creator/menu-creator.php:654
+msgctxt "add new on admin bar"
+msgid "Admin Menu"
+msgstr "תפריט ניהול"
+
+#: admin/apps/menu-creator/menu-creator.php:655
+msgctxt "Admin Menu"
+msgid "Add New"
+msgstr "הוסף חדש"
+
+#: admin/apps/menu-creator/menu-creator.php:656
+msgid "Add New Admin Menu"
+msgstr "הוסף תפריט ניהול חדש"
+
+#: admin/apps/menu-creator/menu-creator.php:657
+msgid "New Admin Menu"
+msgstr "תפריט ניהול חדש"
+
+#: admin/apps/menu-creator/menu-creator.php:658
+msgid "Edit Admin Menu"
+msgstr "ערוך תפריט ניהול"
+
+#: admin/apps/menu-creator/menu-creator.php:659
+msgid "View Admin Menu"
+msgstr "הצג את תפריט הניהול"
+
+#: admin/apps/menu-creator/menu-creator.php:660
+msgid "All Admin Menus"
+msgstr "כל תפריטי הניהול"
+
+#: admin/apps/menu-creator/menu-creator.php:661
+msgid "Search Admin Menus"
+msgstr "חפש בתפריטי ניהול"
+
+#: admin/apps/menu-creator/menu-creator.php:662
+msgid "No Admin Menus found."
+msgstr "לא נמצאו תפריטי ניהול."
+
+#: admin/apps/menu-creator/menu-creator.php:663
+msgid "No Admin Menus found in Trash."
+msgstr "לא נמצאו תפריטי ניהול באשפה."
+
+#: admin/apps/menu-creator/menu-creator.php:759
+msgid "Status Updated"
+msgstr "סטטוס עודכן"
+
+#: admin/apps/menu-creator/menu-creator.php:783
+msgid "You don't have permission to delete this"
+msgstr "אין לך הרשאה למחוק את זה"
+
+#: admin/apps/menu-creator/menu-creator.php:791
+msgid "Unable to delete menu"
+msgstr "לא ניתן למחוק את התפריט"
+
+#: admin/apps/menu-creator/menu-creator.php:796
+msgid "Menu deleted"
+msgstr "התפריט נמחק"
+
+#: admin/apps/menu-creator/menu-creator.php:820
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "לא ניתן לשכפל את התפריט, התפריט פגום"
+
+#: admin/apps/menu-creator/menu-creator.php:826
+msgid "(copy)"
+msgstr "(עותק)"
+
+#: admin/apps/menu-creator/menu-creator.php:834
+msgid "Unable to duplicate menu"
+msgstr "לא ניתן לשכפל את התפריט"
+
+#: admin/apps/menu-creator/menu-creator.php:844
+msgid "Menu duplicated"
+msgstr "התפריט שוכפל"
+
+#: admin/apps/menu-creator/menu-creator.php:873
+msgid "Unable to save, menu is corrupted"
+msgstr "לא ניתן לשמור, התפריט פגום"
+
+#: admin/apps/menu-creator/menu-creator.php:894
+msgid "Unable to save menu"
+msgstr "לא ניתן לשמור את התפריט"
+
+#: admin/apps/menu-creator/menu-creator.php:917
+msgid "Menu Saved"
+msgstr "התפריט נשמר"
+
+#: admin/apps/menu-creator/menu-creator.php:962
+#: admin/apps/users/uip-users.php:1321 admin/classes/settings.php:328
+msgid "User"
+msgstr "מִשׁתַמֵשׁ"
+
+#: admin/apps/menu-creator/menu-creator.php:977
+#: admin/apps/menu-creator/menu-creator.php:988
+#: admin/apps/users/uip-users.php:1285 admin/classes/settings.php:343
+#: admin/classes/settings.php:354
+msgid "Role"
+msgstr "תַפְקִיד"
+
+#: admin/apps/menu-creator/menu-creator.php:995 admin/classes/settings.php:361
+msgid "Nothing found for term:"
+msgstr "לא נמצא שום דבר למונח:"
+
+#: admin/apps/menu-creator/menu-creator.php:1044
+#, php-format
+msgid "%s Menu Creator"
+msgstr "יוצר תפריט %s"
+
+#: admin/apps/menu-creator/menu-creator.php:1099
+msgid "Upgrade to UiPress Pro to unlock the menu creator"
+msgstr "שדרג ל-UiPress Pro כדי לפתוח את יוצר התפריט"
+
+#: admin/apps/menu-creator/menu-creator.php:1142
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "נראה שעדיין לא יצרת תפריטי ניהול"
+
+#: admin/apps/menu-creator/menu-creator.php:1143
+msgid "Create your first admin menu"
+msgstr "צור את תפריט הניהול הראשון שלך"
+
+#: admin/apps/menu-creator/menu-creator.php:1217
+#: admin/apps/menu-creator/menu-creator.php:1718
+#: admin/apps/users/uip-users.php:559 admin/classes/settings.php:248
+#: admin/classes/styles.php:447
+msgid "Export"
+msgstr "יְצוּא"
+
+#: admin/apps/menu-creator/menu-creator.php:1264
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"יוצר התפריט אינו מותאם למכשירים ניידים. לתוצאות הטובות ביותר עבור למסך גדול "
+"יותר"
+
+#: admin/apps/menu-creator/menu-creator.php:1279
+msgid "Menu Items"
+msgstr "פריטי תפריט"
+
+#: admin/apps/menu-creator/menu-creator.php:1283
+msgid "Menu Settings"
+msgstr "הגדרות תפריט"
+
+#: admin/apps/menu-creator/menu-creator.php:1314
+#: admin/apps/menu-creator/menu-creator.php:1315
+msgid "Menu Name"
+msgstr "שם התפריט"
+
+#: admin/apps/menu-creator/menu-creator.php:1319
+msgid "Menu Applies to"
+msgstr "תפריט חל על"
+
+#: admin/apps/menu-creator/menu-creator.php:1323
+msgid "Inclusive"
+msgstr "כָּלוּל"
+
+#: admin/apps/menu-creator/menu-creator.php:1327
+msgid "Exclusive"
+msgstr "בִּלעָדִי"
+
+#: admin/apps/menu-creator/menu-creator.php:1331
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr "במצב כולל, תפריט זה ייטען עבור כל שמות המשתמש והתפקידים שנבחרו למטה."
+
+#: admin/apps/menu-creator/menu-creator.php:1334
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"במצב בלעדי, תפריט זה ייטען עבור כל משתמש מלבד שמות המשתמש והתפקידים שנבחרו "
+"למטה."
+
+#: admin/apps/menu-creator/menu-creator.php:1340
+msgid "Choose users or roles..."
+msgstr "בחר משתמשים או תפקידים..."
+
+#: admin/apps/menu-creator/menu-creator.php:1342
+msgid "Search roles and users..."
+msgstr "חפש תפקידים ומשתמשים..."
+
+#: admin/apps/menu-creator/menu-creator.php:1351
+msgid "Custom Items"
+msgstr "פריטים מותאמים אישית"
+
+#: admin/apps/menu-creator/menu-creator.php:1355
+msgid "New Separator"
+msgstr "מפריד חדש"
+
+#: admin/apps/menu-creator/menu-creator.php:1358
+msgid "New Custom Link"
+msgstr "קישור מותאם אישית חדש"
+
+#: admin/apps/menu-creator/menu-creator.php:1363
+msgid "Available Menu Items"
+msgstr "פריטי תפריט זמינים"
+
+#: admin/apps/menu-creator/menu-creator.php:1370
+msgid "Search menu items"
+msgstr "חפש פריטי תפריט"
+
+#: admin/apps/menu-creator/menu-creator.php:1518
+msgid "Add some menu items from the left toolbar to get started"
+msgstr "הוסף כמה פריטי תפריט מסרגל הכלים השמאלי כדי להתחיל"
+
+#: admin/apps/menu-creator/menu-creator.php:1537
+msgid "Separator"
+msgstr "מפריד"
+
+#: admin/apps/menu-creator/menu-creator.php:1642
+msgid "Edit Menu Item"
+msgstr "ערוך פריט בתפריט"
+
+#: admin/apps/menu-creator/menu-creator.php:1656
+#: admin/apps/menu-creator/menu-creator.php:1657
+msgid "Link"
+msgstr "קישור"
+
+#: admin/apps/menu-creator/menu-creator.php:1661
+msgid "Classes"
+msgstr "שיעורים"
+
+#: admin/apps/menu-creator/menu-creator.php:1663
+msgid "Custom classes"
+msgstr "שיעורים מותאמים אישית"
+
+#: admin/apps/menu-creator/menu-creator.php:1667
+msgid "Opens in new tab?"
+msgstr "נפתח בכרטיסייה חדשה?"
+
+#: admin/apps/menu-creator/menu-creator.php:1677
+msgid "Icon"
+msgstr "סמל"
+
+#: admin/apps/menu-creator/menu-creator.php:1702
+msgid "Back to all menus"
+msgstr "חזרה לכל התפריטים"
+
+#: admin/apps/menu-creator/menu-creator.php:1727
+msgid "Import Menu"
+msgstr "תפריט ייבוא"
+
+#: admin/apps/menu-creator/menu-creator.php:1736 admin/classes/settings.php:265
+msgid "Reset Settings"
+msgstr "אפס הגדרות"
+
+#: admin/apps/overview/analytics.php:74
+msgid "Analytics account removed"
+msgstr "חשבון Analytics הוסר"
+
+#: admin/apps/overview/analytics.php:93
+msgid "Unable to connect account"
+msgstr "לא ניתן להתחבר לחשבון"
+
+#: admin/apps/overview/analytics.php:106
+msgid "Analytics account connected"
+msgstr "חשבון Analytics מחובר"
+
+#: admin/apps/overview/analytics.php:310 admin/apps/overview/analytics.php:718
+#: admin/apps/overview/overview.php:761
+msgid "Site Users"
+msgstr "משתמשי האתר"
+
+#: admin/apps/overview/analytics.php:318 admin/apps/overview/overview.php:762
+msgid "Site Users (comparison period)"
+msgstr "משתמשי אתר (תקופת השוואה)"
+
+#: admin/apps/overview/analytics.php:383 admin/apps/overview/analytics.php:700
+#: admin/apps/overview/overview.php:759
+msgid "Page Views"
+msgstr "צפיות בדף"
+
+#: admin/apps/overview/analytics.php:391
+msgid "Page Views (comparison period)"
+msgstr "צפיות בדף (תקופת השוואה)"
+
+#: admin/apps/overview/analytics.php:608 admin/apps/overview/analytics.php:709
+msgid "Page Speed"
+msgstr "מהירות עמוד"
+
+#: admin/apps/overview/analytics.php:616
+msgid "Page Speed (comparison period)"
+msgstr "מהירות דף (תקופת השוואה)"
+
+#: admin/apps/overview/analytics.php:663 admin/apps/overview/analytics.php:703
+#: admin/apps/overview/analytics.php:712 admin/apps/overview/analytics.php:721
+#: admin/apps/overview/analytics.php:730 admin/apps/overview/analytics.php:739
+#: admin/apps/overview/analytics.php:748 admin/apps/overview/analytics.php:757
+#: admin/apps/overview/analytics.php:766 admin/apps/overview/analytics.php:775
+#: admin/apps/overview/analytics.php:784 admin/apps/overview/analytics.php:793
+#: admin/apps/overview/analytics.php:802 admin/apps/overview/analytics.php:811
+#: admin/apps/overview/analytics.php:820 admin/apps/overview/analytics.php:829
+#: admin/apps/overview/analytics.php:838 admin/apps/overview/analytics.php:847
+#: admin/apps/overview/analytics.php:856 admin/apps/overview/analytics.php:865
+#: admin/apps/overview/analytics.php:874 admin/apps/overview/analytics.php:883
+msgid "Analytics"
+msgstr "ניתוח"
+
+#: admin/apps/overview/analytics.php:665
+msgid "Creates the google analytics cards for the overview page."
+msgstr "יוצר את כרטיסי Google Analytics עבור דף הסקירה הכללית."
+
+#: admin/apps/overview/analytics.php:681
+msgid "Google Analytics disabled for"
+msgstr "Google Analytics מושבת עבור"
+
+#: admin/apps/overview/analytics.php:682
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr "Analytics יושבת בדף הסקירה הכללית עבור כל משתמש או תפקיד שתבחר"
+
+#: admin/apps/overview/analytics.php:702
+msgid "Display website page views within the date range."
+msgstr "הצג תצוגות דפי אתר בטווח התאריכים."
+
+#: admin/apps/overview/analytics.php:711
+msgid "Display website page speed within the date range."
+msgstr "הצג את מהירות דף האתר בתוך טווח התאריכים."
+
+#: admin/apps/overview/analytics.php:720
+msgid "Display website users within the date range."
+msgstr "הצג משתמשי אתר בטווח התאריכים."
+
+#: admin/apps/overview/analytics.php:727
+msgid "Site visits by device"
+msgstr "ביקורים באתר לפי מכשיר"
+
+#: admin/apps/overview/analytics.php:729
+msgid "Display site usage by device within the date range."
+msgstr "הצג את השימוש באתר לפי מכשיר בטווח התאריכים."
+
+#: admin/apps/overview/analytics.php:736 admin/apps/overview/overview.php:841
+msgid "Bounce Rate"
+msgstr "קצב הקפיצה"
+
+#: admin/apps/overview/analytics.php:738
+msgid "Display site bounce rate within the date range."
+msgstr "הצג את שיעור היציאה מדף הכניסה של האתר בטווח התאריכים."
+
+#: admin/apps/overview/analytics.php:745
+msgid "Session Duration"
+msgstr "משך הפגישה"
+
+#: admin/apps/overview/analytics.php:747
+msgid "Display site session duration within the date range."
+msgstr "הצג את משך ההפעלה באתר בתוך טווח התאריכים."
+
+#: admin/apps/overview/analytics.php:754
+msgid "Visits by Country"
+msgstr "ביקורים לפי מדינה"
+
+#: admin/apps/overview/analytics.php:756
+msgid "Displays country user data within the date range."
+msgstr "מציג נתוני משתמש במדינה בטווח התאריכים."
+
+#: admin/apps/overview/analytics.php:763
+msgid "Traffic Sources"
+msgstr "מקורות תנועה"
+
+#: admin/apps/overview/analytics.php:765
+msgid "Displays traffic source info within the date range."
+msgstr "מציג מידע על מקור תנועה בטווח התאריכים."
+
+#: admin/apps/overview/analytics.php:772
+msgid "Visits By Page"
+msgstr "ביקורים לפי עמוד"
+
+#: admin/apps/overview/analytics.php:774
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr "מציג תנועה עבור רוב דפי האתר הפופולריים בטווח התאריכים."
+
+#: admin/apps/overview/analytics.php:781
+msgid "Event Count By Event Name"
+msgstr "ספירת אירועים לפי שם האירוע"
+
+#: admin/apps/overview/analytics.php:783
+msgid "Display list of events within the date range."
+msgstr "הצג רשימה של אירועים בטווח התאריכים."
+
+#: admin/apps/overview/analytics.php:790
+msgid "Sessions by channel grouping"
+msgstr "הפעלות לפי קיבוץ ערוצים"
+
+#: admin/apps/overview/analytics.php:792
+msgid "Display sessions by channel grouping within the date range."
+msgstr "הצגת הפעלות לפי קיבוץ ערוצים בטווח התאריכים."
+
+#: admin/apps/overview/analytics.php:799
+msgid "User in the last 30 minutes"
+msgstr "משתמש ב-30 הדקות האחרונות"
+
+#: admin/apps/overview/analytics.php:801
+msgid "Displays active users from the last 30 minutes."
+msgstr "מציג משתמשים פעילים מ-30 הדקות האחרונות."
+
+#: admin/apps/overview/analytics.php:808
+msgid "Engagement Rate"
+msgstr "שיעור המעורבות"
+
+#: admin/apps/overview/analytics.php:810
+msgid "Displays average angagement rate for date range"
+msgstr "מציג שיעור התנהגות ממוצע עבור טווח תאריכים"
+
+#: admin/apps/overview/analytics.php:817 admin/apps/overview/overview.php:783
+msgid "Site Revenue"
+msgstr "הכנסות מהאתר"
+
+#: admin/apps/overview/analytics.php:819
+msgid ""
+"Displays site revenue for date range. The sum of revenue from purchases, "
+"subscriptions, and advertising."
+msgstr ""
+"מציג את הכנסות האתר עבור טווח תאריכים. סכום ההכנסות מרכישות, מנויים ופרסום."
+
+#: admin/apps/overview/analytics.php:826
+msgid "New vs Returning Users"
+msgstr "משתמשים חדשים לעומת משתמשים חוזרים"
+
+#: admin/apps/overview/analytics.php:828
+msgid "Displays new vs returning users for the date range."
+msgstr "מציג משתמשים חדשים לעומת משתמשים חוזרים עבור טווח התאריכים."
+
+#: admin/apps/overview/analytics.php:835
+msgid "Top Cities"
+msgstr "ערים מובילות"
+
+#: admin/apps/overview/analytics.php:837
+msgid "Displays page views by city for the date range."
+msgstr "מציג תצוגות עמוד לפי עיר עבור טווח התאריכים."
+
+#: admin/apps/overview/analytics.php:844 admin/apps/overview/overview.php:785
+msgid "Ecommerce Overview"
+msgstr "סקירה כללית של מסחר אלקטרוני"
+
+#: admin/apps/overview/analytics.php:846
+msgid "Displays add to cart, checkout and purchase data for the date range."
+msgstr "מציג נתוני הוספה לעגלה, קופה ורכישה עבור טווח התאריכים."
+
+#: admin/apps/overview/analytics.php:853 admin/apps/overview/overview.php:781
+#: admin/apps/overview/overview.php:782
+msgid "Conversion Rate"
+msgstr "שער חליפין"
+
+#: admin/apps/overview/analytics.php:855
+msgid ""
+"The percentage of active users who made their first purchase for the date "
+"range."
+msgstr "אחוז המשתמשים הפעילים שביצעו את הרכישה הראשונה שלהם בטווח התאריכים."
+
+#: admin/apps/overview/analytics.php:862
+msgid "Top Products"
+msgstr "מוצרים מובילים"
+
+#: admin/apps/overview/analytics.php:864
+msgid "Products with the most sales for for the date range."
+msgstr "מוצרים עם הכי הרבה מכירות עבור טווח התאריכים."
+
+#: admin/apps/overview/analytics.php:871
+msgid "Conversions in the last 30 minutes"
+msgstr "המרות ב-30 הדקות האחרונות"
+
+#: admin/apps/overview/analytics.php:873
+msgid "Conversions logged in the last 30 minutes."
+msgstr "המרות שנרשמו ב-30 הדקות האחרונות."
+
+#: admin/apps/overview/analytics.php:880
+msgid "Page Views in the last 30 minutes"
+msgstr "צפיות בדף ב-30 הדקות האחרונות"
+
+#: admin/apps/overview/analytics.php:882
+msgid "Page views in the last 30 minutes."
+msgstr "צפיות בעמוד ב-30 הדקות האחרונות."
+
+#: admin/apps/overview/analytics.php:1013
+msgid "Unable to fetch analytics data at this moment. Please try again later"
+msgstr "לא ניתן להביא נתוני ניתוח כרגע. בבקשה נסה שוב מאוחר יותר"
+
+#: admin/apps/overview/overview.php:106 admin/apps/overview/overview.php:1150
+msgid "Overview"
+msgstr "סקירה כללית"
+
+#: admin/apps/overview/overview.php:107
+msgid "Creates the overview page."
+msgstr "יוצר את דף הסקירה הכללית."
+
+#: admin/apps/overview/overview.php:111
+msgid "Disable Overview Page?"
+msgstr "להשבית את דף סקירה כללית?"
+
+#: admin/apps/overview/overview.php:112
+msgid "Overview page will be hidden when this option is activated."
+msgstr "דף סקירה כללית יוסתר כאשר אפשרות זו תופעל."
+
+#: admin/apps/overview/overview.php:119
+msgid "Overview Page Disabled For"
+msgstr "דף סקירה מושבת עבור"
+
+#: admin/apps/overview/overview.php:120
+msgid "Overview Page will be disabled for any users or roles you select"
+msgstr "דף סקירה כללי יהיה מושבת עבור כל המשתמשים או התפקידים שתבחר"
+
+#: admin/apps/overview/overview.php:128
+msgid "Who can edit the overview page?"
+msgstr "מי יכול לערוך את דף הסקירה הכללית?"
+
+#: admin/apps/overview/overview.php:129
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If none "
+"are chosen it will fall back to administrators only"
+msgstr ""
+"כל תפקיד או משתמש שנבחר כאן יוכל לערוך את דף הסקירה הכללית. אם אף אחד מהם לא "
+"ייבחר זה יחזור למנהלים בלבד"
+
+#: admin/apps/overview/overview.php:137
+msgid "Default report start date"
+msgstr "תאריך תחילת ברירת המחדל של הדוח"
+
+#: admin/apps/overview/overview.php:138
+msgid ""
+"By default the overview date range will start 7 days before current date. "
+"Add a number of days between 1 and 90 to change length of date range"
+msgstr ""
+"כברירת מחדל, טווח התאריכים הכולל יתחיל 7 ימים לפני התאריך הנוכחי. הוסף מספר "
+"ימים בין 1 ל-90 כדי לשנות את אורך טווח התאריכים"
+
+#: admin/apps/overview/overview.php:146
+msgid "Default report end date offset"
+msgstr "קיזוז תאריך סיום ברירת המחדל של דוח"
+
+#: admin/apps/overview/overview.php:147
+msgid ""
+"By default the overview date range will end on the current day (0). To end "
+"the report on yesterday for example, enter 1"
+msgstr ""
+"כברירת מחדל, טווח התאריכים הכולל יסתיים ביום הנוכחי (0). כדי לסיים את הדוח "
+"על אתמול, למשל, הזן 1"
+
+#: admin/apps/overview/overview.php:155
+msgid "Reporting Currency Symbol"
+msgstr "סמל מטבע דיווח"
+
+#: admin/apps/overview/overview.php:156
+msgid ""
+"If you are using google analytics commerce reports, enter the currency "
+"symbol your reports are in here"
+msgstr ""
+"אם אתה משתמש בדוחות מסחר של Google Analytics, הזן את סמל המטבע שבו נמצאים "
+"הדוחות שלך"
+
+#: admin/apps/overview/overview.php:164
+msgid "Custom welcome message"
+msgstr "הודעת קבלת פנים מותאמת אישית"
+
+#: admin/apps/overview/overview.php:165
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr "הוסף כאן הודעת פתיחה מותאמת אישית שתוצג בדף הסקירה הכללית"
+
+#: admin/apps/overview/overview.php:243 admin/apps/overview/overview.php:384
+#: admin/apps/overview/woocommerce.php:158
+msgid "ago"
+msgstr "לִפנֵי"
+
+#: admin/apps/overview/overview.php:259 admin/apps/overview/overview.php:447
+#: admin/apps/overview/woocommerce.php:183
+#: admin/apps/overview/woocommerce.php:265
+msgid "Posts fetched"
+msgstr "הפוסטים הובאו"
+
+#: admin/apps/overview/overview.php:267
+msgid "No posts posted during the date range."
+msgstr "לא פורסמו פוסטים במהלך טווח התאריכים."
+
+#: admin/apps/overview/overview.php:282
+msgid "Unable to save dash at this time"
+msgstr "לא ניתן לשמור מקף בשלב זה"
+
+#: admin/apps/overview/overview.php:292
+msgid "Dashboard settings saved"
+msgstr "הגדרות לוח המחוונים נשמרו"
+
+#: admin/apps/overview/overview.php:307
+msgid "Dashboard settings reset"
+msgstr "איפוס הגדרות לוח המחוונים"
+
+#: admin/apps/overview/overview.php:320 admin/apps/overview/overview.php:328
+msgid "Unable to load shortcode at this time"
+msgstr "לא ניתן לטעון שורטקוד בשלב זה"
+
+#: admin/apps/overview/overview.php:335
+msgid "Shortcode loaded"
+msgstr "קוד קצר נטען"
+
+#: admin/apps/overview/overview.php:454
+msgid "No comments during the date range."
+msgstr "אין הערות במהלך טווח התאריכים."
+
+#: admin/apps/overview/overview.php:477
+msgid "Core version"
+msgstr "גרסת ליבה"
+
+#: admin/apps/overview/overview.php:482
+msgid "PHP version"
+msgstr "גרסת PHP"
+
+#: admin/apps/overview/overview.php:487
+msgid "Active Plugins"
+msgstr "תוספים פעילים"
+
+#: admin/apps/overview/overview.php:492
+msgid "Inactive Plugins"
+msgstr "תוספים לא פעילים"
+
+#: admin/apps/overview/overview.php:497
+msgid "Installed Themes"
+msgstr "ערכות נושא מותקנות"
+
+#: admin/apps/overview/overview.php:532
+msgid "Unable to fetch quote of the day"
+msgstr "לא ניתן להביא את הצעת המחיר של היום"
+
+#: admin/apps/overview/overview.php:570
+msgid "Passed Checks"
+msgstr "עבר צ'קים"
+
+#: admin/apps/overview/overview.php:578
+msgid "Recommended"
+msgstr "מוּמלָץ"
+
+#: admin/apps/overview/overview.php:586
+msgid "Critical"
+msgstr "קריטי"
+
+#: admin/apps/overview/overview.php:597
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "תסתכל על %d פריטים ב-"
+
+#: admin/apps/overview/overview.php:598
+msgid "Site Health screen"
+msgstr "מסך בריאות האתר"
+
+#: admin/apps/overview/overview.php:606
+msgid "Device Visits"
+msgstr "ביקורים במכשיר"
+
+#: admin/apps/overview/overview.php:693
+msgid "Card width"
+msgstr "רוחב הכרטיס"
+
+#: admin/apps/overview/overview.php:694
+msgid "Column width"
+msgstr "רוחב עמודה"
+
+#: admin/apps/overview/overview.php:695
+msgid "Column settings"
+msgstr "הגדרות עמודות"
+
+#: admin/apps/overview/overview.php:696
+msgid "Column Size"
+msgstr "גודל עמודה"
+
+#: admin/apps/overview/overview.php:697
+msgid "Remove Card"
+msgstr "הסר את הכרטיס"
+
+#: admin/apps/overview/overview.php:698 admin/apps/overview/overview.php:799
+msgid "Delete Column"
+msgstr "מחק עמודה"
+
+#: admin/apps/overview/overview.php:699
+msgid "In the"
+msgstr "בתוך ה"
+
+#: admin/apps/overview/overview.php:700
+msgid "day range"
+msgstr "טווח ימים"
+
+#: admin/apps/overview/overview.php:701
+msgid "xxsmall (1/6)"
+msgstr "xxsmall (1/6)"
+
+#: admin/apps/overview/overview.php:702
+msgid "xsmall (1/5)"
+msgstr "xsmall (1/5)"
+
+#: admin/apps/overview/overview.php:703
+msgid "small (1/4)"
+msgstr "קטן (1/4)"
+
+#: admin/apps/overview/overview.php:704
+msgid "small medium (1/3)"
+msgstr "קטן בינוני (1/3)"
+
+#: admin/apps/overview/overview.php:705
+msgid "medium (1/2)"
+msgstr "בינוני (1/2)"
+
+#: admin/apps/overview/overview.php:706
+msgid "medium large (2/3)"
+msgstr "בינוני גדול (2/3)"
+
+#: admin/apps/overview/overview.php:707
+msgid "large (3/4)"
+msgstr "גדול (3/4)"
+
+#: admin/apps/overview/overview.php:708
+msgid "xlarge (1/1)"
+msgstr "xlarge (1/1)"
+
+#: admin/apps/overview/overview.php:709
+msgid "I am an empty column. Drag cards into me."
+msgstr "אני טור ריק. גרור קלפים לתוכי."
+
+#: admin/apps/overview/overview.php:710
+msgid "Column Added"
+msgstr "עמודה נוספה"
+
+#: admin/apps/overview/overview.php:711
+msgid "Add card"
+msgstr "הוסף כרטיס"
+
+#: admin/apps/overview/overview.php:712
+msgid "Section added"
+msgstr "קטע נוסף"
+
+#: admin/apps/overview/overview.php:713
+msgid "Search Cards"
+msgstr "חיפוש כרטיסיות"
+
+#: admin/apps/overview/overview.php:714
+msgid "Pro"
+msgstr "מִקצוֹעָן"
+
+#: admin/apps/overview/overview.php:716 admin/apps/overview/overview.php:922
+msgid "Shortcode"
+msgstr "קוד קצר"
+
+#: admin/apps/overview/overview.php:717
+msgid "Video URL"
+msgstr "קישור לוידאו"
+
+#: admin/apps/overview/overview.php:718
+msgid "Embed Type"
+msgstr "סוג הטמעה"
+
+#: admin/apps/overview/overview.php:719
+msgid "UiPress Pro feature"
+msgstr "תכונת UiPress Pro"
+
+#: admin/apps/overview/overview.php:720
+msgid "Upgrade to one of our premium plans to unlock this feature."
+msgstr "שדרג לאחת מתוכניות הפרימיום שלנו כדי לפתוח את התכונה הזו."
+
+#: admin/apps/overview/overview.php:721
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/apps/overview/overview.php:722
+msgid "Card Added"
+msgstr "כרטיס נוסף"
+
+#: admin/apps/overview/overview.php:723
+msgid "Card Background colour"
+msgstr "צבע רקע לכרטיס"
+
+#: admin/apps/overview/overview.php:724
+msgid "# Hex code only (#fff)"
+msgstr "# קוד משושה בלבד (#fff)"
+
+#: admin/apps/overview/overview.php:725
+msgid "Use light color for text"
+msgstr "השתמש בצבע בהיר עבור טקסט"
+
+#: admin/apps/overview/overview.php:726
+msgid "Chart Type"
+msgstr "סוג תרשים"
+
+#: admin/apps/overview/overview.php:727
+msgid "Line Chart"
+msgstr "תרשים קווים"
+
+#: admin/apps/overview/overview.php:728
+msgid "Bar Chart"
+msgstr "טבלת עמודות"
+
+#: admin/apps/overview/overview.php:729
+msgid "vs previous"
+msgstr "לעומת הקודם"
+
+#: admin/apps/overview/overview.php:730 admin/apps/overview/overview.php:829
+msgid "days"
+msgstr "ימים"
+
+#: admin/apps/overview/overview.php:731
+msgid "Doughnut"
+msgstr "סופגניה"
+
+#: admin/apps/overview/overview.php:732
+msgid "Polar Area"
+msgstr "אזור הקוטב"
+
+#: admin/apps/overview/overview.php:733
+msgid "Bar"
+msgstr "בָּר"
+
+#: admin/apps/overview/overview.php:734 admin/apps/overview/overview.php:741
+msgid "Horizontal Bar"
+msgstr "פס אופקי"
+
+#: admin/apps/overview/overview.php:735
+msgid "Country"
+msgstr "מדינה"
+
+#: admin/apps/overview/overview.php:736
+msgid "Visits"
+msgstr "ביקורים"
+
+#: admin/apps/overview/overview.php:737
+msgid "Change"
+msgstr "שינוי"
+
+#: admin/apps/overview/overview.php:738
+msgid "No Background"
+msgstr "אין רקע"
+
+#: admin/apps/overview/overview.php:739
+msgid "Hide Map"
+msgstr "הסתר מפה"
+
+#: admin/apps/overview/overview.php:740
+msgid "Connect your account to use this card"
+msgstr "חבר את החשבון שלך כדי להשתמש בכרטיס זה"
+
+#: admin/apps/overview/overview.php:742
+msgid "Hide Chart"
+msgstr "הסתר תרשים"
+
+#: admin/apps/overview/overview.php:743
+msgid "Source"
+msgstr "מָקוֹר"
+
+#: admin/apps/overview/overview.php:744
+msgid "Page"
+msgstr "עמוד"
+
+#: admin/apps/overview/overview.php:745
+msgid "Product"
+msgstr "מוצר"
+
+#: admin/apps/overview/overview.php:746
+msgid "Sold"
+msgstr "נמכר"
+
+#: admin/apps/overview/overview.php:747
+msgid "Value"
+msgstr "ערך"
+
+#: admin/apps/overview/overview.php:748
+msgid "WooCommerce is required to use this card"
+msgstr "WooCommerce נדרש להשתמש בכרטיס זה"
+
+#: admin/apps/overview/overview.php:749 admin/classes/uipress-app.php:1380
+msgid "Please select a valid JSON file"
+msgstr "אנא בחר קובץ JSON חוקי"
+
+#: admin/apps/overview/overview.php:750 admin/classes/uipress-app.php:1381
+msgid "File is to big"
+msgstr "הקובץ גדול מדי"
+
+#: admin/apps/overview/overview.php:751
+msgid "Layout Imported"
+msgstr "פריסה מיובאת"
+
+#: admin/apps/overview/overview.php:752
+msgid "Unable to import layout"
+msgstr "לא ניתן לייבא פריסה"
+
+#: admin/apps/overview/overview.php:753
+msgid "Are you sure you want to clear the current layout? There is no undo."
+msgstr "האם אתה בטוח שברצונך לנקות את הפריסה הנוכחית? אין ביטול."
+
+#: admin/apps/overview/overview.php:754
+msgid "Available Cards"
+msgstr "כרטיסים זמינים"
+
+#: admin/apps/overview/overview.php:755
+msgid "Event Count"
+msgstr "ספירת אירועים"
+
+#: admin/apps/overview/overview.php:756
+msgid "Event Name"
+msgstr "שם אירוע"
+
+#: admin/apps/overview/overview.php:757
+msgid "Channel"
+msgstr "עָרוּץ"
+
+#: admin/apps/overview/overview.php:758
+msgid "Sessions"
+msgstr "הפעלות"
+
+#: admin/apps/overview/overview.php:760
+msgid "Page Views  (comparison period)"
+msgstr "צפיות בדף (תקופת השוואה)"
+
+#: admin/apps/overview/overview.php:763
+msgid "To"
+msgstr "ל"
+
+#: admin/apps/overview/overview.php:764
+msgid "From"
+msgstr "מ"
+
+#: admin/apps/overview/overview.php:765
+msgid "Date Range"
+msgstr "טווח תאריכים"
+
+#: admin/apps/overview/overview.php:766
+msgid "Custom Comparison Dates"
+msgstr "תאריכי השוואה מותאמים אישית"
+
+#: admin/apps/overview/overview.php:767
+msgid "Apply"
+msgstr "להגיש מועמדות"
+
+#: admin/apps/overview/overview.php:768
+msgid "vs"
+msgstr "לעומת"
+
+#: admin/apps/overview/overview.php:769
+msgid "Custom Range"
+msgstr "טווח מותאם אישית"
+
+#: admin/apps/overview/overview.php:770 admin/classes/uipress-app.php:1397
+msgid "Today"
+msgstr "היום"
+
+#: admin/apps/overview/overview.php:771 admin/classes/uipress-app.php:1398
+msgid "Yesterday"
+msgstr "אתמול"
+
+#: admin/apps/overview/overview.php:772
+msgid "Last 7 days"
+msgstr "7 ימים אחרונים"
+
+#: admin/apps/overview/overview.php:773
+msgid "Last 30 days"
+msgstr "30 הימים האחרונים"
+
+#: admin/apps/overview/overview.php:774
+msgid "Last 60 days"
+msgstr "60 הימים האחרונים"
+
+#: admin/apps/overview/overview.php:775
+msgid "Last 90 days"
+msgstr "90 הימים האחרונים"
+
+#: admin/apps/overview/overview.php:776 admin/classes/uipress-app.php:1395
+msgid "This Month"
+msgstr "החודש"
+
+#: admin/apps/overview/overview.php:777 admin/classes/uipress-app.php:1396
+msgid "Last Month"
+msgstr "חודש שעבר"
+
+#: admin/apps/overview/overview.php:778
+msgid "Purchases"
+msgstr "רכישות"
+
+#: admin/apps/overview/overview.php:779
+msgid "Added to cart"
+msgstr "נוסף לעגלה"
+
+#: admin/apps/overview/overview.php:780
+msgid "Checkout started"
+msgstr "התשלום התחיל"
+
+#: admin/apps/overview/overview.php:784
+msgid "Site Revenue (comparison)"
+msgstr "הכנסות מהאתר (השוואה)"
+
+#: admin/apps/overview/overview.php:786
+msgid "Visits By Device"
+msgstr "ביקורים לפי מכשיר"
+
+#: admin/apps/overview/overview.php:787
+msgid "Device Category"
+msgstr "קטגוריית מכשיר"
+
+#: admin/apps/overview/overview.php:788
+msgid "Active Users"
+msgstr "משתמשים פעילים"
+
+#: admin/apps/overview/overview.php:789 admin/apps/overview/overview.php:791
+msgid "Product Name"
+msgstr "שם מוצר"
+
+#: admin/apps/overview/overview.php:790
+msgid "Sales"
+msgstr "מכירות"
+
+#: admin/apps/overview/overview.php:792
+msgid "Quantity Sold"
+msgstr "כמות נמכרת"
+
+#: admin/apps/overview/overview.php:793 admin/apps/overview/overview.php:807
+msgid "Revenue"
+msgstr "הַכנָסָה"
+
+#: admin/apps/overview/overview.php:794
+msgid "Column Removed"
+msgstr "העמודה הוסרה"
+
+#: admin/apps/overview/overview.php:795
+msgid "Section Removed"
+msgstr "הקטע הוסר"
+
+#: admin/apps/overview/overview.php:796
+msgid "View Plans"
+msgstr "הצג תוכניות"
+
+#: admin/apps/overview/overview.php:797
+msgid "Unable to fetch analytics data, please try again later"
+msgstr "לא ניתן לאחזר נתוני ניתוח, אנא נסה שוב מאוחר יותר"
+
+#: admin/apps/overview/overview.php:798
+msgid "Column background colour"
+msgstr "צבע רקע עמודה"
+
+#: admin/apps/overview/overview.php:800
+msgid "Hide card title"
+msgstr "הסתר את כותרת הכרטיס"
+
+#: admin/apps/overview/overview.php:801 admin/apps/overview/overview.php:895
+msgid "Site Health"
+msgstr "בריאות האתר"
+
+#: admin/apps/overview/overview.php:802
+msgid "Conversions"
+msgstr "המרות"
+
+#: admin/apps/overview/overview.php:803
+msgid "This card only works with google analytics 4 accounts"
+msgstr "כרטיס זה עובד רק עם חשבונות Google Analytics 4"
+
+#: admin/apps/overview/overview.php:804
+msgid "This card only works with universal analytics propeties."
+msgstr "כרטיס זה עובד רק עם תכונות אנליטיות אוניברסליות."
+
+#: admin/apps/overview/overview.php:805
+msgid "Orders"
+msgstr "הזמנות"
+
+#: admin/apps/overview/overview.php:806
+msgid "Orders (comparison period)."
+msgstr "הזמנות (תקופת השוואה)."
+
+#: admin/apps/overview/overview.php:808
+msgid "Revenue (comparison period)."
+msgstr "הכנסות (תקופת השוואה)."
+
+#: admin/apps/overview/overview.php:809
+msgid "Current Period"
+msgstr "התקופה הנוכחית"
+
+#: admin/apps/overview/overview.php:810
+msgid "Comparison Period"
+msgstr "תקופת השוואה"
+
+#: admin/apps/overview/overview.php:811
+msgid "Match Card Height"
+msgstr "התאם את גובה הכרטיס"
+
+#: admin/apps/overview/overview.php:813
+msgid "What would you like to do?"
+msgstr "מה תרצה לעשות?"
+
+#: admin/apps/overview/overview.php:814
+msgid "To do"
+msgstr "לעשות"
+
+#: admin/apps/overview/overview.php:815
+msgid "Done"
+msgstr "בוצע"
+
+#: admin/apps/overview/overview.php:816
+msgid "Size"
+msgstr "גודל"
+
+#: admin/apps/overview/overview.php:817
+msgid "Background Colour"
+msgstr "צבע רקע"
+
+#: admin/apps/overview/overview.php:818
+msgid "Custom CSS class"
+msgstr "שיעור CSS מותאם אישית"
+
+#: admin/apps/overview/overview.php:819
+msgid "Add New Card"
+msgstr "הוסף כרטיס חדש"
+
+#: admin/apps/overview/overview.php:820 admin/apps/overview/overview.php:1249
+#: admin/classes/settings.php:78 admin/classes/settings.php:91
+#: admin/classes/settings.php:226 admin/classes/uipress-app.php:1406
+msgid "Settings"
+msgstr "הגדרות"
+
+#: admin/apps/overview/overview.php:821
+msgid "Card Settings"
+msgstr "הגדרות כרטיס"
+
+#: admin/apps/overview/overview.php:822
+msgid "Move Column Down"
+msgstr "הזז את העמודה למטה"
+
+#: admin/apps/overview/overview.php:823
+msgid "Move Column Up"
+msgstr "הזז עמודה למעלה"
+
+#: admin/apps/overview/overview.php:824
+msgid "Add new column"
+msgstr "הוסף עמודה חדשה"
+
+#: admin/apps/overview/overview.php:825
+msgid "Section Settings"
+msgstr "הגדרות מדור"
+
+#: admin/apps/overview/overview.php:826
+msgid "Toggle section visibility"
+msgstr "החלף את נראות הקטע"
+
+#: admin/apps/overview/overview.php:827
+msgid "Page Settings"
+msgstr "הגדרות עמוד"
+
+#: admin/apps/overview/overview.php:828
+msgid "In the last"
+msgstr "באחרון"
+
+#: admin/apps/overview/overview.php:830 admin/apps/users/uip-users-ajax.php:662
+msgid "Something has gone wrong"
+msgstr "משהו השתבש"
+
+#: admin/apps/overview/overview.php:831
+msgid "Connect your matomo site to use this card"
+msgstr "חבר את אתר matomo שלך כדי להשתמש בכרטיס זה"
+
+#: admin/apps/overview/overview.php:832
+msgid "Connect Matomo Analytics"
+msgstr "חבר את Matomo Analytics"
+
+#: admin/apps/overview/overview.php:833
+msgid "Auth Token"
+msgstr "Auth Token"
+
+#: admin/apps/overview/overview.php:834
+msgid "Matomo Url"
+msgstr "כתובת אתר של Matomo"
+
+#: admin/apps/overview/overview.php:835
+msgid "Matomo Site ID"
+msgstr "מזהה אתר של Matomo"
+
+#: admin/apps/overview/overview.php:837
+msgid "Click below to change matomo account"
+msgstr "לחץ למטה כדי לשנות חשבון matomo"
+
+#: admin/apps/overview/overview.php:838
+msgid "Change account"
+msgstr "שנה חשבון"
+
+#: admin/apps/overview/overview.php:839
+msgid "City"
+msgstr "עִיר"
+
+#: admin/apps/overview/overview.php:840
+msgid "Average Page Load"
+msgstr "עומס עמודים ממוצע"
+
+#: admin/apps/overview/overview.php:842
+msgid "Exit Rate"
+msgstr "קצב יציאה"
+
+#: admin/apps/overview/overview.php:843
+msgid "Average Time On Page"
+msgstr "זמן ממוצע בדף"
+
+#: admin/apps/overview/overview.php:844
+msgid "Referer"
+msgstr "מפנה"
+
+#: admin/apps/overview/overview.php:845
+msgid "Section name"
+msgstr "שם המדור"
+
+#: admin/apps/overview/overview.php:846
+msgid "Section description"
+msgstr "תיאור המדור"
+
+#: admin/apps/overview/overview.php:868
+msgid "Recently Published"
+msgstr "פורסם לאחרונה"
+
+#: admin/apps/overview/overview.php:870
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr "הצג פוסטים, דפים ו-CPT שפורסמו בטווח התאריכים."
+
+#: admin/apps/overview/overview.php:871 admin/apps/overview/overview.php:880
+#: admin/apps/overview/overview.php:889 admin/apps/overview/overview.php:898
+#: admin/apps/overview/overview.php:907 admin/apps/overview/overview.php:916
+#: admin/apps/overview/overview.php:925 admin/apps/overview/overview.php:934
+#: admin/apps/overview/overview.php:943 admin/apps/overview/overview.php:952
+#: admin/classes/uipress-app.php:2526
+msgid "General"
+msgstr "כללי"
+
+#: admin/apps/overview/overview.php:877
+msgid "Recent Comments"
+msgstr "תגובות אחרונות"
+
+#: admin/apps/overview/overview.php:879
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr "מציג את סך כל ההערות והתגובות האחרונות שפורסמו בטווח התאריכים."
+
+#: admin/apps/overview/overview.php:886
+msgid "System Info"
+msgstr "מידע מערכת"
+
+#: admin/apps/overview/overview.php:888
+msgid "Displays info our about your cms and server setup."
+msgstr "מציג מידע על ה-CMS והגדרות השרת שלך."
+
+#: admin/apps/overview/overview.php:897
+msgid "Displays info our about your sites health."
+msgstr "מציג מידע על בריאות האתרים שלך."
+
+#: admin/apps/overview/overview.php:906
+msgid "Displays current time and date"
+msgstr "מציג את השעה והתאריך הנוכחיים"
+
+#: admin/apps/overview/overview.php:913
+msgid "Video"
+msgstr "וִידֵאוֹ"
+
+#: admin/apps/overview/overview.php:915
+msgid "Displays a custom video"
+msgstr "מציג סרטון מותאם אישית"
+
+#: admin/apps/overview/overview.php:924
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "מוציא קוד קצר של וורדפרס לכרטיס"
+
+#: admin/apps/overview/overview.php:931
+msgid "Custom HTML"
+msgstr "HTML מותאם אישית"
+
+#: admin/apps/overview/overview.php:933
+msgid "Outputs custom HTML to the card"
+msgstr "פלט HTML מותאם אישית לכרטיס"
+
+#: admin/apps/overview/overview.php:940
+msgid "Quote of the day"
+msgstr "ציטוט היום"
+
+#: admin/apps/overview/overview.php:942
+msgid "Shows a random quote of the day"
+msgstr "מציג ציטוט אקראי של היום"
+
+#: admin/apps/overview/overview.php:949
+msgid "To do list"
+msgstr "רשימת מטלות"
+
+#: admin/apps/overview/overview.php:951
+msgid "A simple todo list card"
+msgstr "כרטיס מטלות פשוט"
+
+#: admin/apps/overview/overview.php:1038
+msgid "Hello"
+msgstr "שלום"
+
+#: admin/apps/overview/overview.php:1187
+msgid "Clear Layout"
+msgstr "נקה פריסה"
+
+#: admin/apps/overview/overview.php:1191 admin/apps/overview/overview.php:1234
+msgid "New Section"
+msgstr "מדור חדש"
+
+#: admin/apps/overview/overview.php:1196 admin/apps/overview/overview.php:1237
+msgid "Save changes"
+msgstr "שמור שינויים"
+
+#: admin/apps/overview/overview.php:1240
+msgid "Exit edit mode"
+msgstr "צא ממצב עריכה"
+
+#: admin/apps/overview/overview.php:1253
+msgid "Editing Mode"
+msgstr "מצב עריכה"
+
+#: admin/apps/overview/overview.php:1265
+msgid "Disconnect Analytics"
+msgstr "נתק את Analytics"
+
+#: admin/apps/overview/overview.php:1275
+msgid "Export Layout"
+msgstr "ייצוא פריסה"
+
+#: admin/apps/overview/overview.php:1284
+msgid "Import Layout"
+msgstr "פריסת ייבוא"
+
+#: admin/apps/overview/overview.php:1298 admin/classes/settings.php:258
+#: admin/classes/styles.php:457
+msgid "Unlock Export and Import features with pro"
+msgstr "בטל את הנעילה של תכונות ייצוא וייבוא עם פרו"
+
+#: admin/apps/overview/overview.php:1321
+msgid "Home"
+msgstr "בית"
+
+#: admin/apps/overview/overview.php:1369
+msgid "It's a little quiet around here"
+msgstr "קצת שקט כאן"
+
+#: admin/apps/overview/overview.php:1371
+msgid ""
+"Looks like you haven't created a dashboard yet. Enter edit mode to get "
+"started or import a default template"
+msgstr ""
+"נראה שעדיין לא יצרת לוח מחוונים. היכנס למצב עריכה כדי להתחיל או לייבא תבנית "
+"ברירת מחדל"
+
+#: admin/apps/overview/overview.php:1374
+msgid "Import default template"
+msgstr "ייבוא תבנית ברירת מחדל"
+
+#: admin/apps/overview/overview.php:1375
+msgid "Enter edit mode"
+msgstr "היכנס למצב עריכה"
+
+#: admin/apps/overview/overview.php:1419
+msgid "Match Column Height"
+msgstr "התאם את גובה העמודה"
+
+#: admin/apps/overview/overview.php:1427
+msgid "Hide section title"
+msgstr "הסתר את כותרת המדור"
+
+#: admin/apps/overview/overview.php:1435
+msgid "Section Width"
+msgstr "רוחב מקטע"
+
+#: admin/apps/overview/overview.php:1452
+msgid "Remove Section"
+msgstr "הסר סעיף"
+
+#: admin/apps/overview/woocommerce.php:46
+#: admin/apps/overview/woocommerce.php:125
+#: admin/apps/overview/woocommerce.php:203
+msgid "Woocommerce is required for this widget"
+msgstr "Woocommerce נדרש עבור ווידג'ט זה"
+
+#: admin/apps/overview/woocommerce.php:74
+msgid "Total Revenue"
+msgstr "סך הרווחים"
+
+#: admin/apps/overview/woocommerce.php:76
+msgid "Display total sales revenue in your store within the date range."
+msgstr "הצג את סך ההכנסות ממכירות בחנות שלך בטווח התאריכים."
+
+#: admin/apps/overview/woocommerce.php:77
+#: admin/apps/overview/woocommerce.php:86
+#: admin/apps/overview/woocommerce.php:95
+#: admin/apps/overview/woocommerce.php:104
+#: admin/apps/overview/woocommerce.php:113
+msgid "Commerce"
+msgstr "מִסְחָר"
+
+#: admin/apps/overview/woocommerce.php:83
+msgid "Total Orders"
+msgstr "סך ההזמנות"
+
+#: admin/apps/overview/woocommerce.php:85
+msgid "Display total orders in your store within the date range."
+msgstr "הצג את סך ההזמנות בחנות שלך בטווח התאריכים."
+
+#: admin/apps/overview/woocommerce.php:92
+msgid "Average Order Value"
+msgstr "ערך הזמנה ממוצע"
+
+#: admin/apps/overview/woocommerce.php:94
+msgid "Display average order value in your store within the date range."
+msgstr "הצג ערך הזמנה ממוצע בחנות שלך בטווח התאריכים."
+
+#: admin/apps/overview/woocommerce.php:101
+msgid "Recent Orders"
+msgstr "הזמנות אחרונות"
+
+#: admin/apps/overview/woocommerce.php:103
+msgid "Display recent orders from your store within the date range."
+msgstr "הצג הזמנות אחרונות מהחנות שלך בטווח התאריכים."
+
+#: admin/apps/overview/woocommerce.php:110
+msgid "Popular Products"
+msgstr "מוצרים פופולריים"
+
+#: admin/apps/overview/woocommerce.php:112
+msgid "Display top selling products from your store within the date range."
+msgstr "הצג את המוצרים הנמכרים ביותר מהחנות שלך בטווח התאריכים."
+
+#: admin/apps/overview/woocommerce.php:191
+msgid "No orders during the date range."
+msgstr "אין הזמנות בטווח התאריכים."
+
+#: admin/apps/overview/woocommerce.php:272
+msgid "No products sold during the date range."
+msgstr "לא נמכרו מוצרים בטווח התאריכים."
+
+#: admin/apps/users/uip-history.php:132
+msgid "Once every 1 minutes"
+msgstr "פעם אחת כל דקה"
+
+#: admin/apps/users/uip-history.php:145
+msgctxt "post type general name"
+msgid "History"
+msgstr "הִיסטוֹרִיָה"
+
+#: admin/apps/users/uip-history.php:146
+msgctxt "post type singular name"
+msgid "history"
+msgstr "הִיסטוֹרִיָה"
+
+#: admin/apps/users/uip-history.php:147
+msgctxt "admin menu"
+msgid "History"
+msgstr "הִיסטוֹרִיָה"
+
+#: admin/apps/users/uip-history.php:148
+msgctxt "add new on admin bar"
+msgid "History"
+msgstr "הִיסטוֹרִיָה"
+
+#: admin/apps/users/uip-history.php:149
+msgctxt "history"
+msgid "Add New"
+msgstr "הוסף חדש"
+
+#: admin/apps/users/uip-history.php:150
+msgid "Add New History"
+msgstr "הוסף היסטוריה חדשה"
+
+#: admin/apps/users/uip-history.php:151
+msgid "New History"
+msgstr "היסטוריה חדשה"
+
+#: admin/apps/users/uip-history.php:152
+msgid "Edit History"
+msgstr "ערוך היסטוריה"
+
+#: admin/apps/users/uip-history.php:153
+msgid "View History"
+msgstr "הצג היסטוריה"
+
+#: admin/apps/users/uip-history.php:154
+msgid "All History"
+msgstr "כל ההיסטוריה"
+
+#: admin/apps/users/uip-history.php:155
+msgid "Search History"
+msgstr "חפש היסטוריה"
+
+#: admin/apps/users/uip-history.php:156
+msgid "No History found."
+msgstr "לא נמצאה היסטוריה."
+
+#: admin/apps/users/uip-history.php:157
+msgid "No History found in Trash."
+msgstr "לא נמצאה היסטוריה באשפה."
+
+#: admin/apps/users/uip-user-groups.php:41
+msgctxt "post type general name"
+msgid "Group"
+msgstr "קְבוּצָה"
+
+#: admin/apps/users/uip-user-groups.php:42
+msgctxt "post type singular name"
+msgid "Group"
+msgstr "קְבוּצָה"
+
+#: admin/apps/users/uip-user-groups.php:43
+msgctxt "admin menu"
+msgid "Groups"
+msgstr "קבוצות"
+
+#: admin/apps/users/uip-user-groups.php:44
+msgctxt "add new on admin bar"
+msgid "Group"
+msgstr "קְבוּצָה"
+
+#: admin/apps/users/uip-user-groups.php:45
+msgctxt "Group"
+msgid "Add New"
+msgstr "הוסף חדש"
+
+#: admin/apps/users/uip-user-groups.php:46
+#: admin/apps/users/uip-user-groups.php:57
+msgid "Add New Group"
+msgstr "הוסף קבוצה חדשה"
+
+#: admin/apps/users/uip-user-groups.php:47
+msgid "New Group"
+msgstr "קבוצה חדשה"
+
+#: admin/apps/users/uip-user-groups.php:48
+msgid "Edit Group"
+msgstr "ערוך קבוצה"
+
+#: admin/apps/users/uip-user-groups.php:49
+msgid "View Group"
+msgstr "צפה בקבוצה"
+
+#: admin/apps/users/uip-user-groups.php:50
+msgid "All Groups"
+msgstr "כל הקבוצות"
+
+#: admin/apps/users/uip-user-groups.php:51
+msgid "Search Groups"
+msgstr "חפש בקבוצות"
+
+#: admin/apps/users/uip-user-groups.php:52
+msgid "No Groups found."
+msgstr "לא נמצאו קבוצות."
+
+#: admin/apps/users/uip-user-groups.php:53
+msgid "No Groups found in Trash."
+msgstr "לא נמצאו קבוצות באשפה."
+
+#: admin/apps/users/uip-user-groups.php:80
+msgid "No group to delete"
+msgstr "אין קבוצה למחיקה"
+
+#: admin/apps/users/uip-user-groups.php:90
+msgid "Unable to delete the group"
+msgstr "לא ניתן למחוק את הקבוצה"
+
+#: admin/apps/users/uip-user-groups.php:147
+msgid "Group deleted"
+msgstr "הקבוצה נמחקה"
+
+#: admin/apps/users/uip-user-groups.php:166
+msgid "Unable to move folder group itself"
+msgstr "לא ניתן להעביר את קבוצת התיקיות עצמה"
+
+#: admin/apps/users/uip-user-groups.php:180
+msgid "Unable to move group"
+msgstr "לא ניתן להעביר את הקבוצה"
+
+#: admin/apps/users/uip-user-groups.php:208
+msgid "Group moved"
+msgstr "הקבוצה הועברה"
+
+#: admin/apps/users/uip-user-groups.php:227
+msgid "No item to move"
+msgstr "אין פריט להעביר"
+
+#: admin/apps/users/uip-user-groups.php:241
+msgid "Item moved"
+msgstr "פריט הועבר"
+
+#: admin/apps/users/uip-user-groups.php:259
+msgid "No users to move"
+msgstr "אין משתמשים להעביר"
+
+#: admin/apps/users/uip-user-groups.php:277
+msgid "User moved"
+msgstr "המשתמש הועבר"
+
+#: admin/apps/users/uip-user-groups.php:318
+msgid "Group updated"
+msgstr "הקבוצה עודכנה"
+
+#: admin/apps/users/uip-user-groups.php:339 admin/classes/folders.php:557
+msgid "Title is required"
+msgstr "כותרת נדרשת"
+
+#: admin/apps/users/uip-user-groups.php:345 admin/classes/folders.php:563
+msgid "Colour is required"
+msgstr "נדרש צבע"
+
+#: admin/apps/users/uip-user-groups.php:360
+msgid "Unable to create group"
+msgstr "לא ניתן ליצור קבוצה"
+
+#: admin/apps/users/uip-user-groups.php:372
+msgid "Group created"
+msgstr "הקבוצה נוצרה"
+
+#: admin/apps/users/uip-users-ajax.php:415
+msgid "Unknown"
+msgstr "לא ידוע"
+
+#: admin/apps/users/uip-users-ajax.php:511
+#: admin/apps/users/uip-users-ajax.php:577
+msgid "You don't have sufficent priviledges to edit users"
+msgstr "אין לך מספיק הרשאות לערוך משתמשים"
+
+#: admin/apps/users/uip-users-ajax.php:517
+#: admin/apps/users/uip-users-ajax.php:1023
+msgid "Email is not valid"
+msgstr "האימייל אינו חוקי"
+
+#: admin/apps/users/uip-users-ajax.php:528
+#: admin/apps/users/uip-users-ajax.php:1016
+msgid "Email already exists"
+msgstr "האימייל כבר קיים"
+
+#: admin/apps/users/uip-users-ajax.php:557
+#: admin/apps/users/uip-users-ajax.php:1069
+msgid "User saved"
+msgstr "המשתמש נשמר"
+
+#: admin/apps/users/uip-users-ajax.php:583
+msgid "No users sent to update"
+msgstr "לא נשלחו משתמשים לעדכון"
+
+#: admin/apps/users/uip-users-ajax.php:589
+msgid "No roles sent to update"
+msgstr "לא נשלחו תפקידים לעדכון"
+
+#: admin/apps/users/uip-users-ajax.php:610
+msgid "User roles updated"
+msgstr "תפקידי המשתמש עודכנו"
+
+#: admin/apps/users/uip-users-ajax.php:630
+#: admin/apps/users/uip-users-ajax.php:716
+#: admin/apps/users/uip-users-ajax.php:777
+#: admin/apps/users/uip-users-ajax.php:818
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr "אין לך מספיק הרשאות לנהל תפקידים"
+
+#: admin/apps/users/uip-users-ajax.php:636
+msgid "Original role name required"
+msgstr "נדרש שם תפקיד מקורי"
+
+#: admin/apps/users/uip-users-ajax.php:642
+#: admin/apps/users/uip-users-ajax.php:722
+#: admin/apps/users/uip-users-ajax.php:783
+#: admin/apps/users/uip-users-ajax.php:836
+#: admin/apps/users/uip-users-ajax.php:879
+#: admin/apps/users/uip-users-ajax.php:885
+#: admin/apps/users/uip-users-ajax.php:944
+#: admin/apps/users/uip-users-ajax.php:950
+msgid "Role name is required"
+msgstr "נדרש שם תפקיד"
+
+#: admin/apps/users/uip-users-ajax.php:667
+msgid "Role saved"
+msgstr "התפקיד נשמר"
+
+#: admin/apps/users/uip-users-ajax.php:686
+msgid "You don't have sufficent priviledges to do this"
+msgstr "אין לך מספיק הרשאות לעשות את זה"
+
+#: admin/apps/users/uip-users-ajax.php:697
+msgid "User logged out everywhere"
+msgstr "המשתמש התנתק בכל מקום"
+
+#: admin/apps/users/uip-users-ajax.php:728
+msgid "Role label cannot contain spaces"
+msgstr "תווית התפקיד אינה יכולה להכיל רווחים"
+
+#: admin/apps/users/uip-users-ajax.php:734
+msgid "Role label is required"
+msgstr "נדרשת תווית תפקיד"
+
+#: admin/apps/users/uip-users-ajax.php:753
+msgid "Unable to add role. Make sure role name is unique"
+msgstr "לא ניתן להוסיף תפקיד. ודא ששם התפקיד הוא ייחודי"
+
+#: admin/apps/users/uip-users-ajax.php:758
+msgid "Role created"
+msgstr "התפקיד נוצר"
+
+#: admin/apps/users/uip-users-ajax.php:792
+#: admin/apps/users/uip-users-ajax.php:843
+msgid "You can't delete a role that is currently assigned to yourself"
+msgstr "אינך יכול למחוק תפקיד שהוקצה לעצמך כעת"
+
+#: admin/apps/users/uip-users-ajax.php:799
+msgid "Role deleted"
+msgstr "התפקיד נמחק"
+
+#: admin/apps/users/uip-users-ajax.php:824
+msgid "No roles to delete"
+msgstr "אין תפקידים למחוק"
+
+#: admin/apps/users/uip-users-ajax.php:852
+msgid "Roles deleted"
+msgstr "התפקידים נמחקו"
+
+#: admin/apps/users/uip-users-ajax.php:873
+msgid "You don't have sufficent priviledges to add this capability"
+msgstr "אין לך מספיק הרשאות כדי להוסיף את היכולת הזו"
+
+#: admin/apps/users/uip-users-ajax.php:891
+#: admin/apps/users/uip-users-ajax.php:956
+msgid "Role name cannot contain spaces"
+msgstr "שם התפקיד אינו יכול להכיל רווחים"
+
+#: admin/apps/users/uip-users-ajax.php:897
+msgid "Capability name cannot contain spaces"
+msgstr "שם היכולת לא יכול להכיל רווחים"
+
+#: admin/apps/users/uip-users-ajax.php:912
+msgid "Unable to add capability. Make sure role name is unique"
+msgstr "לא ניתן להוסיף יכולת. ודא ששם התפקיד הוא ייחודי"
+
+#: admin/apps/users/uip-users-ajax.php:917
+msgid "Capability added"
+msgstr "נוספה יכולת"
+
+#: admin/apps/users/uip-users-ajax.php:938
+msgid "You don't have sufficent priviledges to delete this capability"
+msgstr "אין לך הרשאות מספיקות כדי למחוק את היכולת הזו"
+
+#: admin/apps/users/uip-users-ajax.php:971
+msgid "Unable to delete capability. Make sure role name is unique"
+msgstr "לא ניתן למחוק יכולת. ודא ששם התפקיד הוא ייחודי"
+
+#: admin/apps/users/uip-users-ajax.php:976
+msgid "Capability deleted"
+msgstr "היכולת נמחקה"
+
+#: admin/apps/users/uip-users-ajax.php:996
+msgid "You don't have sufficent priviledges to create users"
+msgstr "אין לך מספיק הרשאות כדי ליצור משתמשים"
+
+#: admin/apps/users/uip-users-ajax.php:1003
+msgid "Username already exists"
+msgstr "שם משתמש כבר קיים"
+
+#: admin/apps/users/uip-users-ajax.php:1009
+msgid "Username is not valid"
+msgstr "שם המשתמש אינו חוקי"
+
+#: admin/apps/users/uip-users-ajax.php:1029
+msgid "Password is required"
+msgstr "דרושה סיסמא"
+
+#: admin/apps/users/uip-users-ajax.php:1088
+#: admin/apps/users/uip-users-ajax.php:1127
+msgid "You don't have sufficent priviledges to edit this user"
+msgstr "אין לך הרשאות מספיקות כדי לערוך משתמש זה"
+
+#: admin/apps/users/uip-users-ajax.php:1097
+msgid "Password reset link sent"
+msgstr "נשלח קישור לאיפוס סיסמה"
+
+#: admin/apps/users/uip-users-ajax.php:1101
+msgid "Unable to send password reset email at the moment"
+msgstr "לא ניתן לשלוח אימייל לאיפוס סיסמה כרגע"
+
+#: admin/apps/users/uip-users-ajax.php:1121
+msgid "No users sent to reset passwords!"
+msgstr "לא נשלחו משתמשים לאפס סיסמאות!"
+
+#: admin/apps/users/uip-users-ajax.php:1141
+msgid "Unable to send password reset email"
+msgstr "לא ניתן לשלוח אימייל לאיפוס סיסמה"
+
+#: admin/apps/users/uip-users-ajax.php:1142
+#: admin/apps/users/uip-users-ajax.php:1315
+#: admin/apps/users/uip-users-ajax.php:1325
+#, php-format
+msgid "User ID: %s"
+msgstr "מזהה משתמש: %s"
+
+#: admin/apps/users/uip-users-ajax.php:1148
+msgid "Password reset links succesfully sent"
+msgstr "קישורים לאיפוס סיסמה נשלחו בהצלחה"
+
+#: admin/apps/users/uip-users-ajax.php:1173
+msgid "Subject is required"
+msgstr "נושא חובה"
+
+#: admin/apps/users/uip-users-ajax.php:1179
+msgid "Reply to email is required"
+msgstr "יש להשיב למייל"
+
+#: admin/apps/users/uip-users-ajax.php:1185
+msgid "Message is required"
+msgstr "נדרשת הודעה"
+
+#: admin/apps/users/uip-users-ajax.php:1200
+msgid "No email to send message to."
+msgstr "אין מייל לשלוח אליו הודעה."
+
+#: admin/apps/users/uip-users-ajax.php:1232
+msgid "Unable to send mail at this time"
+msgstr "לא ניתן לשלוח דואר בשלב זה"
+
+#: admin/apps/users/uip-users-ajax.php:1237
+msgid "Message sent"
+msgstr "הודעה נשלחה"
+
+#: admin/apps/users/uip-users-ajax.php:1261
+msgid "You can't delete yourself!"
+msgstr "אתה לא יכול למחוק את עצמך!"
+
+#: admin/apps/users/uip-users-ajax.php:1270
+msgid "User successfully deleted"
+msgstr "המשתמש נמחק בהצלחה"
+
+#: admin/apps/users/uip-users-ajax.php:1274
+#: admin/apps/users/uip-users-ajax.php:1279
+#: admin/apps/users/uip-users-ajax.php:1305
+msgid "You don't have sufficent priviledges to delete this user"
+msgstr "אין לך הרשאות מספיקות כדי למחוק משתמש זה"
+
+#: admin/apps/users/uip-users-ajax.php:1299
+msgid "No users sent to delete!"
+msgstr "לא נשלחו משתמשים למחוק!"
+
+#: admin/apps/users/uip-users-ajax.php:1314
+msgid "You can't delete yourself"
+msgstr "אתה לא יכול למחוק את עצמך"
+
+#: admin/apps/users/uip-users-ajax.php:1324
+msgid "Unable to delete this user"
+msgstr "לא ניתן למחוק את המשתמש הזה"
+
+#: admin/apps/users/uip-users-ajax.php:1331
+msgid "Users successfully deleted"
+msgstr "משתמשים נמחקו בהצלחה"
+
+#: admin/apps/users/uip-users.php:53 admin/apps/users/uip-users.php:266
+#: admin/apps/users/uip-users.php:377 admin/apps/users/uip-users.php:1291
+msgid "Users"
+msgstr "משתמשים"
+
+#: admin/apps/users/uip-users.php:54
+msgid "Creates user management page"
+msgstr "יוצר דף ניהול משתמשים"
+
+#: admin/apps/users/uip-users.php:58
+msgid "Disable Users Page?"
+msgstr "להשבית את דף המשתמשים?"
+
+#: admin/apps/users/uip-users.php:59
+msgid ""
+"If disabled, the user management page will not be available to any users."
+msgstr "אם מושבת, דף ניהול המשתמשים לא יהיה זמין לאף משתמש."
+
+#: admin/apps/users/uip-users.php:66
+msgid "User management page Disabled for"
+msgstr "דף ניהול משתמשים מושבת עבור"
+
+#: admin/apps/users/uip-users.php:67
+msgid ""
+"When the user management page module is disabled, the user management page "
+"will not be accesible for the users / roles"
+msgstr ""
+"כאשר מודול דף ניהול המשתמשים מושבת, דף ניהול המשתמשים לא יהיה נגיש עבור "
+"המשתמשים / התפקידים"
+
+#: admin/apps/users/uip-users.php:75
+msgid "Enable user activity log?"
+msgstr "להפעיל יומן פעילות משתמש?"
+
+#: admin/apps/users/uip-users.php:76
+msgid ""
+"If enabled, uipress will log actions taken by all users, including page "
+"views, comments, post creation etc."
+msgstr ""
+"אם מופעל, uipress ירשום פעולות שננקטו על ידי כל המשתמשים, כולל צפיות בעמוד, "
+"הערות, יצירת פוסטים וכו'."
+
+#: admin/apps/users/uip-users.php:84
+msgid "Disable page view logging"
+msgstr "השבת רישום של תצוגת דף"
+
+#: admin/apps/users/uip-users.php:87
+#, php-format
+msgid ""
+"By Default, %s will track page views for logged in users as part of the "
+"activity log. While sometimes useful, this will have the biggest impact on "
+"the log size in the database. Disabling this feature will keep the log "
+"smaller."
+msgstr ""
+"כברירת מחדל, %s יעקוב אחר צפיות בדפים עבור משתמשים מחוברים כחלק מיומן "
+"הפעילות. למרות שלפעמים שימושי, תהיה לכך ההשפעה הגדולה ביותר על גודל היומן "
+"במסד הנתונים. השבתת תכונה זו תשמור את היומן קטן יותר."
+
+#: admin/apps/users/uip-users.php:99
+msgid "Enable recent page view logging"
+msgstr "אפשר רישום צפייה אחרונה בדף"
+
+#: admin/apps/users/uip-users.php:100
+#, php-format
+msgid ""
+"Seperate to the main history log, %s will keep 5 recent page views in the "
+"user meta. This can have a small impact on the page load speed."
+msgstr ""
+"בנפרד ליומן ההיסטוריה הראשי, %s ישמור 5 תצוגות עמוד אחרונות במטא המשתמש. לכך "
+"יכולה להיות השפעה קטנה על מהירות טעינת העמוד."
+
+#: admin/apps/users/uip-users.php:108
+msgid "How long to keep history?"
+msgstr "כמה זמן לשמור היסטוריה?"
+
+#: admin/apps/users/uip-users.php:109
+msgid ""
+"By default, activity items will be deleted after 60 days, enter the amount "
+"of days to keep items to change this"
+msgstr ""
+"כברירת מחדל, פריטי פעילות יימחקו לאחר 60 יום, הזינו את כמות הימים לשמירה על "
+"פריטים כדי לשנות זאת"
+
+#: admin/apps/users/uip-users.php:118
+msgid "Delay history entries?"
+msgstr "לדחות את כניסות ההיסטוריה?"
+
+#: admin/apps/users/uip-users.php:120
+msgid ""
+"Use scheduled tasks to insert the history actions to avoid any extra page "
+"load speed. By default entries are added as they happen, with this enabled "
+"there will be delay of about 10 seconds before actions appear."
+msgstr ""
+"השתמש במשימות מתוזמנות כדי להוסיף את פעולות ההיסטוריה כדי למנוע מהירות טעינת "
+"עמוד נוספת. כברירת מחדל, ערכים מתווספים כשהם מתרחשים, כאשר זה מופעל יהיה "
+"עיכוב של כ-10 שניות לפני שפעולות יופיעו."
+
+#: admin/apps/users/uip-users.php:131
+msgid "Anonymize user IP addresses?"
+msgstr "להפוך כתובות IP של משתמשים לאנונימיות?"
+
+#: admin/apps/users/uip-users.php:132
+msgid ""
+"Each history item logs the users IP address, enable this to anonymize the "
+"address."
+msgstr ""
+"כל פריט היסטוריה רושם את כתובת ה-IP של המשתמש, אפשר זאת כדי להפוך את הכתובת "
+"לאנונימית."
+
+#: admin/apps/users/uip-users.php:217 admin/apps/users/uip-users.php:218
+msgid "User Management"
+msgstr "ניהול משתמשים"
+
+#: admin/apps/users/uip-users.php:270 admin/apps/users/uip-users.php:328
+#: admin/apps/users/uip-users.php:1244
+msgid "Roles"
+msgstr "תפקידים"
+
+#: admin/apps/users/uip-users.php:274
+msgid "Activity"
+msgstr "פעילות"
+
+#: admin/apps/users/uip-users.php:290
+msgid "results"
+msgstr "תוצאות"
+
+#: admin/apps/users/uip-users.php:291 admin/apps/users/uip-users.php:316
+msgid "Previous"
+msgstr "קודם"
+
+#: admin/apps/users/uip-users.php:292 admin/apps/users/uip-users.php:315
+msgid "Next"
+msgstr "הַבָּא"
+
+#: admin/apps/users/uip-users.php:293
+msgid "Search users"
+msgstr "חפש משתמשים"
+
+#: admin/apps/users/uip-users.php:294
+msgid "Filter by role"
+msgstr "סנן לפי תפקיד"
+
+#: admin/apps/users/uip-users.php:295
+msgid "Search roles"
+msgstr "חפש תפקידים"
+
+#: admin/apps/users/uip-users.php:296
+msgid "Table options"
+msgstr "אפשרויות טבלה"
+
+#: admin/apps/users/uip-users.php:297
+msgid "Order"
+msgstr "להזמין"
+
+#: admin/apps/users/uip-users.php:298
+msgid "Ascending"
+msgstr "עולה"
+
+#: admin/apps/users/uip-users.php:299
+msgid "Descending"
+msgstr "יורד"
+
+#: admin/apps/users/uip-users.php:300
+msgid "Sort By"
+msgstr "מיין לפי"
+
+#: admin/apps/users/uip-users.php:301
+msgid "Per page"
+msgstr "לכל עמוד"
+
+#: admin/apps/users/uip-users.php:302
+msgid "Fields"
+msgstr "שדות"
+
+#: admin/apps/users/uip-users.php:303
+msgid "Date created"
+msgstr "תאריך יצירה"
+
+#: admin/apps/users/uip-users.php:304
+msgid "On"
+msgstr "עַל"
+
+#: admin/apps/users/uip-users.php:305
+msgid "After"
+msgstr "לאחר"
+
+#: admin/apps/users/uip-users.php:306
+msgid "Before"
+msgstr "לפני"
+
+#: admin/apps/users/uip-users.php:307 admin/apps/users/uip-users.php:308
+msgid "Date filters"
+msgstr "מסנני תאריכים"
+
+#: admin/apps/users/uip-users.php:310
+msgid "Account created"
+msgstr "חשבון נוצר"
+
+#: admin/apps/users/uip-users.php:312 admin/apps/users/uip-users.php:326
+#: admin/apps/users/uip-users.php:1219
+msgid "Email"
+msgstr "אימייל"
+
+#: admin/apps/users/uip-users.php:313
+msgid "Recent page views"
+msgstr "צפיות בדפים אחרונות"
+
+#: admin/apps/users/uip-users.php:314
+msgid "Recent activity"
+msgstr "פעילות אחרונה"
+
+#: admin/apps/users/uip-users.php:317
+msgid "Last login"
+msgstr "כניסה אחרונה"
+
+#: admin/apps/users/uip-users.php:318
+msgid "Login location"
+msgstr "מיקום התחברות"
+
+#: admin/apps/users/uip-users.php:319
+msgid "No recent activity"
+msgstr "אין פעילות לאחרונה"
+
+#: admin/apps/users/uip-users.php:320
+msgid "Total posts"
+msgstr "סך הפוסטים"
+
+#: admin/apps/users/uip-users.php:321
+msgid "Total comments"
+msgstr "סך הכל תגובות"
+
+#: admin/apps/users/uip-users.php:322
+msgid "User Options"
+msgstr "אפשרויות משתמש"
+
+#: admin/apps/users/uip-users.php:323 admin/apps/users/uip-users.php:332
+msgid "Edit user"
+msgstr "ערוך משתמש"
+
+#: admin/apps/users/uip-users.php:324
+msgid "First name"
+msgstr "שם פרטי"
+
+#: admin/apps/users/uip-users.php:325
+msgid "Last name"
+msgstr "שם משפחה"
+
+#: admin/apps/users/uip-users.php:327
+msgid "Assign roles"
+msgstr "הקצה תפקידים"
+
+#: admin/apps/users/uip-users.php:329
+msgid "User notes"
+msgstr "הערות משתמש"
+
+#: admin/apps/users/uip-users.php:330
+msgid "Cancel"
+msgstr "לְבַטֵל"
+
+#: admin/apps/users/uip-users.php:331
+msgid "Update user"
+msgstr "עדכן משתמש"
+
+#: admin/apps/users/uip-users.php:333
+msgid "Send password reset"
+msgstr "שלח איפוס סיסמה"
+
+#: admin/apps/users/uip-users.php:334 admin/apps/users/uip-users.php:342
+msgid "Send message"
+msgstr "לשלוח הודעה"
+
+#: admin/apps/users/uip-users.php:335
+msgid "Delete user"
+msgstr "מחק משתמש"
+
+#: admin/apps/users/uip-users.php:336
+msgid "Are you sure you want to delete this user?"
+msgstr "האם אתה בטוח שברצונך למחוק משתמש זה?"
+
+#: admin/apps/users/uip-users.php:337
+msgid "Are you sure you want to the selected users?"
+msgstr "האם אתה בטוח שאתה רוצה למשתמשים שנבחרו?"
+
+#: admin/apps/users/uip-users.php:338
+msgid ""
+"Are you sure you want to send password reset links to the selected users?"
+msgstr "האם אתה בטוח שברצונך לשלוח קישורים לאיפוס סיסמה למשתמשים שנבחרו?"
+
+#: admin/apps/users/uip-users.php:339
+msgid "Recipient"
+msgstr "מקבל"
+
+#: admin/apps/users/uip-users.php:340
+msgid "Subject"
+msgstr "נושא"
+
+#: admin/apps/users/uip-users.php:341
+msgid "Message"
+msgstr "הוֹדָעָה"
+
+#: admin/apps/users/uip-users.php:343
+msgid "Reply to email"
+msgstr "השב למייל"
+
+#: admin/apps/users/uip-users.php:344
+msgid "New user"
+msgstr "משתמש חדש"
+
+#: admin/apps/users/uip-users.php:345
+msgid "Save user"
+msgstr "שמור משתמש"
+
+#: admin/apps/users/uip-users.php:346
+msgid "Password"
+msgstr "סיסמה"
+
+#: admin/apps/users/uip-users.php:347 admin/apps/users/uip-users.php:1207
+msgid "Username"
+msgstr "שם משתמש"
+
+#: admin/apps/users/uip-users.php:348 admin/apps/users/uip-users.php:1279
+msgid "Role name"
+msgstr "שם תפקיד"
+
+#: admin/apps/users/uip-users.php:349
+msgid "Edit role"
+msgstr "ערוך תפקיד"
+
+#: admin/apps/users/uip-users.php:350
+msgid "Save role"
+msgstr "שמור תפקיד"
+
+#: admin/apps/users/uip-users.php:351
+msgid "Capabilities"
+msgstr "יכולות"
+
+#: admin/apps/users/uip-users.php:353
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"אתה עורך כעת את תפקיד המנהל. זה בדרך כלל התפקיד החשוב ביותר באתר אז אנא הקפד "
+"לא להסיר את היכולות הכרחיות."
+
+#: admin/apps/users/uip-users.php:356
+msgid "Delete role"
+msgstr "מחק תפקיד"
+
+#: admin/apps/users/uip-users.php:357
+msgid "Are you sure you want to delete this role?"
+msgstr "האם אתה בטוח שברצונך למחוק את התפקיד הזה?"
+
+#: admin/apps/users/uip-users.php:358
+msgid "Are you sure you want to delete these roles?"
+msgstr "האם אתה בטוח שברצונך למחוק את התפקידים האלה?"
+
+#: admin/apps/users/uip-users.php:359
+msgid "Role options"
+msgstr "אפשרויות תפקיד"
+
+#: admin/apps/users/uip-users.php:360
+msgid "Clone"
+msgstr "שיבוט"
+
+#: admin/apps/users/uip-users.php:361
+msgid "New role"
+msgstr "תפקיד חדש"
+
+#: admin/apps/users/uip-users.php:362
+msgid "Role label"
+msgstr "תווית תפקיד"
+
+#: admin/apps/users/uip-users.php:363
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "מילה בודדת, ללא רווחים. מותרים קווים תחתונים ומקפים"
+
+#: admin/apps/users/uip-users.php:364
+msgid "copy"
+msgstr "עותק"
+
+#: admin/apps/users/uip-users.php:365
+msgid "search roles"
+msgstr "חיפוש תפקידים"
+
+#: admin/apps/users/uip-users.php:366
+msgid "Search history"
+msgstr "חפש היסטוריה"
+
+#: admin/apps/users/uip-users.php:367
+msgid "All actions"
+msgstr "כל הפעולות"
+
+#: admin/apps/users/uip-users.php:368
+msgid "Add custom capability (Single word, no spaces)"
+msgstr "הוסף יכולת מותאמת אישית (מילה אחת, ללא רווחים)"
+
+#: admin/apps/users/uip-users.php:369
+msgid "Add capability"
+msgstr "הוסף יכולת"
+
+#: admin/apps/users/uip-users.php:370
+msgid "roles selected"
+msgstr "נבחרו תפקידים"
+
+#: admin/apps/users/uip-users.php:371
+msgid "Delete selected"
+msgstr "מחק את הנבחר"
+
+#: admin/apps/users/uip-users.php:372
+msgid "Deselect"
+msgstr "בטל את הבחירה"
+
+#: admin/apps/users/uip-users.php:373
+msgid "Delete users"
+msgstr "מחק משתמשים"
+
+#: admin/apps/users/uip-users.php:374
+msgid "Clear selection"
+msgstr "נקה בחירה"
+
+#: admin/apps/users/uip-users.php:375
+msgid "recipients"
+msgstr "נמענים"
+
+#: admin/apps/users/uip-users.php:376 admin/classes/uipress-app.php:1409
+msgid "users"
+msgstr "משתמשים"
+
+#: admin/apps/users/uip-users.php:378
+msgid "Replace existing roles"
+msgstr "החלף תפקידים קיימים"
+
+#: admin/apps/users/uip-users.php:379
+msgid "Update roles"
+msgstr "עדכן תפקידים"
+
+#: admin/apps/users/uip-users.php:380
+msgid "users selected"
+msgstr "משתמשים שנבחרו"
+
+#: admin/apps/users/uip-users.php:381
+msgid "Choose image"
+msgstr "בחר תמונה"
+
+#: admin/apps/users/uip-users.php:382
+msgid "Profile image"
+msgstr "תמונת פרופיל"
+
+#: admin/apps/users/uip-users.php:383 admin/apps/users/uip-users.php:387
+#: admin/apps/users/uip-users.php:1250
+msgid "Groups"
+msgstr "קבוצות"
+
+#: admin/apps/users/uip-users.php:384
+msgid "All users"
+msgstr "כל המשתמשים"
+
+#: admin/apps/users/uip-users.php:385
+msgid "No group"
+msgstr "אין קבוצה"
+
+#: admin/apps/users/uip-users.php:386
+msgid "No groups created yet."
+msgstr "עדיין לא נוצרו קבוצות."
+
+#: admin/apps/users/uip-users.php:388
+msgid "New group"
+msgstr "קבוצה חדשה"
+
+#: admin/apps/users/uip-users.php:390
+msgid "Color"
+msgstr "צֶבַע"
+
+#: admin/apps/users/uip-users.php:391
+msgid "Create group"
+msgstr "צור קבוצה"
+
+#: admin/apps/users/uip-users.php:392
+msgid "Group name"
+msgstr "שם קבוצה"
+
+#: admin/apps/users/uip-users.php:393
+msgid "Edit group"
+msgstr "ערוך קבוצה"
+
+#: admin/apps/users/uip-users.php:394
+msgid "Update group"
+msgstr "עדכן את הקבוצה"
+
+#: admin/apps/users/uip-users.php:395
+msgid "Remove from group"
+msgstr "הסר מהקבוצה"
+
+#: admin/apps/users/uip-users.php:396
+msgid "User groups"
+msgstr "קבוצות משתמש"
+
+#: admin/apps/users/uip-users.php:397
+msgid "Assign groups"
+msgstr "הקצאת קבוצות"
+
+#: admin/apps/users/uip-users.php:398
+msgid "Search groups"
+msgstr "חפש קבוצות"
+
+#: admin/apps/users/uip-users.php:399
+msgid "Pro feature"
+msgstr "תכונת פרו"
+
+#: admin/apps/users/uip-users.php:400
+msgid "Upgrade to UiPress Pro to unlock the user management and activity logs"
+msgstr "שדרג ל-UiPress Pro כדי לפתוח את יומני ניהול המשתמשים ויומני הפעילות"
+
+#: admin/apps/users/uip-users.php:401
+msgid "View Uipress Pro plans"
+msgstr "צפה בתוכניות Uipress Pro"
+
+#: admin/apps/users/uip-users.php:402
+msgid "Group icon"
+msgstr "סמל קבוצה"
+
+#: admin/apps/users/uip-users.php:403
+msgid "Logout everywhere else"
+msgstr "התנתק בכל מקום אחר"
+
+#: admin/apps/users/uip-users.php:404
+msgid "Open profile"
+msgstr "פתח פרופיל"
+
+#: admin/apps/users/uip-users.php:405
+msgid ""
+"Are you sure you want to delete this capability? This will remove the "
+"capability sitewide. Please note not all capabilities can be deleted."
+msgstr ""
+"האם אתה בטוח שברצונך למחוק את היכולת הזו? פעולה זו תסיר את היכולת בכל האתר. "
+"שימו לב שלא ניתן למחוק את כל היכולות."
+
+#: admin/apps/users/uip-users.php:517
+msgid "Read"
+msgstr "לקרוא"
+
+#: admin/apps/users/uip-users.php:529
+msgid "Publish"
+msgstr "לְפַרְסֵם"
+
+#: admin/apps/users/uip-users.php:535 admin/classes/uipress-app.php:1335
+msgid "Create"
+msgstr "לִיצוֹר"
+
+#: admin/apps/users/uip-users.php:553
+msgid "Manage"
+msgstr "לנהל"
+
+#: admin/apps/users/uip-users.php:565 admin/classes/settings.php:242
+#: admin/classes/styles.php:442
+msgid "Import"
+msgstr "יְבוּא"
+
+#: admin/apps/users/uip-users.php:571
+msgid "Custom"
+msgstr "המותאם אישית"
+
+#: admin/apps/users/uip-users.php:737
+msgid "User no longer exists"
+msgstr "המשתמש כבר לא קיים"
+
+#: admin/apps/users/uip-users.php:742 admin/apps/users/uip-users.php:1106
+#, php-format
+msgid "%s ago"
+msgstr "לפני %s"
+
+#: admin/apps/users/uip-users.php:753 admin/apps/users/uip-users.php:1370
+msgid "Page view"
+msgstr "תצוגת עמוד"
+
+#: admin/apps/users/uip-users.php:755
+msgid "Viewed page"
+msgstr "הדף נצפה"
+
+#: admin/apps/users/uip-users.php:764 admin/apps/users/uip-users.php:1374
+msgid "Post created"
+msgstr "הפוסט נוצר"
+
+#: admin/apps/users/uip-users.php:766
+msgid "Created post"
+msgstr "נוצר פוסט"
+
+#: admin/apps/users/uip-users.php:769 admin/apps/users/uip-users.php:790
+#: admin/apps/users/uip-users.php:838
+msgid "View page"
+msgstr "צפה בדף"
+
+#: admin/apps/users/uip-users.php:773 admin/apps/users/uip-users.php:794
+#: admin/apps/users/uip-users.php:811 admin/apps/users/uip-users.php:842
+msgid "Edit page"
+msgstr "ערוך עמוד"
+
+#: admin/apps/users/uip-users.php:785
+msgid "Post modified"
+msgstr "הפוסט שונה"
+
+#: admin/apps/users/uip-users.php:787
+msgid "Modified post"
+msgstr "פוסט שונה"
+
+#: admin/apps/users/uip-users.php:806
+msgid "Post moved to trash"
+msgstr "הפוסט הועבר לאשפה"
+
+#: admin/apps/users/uip-users.php:808
+msgid "Moved post to trash"
+msgstr "הפוסט הועבר לאשפה"
+
+#: admin/apps/users/uip-users.php:820 admin/apps/users/uip-users.php:1386
+msgid "Post deleted"
+msgstr "הפוסט נמחק"
+
+#: admin/apps/users/uip-users.php:822
+msgid "Deleted post"
+msgstr "פוסט נמחק"
+
+#: admin/apps/users/uip-users.php:831 admin/apps/users/uip-users.php:1390
+msgid "Post status change"
+msgstr "שינוי סטטוס פוסט"
+
+#: admin/apps/users/uip-users.php:834
+#, php-format
+msgid "Post status changed from %s to %s"
+msgstr "סטטוס הפוסט השתנה מ-%s ל-%s"
+
+#: admin/apps/users/uip-users.php:855
+msgid "Posted a comment"
+msgstr "פרסם תגובה"
+
+#: admin/apps/users/uip-users.php:857
+msgid "Posted a comment on post"
+msgstr "פרסם תגובה לפוסט"
+
+#: admin/apps/users/uip-users.php:868 admin/apps/users/uip-users.php:898
+msgid "View comment"
+msgstr "הצג תגובה"
+
+#: admin/apps/users/uip-users.php:872 admin/apps/users/uip-users.php:902
+msgid "Edit comment"
+msgstr "ערוך תגובה"
+
+#: admin/apps/users/uip-users.php:884
+msgid "Trashed a comment"
+msgstr "זרק תגובה"
+
+#: admin/apps/users/uip-users.php:886
+msgid "Moved a comment to the trash"
+msgstr "העבירו תגובה לפח"
+
+#: admin/apps/users/uip-users.php:912
+msgid "Deleted a comment"
+msgstr "נמחקה תגובה"
+
+#: admin/apps/users/uip-users.php:914
+msgid "Permanently deleted a comment"
+msgstr "הערה נמחקה לצמיתות"
+
+#: admin/apps/users/uip-users.php:920 admin/apps/users/uip-users.php:1403
+msgid "Plugin activated"
+msgstr "הפלאגין הופעל"
+
+#: admin/apps/users/uip-users.php:922
+#, php-format
+msgid "A plugin called %s was activated"
+msgstr "תוסף בשם %s הופעל"
+
+#: admin/apps/users/uip-users.php:928 admin/apps/users/uip-users.php:1407
+msgid "Plugin deactivated"
+msgstr "הפלאגין מושבת"
+
+#: admin/apps/users/uip-users.php:930
+#, php-format
+msgid "A plugin called %s was deactivated"
+msgstr "תוסף בשם %s הושבת"
+
+#: admin/apps/users/uip-users.php:936
+msgid "User logged in"
+msgstr "משתמש מחובר"
+
+#: admin/apps/users/uip-users.php:938
+#, php-format
+msgid "Logged in with ip address %s. Country: %s"
+msgstr "מחובר עם כתובת ה-IP %s. מדינה: %s"
+
+#: admin/apps/users/uip-users.php:944
+msgid "User logged out"
+msgstr "המשתמש התנתק"
+
+#: admin/apps/users/uip-users.php:946
+#, php-format
+msgid "Logged out with ip address %s. Country: %s"
+msgstr "התנתק עם כתובת ה-IP %s. מדינה: %s"
+
+#: admin/apps/users/uip-users.php:982 admin/apps/users/uip-users.php:988
+#: admin/apps/users/uip-users.php:1002
+msgid "Site option changed"
+msgstr "אפשרות האתר השתנתה"
+
+#: admin/apps/users/uip-users.php:984
+#, php-format
+msgid "Site option (%s) was changed from %s to %s"
+msgstr "אפשרות האתר (%s) שונתה מ-%s ל-%s"
+
+#: admin/apps/users/uip-users.php:990
+#, php-format
+msgid "Site option was changed. %s"
+msgstr "אפשרות האתר שונתה. %s"
+
+#: admin/apps/users/uip-users.php:1004
+#, php-format
+msgid "Site option (%s) was added with a value of (%s)"
+msgstr "אפשרות אתר (%s) נוספה עם ערך של (%s)"
+
+#: admin/apps/users/uip-users.php:1010
+msgid "Uploaded attachment"
+msgstr "הועלה קובץ מצורף"
+
+#: admin/apps/users/uip-users.php:1012
+#, php-format
+msgid "Attachment called (%s) was uploaded to (%s). Attachment ID: %s"
+msgstr "קובץ מצורף בשם (%s) הועלה אל (%s). מזהה מצורף: %s"
+
+#: admin/apps/users/uip-users.php:1021
+msgid "View attachment"
+msgstr "צפה בקובץ המצורף"
+
+#: admin/apps/users/uip-users.php:1029
+msgid "Deleted attachment"
+msgstr "קובץ מצורף נמחק"
+
+#: admin/apps/users/uip-users.php:1031
+#, php-format
+msgid "Attachment called (%s) was deleted. Attachment ID: %s"
+msgstr "קובץ מצורף בשם (%s) נמחק. מזהה מצורף: %s"
+
+#: admin/apps/users/uip-users.php:1037 admin/apps/users/uip-users.php:1262
+#: admin/apps/users/uip-users.php:1435
+msgid "User created"
+msgstr "המשתמש נוצר"
+
+#: admin/apps/users/uip-users.php:1039
+#, php-format
+msgid "New user created with username (%s) and email (%s)"
+msgstr "משתמש חדש נוצר עם שם משתמש (%s) ואימייל (%s)"
+
+#: admin/apps/users/uip-users.php:1045 admin/apps/users/uip-users.php:1439
+msgid "User deleted"
+msgstr "המשתמש נמחק"
+
+#: admin/apps/users/uip-users.php:1047
+#, php-format
+msgid "A user with username (%s) and email (%s) was deleted"
+msgstr "משתמש עם שם משתמש (%s) ואימייל (%s) נמחק"
+
+#: admin/apps/users/uip-users.php:1082 admin/apps/users/uip-users.php:1443
+msgid "User updated"
+msgstr "המשתמש עודכן"
+
+#: admin/apps/users/uip-users.php:1084
+#, php-format
+msgid "A user with username (%s) and email (%s) was updated from (%s) to (%s)"
+msgstr "משתמש עם שם משתמש (%s) ואימייל (%s) עודכן מ-(%s) ל-(%s)"
+
+#: admin/apps/users/uip-users.php:1226
+msgid "First Name"
+msgstr "שם פרטי"
+
+#: admin/apps/users/uip-users.php:1232
+msgid "Last Name"
+msgstr "שם משפחה"
+
+#: admin/apps/users/uip-users.php:1238
+msgid "Last Login"
+msgstr "כניסה אחרונה"
+
+#: admin/apps/users/uip-users.php:1256
+msgid "User ID"
+msgstr "תעודת זהות של המשתמש"
+
+#: admin/apps/users/uip-users.php:1298
+msgid "Permissions granted"
+msgstr "ניתנו הרשאות"
+
+#: admin/apps/users/uip-users.php:1315
+msgid "ID"
+msgstr "תְעוּדַת זֶהוּת"
+
+#: admin/apps/users/uip-users.php:1327
+msgid "IP Address"
+msgstr "כתובת ה - IP"
+
+#: admin/apps/users/uip-users.php:1340
+msgid "Time"
+msgstr "זְמַן"
+
+#: admin/apps/users/uip-users.php:1347
+msgid "Action"
+msgstr "פעולה"
+
+#: admin/apps/users/uip-users.php:1378
+msgid "Post updated"
+msgstr "הפוסט עודכן"
+
+#: admin/apps/users/uip-users.php:1382
+msgid "Post trashed"
+msgstr "הפוסט הושלך לאשפה"
+
+#: admin/apps/users/uip-users.php:1394
+msgid "Trashed comment"
+msgstr "תגובה אשפה"
+
+#: admin/apps/users/uip-users.php:1398
+msgid "Deelete comment"
+msgstr "תגובה של Deelete"
+
+#: admin/apps/users/uip-users.php:1411
+msgid "User login"
+msgstr "כניסת משתמש"
+
+#: admin/apps/users/uip-users.php:1415
+msgid "User logout"
+msgstr "התנתק משתמש"
+
+#: admin/apps/users/uip-users.php:1419
+msgid "Option change"
+msgstr "שינוי אופציה"
+
+#: admin/apps/users/uip-users.php:1423
+msgid "Site option added"
+msgstr "נוספה אפשרות לאתר"
+
+#: admin/apps/users/uip-users.php:1427
+msgid "Attachmnet uploaded"
+msgstr "קובץ מצורף הועלה"
+
+#: admin/apps/users/uip-users.php:1431
+msgid "Attachmnet deleted"
+msgstr "הרשת המצורפת נמחקה"
+
+#: admin/classes/debug.php:133 admin/classes/debug.php:139
+#: admin/classes/debug.php:161
+msgid "Unable to register UiPress at this time"
+msgstr "לא ניתן לרשום את UiPress בשלב זה"
+
+#: admin/classes/debug.php:152
+msgid "UiPress succesfully activated"
+msgstr "UiPress הופעל בהצלחה"
+
+#: admin/classes/folders.php:112 admin/classes/uipress-app.php:453
+#: admin/classes/uipress-app.php:1367
+msgid "Folders"
+msgstr "תיקיות"
+
+#: admin/classes/folders.php:113
+msgid "Creates media folder system."
+msgstr "יוצר מערכת תיקיות מדיה."
+
+#: admin/classes/folders.php:117
+msgid "Disable Folders?"
+msgstr "להשבית תיקיות?"
+
+#: admin/classes/folders.php:118
+msgid "No media folders will be displayed when this option is activated."
+msgstr "לא יוצגו תיקיות מדיה כאשר אפשרות זו מופעלת."
+
+#: admin/classes/folders.php:125
+msgid "Folders Disabled For"
+msgstr "תיקיות מושבתות עבור"
+
+#: admin/classes/folders.php:126
+#, php-format
+msgid "%s folders will be disabled for any users or roles you select"
+msgstr "תיקיות %s יושבתו עבור כל משתמש או תפקיד שתבחר"
+
+#: admin/classes/folders.php:134
+msgid "Enable folders for post types"
+msgstr "אפשר תיקיות עבור סוגי פוסטים"
+
+#: admin/classes/folders.php:135
+#, php-format
+msgid "%s folders will be enabled post, page and custom post types you choose"
+msgstr "תיקיות %s יתאפשרו פוסטים, דפים וסוגי פוסטים מותאמים אישית שתבחר"
+
+#: admin/classes/folders.php:171
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "פעולות"
+
+#: admin/classes/folders.php:173
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "תַפרִיט"
+
+#: admin/classes/folders.php:311
+msgid "No folder to delete"
+msgstr "אין תיקיה למחוק"
+
+#: admin/classes/folders.php:321
+msgid "Unable to delete the folder"
+msgstr "לא ניתן למחוק את התיקיה"
+
+#: admin/classes/folders.php:372
+msgid "Folder deleted"
+msgstr "התיקיה נמחקה"
+
+#: admin/classes/folders.php:391
+msgid "Unable to move folder into itself"
+msgstr "לא מצליח להעביר את התיקיה לתוך עצמה"
+
+#: admin/classes/folders.php:405
+msgid "Unable to move folder"
+msgstr "לא ניתן להעביר את התיקיה"
+
+#: admin/classes/folders.php:433
+msgid "Folder moved"
+msgstr "התיקייה הועברה"
+
+#: admin/classes/folders.php:536
+msgid "Folder updated"
+msgstr "התיקיה עודכנה"
+
+#: admin/classes/folders.php:578
+msgid "Unable to create folder"
+msgstr "לא ניתן ליצור תיקיה"
+
+#: admin/classes/folders.php:589
+msgid "Folder created"
+msgstr "נוצרה תיקייה"
+
+#: admin/classes/settings.php:144
+msgid "Unable to save user settings"
+msgstr "לא ניתן לשמור את הגדרות המשתמש"
+
+#: admin/classes/settings.php:150 admin/classes/uipress-app.php:1358
+msgid "Settings saved"
+msgstr "הגדרות נשמרו"
+
+#: admin/classes/settings.php:164
+msgid "Settings reset"
+msgstr "איפוס ההגדרות"
+
+#: admin/classes/settings.php:209 admin/classes/styles.php:432
+msgid "Version"
+msgstr "גִרְסָה"
+
+#: admin/classes/settings.php:230
+msgid "Save settings"
+msgstr "שמור הגדרות"
+
+#: admin/classes/settings.php:413
+msgid "No licence key provided"
+msgstr "לא סופק מפתח רישיון"
+
+#: admin/classes/settings.php:445
+msgid "Licence removed"
+msgstr "הרישיון הוסר"
+
+#: admin/classes/styles.php:138 admin/classes/styles.php:151
+#: admin/classes/styles.php:430
+msgid "Styles"
+msgstr "סגנונות"
+
+#: admin/classes/styles.php:213
+msgid "Unable to fetch themes at this moment. Please try again later"
+msgstr "לא ניתן להביא ערכות נושא כרגע. בבקשה נסה שוב מאוחר יותר"
+
+#: admin/classes/styles.php:247
+msgid "Unable to like theme at this moment. Please try again later"
+msgstr "לא ניתן לאהוב את הנושא כרגע. בבקשה נסה שוב מאוחר יותר"
+
+#: admin/classes/styles.php:266
+msgid "Unable to save styles"
+msgstr "לא ניתן לשמור סגנונות"
+
+#: admin/classes/styles.php:292
+msgid "Styles saved"
+msgstr "סגנונות נשמרו"
+
+#: admin/classes/styles.php:411
+msgid ""
+"Uipress styles isn't optimised for mobile devices. Switch to a larger screen "
+"to modify UiPress Styles"
+msgstr ""
+"סגנונות Uipress לא מותאם למכשירים ניידים. עבור למסך גדול יותר כדי לשנות את "
+"סגנונות UiPress"
+
+#: admin/classes/styles.php:469
+msgid "Clear All"
+msgstr "נקה הכל"
+
+#: admin/classes/styles.php:533
+msgid "Global"
+msgstr "גלוֹבָּלִי"
+
+#: admin/classes/styles.php:536
+msgid "Body Background"
+msgstr "רקע גוף"
+
+#: admin/classes/styles.php:547
+msgid "Default Background"
+msgstr "רקע ברירת מחדל"
+
+#: admin/classes/styles.php:558
+msgid "Muted Background"
+msgstr "רקע מושתק"
+
+#: admin/classes/styles.php:569
+msgid "Muted Background Accent"
+msgstr "מבטא רקע מושתק"
+
+#: admin/classes/styles.php:580
+msgid "Primary Color"
+msgstr "צבע יסוד"
+
+#: admin/classes/styles.php:591
+msgid "Primary Color Wash"
+msgstr "כביסה בצבע ראשוני"
+
+#: admin/classes/styles.php:602
+msgid "Primary Color Hover"
+msgstr "ריחוף צבע ראשי"
+
+#: admin/classes/styles.php:613
+msgid "Secondary Color"
+msgstr "צבע משני"
+
+#: admin/classes/styles.php:624
+msgid "Secondary Color Hover"
+msgstr "ריחוף צבע משני"
+
+#: admin/classes/styles.php:635
+msgid "Font"
+msgstr "גוֹפָן"
+
+#: admin/classes/styles.php:646
+msgid "Border Width"
+msgstr "רוחב גבול"
+
+#: admin/classes/styles.php:657
+msgid "Border Radius"
+msgstr "רדיוס הגבול"
+
+#: admin/classes/styles.php:668
+msgid "Border Colour"
+msgstr "צבע גבול"
+
+#: admin/classes/styles.php:679
+msgid "Notification Background"
+msgstr "רקע הודעה"
+
+#: admin/classes/styles.php:696
+msgid "Base font size"
+msgstr "גודל גופן בסיס"
+
+#: admin/classes/styles.php:707 admin/classes/styles.php:1008
+#: admin/classes/styles.php:1148
+msgid "Text Color"
+msgstr "צבע טקסט"
+
+#: admin/classes/styles.php:718
+msgid "Text Emphasis Color"
+msgstr "צבע הדגשת טקסט"
+
+#: admin/classes/styles.php:729
+msgid "Text Muted Color"
+msgstr "טקסט מושתק צבע"
+
+#: admin/classes/styles.php:745
+msgid "Buttons"
+msgstr "כפתורים"
+
+#: admin/classes/styles.php:748
+msgid "Button Border Radius"
+msgstr "רדיוס גבול לחצן"
+
+#: admin/classes/styles.php:760
+msgid "Button Border Width"
+msgstr "רוחב גבול לחצן"
+
+#: admin/classes/styles.php:772
+msgid "Default Button Border Colour"
+msgstr "צבע גבול לחצן ברירת מחדל"
+
+#: admin/classes/styles.php:784
+msgid "Default Button Background Colour"
+msgstr "צבע רקע לחצן ברירת המחדל"
+
+#: admin/classes/styles.php:796
+msgid "Default Button Hover Background Colour"
+msgstr "צבע רקע לרחף לחצן ברירת המחדל"
+
+#: admin/classes/styles.php:808
+msgid "Default Button Text Colour"
+msgstr "צבע טקסט של לחצן ברירת מחדל"
+
+#: admin/classes/styles.php:821
+msgid "Primary Button Border Colour"
+msgstr "צבע גבול כפתור ראשי"
+
+#: admin/classes/styles.php:833
+msgid "Primary Button Background Colour"
+msgstr "צבע רקע של כפתור ראשי"
+
+#: admin/classes/styles.php:845
+msgid "Primary Button Hover Background Colour"
+msgstr "צבע רקע לרחף כפתור ראשי"
+
+#: admin/classes/styles.php:857
+msgid "Primary Button Text Colour"
+msgstr "צבע טקסט של לחצן ראשי"
+
+#: admin/classes/styles.php:870
+msgid "Danger Button Border Colour"
+msgstr "צבע גבול לחצן סכנה"
+
+#: admin/classes/styles.php:882
+msgid "Danger Button Background Colour"
+msgstr "צבע רקע של לחצן סכנה"
+
+#: admin/classes/styles.php:894
+msgid "Danger Button Hover Background Colour"
+msgstr "צבע רקע לרחף לחצן סכנה"
+
+#: admin/classes/styles.php:906
+msgid "Danger Button Text Colour"
+msgstr "צבע טקסט לחצן סכנה"
+
+#: admin/classes/styles.php:919
+msgid "Page Action Button Border Colour"
+msgstr "צבע גבול לחצן פעולת עמוד"
+
+#: admin/classes/styles.php:931
+msgid "Page Action Button Background Colour"
+msgstr "צבע רקע לחצן פעולת עמוד"
+
+#: admin/classes/styles.php:943
+msgid "Page Action Button Hover Background Colour"
+msgstr "צבע רקע של לחצן פעולת עמוד"
+
+#: admin/classes/styles.php:955
+msgid "Page Action Button Text Colour"
+msgstr "לחצן פעולת עמוד צבע טקסט"
+
+#: admin/classes/styles.php:973 admin/classes/uipress-app.php:2669
+msgid "Menu"
+msgstr "תַפרִיט"
+
+#: admin/classes/styles.php:975
+msgid "Background Color"
+msgstr "צבע רקע"
+
+#: admin/classes/styles.php:986 admin/classes/styles.php:1170
+msgid "Secondary background Color"
+msgstr "צבע רקע משני"
+
+#: admin/classes/styles.php:997
+msgid "Button Hover background Color"
+msgstr "כפתור רחף צבע רקע"
+
+#: admin/classes/styles.php:1019
+msgid "Active Text Color"
+msgstr "צבע טקסט פעיל"
+
+#: admin/classes/styles.php:1030
+msgid "Active Top Level Item background colour"
+msgstr "צבע רקע של פריט ברמה עליונה פעיל"
+
+#: admin/classes/styles.php:1041
+msgid "Search Input background colour"
+msgstr "צבע רקע קלט חיפוש"
+
+#: admin/classes/styles.php:1052
+msgid "Search Input text colour"
+msgstr "צבע טקסט קלט חיפוש"
+
+#: admin/classes/styles.php:1063
+msgid "Submenu Text Color"
+msgstr "צבע טקסט בתפריט המשנה"
+
+#: admin/classes/styles.php:1074
+msgid "Submenu Active Text Color"
+msgstr "תפריט משנה צבע טקסט פעיל"
+
+#: admin/classes/styles.php:1085
+msgid "Submenu Hover Text Color"
+msgstr "תפריט משנה רחף צבע טקסט"
+
+#: admin/classes/styles.php:1096
+msgid "Width"
+msgstr "רוֹחַב"
+
+#: admin/classes/styles.php:1108
+msgid "Padding"
+msgstr "ריפוד"
+
+#: admin/classes/styles.php:1120
+msgid "Logo Height"
+msgstr "גובה לוגו"
+
+#: admin/classes/styles.php:1134 admin/classes/uipress-app.php:2773
+msgid "Toolbar"
+msgstr "סרגל כלים"
+
+#: admin/classes/styles.php:1137
+msgid "Toolbar Background Color"
+msgstr "צבע רקע של סרגל הכלים"
+
+#: admin/classes/styles.php:1159
+msgid "Link Hover Text Color"
+msgstr "קישור ריחוף צבע טקסט"
+
+#: admin/classes/styles.php:1183
+msgid "Cards"
+msgstr "קלפים"
+
+#: admin/classes/styles.php:1186 admin/classes/styles.php:1270
+msgid "Background color"
+msgstr "צבע רקע"
+
+#: admin/classes/styles.php:1198
+msgid "Border color"
+msgstr "צבע גבול"
+
+#: admin/classes/styles.php:1210
+msgid "Border radius"
+msgstr "רדיוס גבול"
+
+#: admin/classes/styles.php:1222
+msgid "Shadow spread"
+msgstr "התפשטות צל"
+
+#: admin/classes/styles.php:1234
+msgid "Shadow blur"
+msgstr "טשטוש צל"
+
+#: admin/classes/styles.php:1246
+msgid "Shadow color"
+msgstr "צבע צל"
+
+#: admin/classes/styles.php:1267 admin/classes/uipress-app.php:2944
+msgid "Login"
+msgstr "התחברות"
+
+#: admin/classes/uipress-app.php:268
+msgctxt "post type general name"
+msgid "Folder"
+msgstr "תיקייה"
+
+#: admin/classes/uipress-app.php:269
+msgctxt "post type singular name"
+msgid "folder"
+msgstr "תיקייה"
+
+#: admin/classes/uipress-app.php:270
+msgctxt "admin menu"
+msgid "Folders"
+msgstr "תיקיות"
+
+#: admin/classes/uipress-app.php:271
+msgctxt "add new on admin bar"
+msgid "Folder"
+msgstr "תיקייה"
+
+#: admin/classes/uipress-app.php:272
+msgctxt "folder"
+msgid "Add New"
+msgstr "הוסף חדש"
+
+#: admin/classes/uipress-app.php:273 admin/classes/uipress-app.php:284
+msgid "Add New Folder"
+msgstr "הוסף תיקיה חדשה"
+
+#: admin/classes/uipress-app.php:274 admin/classes/uipress-app.php:1368
+msgid "New Folder"
+msgstr "תיקייה חדשה"
+
+#: admin/classes/uipress-app.php:275 admin/classes/uipress-app.php:1372
+msgid "Edit Folder"
+msgstr "ערוך תיקייה"
+
+#: admin/classes/uipress-app.php:276
+msgid "View Folder"
+msgstr "הצג תיקייה"
+
+#: admin/classes/uipress-app.php:277
+msgid "All Folders"
+msgstr "כל התיקיות"
+
+#: admin/classes/uipress-app.php:278
+msgid "Search Folders"
+msgstr "חיפוש תיקיות"
+
+#: admin/classes/uipress-app.php:279
+msgid "No Folders found."
+msgstr "לא נמצאו תיקיות."
+
+#: admin/classes/uipress-app.php:280
+msgid "No Folders found in Trash."
+msgstr "לא נמצאו תיקיות באשפה."
+
+#: admin/classes/uipress-app.php:1167
+msgid "active"
+msgstr "פָּעִיל"
+
+#: admin/classes/uipress-app.php:1171
+msgid "inactive"
+msgstr "לֹא פָּעִיל"
+
+#: admin/classes/uipress-app.php:1320
+msgid "Menu Preferences"
+msgstr "העדפות תפריט"
+
+#: admin/classes/uipress-app.php:1321
+msgid "Hide search bar"
+msgstr "הסתר את שורת החיפוש"
+
+#: admin/classes/uipress-app.php:1322
+msgid "Hide Icons"
+msgstr "הסתר אייקונים"
+
+#: admin/classes/uipress-app.php:1323
+msgid "Show submenu on hover"
+msgstr "הצג תפריט משנה על ריחוף"
+
+#: admin/classes/uipress-app.php:1324
+msgid "Search Menu"
+msgstr "תפריט חיפוש"
+
+#: admin/classes/uipress-app.php:1326
+msgid "Search"
+msgstr "לחפש"
+
+#: admin/classes/uipress-app.php:1329
+msgid "Show more"
+msgstr "להראות יותר"
+
+#: admin/classes/uipress-app.php:1330
+msgid "other matches"
+msgstr "התאמות אחרות"
+
+#: admin/classes/uipress-app.php:1331 admin/classes/uipress-app.php:1359
+msgid "Nothing found"
+msgstr "שום דבר לא נמצא"
+
+#: admin/classes/uipress-app.php:1332 admin/classes/uipress-app.php:1337
+msgid "View Site"
+msgstr "צפה באתר"
+
+#: admin/classes/uipress-app.php:1333
+msgid "Dashboard"
+msgstr "לוּחַ מַחווָנִים"
+
+#: admin/classes/uipress-app.php:1334
+msgid "Search Site"
+msgstr "אתר חיפוש"
+
+#: admin/classes/uipress-app.php:1336
+msgid "Create New"
+msgstr "צור חדש"
+
+#: admin/classes/uipress-app.php:1338
+msgid "Updates"
+msgstr "עדכונים"
+
+#: admin/classes/uipress-app.php:1339
+msgid "Preferences"
+msgstr "העדפות"
+
+#: admin/classes/uipress-app.php:1340
+msgid "Dark mode"
+msgstr "מצב כהה"
+
+#: admin/classes/uipress-app.php:1341
+msgid "Show screen options toggle"
+msgstr "החלפת מצב הצג אפשרויות מסך"
+
+#: admin/classes/uipress-app.php:1342
+msgid "Screen options"
+msgstr "אפשרויות מסך"
+
+#: admin/classes/uipress-app.php:1343
+msgid "Hide admin bar links (left)"
+msgstr "הסתר קישורים לסרגל הניהול (משמאל)"
+
+#: admin/classes/uipress-app.php:1344
+msgid "Logout"
+msgstr "להתנתק"
+
+#: admin/classes/uipress-app.php:1345
+msgid "Notifications"
+msgstr "התראות"
+
+#: admin/classes/uipress-app.php:1346
+msgid "Hide notification"
+msgstr "הסתר הודעה"
+
+#: admin/classes/uipress-app.php:1347
+msgid "hidden notifications"
+msgstr "התראות נסתרות"
+
+#: admin/classes/uipress-app.php:1348
+msgid "show all"
+msgstr "תראה הכול"
+
+#: admin/classes/uipress-app.php:1349
+msgid "Notifiction Hidden"
+msgstr "הודעה מוסתרת"
+
+#: admin/classes/uipress-app.php:1350
+msgid "Toggle Menu"
+msgstr "החלף תפריט"
+
+#: admin/classes/uipress-app.php:1351
+msgid "Choose users or roles"
+msgstr "בחר משתמשים או תפקידים"
+
+#: admin/classes/uipress-app.php:1352
+msgid "Search users and roles"
+msgstr "חפש משתמשים ותפקידים"
+
+#: admin/classes/uipress-app.php:1353
+msgid "Choose Image"
+msgstr "בחר תמונה"
+
+#: admin/classes/uipress-app.php:1354
+msgid "Choose Post Types"
+msgstr "בחר סוגי פוסטים"
+
+#: admin/classes/uipress-app.php:1355 admin/classes/uipress-app.php:1356
+msgid "Searach Post Types"
+msgstr "סוגי פוסטים של Searach"
+
+#: admin/classes/uipress-app.php:1360
+msgid "Default"
+msgstr "בְּרִירַת מֶחדָל"
+
+#: admin/classes/uipress-app.php:1361
+msgid "Add File"
+msgstr "הוסף קובץ"
+
+#: admin/classes/uipress-app.php:1362
+msgid "URL to file"
+msgstr "כתובת URL לקובץ"
+
+#: admin/classes/uipress-app.php:1363
+msgid "Remove"
+msgstr "לְהַסִיר"
+
+#: admin/classes/uipress-app.php:1364
+msgid "All media"
+msgstr "כל אמצעי התקשורת"
+
+#: admin/classes/uipress-app.php:1366
+msgid "No folder"
+msgstr "אין תיקיה"
+
+#: admin/classes/uipress-app.php:1369
+msgid "Folder Name"
+msgstr "שם התיקיה"
+
+#: admin/classes/uipress-app.php:1370
+msgid "Colour"
+msgstr "צֶבַע"
+
+#: admin/classes/uipress-app.php:1374
+msgid "1 File"
+msgstr "1 קובץ"
+
+#: admin/classes/uipress-app.php:1375
+msgid "files"
+msgstr "קבצים"
+
+#: admin/classes/uipress-app.php:1376
+msgid "You haven't created a folder yet"
+msgstr "עדיין לא יצרת תיקיה"
+
+#: admin/classes/uipress-app.php:1377
+msgid "Remove from folder"
+msgstr "הסר מהתיקייה"
+
+#: admin/classes/uipress-app.php:1378
+msgid ""
+"Upgrade to pro to unlock the notification center. View, edit and organise "
+"all your plugin and theme notifications in one place"
+msgstr ""
+"שדרג למקצוען כדי לפתוח את מרכז ההתראות. הצג, ערוך וארגן את כל ההתראות של "
+"התוספים והנושאים שלך במקום אחד"
+
+#: admin/classes/uipress-app.php:1379
+msgid ""
+"Upgrade to pro to gain full control of search results and included post types"
+msgstr "שדרג למקצוען כדי לקבל שליטה מלאה בתוצאות החיפוש ובסוגי הפוסטים הכלולים"
+
+#: admin/classes/uipress-app.php:1382
+msgid "Styles Imported"
+msgstr "סגנונות מיובאים"
+
+#: admin/classes/uipress-app.php:1383
+msgid "Settings Imported"
+msgstr "הגדרות מיובאות"
+
+#: admin/classes/uipress-app.php:1384
+msgid "Remove Licence"
+msgstr "הסר רישיון"
+
+#: admin/classes/uipress-app.php:1385
+#, php-format
+msgid "%s Pro is active"
+msgstr "%s Pro פעיל"
+
+#: admin/classes/uipress-app.php:1386
+#, php-format
+msgid "%s Pro"
+msgstr "%s Pro"
+
+#: admin/classes/uipress-app.php:1387
+msgid "Activate"
+msgstr "לְהַפְעִיל"
+
+#: admin/classes/uipress-app.php:1388
+msgid "Add a pro licence to unlock pro features."
+msgstr "הוסף רישיון מקצועי כדי לפתוח תכונות מקצועיות."
+
+#: admin/classes/uipress-app.php:1389
+msgid "Choose Icon"
+msgstr "בחר אייקון"
+
+#: admin/classes/uipress-app.php:1390
+msgid "Are you sure you want to delete this?"
+msgstr "האם אתה בטוח שברצונך למחוק את זה?"
+
+#: admin/classes/uipress-app.php:1391
+msgid "Import started"
+msgstr "הייבוא התחיל"
+
+#: admin/classes/uipress-app.php:1392
+msgid "Are you sure you want to reset the settings?"
+msgstr "האם אתה בטוח שברצונך לאפס את ההגדרות?"
+
+#: admin/classes/uipress-app.php:1393
+msgid "Last 7 Days"
+msgstr "7 הימים האחרונים"
+
+#: admin/classes/uipress-app.php:1394
+msgid "Last 30 Days"
+msgstr "30 הימים האחרונים"
+
+#: admin/classes/uipress-app.php:1399
+msgid "selected"
+msgstr "נבחר"
+
+#: admin/classes/uipress-app.php:1400
+msgid "Theme Library"
+msgstr "ספריית נושאים"
+
+#: admin/classes/uipress-app.php:1401
+msgid "Library"
+msgstr "סִפְרִיָה"
+
+#: admin/classes/uipress-app.php:1402
+msgid "Import Theme"
+msgstr "ייבוא נושא"
+
+#: admin/classes/uipress-app.php:1403
+msgid "Pro template"
+msgstr "תבנית פרו"
+
+#: admin/classes/uipress-app.php:1404
+msgid "Theme Imported"
+msgstr "נושא מיובא"
+
+#: admin/classes/uipress-app.php:1405
+msgid "Made by"
+msgstr "מיוצר ע\"י"
+
+#: admin/classes/uipress-app.php:1407
+msgid "Failed to fetch folder content"
+msgstr "אחזור תוכן התיקייה נכשל"
+
+#: admin/classes/uipress-app.php:1408
+msgid "user"
+msgstr "מִשׁתַמֵשׁ"
+
+#: admin/classes/uipress-app.php:1850
+msgid "Unkown Post Type"
+msgstr "סוג פוסט לא ידוע"
+
+#: admin/classes/uipress-app.php:1853
+msgid "Unkown"
+msgstr "לא ידוע"
+
+#: admin/classes/uipress-app.php:1991
+msgid "Core"
+msgstr "הליבה"
+
+#: admin/classes/uipress-app.php:1997
+msgid "Themes"
+msgstr "ערכות נושא"
+
+#: admin/classes/uipress-app.php:2003
+msgid "Plugins"
+msgstr "תוספים"
+
+#: admin/classes/uipress-app.php:2527
+msgid "General options"
+msgstr "אפשרויות כלליות"
+
+#: admin/classes/uipress-app.php:2532
+msgid "Network Override"
+msgstr "ביטול רשת"
+
+#: admin/classes/uipress-app.php:2533
+msgid "If enabled, all settings applied here will be pushed to subsites."
+msgstr "אם מופעלת, כל ההגדרות שהוחלו כאן יידחקו לאתרי משנה."
+
+#: admin/classes/uipress-app.php:2542
+msgid "Set Dark Mode as Default"
+msgstr "הגדר מצב כהה כברירת מחדל"
+
+#: admin/classes/uipress-app.php:2543
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr "אם מופעל, מצב כהה יקבע כברירת מחדל כ-true עבור משתמשים שלא קבעו העדפה."
+
+#: admin/classes/uipress-app.php:2551
+msgid "Set Dark Mode according to prefers color scheme"
+msgstr "הגדר מצב כהה לפי ערכת הצבעים העדיפה"
+
+#: admin/classes/uipress-app.php:2552
+msgid "UiPress will detetct the OS color scheme and update accordingly"
+msgstr "UiPress תזהה את ערכת הצבעים של מערכת ההפעלה ותעדכן בהתאם"
+
+#: admin/classes/uipress-app.php:2560
+msgid "Disable dark mode"
+msgstr "השבת מצב כהה"
+
+#: admin/classes/uipress-app.php:2561
+msgid "If enabled, dark mode switch will not be available."
+msgstr "אם מופעל, מתג מצב כהה לא יהיה זמין."
+
+#: admin/classes/uipress-app.php:2569
+msgid "Set overview page as homepage"
+msgstr "הגדר את דף הסקירה כדף הבית"
+
+#: admin/classes/uipress-app.php:2570
+msgid ""
+"If enabled, the overview page will be the homepage when logging in and when "
+"accessing the admin area."
+msgstr "אם מופעל, דף הסקירה יהיה דף הבית בעת הכניסה ובעת הגישה לאזור הניהול."
+
+#: admin/classes/uipress-app.php:2578
+msgid "Set custom page as homepage"
+msgstr "הגדר דף מותאם אישית כדף בית"
+
+#: admin/classes/uipress-app.php:2580
+msgid ""
+"If enabled, the page you choose will be the homepage when logging in and "
+"when accessing the admin area. For admin pages use a relative URL (path "
+"after /wp-admin/), for other pages use an absolute URL"
+msgstr ""
+"אם מופעל, הדף שתבחר יהיה דף הבית בעת הכניסה ובעת הגישה לאזור הניהול. עבור "
+"דפי ניהול השתמש בכתובת URL יחסית (נתיב אחרי /wp-admin/), עבור דפים אחרים "
+"השתמש בכתובת URL מוחלטת"
+
+#: admin/classes/uipress-app.php:2590
+#, php-format
+msgid "Rename %s"
+msgstr "שנה את השם של %s"
+
+#: admin/classes/uipress-app.php:2591
+#, php-format
+msgid "White label %s by changing the name displayed."
+msgstr "תווית לבנה %s על ידי שינוי השם המוצג."
+
+#: admin/classes/uipress-app.php:2599
+#, php-format
+msgid "Rename %s plugin author"
+msgstr "שנה את שם מחבר הפלאגין של %s"
+
+#: admin/classes/uipress-app.php:2600
+#, php-format
+msgid "White label %s by changing the author in the plugin table."
+msgstr "תווית לבנה %s על ידי שינוי המחבר בטבלת התוספים."
+
+#: admin/classes/uipress-app.php:2608
+#, php-format
+msgid "Change %s plugin URL"
+msgstr "שנה את כתובת ה-URL של הפלאגין של %s"
+
+#: admin/classes/uipress-app.php:2609
+#, php-format
+msgid "White label %s by changing the plugin URL in the plugin table."
+msgstr "תווית לבנה %s על ידי שינוי כתובת האתר של הפלאגין בטבלת הפלאגין."
+
+#: admin/classes/uipress-app.php:2617
+msgid "App Icon"
+msgstr "סמל אפליקציה"
+
+#: admin/classes/uipress-app.php:2618
+#, php-format
+msgid "Replace %s plugin icon with your own"
+msgstr "החלף את סמל הפלאגין של %s בסמל משלך"
+
+#: admin/classes/uipress-app.php:2626
+msgid "Admin Favicon"
+msgstr "סמל מנהל מערכת"
+
+#: admin/classes/uipress-app.php:2627
+msgid "Add an image to be used as the site favicon for admin pages."
+msgstr "הוסף תמונה שתשמש כסמל האתר עבור דפי ניהול."
+
+#: admin/classes/uipress-app.php:2635
+#, php-format
+msgid "Hide %s from plugin table"
+msgstr "הסתר %s מטבלת הפלאגין"
+
+#: admin/classes/uipress-app.php:2636
+#, php-format
+msgid "If enabled, %s will be hidden from the plugin table"
+msgstr "אם מופעל, %s יוסתר מטבלת התוספים"
+
+#: admin/classes/uipress-app.php:2644
+msgid "Hide Footer"
+msgstr "הסתר כותרת תחתונה"
+
+#: admin/classes/uipress-app.php:2645
+msgid "Hide the footer text that shows at the bottom of every admin page"
+msgstr "הסתר את טקסט הכותרת התחתונה שמופיע בתחתית כל עמוד ניהול"
+
+#: admin/classes/uipress-app.php:2653
+msgid "Footer Text"
+msgstr "טקסט תחתון"
+
+#: admin/classes/uipress-app.php:2654
+msgid "Text entered here will be present at the bottom of admin pages"
+msgstr "טקסט שהוזן כאן יופיע בתחתית דפי הניהול"
+
+#: admin/classes/uipress-app.php:2670 admin/classes/uipress-app.php:2675
+msgid "Creates new admin menu."
+msgstr "יוצר תפריט ניהול חדש."
+
+#: admin/classes/uipress-app.php:2674
+msgid "Disable Admin Menu Module"
+msgstr "השבת את מודול תפריט הניהול"
+
+#: admin/classes/uipress-app.php:2682
+msgid "Menu Disabled for"
+msgstr "תפריט מושבת עבור"
+
+#: admin/classes/uipress-app.php:2683
+#, php-format
+msgid "%s menu will be disabled for any users or roles you select"
+msgstr "תפריט %s יושבת עבור כל משתמש או תפקיד שתבחר"
+
+#: admin/classes/uipress-app.php:2691
+msgid "Logo Light Mode"
+msgstr "מצב אור לוגו"
+
+#: admin/classes/uipress-app.php:2692
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "מגדיר את הלוגו של סרגל הניהול במצב קל."
+
+#: admin/classes/uipress-app.php:2699
+msgid "Logo Dark Mode"
+msgstr "מצב כהה לוגו"
+
+#: admin/classes/uipress-app.php:2700
+msgid "Optional dark mode logo for admin bar."
+msgstr "לוגו מצב כהה אופציונלי עבור סרגל הניהול."
+
+#: admin/classes/uipress-app.php:2707
+#, php-format
+msgid "Load %s Menu on front end"
+msgstr "טען תפריט %s בקצה הקצה"
+
+#: admin/classes/uipress-app.php:2708
+#, php-format
+msgid ""
+"If enabled, %s menu will load on the front end. Please note, this will not "
+"work on all themes and styling will vary"
+msgstr ""
+"אם מופעל, תפריט %s ייטען בקצה הקדמי. שימו לב, זה לא יעבוד על כל הנושאים "
+"והסגנון ישתנה"
+
+#: admin/classes/uipress-app.php:2716
+#, php-format
+msgid "Only Load %s Menu on front end for"
+msgstr "טען רק תפריט %s בקצה הקצה עבור"
+
+#: admin/classes/uipress-app.php:2717
+msgid "Only load front end menu for selected roles and usernames"
+msgstr "טען רק תפריט ממשק עבור תפקידים ושמות משתמש נבחרים"
+
+#: admin/classes/uipress-app.php:2725
+msgid "Collapsed Menu Logo Light Mode"
+msgstr "תפריט מכווץ לוגו מצב אור"
+
+#: admin/classes/uipress-app.php:2726
+msgid "Optional logo for when the menu is collapsed."
+msgstr "לוגו אופציונלי עבור כאשר התפריט מכווץ."
+
+#: admin/classes/uipress-app.php:2733
+msgid "Collapsed Menu Logo Dark Mode"
+msgstr "לוגו תפריט מכווץ מצב כהה"
+
+#: admin/classes/uipress-app.php:2734
+msgid "Optional dark nmode logo for when the menu is collapsed."
+msgstr "לוגו nmode כהה אופציונלי עבור כאשר התפריט מכווץ."
+
+#: admin/classes/uipress-app.php:2741
+msgid "Show site title in menu"
+msgstr "הצג את כותרת האתר בתפריט"
+
+#: admin/classes/uipress-app.php:2742
+msgid ""
+"If enabled, the site title will be displayed in the menu next to the logo"
+msgstr "אם מופעל, כותרת האתר תוצג בתפריט שליד הלוגו"
+
+#: admin/classes/uipress-app.php:2749 admin/classes/uipress-app.php:2811
+msgid "Disable Search"
+msgstr "השבת את החיפוש"
+
+#: admin/classes/uipress-app.php:2750
+msgid "Disables admin menu search."
+msgstr "משבית את החיפוש בתפריט הניהול."
+
+#: admin/classes/uipress-app.php:2757
+msgid "Set collapsed menu as default"
+msgstr "הגדר תפריט מכווץ כברירת מחדל"
+
+#: admin/classes/uipress-app.php:2758
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"אם מופעל, התפריט יקבל כברירת מחדל את התפריט הכווץ עבור משתמשים שלא קבעו "
+"העדפה."
+
+#: admin/classes/uipress-app.php:2774
+msgid "Creates new admin toolbar."
+msgstr "יוצר סרגל כלים חדש לניהול."
+
+#: admin/classes/uipress-app.php:2778
+msgid "Disable ToolBar Module?"
+msgstr "להשבית את מודול סרגל הכלים?"
+
+#: admin/classes/uipress-app.php:2779
+msgid ""
+"Creates new admin bar, adds user off canvas menu, builds global search and "
+"notification center."
+msgstr ""
+"יוצר סרגל ניהול חדש, מוסיף תפריט משתמש מחוץ לקנבס, בונה מרכז חיפוש והודעות "
+"גלובלי."
+
+#: admin/classes/uipress-app.php:2786
+msgid "Admin Bar Disabled For"
+msgstr "סרגל הניהול מושבת עבור"
+
+#: admin/classes/uipress-app.php:2787
+#, php-format
+msgid "%s toolbar module will be disabled for any users or roles you select"
+msgstr "מודול סרגל הכלים %s יושבת עבור כל משתמש או תפקיד שתבחר"
+
+#: admin/classes/uipress-app.php:2795
+msgid "Hide admin bar links (left side)"
+msgstr "הסתר קישורים לסרגל הניהול (צד שמאל)"
+
+#: admin/classes/uipress-app.php:2796
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"משבית קישורים מדור קודם בצד שמאל של סרגל הניהול עבור כל המשתמשים. מסתיר גם "
+"את העדפת המשתמש."
+
+#: admin/classes/uipress-app.php:2803
+msgid "Enable floating flyout toolbar"
+msgstr "אפשר סרגל כלים צף"
+
+#: admin/classes/uipress-app.php:2804
+msgid "Changes the toolbar to a floating flyout toolbar"
+msgstr "משנה את סרגל הכלים לסרגל כלים צף"
+
+#: admin/classes/uipress-app.php:2812
+msgid "Disables search icon and global search function from admin bar."
+msgstr "משבית את סמל החיפוש ופונקציית החיפוש הגלובלית מסרגל הניהול."
+
+#: admin/classes/uipress-app.php:2819
+msgid "Disable Create Button"
+msgstr "השבת כפתור יצירה"
+
+#: admin/classes/uipress-app.php:2820
+msgid "Disables the 'create' button in the admin bar."
+msgstr "משבית את כפתור 'צור' בסרגל הניהול."
+
+#: admin/classes/uipress-app.php:2827
+msgid "Open View Website in new tab"
+msgstr "פתח את הצג אתר בכרטיסייה חדשה"
+
+#: admin/classes/uipress-app.php:2828
+msgid ""
+"When enabled, clicking on view website or the home button will open in a new "
+"browser tab"
+msgstr "כאשר מופעל, לחיצה על הצג אתר או כפתור הבית ייפתח בלשונית דפדפן חדשה"
+
+#: admin/classes/uipress-app.php:2835
+msgid "Disable View Website Button"
+msgstr "השבת לחצן הצג אתר"
+
+#: admin/classes/uipress-app.php:2836
+msgid "Disables the view website link button in the admin bar."
+msgstr "משבית את לחצן הצג קישור לאתר בסרגל הניהול."
+
+#: admin/classes/uipress-app.php:2843
+#, php-format
+msgid "Load %s admin bar on front end"
+msgstr "טען את סרגל הניהול של %s בקצה הקצה"
+
+#: admin/classes/uipress-app.php:2844
+#, php-format
+msgid ""
+"If enabled, %s toolbar will load on the front end. Please note, this will "
+"not work on all themes and styling will vary"
+msgstr ""
+"אם מופעל, סרגל הכלים %s ייטען בקצה הקדמי. שימו לב, זה לא יעבוד על כל הנושאים "
+"והסגנון ישתנה"
+
+#: admin/classes/uipress-app.php:2852
+msgid "Hide admin bar on front end"
+msgstr "הסתר את סרגל הניהול בקצה הקצה"
+
+#: admin/classes/uipress-app.php:2853
+msgid "If enabled, front end admin bar will not load."
+msgstr "אם מופעל, סרגל הניהול בקצה הקצה לא ייטען."
+
+#: admin/classes/uipress-app.php:2861
+msgid "Disable Notification Center"
+msgstr "השבת את מרכז ההודעות"
+
+#: admin/classes/uipress-app.php:2862
+msgid "If disabled, notifcations will show in the normal way"
+msgstr "אם מושבת, ההודעות יופיעו בדרך הרגילה"
+
+#: admin/classes/uipress-app.php:2870
+msgid "Post Types available in Search"
+msgstr "סוגי פוסטים זמינים בחיפוש"
+
+#: admin/classes/uipress-app.php:2871
+msgid "The global search will only search the selected post types."
+msgstr "החיפוש הגלובלי יחפש רק בסוגי הפוסטים שנבחרו."
+
+#: admin/classes/uipress-app.php:2879
+msgid "Post Types available in create button (new)"
+msgstr "סוגי פוסטים זמינים בכפתור צור (חדש)"
+
+#: admin/classes/uipress-app.php:2880
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr "רק סוגי הפוסטים שנבחרו יופיעו בתפריט הנפתח ליצירה."
+
+#: admin/classes/uipress-app.php:2888
+msgid "Only show notifications to"
+msgstr "הצג רק התראות ל"
+
+#: admin/classes/uipress-app.php:2889
+#, php-format
+msgid ""
+"%s will hide all notifications from all users except those selected below"
+msgstr "%s יסתיר את כל ההתראות מכל המשתמשים מלבד אלו שנבחרו למטה"
+
+#: admin/classes/uipress-app.php:2897
+msgid "Only show updates to"
+msgstr "הצג רק עדכונים ל"
+
+#: admin/classes/uipress-app.php:2898
+#, php-format
+msgid "%s will hide all updates from all users except those selected below"
+msgstr "%s יסתיר את כל העדכונים מכל המשתמשים מלבד אלו שנבחרו למטה"
+
+#: admin/classes/uipress-app.php:2914
+msgid "Theme"
+msgstr "נושא"
+
+#: admin/classes/uipress-app.php:2915 admin/classes/uipress-app.php:2945
+#: admin/classes/uipress-app.php:3000
+msgid "Styles page content."
+msgstr "תוכן עמוד סגנונות."
+
+#: admin/classes/uipress-app.php:2919
+msgid "Disable Admin Theme Module"
+msgstr "השבת את מודול ערכת הנושא של מנהל מערכת"
+
+#: admin/classes/uipress-app.php:2920
+msgid "When the theme is disabled, pages will be styles in the original way."
+msgstr "כאשר ערכת הנושא מושבתת, הדפים יהיו סגנונות בצורה המקורית."
+
+#: admin/classes/uipress-app.php:2927
+msgid "Theme Disabled for"
+msgstr "נושא מושבת עבור"
+
+#: admin/classes/uipress-app.php:2928
+msgid ""
+"When the theme is disabled, pages will be styles in the original way for "
+"selected users or roles."
+msgstr ""
+"כאשר ערכת הנושא מושבתת, הדפים יהיו סגנונות באופן המקורי עבור משתמשים או "
+"תפקידים נבחרים."
+
+#: admin/classes/uipress-app.php:2949
+msgid "Disable Login Module"
+msgstr "השבת את מודול הכניסה"
+
+#: admin/classes/uipress-app.php:2950
+msgid ""
+"When the login module is disabled, the login page will be displayed in the "
+"original way."
+msgstr "כאשר מודול הכניסה מושבת, דף הכניסה יוצג בצורה המקורית."
+
+#: admin/classes/uipress-app.php:2958
+msgid "Dark Mode"
+msgstr "מצב כהה"
+
+#: admin/classes/uipress-app.php:2959
+msgid "Puts the login page in dark mode for all users."
+msgstr "מעביר את דף הכניסה למצב חשוך עבור כל המשתמשים."
+
+#: admin/classes/uipress-app.php:2966
+msgid "Disable Language Selector"
+msgstr "השבת את בורר השפה"
+
+#: admin/classes/uipress-app.php:2967
+msgid "Removes the language selector added to the login page"
+msgstr "מסיר את בורר השפה שנוסף לדף הכניסה"
+
+#: admin/classes/uipress-app.php:2974
+msgid "Login Logo"
+msgstr "לוגו כניסה"
+
+#: admin/classes/uipress-app.php:2975
+msgid "Sets the logo for the login page"
+msgstr "מגדיר את הלוגו עבור דף הכניסה"
+
+#: admin/classes/uipress-app.php:2982
+msgid "Login Background"
+msgstr "רקע כניסה"
+
+#: admin/classes/uipress-app.php:2983
+msgid "Sets an optional background image on the login page."
+msgstr "מגדיר תמונת רקע אופציונלית בדף הכניסה."
+
+#: admin/classes/uipress-app.php:2999
+msgid "Advanced"
+msgstr "מִתקַדֵם"
+
+#: admin/classes/uipress-app.php:3004
+msgid "Advanced Disabled For"
+msgstr "מתקדם מושבת עבור"
+
+#: admin/classes/uipress-app.php:3005
+msgid "Code added here will not load for any users or roles you select"
+msgstr "קוד שנוסף כאן לא ייטען עבור משתמשים או תפקידים שתבחר"
+
+#: admin/classes/uipress-app.php:3013
+msgid "Enqueue scripts"
+msgstr "תור סקריפטים"
+
+#: admin/classes/uipress-app.php:3014
+msgid "Add scripts to the head of every admin page and login page"
+msgstr "הוסף סקריפטים לראש של כל דף ניהול ועמוד כניסה"
+
+#: admin/classes/uipress-app.php:3022
+msgid "Enqueue styles"
+msgstr "סגנונות תור"
+
+#: admin/classes/uipress-app.php:3023
+msgid "Add stylesheets to the head of every admin page and login page"
+msgstr "הוסף גיליונות סגנונות לראש של כל דף ניהול ועמוד כניסה"
+
+#: admin/classes/uipress-app.php:3031
+msgid "Admin CSS"
+msgstr "מנהל CSS"
+
+#: admin/classes/uipress-app.php:3032
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr "CSS שנוסף כאן ייטען בכל דף ניהול וכן בדף הכניסה"
+
+#: admin/classes/uipress-app.php:3041
+msgid "Admin JavaScript"
+msgstr "מנהל JavaScript"
+
+#: admin/classes/uipress-app.php:3042
+msgid ""
+"JavaScript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr "JavaScript שנוסף כאן ייטען בכל דף ניהול וכן בדף הכניסה"
+
+#: admin/classes/uipress-app.php:3051
+msgid "HTML for document head"
+msgstr "HTML עבור ראש מסמך"
+
+#: admin/classes/uipress-app.php:3052
+msgid ""
+"Add HTML here to be added to every admin page and login page head section"
+msgstr "הוסף כאן HTML כדי להתווסף לכל דף ניהול וחלק ראשי דף הכניסה"
+
+#: admin/classes/uipress-app.php:3061
+msgid "Safe Mode Key"
+msgstr "מקש מצב בטוח"
+
+#: admin/classes/uipress-app.php:3063
+msgid ""
+"Add a private key to allow you to disable uipress on specific pages with "
+"query paramaters. For example, add '?no_uip=your_key' to a URL and it wil "
+"stop uipress from loading on that page."
+msgstr ""
+"הוסף מפתח פרטי כדי לאפשר לך להשבית את uipress בדפים ספציפיים עם פרמטרי "
+"שאילתה. לדוגמה, הוסף '?no_uip=your_key' לכתובת אתר וזה ימנע את טעינת uipress "
+"בדף זה."
+
+#: admin/classes/update.php:66
+msgid "Welcome to UiPress version "
+msgstr "ברוכים הבאים לגרסת UiPress"
+
+#: admin/classes/update.php:69 admin/classes/update.php:101
+msgid ""
+"Would you like to automatically import settings from your older version of "
+"uipress?"
+msgstr "האם תרצה לייבא אוטומטית הגדרות מהגרסה הישנה יותר של uipress?"
+
+#: admin/classes/update.php:71
+msgid "Don't show again"
+msgstr "אל תראה שוב"
+
+#: admin/classes/update.php:72 admin/classes/update.php:103
+msgid "Import settings"
+msgstr "ייבא הגדרות"
+
+#: admin/classes/update.php:115
+msgid "Check for updates"
+msgstr "בדוק עדכונים"
+
+#: admin/classes/update.php:141
+msgid "Unable to contact update server"
+msgstr "לא ניתן ליצור קשר עם שרת העדכונים"
+
+#: admin/classes/update.php:156
+msgid "Update available"
+msgstr "עדכון זמין"
+
+#: admin/classes/update.php:162
+msgid "No Updates available"
+msgstr "אין עדכונים זמינים"
+
+#: admin/classes/update.php:180
+msgid "Message dismissed"
+msgstr "ההודעה נדחתה"
+
+#: admin/classes/update.php:204
+msgid "No settings to import"
+msgstr "אין הגדרות לייבא"
+
+#: admin/classes/update.php:350
+msgid "Settings imported"
+msgstr "הגדרות יובאו"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress"
+msgstr "UiPress"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress admin extension with a streamlined dashboard, Google "
+"Analytics & WooCommerce Integration, intuitive media library, dark mode and "
+"much more."
+msgstr ""
+"תוסף אדמין רב עוצמה של וורדפרס עם לוח מחוונים יעיל, אינטגרציה של Google "
+"Analytics ו-WooCommerce, ספריית מדיה אינטואיטיבית, מצב כהה ועוד הרבה יותר."
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "אדמין 2020"

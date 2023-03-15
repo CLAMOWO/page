@@ -1,0 +1,4802 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress\n"
+"POT-Creation-Date: 2022-06-12 12:06+0200\n"
+"PO-Revision-Date: 2022-06-22 19:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: Latvian\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==0 || (n%100>=11 && n%100<=19) ? 0 : "
+"n%10==1 && n%100!=11 ? 1 : 2);\n"
+"X-Team: Rubyvio https://rubyvio.com"
+"X-Poedit-Basepath: ..\n"
+"X-Translate-Version: beta; wp-6.0"
+"X-Human revision: none;
+
+#: admin/apps/admin-pages/admin-pages.php:110
+#: admin/apps/menu-creator/menu-creator.php:1304
+msgid "Apply to subsites"
+msgstr "Pieteikties apakšvietnēs"
+
+#: admin/apps/admin-pages/admin-pages.php:121
+msgid "Menu Icon"
+msgstr "Izvēlnes ikona"
+
+#: admin/apps/admin-pages/admin-pages.php:131
+msgid "Manually add to menu?"
+msgstr "Vai manuāli pievienot izvēlnei?"
+
+#: admin/apps/admin-pages/admin-pages.php:250
+msgid "Admin Pages - Beta"
+msgstr "Administratora lapas — beta"
+
+#: admin/apps/admin-pages/admin-pages.php:251
+msgid "Creates custom admin pages."
+msgstr "Izveido pielāgotas administratora lapas."
+
+#: admin/apps/admin-pages/admin-pages.php:255
+msgid "Disable custom admin pages?"
+msgstr "Vai atspējot pielāgotās administratora lapas?"
+
+#: admin/apps/admin-pages/admin-pages.php:256
+msgid "If disabled, the admin pages will not be available to any users."
+msgstr ""
+"Ja tas ir atspējots, administratora lapas nebūs pieejamas nevienam "
+"lietotājam."
+
+#: admin/apps/admin-pages/admin-pages.php:263
+msgid "Admin Page Slug"
+msgstr "Admin Page Slug"
+
+#: admin/apps/admin-pages/admin-pages.php:264
+msgid ""
+"This defaults to admin-pages. Changes to this will need you to resave "
+"permalink structure."
+msgstr ""
+"Pēc noklusējuma tas ir administratora lapas. Lai veiktu šīs izmaiņas, jums "
+"būs atkārtoti jāsaglabā pastāvīgās saites struktūra."
+
+#: admin/apps/admin-pages/admin-pages.php:271
+msgid "Who can edit and create admin pages?"
+msgstr "Kas var rediģēt un izveidot administratora lapas?"
+
+#: admin/apps/admin-pages/admin-pages.php:272
+msgid ""
+"Editing and creation of admin pages will be disabled for the users or roles "
+"you select"
+msgstr ""
+"Jūsu atlasītajiem lietotājiem vai lomām tiks atspējota administratora lapu "
+"rediģēšana un izveide"
+
+#: admin/apps/admin-pages/admin-pages.php:280
+msgid "Who can see admin pages?"
+msgstr "Kas var redzēt administratora lapas?"
+
+#: admin/apps/admin-pages/admin-pages.php:281
+msgid "UiPress will only show admin pages for the users or roles you select"
+msgstr ""
+"UiPress rādīs tikai jūsu atlasīto lietotāju vai lomu administratora lapas"
+
+#: admin/apps/admin-pages/admin-pages.php:320
+msgctxt "post type general name"
+msgid "Admin Page"
+msgstr "Administratora lapa"
+
+#: admin/apps/admin-pages/admin-pages.php:321
+msgctxt "post type singular name"
+msgid "Admin Page"
+msgstr "Administratora lapa"
+
+#: admin/apps/admin-pages/admin-pages.php:322
+msgctxt "admin menu"
+msgid "Admin Pages"
+msgstr "Administratora lapas"
+
+#: admin/apps/admin-pages/admin-pages.php:323
+msgctxt "add new on admin bar"
+msgid "Admin Page"
+msgstr "Administratora lapa"
+
+#: admin/apps/admin-pages/admin-pages.php:324
+msgctxt "Admin Page"
+msgid "Add New"
+msgstr "Pievieno jaunu"
+
+#: admin/apps/admin-pages/admin-pages.php:325
+msgid "Add New Admin Page"
+msgstr "Pievienot jaunu administratora lapu"
+
+#: admin/apps/admin-pages/admin-pages.php:326
+msgid "New Admin Page"
+msgstr "Jauna administratora lapa"
+
+#: admin/apps/admin-pages/admin-pages.php:327
+msgid "Edit Admin Page"
+msgstr "Rediģēt administratora lapu"
+
+#: admin/apps/admin-pages/admin-pages.php:328
+msgid "View Admin Page"
+msgstr "Skatīt administratora lapu"
+
+#: admin/apps/admin-pages/admin-pages.php:329
+msgid "All Admin Pages"
+msgstr "Visas administratora lapas"
+
+#: admin/apps/admin-pages/admin-pages.php:330
+msgid "Search Admin Pages"
+msgstr "Meklēt administratora lapās"
+
+#: admin/apps/admin-pages/admin-pages.php:331
+msgid "No Admin Pages found."
+msgstr "Nav atrasta neviena administratora lapa."
+
+#: admin/apps/admin-pages/admin-pages.php:332
+msgid "No Admin Pages found in Trash."
+msgstr "Atkritnē nav atrasta neviena administratora lapa."
+
+#: admin/apps/admin-pages/admin-pages.php:336
+#: admin/apps/menu-creator/menu-creator.php:667
+#: admin/apps/users/uip-history.php:161
+msgid "Description."
+msgstr "Apraksts."
+
+#: admin/apps/content/content.php:96
+msgid "Content Page"
+msgstr "Satura lapa"
+
+#: admin/apps/content/content.php:97
+msgid "Creates content page"
+msgstr "Izveido satura lapu"
+
+#: admin/apps/content/content.php:101
+msgid "Disable Content Page?"
+msgstr "Vai atspējot satura lapu?"
+
+#: admin/apps/content/content.php:102
+msgid "If disabled, the content page will not be available to any users."
+msgstr "Ja tas ir atspējots, satura lapa nebūs pieejama nevienam lietotājam."
+
+#: admin/apps/content/content.php:109
+msgid "Content Page Disabled for"
+msgstr "Satura lapa ir atspējota"
+
+#: admin/apps/content/content.php:110
+msgid ""
+"When the content page module is disabled, the content page will not be "
+"accesible for the users / roles"
+msgstr ""
+"Ja satura lapas modulis ir atspējots, satura lapa lietotājiem/lomām nebūs "
+"pieejama"
+
+#: admin/apps/content/content.php:118
+msgid "Post types available in content page"
+msgstr "Satura lapā pieejami ziņu veidi"
+
+#: admin/apps/content/content.php:119
+msgid "Only the selected post types will be available in the content page."
+msgstr "Satura lapā būs pieejami tikai atlasītie ziņu veidi."
+
+#: admin/apps/content/content.php:127
+msgid "Enable private library mode"
+msgstr "Iespējot privātās bibliotēkas režīmu"
+
+#: admin/apps/content/content.php:128
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This also includes folders"
+msgstr ""
+"Ja tas ir iespējots, satura lapā tiks rādīts tikai pašreiz pieteicies "
+"lietotāja izveidots vai augšupielādēts saturs. Tas ietver arī mapes"
+
+#: admin/apps/content/content.php:184
+msgid "Original Title / Value"
+msgstr "Oriģinālais nosaukums/vērtība"
+
+#: admin/apps/content/content.php:188 admin/classes/styles.php:693
+msgid "Text"
+msgstr "Teksts"
+
+#: admin/apps/content/content.php:192 admin/apps/content/content.php:2033
+msgid "Date Created"
+msgstr "Izveidošanas datums"
+
+#: admin/apps/content/content.php:196
+msgid "File Extension (attachments only)"
+msgstr "Faila paplašinājums (tikai pielikumi)"
+
+#: admin/apps/content/content.php:200
+msgid "Sequence Number"
+msgstr "Secības numurs"
+
+#: admin/apps/content/content.php:204
+msgid "Meta Value"
+msgstr "Meta vērtība"
+
+#: admin/apps/content/content.php:208
+msgid "Find and Replace"
+msgstr "Atrast un aizstāt"
+
+#: admin/apps/content/content.php:266 admin/classes/uipress-app.php:1731
+#: admin/classes/uipress-app.php:2073
+msgid "No preferences supplied to save"
+msgstr "Nav norādītas preferences, ko saglabāt"
+
+#: admin/apps/content/content.php:288 admin/classes/uipress-app.php:1742
+#: admin/classes/uipress-app.php:2095
+msgid "Preferences saved"
+msgstr "Preferences saglabātas"
+
+#: admin/apps/content/content.php:291 admin/classes/uipress-app.php:1746
+#: admin/classes/uipress-app.php:2098
+msgid "Unable to save user preferences"
+msgstr "Nevar saglabāt lietotāja preferences"
+
+#: admin/apps/content/content.php:320 admin/apps/content/content.php:328
+#: admin/apps/content/content.php:957
+msgid "Unable to save attachment"
+msgstr "Nevar saglabāt pielikumu"
+
+#: admin/apps/content/content.php:337
+msgid "Image Saved"
+msgstr "Attēls saglabāts"
+
+#: admin/apps/content/content.php:370
+msgid "Failed to upload file"
+msgstr "Neizdevās augšupielādēt failu"
+
+#: admin/apps/content/content.php:400
+msgid "Items uploaded"
+msgstr "Vienumi ir augšupielādēti"
+
+#: admin/apps/content/content.php:423
+msgid "Views updated"
+msgstr "Skatījumi atjaunināti"
+
+#: admin/apps/content/content.php:455 admin/apps/content/content.php:517
+#: admin/apps/content/content.php:579 admin/apps/content/content.php:769
+#: admin/apps/menu-creator/menu-creator.php:752
+#: admin/apps/menu-creator/menu-creator.php:777
+#: admin/apps/menu-creator/menu-creator.php:814
+#: admin/apps/menu-creator/menu-creator.php:867
+#: admin/apps/menu-creator/menu-creator.php:936
+#: admin/apps/users/uip-user-groups.php:309 admin/classes/folders.php:528
+#: admin/classes/settings.php:308 admin/classes/uipress-app.php:1357
+msgid "Something went wrong"
+msgstr "Kaut kas nogāja greizi"
+
+#: admin/apps/content/content.php:460
+msgid "Items duplicated successfully"
+msgstr "Vienumi veiksmīgi dublēti"
+
+#: admin/apps/content/content.php:463
+msgid "Itms couldn't be duplicated"
+msgstr "Vienumus nevarēja dublēt"
+
+#: admin/apps/content/content.php:501 admin/apps/content/content.php:543
+msgid "No Meta Key provided"
+msgstr "Nav nodrošināta meta atslēga"
+
+#: admin/apps/content/content.php:583
+msgid "Attributes Updated"
+msgstr "Atribūti atjaunināti"
+
+#: admin/apps/content/content.php:774
+msgid "Items deleted successfully"
+msgstr "Vienumi ir veiksmīgi izdzēsti"
+
+#: admin/apps/content/content.php:777
+msgid "Itms couldn't be deleted"
+msgstr "Vienumus nevarēja izdzēst"
+
+#: admin/apps/content/content.php:799 admin/classes/folders.php:452
+#: admin/classes/folders.php:484
+msgid "No content to move"
+msgstr "Nav satura, ko pārvietot"
+
+#: admin/apps/content/content.php:812 admin/classes/folders.php:466
+#: admin/classes/folders.php:497
+msgid "Content moved"
+msgstr "Saturs pārvietots"
+
+#: admin/apps/content/content.php:938
+msgid "Unable to update item"
+msgstr "Nevar atjaunināt vienumu"
+
+#: admin/apps/content/content.php:968
+msgid "Item updated"
+msgstr "Vienums atjaunināts"
+
+#: admin/apps/content/content.php:1007
+msgid "Items updated"
+msgstr "Vienumi atjaunināti"
+
+#: admin/apps/content/content.php:1319 admin/apps/content/content.php:1611
+msgid "Content"
+msgstr "Saturs"
+
+#: admin/apps/content/content.php:1362
+#: admin/apps/menu-creator/menu-creator.php:1096
+#: admin/classes/uipress-app.php:1325
+msgid "Pro Feature"
+msgstr "Pro funkcija"
+
+#: admin/apps/content/content.php:1365
+msgid "Upgrade to UiPress Pro to unlock the content page and content folders"
+msgstr "Jauniniet uz UiPress Pro, lai atbloķētu satura lapu un satura mapes"
+
+#: admin/apps/content/content.php:1367
+#: admin/apps/menu-creator/menu-creator.php:1101
+msgid "See UiPress Pro Plans"
+msgstr "Skatiet UiPress Pro plānus"
+
+#: admin/apps/content/content.php:1411
+msgid "Update Tags and Categories"
+msgstr "Atjauniniet tagus un kategorijas"
+
+#: admin/apps/content/content.php:1418 admin/apps/content/content.php:1831
+#: admin/apps/content/content.php:1836 admin/apps/content/content.php:2068
+#: admin/apps/content/content.php:2071
+msgid "Categories"
+msgstr "Kategorijas"
+
+#: admin/apps/content/content.php:1419 admin/apps/content/content.php:1837
+#: admin/apps/content/content.php:2072
+msgid "Search categories..."
+msgstr "Meklēt kategorijas..."
+
+#: admin/apps/content/content.php:1424
+msgid "Keep existing categories"
+msgstr "Saglabājiet esošās kategorijas"
+
+#: admin/apps/content/content.php:1433 admin/apps/content/content.php:1843
+#: admin/apps/content/content.php:1847 admin/apps/content/content.php:2080
+#: admin/apps/content/content.php:2083
+msgid "Tags"
+msgstr "Tagi"
+
+#: admin/apps/content/content.php:1434 admin/apps/content/content.php:1848
+#: admin/apps/content/content.php:2084
+msgid "Search tags..."
+msgstr "Meklēt tagus..."
+
+#: admin/apps/content/content.php:1439
+msgid "Keep existing tags"
+msgstr "Saglabājiet esošās atzīmes"
+
+#: admin/apps/content/content.php:1448 admin/apps/content/content.php:1686
+#: admin/classes/uipress-app.php:1373
+msgid "Update"
+msgstr "Atjaunināt"
+
+#: admin/apps/content/content.php:1465 admin/apps/content/content.php:2567
+msgid "Batch Rename"
+msgstr "Partijas pārdēvēšana"
+
+#: admin/apps/content/content.php:1473
+msgid "Attribute to rename"
+msgstr "Atribūts pārdēvēt"
+
+#: admin/apps/content/content.php:1480 admin/apps/content/content.php:2323
+#: admin/apps/menu-creator/menu-creator.php:1151
+#: admin/apps/menu-creator/menu-creator.php:1651
+#: admin/apps/menu-creator/menu-creator.php:1652
+#: admin/apps/users/uip-users.php:311 admin/apps/users/uip-users.php:389
+#: admin/apps/users/uip-users.php:1213 admin/classes/uipress-app.php:1371
+msgid "Name"
+msgstr "Vārds"
+
+#: admin/apps/content/content.php:1481
+msgid "Meta Key"
+msgstr "Meta atslēga"
+
+#: admin/apps/content/content.php:1482
+msgid "Alt Tag (Attachments only)"
+msgstr "Alt Tag (tikai pielikumi)"
+
+#: admin/apps/content/content.php:1487
+msgid "Meta Key Name"
+msgstr "Meta atslēgas nosaukums"
+
+#: admin/apps/content/content.php:1498
+msgid "Filename Structure"
+msgstr "Faila nosaukuma struktūra"
+
+#: admin/apps/content/content.php:1506
+msgid "Rename Item"
+msgstr "Pārdēvēt vienumu"
+
+#: admin/apps/content/content.php:1514 admin/apps/overview/overview.php:812
+msgid "Add"
+msgstr "Pievienot"
+
+#: admin/apps/content/content.php:1540
+msgid "New Text"
+msgstr "Jauns teksts"
+
+#: admin/apps/content/content.php:1542
+msgid "Date Format"
+msgstr "Datuma formāts"
+
+#: admin/apps/content/content.php:1544
+msgid "Start Number"
+msgstr "Sākuma numurs"
+
+#: admin/apps/content/content.php:1546
+msgid "Meta key Name"
+msgstr "Meta atslēgas nosaukums"
+
+#: admin/apps/content/content.php:1548
+msgid "Find"
+msgstr "Atrast"
+
+#: admin/apps/content/content.php:1552
+msgid "Replace"
+msgstr "Aizvietot"
+
+#: admin/apps/content/content.php:1576 admin/apps/content/content.php:1593
+#: admin/apps/menu-creator/menu-creator.php:1464
+msgid "Preview"
+msgstr "Priekšskatījums"
+
+#: admin/apps/content/content.php:1579
+msgid "Current"
+msgstr "Pašreizējais"
+
+#: admin/apps/content/content.php:1580
+#: admin/apps/menu-creator/menu-creator.php:1136
+msgid "New"
+msgstr "Jauns"
+
+#: admin/apps/content/content.php:1594
+msgid "Rename"
+msgstr "Pārdēvēt"
+
+#: admin/apps/content/content.php:1618 admin/classes/uipress-app.php:1365
+msgid "All Content"
+msgstr "Viss saturs"
+
+#: admin/apps/content/content.php:1679
+#: admin/apps/menu-creator/menu-creator.php:1225
+#: admin/apps/users/uip-users.php:541
+msgid "Delete"
+msgstr "Dzēst"
+
+#: admin/apps/content/content.php:1684
+msgid "Edit Image"
+msgstr "Rediģēt attēlu"
+
+#: admin/apps/content/content.php:1715 admin/apps/users/uip-users.php:309
+msgid "Details"
+msgstr "Sīkāka informācija"
+
+#: admin/apps/content/content.php:1771 admin/apps/content/content.php:1772
+#: admin/apps/overview/overview.php:715
+msgid "Title"
+msgstr "Nosaukums"
+
+#: admin/apps/content/content.php:1778
+msgid "Alt Text"
+msgstr "Alternatīvais teksts"
+
+#: admin/apps/content/content.php:1779
+msgid "Alt"
+msgstr "Alt"
+
+#: admin/apps/content/content.php:1783 admin/apps/content/content.php:1784
+msgid "Caption"
+msgstr "Paraksts"
+
+#: admin/apps/content/content.php:1788 admin/apps/content/content.php:1789
+#: admin/apps/users/uip-users.php:1353
+msgid "Description"
+msgstr "Apraksts"
+
+#: admin/apps/content/content.php:1799
+msgid "Meta Data"
+msgstr "Meta dati"
+
+#: admin/apps/content/content.php:1819 admin/apps/content/content.php:1824
+#: admin/apps/content/content.php:2339
+#: admin/apps/menu-creator/menu-creator.php:1155
+#: admin/apps/menu-creator/menu-creator.php:1294
+#: admin/classes/uipress-app.php:1151
+msgid "Status"
+msgstr "Statuss"
+
+#: admin/apps/content/content.php:1825
+msgid "Search status..."
+msgstr "Meklēšanas statuss..."
+
+#: admin/apps/content/content.php:1927
+msgid "Filters"
+msgstr "Filtri"
+
+#: admin/apps/content/content.php:1932
+msgid "Upload"
+msgstr "Augšupielādēt"
+
+#: admin/apps/content/content.php:1954
+msgid "Items Per Page"
+msgstr "Vienumi lapā"
+
+#: admin/apps/content/content.php:1964
+msgid "Columns"
+msgstr "Kolonnas"
+
+#: admin/apps/content/content.php:1976
+msgid "Search..."
+msgstr "Meklēt..."
+
+#: admin/apps/content/content.php:1984
+msgid "of"
+msgstr "no"
+
+#: admin/apps/content/content.php:1987
+msgid "items"
+msgstr "preces"
+
+#: admin/apps/content/content.php:2011 admin/apps/content/content.php:2014
+msgid "Post Types"
+msgstr "Ziņu veidi"
+
+#: admin/apps/content/content.php:2015
+msgid "Search Post Types..."
+msgstr "Meklēt ziņu veidus..."
+
+#: admin/apps/content/content.php:2022 admin/apps/content/content.php:2025
+msgid "Post Status"
+msgstr "Ziņas statuss"
+
+#: admin/apps/content/content.php:2026
+msgid "Search Post Statuses..."
+msgstr "Meklēt ziņu statusus..."
+
+#: admin/apps/content/content.php:2039
+msgid "Posted On"
+msgstr "Publicēts"
+
+#: admin/apps/content/content.php:2040
+msgid "Posted After"
+msgstr "Publicēts pēc"
+
+#: admin/apps/content/content.php:2041
+msgid "Posted Before"
+msgstr "Publicēts Pirms"
+
+#: admin/apps/content/content.php:2056 admin/apps/content/content.php:2059
+msgid "Media Types"
+msgstr "Multivides veidi"
+
+#: admin/apps/content/content.php:2060
+msgid "Search Media Types..."
+msgstr "Meklēt multivides veidus..."
+
+#: admin/apps/content/content.php:2089
+msgid "Clear Filters"
+msgstr "Notīrīt filtrus"
+
+#: admin/apps/content/content.php:2090
+msgid "Save as view"
+msgstr "Saglabāt kā skatu"
+
+#: admin/apps/content/content.php:2136
+msgid "Posted"
+msgstr "Ievietots"
+
+#: admin/apps/content/content.php:2327
+msgid "Type"
+msgstr "Tips"
+
+#: admin/apps/content/content.php:2331
+msgid "Author"
+msgstr "Autors"
+
+#: admin/apps/content/content.php:2335
+#: admin/apps/menu-creator/menu-creator.php:1159
+#: admin/apps/overview/overview.php:904 admin/apps/users/uip-users.php:1333
+msgid "Date"
+msgstr "Datums"
+
+#: admin/apps/content/content.php:2483
+msgid "Load More"
+msgstr "Ielādēt vairāk"
+
+#: admin/apps/content/content.php:2492
+msgid "No content found"
+msgstr "Nav atrasts saturs"
+
+#: admin/apps/content/content.php:2511 admin/apps/users/uip-users.php:547
+#: admin/classes/uipress-app.php:1327
+msgid "View"
+msgstr "Skatīt"
+
+#: admin/apps/content/content.php:2518
+#: admin/apps/menu-creator/menu-creator.php:1203
+#: admin/apps/users/uip-users.php:523 admin/classes/uipress-app.php:1328
+msgid "Edit"
+msgstr "Rediģēt"
+
+#: admin/apps/content/content.php:2525
+msgid "Quick Edit"
+msgstr "Ātrā rediģēšana"
+
+#: admin/apps/content/content.php:2532
+#: admin/apps/menu-creator/menu-creator.php:1210
+msgid "Duplicate"
+msgstr "Dublikāts"
+
+#: admin/apps/content/content.php:2540
+msgid "Delete Item"
+msgstr "Dzēst vienumu"
+
+#: admin/apps/content/content.php:2560
+msgid "items selected"
+msgstr "atlasītie vienumi"
+
+#: admin/apps/content/content.php:2573
+msgid "Categories & Tags"
+msgstr "Kategorijas un atzīmes"
+
+#: admin/apps/content/content.php:2579
+msgid "Delete Selected"
+msgstr "Dzēst atlasītos"
+
+#: admin/apps/content/content.php:2585
+msgid "Clear Selection"
+msgstr "Notīrīt atlasi"
+
+#: admin/apps/content/content.php:2607
+msgid "Create New View"
+msgstr "Izveidot jaunu skatu"
+
+#: admin/apps/content/content.php:2612
+msgid "View name"
+msgstr "Skatīt nosaukumu"
+
+#: admin/apps/content/content.php:2615
+msgid "View Name"
+msgstr "Skata nosaukums"
+
+#: admin/apps/content/content.php:2623
+#: admin/apps/menu-creator/menu-creator.php:1709
+#: admin/apps/overview/overview.php:836 admin/classes/styles.php:437
+msgid "Save"
+msgstr "Saglabāt"
+
+#: admin/apps/menu-creator/menu-creator.php:405
+#: admin/apps/menu-creator/menu-creator.php:1044
+#: admin/apps/menu-creator/menu-creator.php:1052
+#: admin/apps/menu-creator/menu-creator.php:1131
+#: admin/apps/menu-creator/menu-creator.php:1699
+msgid "Menu Creator"
+msgstr "Izvēlnes veidotājs"
+
+#: admin/apps/menu-creator/menu-creator.php:406
+msgid "Creates custom admin menus."
+msgstr "Izveido pielāgotas administratora izvēlnes."
+
+#: admin/apps/menu-creator/menu-creator.php:410
+msgid "Disable Menu Creator?"
+msgstr "Vai atspējot izvēlnes veidotāju?"
+
+#: admin/apps/menu-creator/menu-creator.php:411
+msgid "If disabled, the menu creator will not be available to any users."
+msgstr ""
+"Ja tas ir atspējots, izvēlnes veidotājs nebūs pieejams nevienam lietotājam."
+
+#: admin/apps/menu-creator/menu-creator.php:651
+msgctxt "post type general name"
+msgid "Admin Menu"
+msgstr "Administratora izvēlne"
+
+#: admin/apps/menu-creator/menu-creator.php:652
+msgctxt "post type singular name"
+msgid "admin menu"
+msgstr "administratora izvēlne"
+
+#: admin/apps/menu-creator/menu-creator.php:653
+msgctxt "admin menu"
+msgid "Admin Menus"
+msgstr "Administratora izvēlnes"
+
+#: admin/apps/menu-creator/menu-creator.php:654
+msgctxt "add new on admin bar"
+msgid "Admin Menu"
+msgstr "Administratora izvēlne"
+
+#: admin/apps/menu-creator/menu-creator.php:655
+msgctxt "Admin Menu"
+msgid "Add New"
+msgstr "Pievieno jaunu"
+
+#: admin/apps/menu-creator/menu-creator.php:656
+msgid "Add New Admin Menu"
+msgstr "Pievienot jaunu administratora izvēlni"
+
+#: admin/apps/menu-creator/menu-creator.php:657
+msgid "New Admin Menu"
+msgstr "Jauna administratora izvēlne"
+
+#: admin/apps/menu-creator/menu-creator.php:658
+msgid "Edit Admin Menu"
+msgstr "Rediģēt administratora izvēlni"
+
+#: admin/apps/menu-creator/menu-creator.php:659
+msgid "View Admin Menu"
+msgstr "Skatīt administratora izvēlni"
+
+#: admin/apps/menu-creator/menu-creator.php:660
+msgid "All Admin Menus"
+msgstr "Visas administratora izvēlnes"
+
+#: admin/apps/menu-creator/menu-creator.php:661
+msgid "Search Admin Menus"
+msgstr "Meklēt administratora izvēlnēs"
+
+#: admin/apps/menu-creator/menu-creator.php:662
+msgid "No Admin Menus found."
+msgstr "Nav atrasta neviena administratora izvēlne."
+
+#: admin/apps/menu-creator/menu-creator.php:663
+msgid "No Admin Menus found in Trash."
+msgstr "Atkritnē nav atrasta neviena administratora izvēlne."
+
+#: admin/apps/menu-creator/menu-creator.php:759
+msgid "Status Updated"
+msgstr "Statuss atjaunināts"
+
+#: admin/apps/menu-creator/menu-creator.php:783
+msgid "You don't have permission to delete this"
+msgstr "Jums nav atļaujas to dzēst"
+
+#: admin/apps/menu-creator/menu-creator.php:791
+msgid "Unable to delete menu"
+msgstr "Nevar izdzēst izvēlni"
+
+#: admin/apps/menu-creator/menu-creator.php:796
+msgid "Menu deleted"
+msgstr "Izvēlne izdzēsta"
+
+#: admin/apps/menu-creator/menu-creator.php:820
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "Nevar dublēt izvēlni, izvēlne ir bojāta"
+
+#: admin/apps/menu-creator/menu-creator.php:826
+msgid "(copy)"
+msgstr "(kopēt)"
+
+#: admin/apps/menu-creator/menu-creator.php:834
+msgid "Unable to duplicate menu"
+msgstr "Nevar dublēt izvēlni"
+
+#: admin/apps/menu-creator/menu-creator.php:844
+msgid "Menu duplicated"
+msgstr "Izvēlne ir dublēta"
+
+#: admin/apps/menu-creator/menu-creator.php:873
+msgid "Unable to save, menu is corrupted"
+msgstr "Nevar saglabāt, izvēlne ir bojāta"
+
+#: admin/apps/menu-creator/menu-creator.php:894
+msgid "Unable to save menu"
+msgstr "Nevar saglabāt izvēlni"
+
+#: admin/apps/menu-creator/menu-creator.php:917
+msgid "Menu Saved"
+msgstr "Izvēlne Saglabāta"
+
+#: admin/apps/menu-creator/menu-creator.php:962
+#: admin/apps/users/uip-users.php:1321 admin/classes/settings.php:328
+msgid "User"
+msgstr "Lietotājs"
+
+#: admin/apps/menu-creator/menu-creator.php:977
+#: admin/apps/menu-creator/menu-creator.php:988
+#: admin/apps/users/uip-users.php:1285 admin/classes/settings.php:343
+#: admin/classes/settings.php:354
+msgid "Role"
+msgstr "Loma"
+
+#: admin/apps/menu-creator/menu-creator.php:995 admin/classes/settings.php:361
+msgid "Nothing found for term:"
+msgstr "Terminam nekas netika atrasts:"
+
+#: admin/apps/menu-creator/menu-creator.php:1044
+#, php-format
+msgid "%s Menu Creator"
+msgstr "%s izvēlnes veidotājs"
+
+#: admin/apps/menu-creator/menu-creator.php:1099
+msgid "Upgrade to UiPress Pro to unlock the menu creator"
+msgstr "Jauniniet uz UiPress Pro, lai atbloķētu izvēlnes veidotāju"
+
+#: admin/apps/menu-creator/menu-creator.php:1142
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "Šķiet, ka jūs vēl neesat izveidojis nevienu administratora izvēlni"
+
+#: admin/apps/menu-creator/menu-creator.php:1143
+msgid "Create your first admin menu"
+msgstr "Izveidojiet savu pirmo administratora izvēlni"
+
+#: admin/apps/menu-creator/menu-creator.php:1217
+#: admin/apps/menu-creator/menu-creator.php:1718
+#: admin/apps/users/uip-users.php:559 admin/classes/settings.php:248
+#: admin/classes/styles.php:447
+msgid "Export"
+msgstr "Eksportēt"
+
+#: admin/apps/menu-creator/menu-creator.php:1264
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"Izvēlnes veidotājs nav optimizēts mobilajām ierīcēm. Lai iegūtu labākos "
+"rezultātus, pārslēdzieties uz lielāku ekrānu"
+
+#: admin/apps/menu-creator/menu-creator.php:1279
+msgid "Menu Items"
+msgstr "Izvēlnes vienumi"
+
+#: admin/apps/menu-creator/menu-creator.php:1283
+msgid "Menu Settings"
+msgstr "Izvēlne Iestatījumi"
+
+#: admin/apps/menu-creator/menu-creator.php:1314
+#: admin/apps/menu-creator/menu-creator.php:1315
+msgid "Menu Name"
+msgstr "Izvēlnes nosaukums"
+
+#: admin/apps/menu-creator/menu-creator.php:1319
+msgid "Menu Applies to"
+msgstr "Izvēlne Attiecas uz"
+
+#: admin/apps/menu-creator/menu-creator.php:1323
+msgid "Inclusive"
+msgstr "Ieskaitot"
+
+#: admin/apps/menu-creator/menu-creator.php:1327
+msgid "Exclusive"
+msgstr "Ekskluzīvs"
+
+#: admin/apps/menu-creator/menu-creator.php:1331
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr ""
+"Iekļaušanas režīmā šī izvēlne tiks ielādēta visiem tālāk atlasītajiem "
+"lietotājvārdiem un lomām."
+
+#: admin/apps/menu-creator/menu-creator.php:1334
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"Ekskluzīvajā režīmā šī izvēlne tiks ielādēta katram lietotājam, izņemot "
+"tālāk atlasītos lietotājvārdus un lomas."
+
+#: admin/apps/menu-creator/menu-creator.php:1340
+msgid "Choose users or roles..."
+msgstr "Izvēlieties lietotājus vai lomas..."
+
+#: admin/apps/menu-creator/menu-creator.php:1342
+msgid "Search roles and users..."
+msgstr "Meklēt lomas un lietotājus..."
+
+#: admin/apps/menu-creator/menu-creator.php:1351
+msgid "Custom Items"
+msgstr "Pielāgotas preces"
+
+#: admin/apps/menu-creator/menu-creator.php:1355
+msgid "New Separator"
+msgstr "Jauns atdalītājs"
+
+#: admin/apps/menu-creator/menu-creator.php:1358
+msgid "New Custom Link"
+msgstr "Jauna pielāgota saite"
+
+#: admin/apps/menu-creator/menu-creator.php:1363
+msgid "Available Menu Items"
+msgstr "Pieejamie izvēlnes vienumi"
+
+#: admin/apps/menu-creator/menu-creator.php:1370
+msgid "Search menu items"
+msgstr "Meklēt izvēlnes vienumus"
+
+#: admin/apps/menu-creator/menu-creator.php:1518
+msgid "Add some menu items from the left toolbar to get started"
+msgstr "Lai sāktu, pievienojiet dažus izvēlnes vienumus no kreisās rīkjoslas"
+
+#: admin/apps/menu-creator/menu-creator.php:1537
+msgid "Separator"
+msgstr "Atdalītājs"
+
+#: admin/apps/menu-creator/menu-creator.php:1642
+msgid "Edit Menu Item"
+msgstr "Rediģēt izvēlnes vienumu"
+
+#: admin/apps/menu-creator/menu-creator.php:1656
+#: admin/apps/menu-creator/menu-creator.php:1657
+msgid "Link"
+msgstr "Saite"
+
+#: admin/apps/menu-creator/menu-creator.php:1661
+msgid "Classes"
+msgstr "Klases"
+
+#: admin/apps/menu-creator/menu-creator.php:1663
+msgid "Custom classes"
+msgstr "Pielāgotas nodarbības"
+
+#: admin/apps/menu-creator/menu-creator.php:1667
+msgid "Opens in new tab?"
+msgstr "Vai tiek atvērts jaunā cilnē?"
+
+#: admin/apps/menu-creator/menu-creator.php:1677
+msgid "Icon"
+msgstr "Ikona"
+
+#: admin/apps/menu-creator/menu-creator.php:1702
+msgid "Back to all menus"
+msgstr "Atgriezties uz visām izvēlnēm"
+
+#: admin/apps/menu-creator/menu-creator.php:1727
+msgid "Import Menu"
+msgstr "Importēšanas izvēlne"
+
+#: admin/apps/menu-creator/menu-creator.php:1736 admin/classes/settings.php:265
+msgid "Reset Settings"
+msgstr "Atiestatīt iestatījumus"
+
+#: admin/apps/overview/analytics.php:74
+msgid "Analytics account removed"
+msgstr "Analytics konts ir noņemts"
+
+#: admin/apps/overview/analytics.php:93
+msgid "Unable to connect account"
+msgstr "Nevar izveidot savienojumu ar kontu"
+
+#: admin/apps/overview/analytics.php:106
+msgid "Analytics account connected"
+msgstr "Analytics konts ir pievienots"
+
+#: admin/apps/overview/analytics.php:310 admin/apps/overview/analytics.php:718
+#: admin/apps/overview/overview.php:761
+msgid "Site Users"
+msgstr "Vietnes lietotāji"
+
+#: admin/apps/overview/analytics.php:318 admin/apps/overview/overview.php:762
+msgid "Site Users (comparison period)"
+msgstr "Vietnes lietotāji (salīdzinājuma periods)"
+
+#: admin/apps/overview/analytics.php:383 admin/apps/overview/analytics.php:700
+#: admin/apps/overview/overview.php:759
+msgid "Page Views"
+msgstr "Lapu skatījumi"
+
+#: admin/apps/overview/analytics.php:391
+msgid "Page Views (comparison period)"
+msgstr "Lapas skatījumi (salīdzinājuma periods)"
+
+#: admin/apps/overview/analytics.php:608 admin/apps/overview/analytics.php:709
+msgid "Page Speed"
+msgstr "Lapas ātrums"
+
+#: admin/apps/overview/analytics.php:616
+msgid "Page Speed (comparison period)"
+msgstr "Lapas ātrums (salīdzinājuma periods)"
+
+#: admin/apps/overview/analytics.php:663 admin/apps/overview/analytics.php:703
+#: admin/apps/overview/analytics.php:712 admin/apps/overview/analytics.php:721
+#: admin/apps/overview/analytics.php:730 admin/apps/overview/analytics.php:739
+#: admin/apps/overview/analytics.php:748 admin/apps/overview/analytics.php:757
+#: admin/apps/overview/analytics.php:766 admin/apps/overview/analytics.php:775
+#: admin/apps/overview/analytics.php:784 admin/apps/overview/analytics.php:793
+#: admin/apps/overview/analytics.php:802 admin/apps/overview/analytics.php:811
+#: admin/apps/overview/analytics.php:820 admin/apps/overview/analytics.php:829
+#: admin/apps/overview/analytics.php:838 admin/apps/overview/analytics.php:847
+#: admin/apps/overview/analytics.php:856 admin/apps/overview/analytics.php:865
+#: admin/apps/overview/analytics.php:874 admin/apps/overview/analytics.php:883
+msgid "Analytics"
+msgstr "Analytics"
+
+#: admin/apps/overview/analytics.php:665
+msgid "Creates the google analytics cards for the overview page."
+msgstr "Kopsavilkuma lapai izveido Google Analytics kartītes."
+
+#: admin/apps/overview/analytics.php:681
+msgid "Google Analytics disabled for"
+msgstr "Google Analytics ir atspējots"
+
+#: admin/apps/overview/analytics.php:682
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr ""
+"Analytics tiks atspējots pārskata lapā visiem jūsu atlasītajiem lietotājiem "
+"vai lomām"
+
+#: admin/apps/overview/analytics.php:702
+msgid "Display website page views within the date range."
+msgstr "Rādīt vietnes lapu skatījumus datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:711
+msgid "Display website page speed within the date range."
+msgstr "Rādīt vietnes lapas ātrumu datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:720
+msgid "Display website users within the date range."
+msgstr "Rādīt vietnes lietotājus datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:727
+msgid "Site visits by device"
+msgstr "Vietnes apmeklējumi pēc ierīces"
+
+#: admin/apps/overview/analytics.php:729
+msgid "Display site usage by device within the date range."
+msgstr "Rādīt vietnes lietojumu pēc ierīces datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:736 admin/apps/overview/overview.php:841
+msgid "Bounce Rate"
+msgstr "Atlēcienu līmenis"
+
+#: admin/apps/overview/analytics.php:738
+msgid "Display site bounce rate within the date range."
+msgstr "Rādīt vietnes atlēcienu līmeni datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:745
+msgid "Session Duration"
+msgstr "Sesijas ilgums"
+
+#: admin/apps/overview/analytics.php:747
+msgid "Display site session duration within the date range."
+msgstr "Rādīt vietnes sesijas ilgumu datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:754
+msgid "Visits by Country"
+msgstr "Apmeklējumi pēc valsts"
+
+#: admin/apps/overview/analytics.php:756
+msgid "Displays country user data within the date range."
+msgstr "Parāda valsts lietotāja datus datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:763
+msgid "Traffic Sources"
+msgstr "Satiksmes avoti"
+
+#: admin/apps/overview/analytics.php:765
+msgid "Displays traffic source info within the date range."
+msgstr "Parāda informāciju par satiksmes avotiem datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:772
+msgid "Visits By Page"
+msgstr "Apmeklējumi pēc lapas"
+
+#: admin/apps/overview/analytics.php:774
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr "Parāda datplūsmu populārākajām vietnes lapām datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:781
+msgid "Event Count By Event Name"
+msgstr "Pasākumu skaits pēc notikuma nosaukuma"
+
+#: admin/apps/overview/analytics.php:783
+msgid "Display list of events within the date range."
+msgstr "Parādīt notikumu sarakstu datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:790
+msgid "Sessions by channel grouping"
+msgstr "Sesijas pēc kanālu grupēšanas"
+
+#: admin/apps/overview/analytics.php:792
+msgid "Display sessions by channel grouping within the date range."
+msgstr "Rādīt sesijas pēc kanālu grupēšanas datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:799
+msgid "User in the last 30 minutes"
+msgstr "Lietotājs pēdējo 30 minūšu laikā"
+
+#: admin/apps/overview/analytics.php:801
+msgid "Displays active users from the last 30 minutes."
+msgstr "Parāda aktīvos lietotājus no pēdējām 30 minūtēm."
+
+#: admin/apps/overview/analytics.php:808
+msgid "Engagement Rate"
+msgstr "Iesaistīšanās līmenis"
+
+#: admin/apps/overview/analytics.php:810
+msgid "Displays average angagement rate for date range"
+msgstr "Parāda vidējo iesaistīšanās līmeni datumu diapazonā"
+
+#: admin/apps/overview/analytics.php:817 admin/apps/overview/overview.php:783
+msgid "Site Revenue"
+msgstr "Vietnes ieņēmumi"
+
+#: admin/apps/overview/analytics.php:819
+msgid ""
+"Displays site revenue for date range. The sum of revenue from purchases, "
+"subscriptions, and advertising."
+msgstr ""
+"Parāda vietnes ieņēmumus datumu diapazonā. Ieņēmumu summa no pirkumiem, "
+"abonementiem un reklāmām."
+
+#: admin/apps/overview/analytics.php:826
+msgid "New vs Returning Users"
+msgstr "Jauni un atkārtoti lietotāji"
+
+#: admin/apps/overview/analytics.php:828
+msgid "Displays new vs returning users for the date range."
+msgstr "Tiek rādīti jauni un atkārtoti lietotāji attiecīgajā datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:835
+msgid "Top Cities"
+msgstr "Top pilsētas"
+
+#: admin/apps/overview/analytics.php:837
+msgid "Displays page views by city for the date range."
+msgstr "Parāda lapu skatījumus pēc pilsētas datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:844 admin/apps/overview/overview.php:785
+msgid "Ecommerce Overview"
+msgstr "E-komercijas pārskats"
+
+#: admin/apps/overview/analytics.php:846
+msgid "Displays add to cart, checkout and purchase data for the date range."
+msgstr ""
+"Parāda pievienošanas grozam, izrakstīšanās un pirkuma datus par datumu "
+"diapazonu."
+
+#: admin/apps/overview/analytics.php:853 admin/apps/overview/overview.php:781
+#: admin/apps/overview/overview.php:782
+msgid "Conversion Rate"
+msgstr "Reklāmguvuma līmenis"
+
+#: admin/apps/overview/analytics.php:855
+msgid ""
+"The percentage of active users who made their first purchase for the date "
+"range."
+msgstr ""
+"To aktīvo lietotāju procentuālā daļa, kuri veica pirmo pirkumu attiecīgajā "
+"datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:862
+msgid "Top Products"
+msgstr "Populārākie produkti"
+
+#: admin/apps/overview/analytics.php:864
+msgid "Products with the most sales for for the date range."
+msgstr "Produkti ar visvairāk pārdoto datumu diapazonā."
+
+#: admin/apps/overview/analytics.php:871
+msgid "Conversions in the last 30 minutes"
+msgstr "Reklāmguvumi pēdējo 30 minūšu laikā"
+
+#: admin/apps/overview/analytics.php:873
+msgid "Conversions logged in the last 30 minutes."
+msgstr "Reklāmguvumi reģistrēti pēdējo 30 minūšu laikā."
+
+#: admin/apps/overview/analytics.php:880
+msgid "Page Views in the last 30 minutes"
+msgstr "Lapu skatījumi pēdējo 30 minūšu laikā"
+
+#: admin/apps/overview/analytics.php:882
+msgid "Page views in the last 30 minutes."
+msgstr "Lapu skatījumi pēdējo 30 minūšu laikā."
+
+#: admin/apps/overview/analytics.php:1013
+msgid "Unable to fetch analytics data at this moment. Please try again later"
+msgstr "Šobrīd nevar izgūt analītikas datus. Lūdzu, pamēģiniet vēlreiz vēlāk"
+
+#: admin/apps/overview/overview.php:106 admin/apps/overview/overview.php:1150
+msgid "Overview"
+msgstr "Pārskats"
+
+#: admin/apps/overview/overview.php:107
+msgid "Creates the overview page."
+msgstr "Izveido pārskata lapu."
+
+#: admin/apps/overview/overview.php:111
+msgid "Disable Overview Page?"
+msgstr "Vai atspējot pārskata lapu?"
+
+#: admin/apps/overview/overview.php:112
+msgid "Overview page will be hidden when this option is activated."
+msgstr "Kad šī opcija tiks aktivizēta, pārskata lapa tiks paslēpta."
+
+#: admin/apps/overview/overview.php:119
+msgid "Overview Page Disabled For"
+msgstr "Pārskata lapa ir atspējota"
+
+#: admin/apps/overview/overview.php:120
+msgid "Overview Page will be disabled for any users or roles you select"
+msgstr ""
+"Pārskata lapa tiks atspējota visiem jūsu atlasītajiem lietotājiem vai lomām"
+
+#: admin/apps/overview/overview.php:128
+msgid "Who can edit the overview page?"
+msgstr "Kas var rediģēt pārskata lapu?"
+
+#: admin/apps/overview/overview.php:129
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If none "
+"are chosen it will fall back to administrators only"
+msgstr ""
+"Jebkura šeit izvēlētā loma vai lietotājs varēs rediģēt pārskata lapu. Ja "
+"neviens netiks izvēlēts, tas attieksies tikai uz administratoriem"
+
+#: admin/apps/overview/overview.php:137
+msgid "Default report start date"
+msgstr "Noklusējuma pārskata sākuma datums"
+
+#: admin/apps/overview/overview.php:138
+msgid ""
+"By default the overview date range will start 7 days before current date. "
+"Add a number of days between 1 and 90 to change length of date range"
+msgstr ""
+"Pēc noklusējuma pārskata datumu diapazons sāksies 7 dienas pirms pašreizējā "
+"datuma. Pievienojiet dienu skaitu no 1 līdz 90, lai mainītu datumu diapazona "
+"garumu"
+
+#: admin/apps/overview/overview.php:146
+msgid "Default report end date offset"
+msgstr "Noklusējuma pārskata beigu datuma nobīde"
+
+#: admin/apps/overview/overview.php:147
+msgid ""
+"By default the overview date range will end on the current day (0). To end "
+"the report on yesterday for example, enter 1"
+msgstr ""
+"Pēc noklusējuma pārskata datumu diapazons beigsies pašreizējā dienā (0). Lai,"
+" piemēram, beigtu atskaiti par vakardienu, ievadiet 1"
+
+#: admin/apps/overview/overview.php:155
+msgid "Reporting Currency Symbol"
+msgstr "Pārskata valūtas simbols"
+
+#: admin/apps/overview/overview.php:156
+msgid ""
+"If you are using google analytics commerce reports, enter the currency "
+"symbol your reports are in here"
+msgstr ""
+"Ja izmantojat Google analytics tirdzniecības pārskatus, šeit ievadiet "
+"valūtas simbolu, kurā ir jūsu pārskati"
+
+#: admin/apps/overview/overview.php:164
+msgid "Custom welcome message"
+msgstr "Pielāgots sveiciena ziņojums"
+
+#: admin/apps/overview/overview.php:165
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr ""
+"Šeit pievienojiet pielāgotu sveiciena ziņojumu, lai tas tiktu parādīts "
+"pārskata lapā"
+
+#: admin/apps/overview/overview.php:243 admin/apps/overview/overview.php:384
+#: admin/apps/overview/woocommerce.php:158
+msgid "ago"
+msgstr "pirms"
+
+#: admin/apps/overview/overview.php:259 admin/apps/overview/overview.php:447
+#: admin/apps/overview/woocommerce.php:183
+#: admin/apps/overview/woocommerce.php:265
+msgid "Posts fetched"
+msgstr "Ziņas ienestas"
+
+#: admin/apps/overview/overview.php:267
+msgid "No posts posted during the date range."
+msgstr "Šajā datumu diapazonā nav publicēta neviena ziņa."
+
+#: admin/apps/overview/overview.php:282
+msgid "Unable to save dash at this time"
+msgstr "Pašlaik nevar saglabāt domuzīmi"
+
+#: admin/apps/overview/overview.php:292
+msgid "Dashboard settings saved"
+msgstr "Informācijas paneļa iestatījumi ir saglabāti"
+
+#: admin/apps/overview/overview.php:307
+msgid "Dashboard settings reset"
+msgstr "Informācijas paneļa iestatījumi ir atiestatīti"
+
+#: admin/apps/overview/overview.php:320 admin/apps/overview/overview.php:328
+msgid "Unable to load shortcode at this time"
+msgstr "Pašlaik nevar ielādēt īskodu"
+
+#: admin/apps/overview/overview.php:335
+msgid "Shortcode loaded"
+msgstr "Īsais kods ir ielādēts"
+
+#: admin/apps/overview/overview.php:454
+msgid "No comments during the date range."
+msgstr "Šajā datumu diapazonā komentāru nav."
+
+#: admin/apps/overview/overview.php:477
+msgid "Core version"
+msgstr "Pamata versija"
+
+#: admin/apps/overview/overview.php:482
+msgid "PHP version"
+msgstr "PHP versija"
+
+#: admin/apps/overview/overview.php:487
+msgid "Active Plugins"
+msgstr "Aktīvie spraudņi"
+
+#: admin/apps/overview/overview.php:492
+msgid "Inactive Plugins"
+msgstr "Neaktīvi spraudņi"
+
+#: admin/apps/overview/overview.php:497
+msgid "Installed Themes"
+msgstr "Instalētie motīvi"
+
+#: admin/apps/overview/overview.php:532
+msgid "Unable to fetch quote of the day"
+msgstr "Nevar ienest dienas citātu"
+
+#: admin/apps/overview/overview.php:570
+msgid "Passed Checks"
+msgstr "Nokārtotas pārbaudes"
+
+#: admin/apps/overview/overview.php:578
+msgid "Recommended"
+msgstr "Ieteicams"
+
+#: admin/apps/overview/overview.php:586
+msgid "Critical"
+msgstr "Kritisks"
+
+#: admin/apps/overview/overview.php:597
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "Apskatiet %d vienumus vietnē"
+
+#: admin/apps/overview/overview.php:598
+msgid "Site Health screen"
+msgstr "Vietnes veselības ekrāns"
+
+#: admin/apps/overview/overview.php:606
+msgid "Device Visits"
+msgstr "Ierīces apmeklējumi"
+
+#: admin/apps/overview/overview.php:693
+msgid "Card width"
+msgstr "Kartes platums"
+
+#: admin/apps/overview/overview.php:694
+msgid "Column width"
+msgstr "Kolonnas platums"
+
+#: admin/apps/overview/overview.php:695
+msgid "Column settings"
+msgstr "Kolonnu iestatījumi"
+
+#: admin/apps/overview/overview.php:696
+msgid "Column Size"
+msgstr "Kolonnas izmērs"
+
+#: admin/apps/overview/overview.php:697
+msgid "Remove Card"
+msgstr "Noņemt karti"
+
+#: admin/apps/overview/overview.php:698 admin/apps/overview/overview.php:799
+msgid "Delete Column"
+msgstr "Dzēst kolonnu"
+
+#: admin/apps/overview/overview.php:699
+msgid "In the"
+msgstr "Iekš"
+
+#: admin/apps/overview/overview.php:700
+msgid "day range"
+msgstr "dienas diapazons"
+
+#: admin/apps/overview/overview.php:701
+msgid "xxsmall (1/6)"
+msgstr "xxsmall (1/6)"
+
+#: admin/apps/overview/overview.php:702
+msgid "xsmall (1/5)"
+msgstr "xsmall (1/5)"
+
+#: admin/apps/overview/overview.php:703
+msgid "small (1/4)"
+msgstr "mazs (1/4)"
+
+#: admin/apps/overview/overview.php:704
+msgid "small medium (1/3)"
+msgstr "mazs vidējs (1/3)"
+
+#: admin/apps/overview/overview.php:705
+msgid "medium (1/2)"
+msgstr "vidēja (1/2)"
+
+#: admin/apps/overview/overview.php:706
+msgid "medium large (2/3)"
+msgstr "vidēji liels (2/3)"
+
+#: admin/apps/overview/overview.php:707
+msgid "large (3/4)"
+msgstr "liels (3/4)"
+
+#: admin/apps/overview/overview.php:708
+msgid "xlarge (1/1)"
+msgstr "xlarge (1/1)"
+
+#: admin/apps/overview/overview.php:709
+msgid "I am an empty column. Drag cards into me."
+msgstr "Es esmu tukša kolonna. Ievelciet manī kārtis."
+
+#: admin/apps/overview/overview.php:710
+msgid "Column Added"
+msgstr "Kolonna pievienota"
+
+#: admin/apps/overview/overview.php:711
+msgid "Add card"
+msgstr "Pievienojiet karti"
+
+#: admin/apps/overview/overview.php:712
+msgid "Section added"
+msgstr "Sadaļa pievienota"
+
+#: admin/apps/overview/overview.php:713
+msgid "Search Cards"
+msgstr "Meklēšanas kartītes"
+
+#: admin/apps/overview/overview.php:714
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/apps/overview/overview.php:716 admin/apps/overview/overview.php:922
+msgid "Shortcode"
+msgstr "Īsais kods"
+
+#: admin/apps/overview/overview.php:717
+msgid "Video URL"
+msgstr "Videoklipa URL"
+
+#: admin/apps/overview/overview.php:718
+msgid "Embed Type"
+msgstr "Iegulšanas veids"
+
+#: admin/apps/overview/overview.php:719
+msgid "UiPress Pro feature"
+msgstr "UiPress Pro funkcija"
+
+#: admin/apps/overview/overview.php:720
+msgid "Upgrade to one of our premium plans to unlock this feature."
+msgstr "Jauniniet uz kādu no mūsu premium plāniem, lai atbloķētu šo funkciju."
+
+#: admin/apps/overview/overview.php:721
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/apps/overview/overview.php:722
+msgid "Card Added"
+msgstr "Karte pievienota"
+
+#: admin/apps/overview/overview.php:723
+msgid "Card Background colour"
+msgstr "Kartes fona krāsa"
+
+#: admin/apps/overview/overview.php:724
+msgid "# Hex code only (#fff)"
+msgstr "# Tikai heksadecimālais kods (#fff)"
+
+#: admin/apps/overview/overview.php:725
+msgid "Use light color for text"
+msgstr "Tekstam izmantojiet gaišas krāsas"
+
+#: admin/apps/overview/overview.php:726
+msgid "Chart Type"
+msgstr "Diagrammas veids"
+
+#: admin/apps/overview/overview.php:727
+msgid "Line Chart"
+msgstr "Līniju diagramma"
+
+#: admin/apps/overview/overview.php:728
+msgid "Bar Chart"
+msgstr "Joslu diagramma"
+
+#: admin/apps/overview/overview.php:729
+msgid "vs previous"
+msgstr "pret iepriekšējo"
+
+#: admin/apps/overview/overview.php:730 admin/apps/overview/overview.php:829
+msgid "days"
+msgstr "dienas"
+
+#: admin/apps/overview/overview.php:731
+msgid "Doughnut"
+msgstr "Virtulis"
+
+#: admin/apps/overview/overview.php:732
+msgid "Polar Area"
+msgstr "Polārais apgabals"
+
+#: admin/apps/overview/overview.php:733
+msgid "Bar"
+msgstr "Bārs"
+
+#: admin/apps/overview/overview.php:734 admin/apps/overview/overview.php:741
+msgid "Horizontal Bar"
+msgstr "Horizontālā josla"
+
+#: admin/apps/overview/overview.php:735
+msgid "Country"
+msgstr "Valsts"
+
+#: admin/apps/overview/overview.php:736
+msgid "Visits"
+msgstr "Apmeklējumi"
+
+#: admin/apps/overview/overview.php:737
+msgid "Change"
+msgstr "Mainīt"
+
+#: admin/apps/overview/overview.php:738
+msgid "No Background"
+msgstr "Nav fona"
+
+#: admin/apps/overview/overview.php:739
+msgid "Hide Map"
+msgstr "Slēpt karti"
+
+#: admin/apps/overview/overview.php:740
+msgid "Connect your account to use this card"
+msgstr "Lai izmantotu šo karti, pievienojiet savu kontu"
+
+#: admin/apps/overview/overview.php:742
+msgid "Hide Chart"
+msgstr "Slēpt diagrammu"
+
+#: admin/apps/overview/overview.php:743
+msgid "Source"
+msgstr "Avots"
+
+#: admin/apps/overview/overview.php:744
+msgid "Page"
+msgstr "Lappuse"
+
+#: admin/apps/overview/overview.php:745
+msgid "Product"
+msgstr "Produkts"
+
+#: admin/apps/overview/overview.php:746
+msgid "Sold"
+msgstr "Pārdots"
+
+#: admin/apps/overview/overview.php:747
+msgid "Value"
+msgstr "Vērtība"
+
+#: admin/apps/overview/overview.php:748
+msgid "WooCommerce is required to use this card"
+msgstr "Lai izmantotu šo karti, ir nepieciešams WooCommerce"
+
+#: admin/apps/overview/overview.php:749 admin/classes/uipress-app.php:1380
+msgid "Please select a valid JSON file"
+msgstr "Lūdzu, atlasiet derīgu JSON failu"
+
+#: admin/apps/overview/overview.php:750 admin/classes/uipress-app.php:1381
+msgid "File is to big"
+msgstr "Fails ir pārāk liels"
+
+#: admin/apps/overview/overview.php:751
+msgid "Layout Imported"
+msgstr "Importēts izkārtojums"
+
+#: admin/apps/overview/overview.php:752
+msgid "Unable to import layout"
+msgstr "Nevar importēt izkārtojumu"
+
+#: admin/apps/overview/overview.php:753
+msgid "Are you sure you want to clear the current layout? There is no undo."
+msgstr ""
+"Vai tiešām vēlaties notīrīt pašreizējo izkārtojumu? Nav nekādas atsaukšanas."
+
+#: admin/apps/overview/overview.php:754
+msgid "Available Cards"
+msgstr "Pieejamās kartes"
+
+#: admin/apps/overview/overview.php:755
+msgid "Event Count"
+msgstr "Pasākumu skaits"
+
+#: admin/apps/overview/overview.php:756
+msgid "Event Name"
+msgstr "Pasākuma nosaukums"
+
+#: admin/apps/overview/overview.php:757
+msgid "Channel"
+msgstr "Kanāls"
+
+#: admin/apps/overview/overview.php:758
+msgid "Sessions"
+msgstr "Sesijas"
+
+#: admin/apps/overview/overview.php:760
+msgid "Page Views  (comparison period)"
+msgstr "Lapas skatījumi (salīdzinājuma periods)"
+
+#: admin/apps/overview/overview.php:763
+msgid "To"
+msgstr "Uz"
+
+#: admin/apps/overview/overview.php:764
+msgid "From"
+msgstr "No"
+
+#: admin/apps/overview/overview.php:765
+msgid "Date Range"
+msgstr "Datumu diapazons"
+
+#: admin/apps/overview/overview.php:766
+msgid "Custom Comparison Dates"
+msgstr "Pielāgoti salīdzināšanas datumi"
+
+#: admin/apps/overview/overview.php:767
+msgid "Apply"
+msgstr "Pieteikties"
+
+#: admin/apps/overview/overview.php:768
+msgid "vs"
+msgstr "vs"
+
+#: admin/apps/overview/overview.php:769
+msgid "Custom Range"
+msgstr "Pielāgots diapazons"
+
+#: admin/apps/overview/overview.php:770 admin/classes/uipress-app.php:1397
+msgid "Today"
+msgstr "Šodien"
+
+#: admin/apps/overview/overview.php:771 admin/classes/uipress-app.php:1398
+msgid "Yesterday"
+msgstr "vakar"
+
+#: admin/apps/overview/overview.php:772
+msgid "Last 7 days"
+msgstr "Pēdējās 7 dienas"
+
+#: admin/apps/overview/overview.php:773
+msgid "Last 30 days"
+msgstr "Pēdējās 30 dienas"
+
+#: admin/apps/overview/overview.php:774
+msgid "Last 60 days"
+msgstr "Pēdējās 60 dienas"
+
+#: admin/apps/overview/overview.php:775
+msgid "Last 90 days"
+msgstr "Pēdējās 90 dienas"
+
+#: admin/apps/overview/overview.php:776 admin/classes/uipress-app.php:1395
+msgid "This Month"
+msgstr "Šis mēnesis"
+
+#: admin/apps/overview/overview.php:777 admin/classes/uipress-app.php:1396
+msgid "Last Month"
+msgstr "Pagājušajā mēnesī"
+
+#: admin/apps/overview/overview.php:778
+msgid "Purchases"
+msgstr "Pirkumi"
+
+#: admin/apps/overview/overview.php:779
+msgid "Added to cart"
+msgstr "Pievienots grozam"
+
+#: admin/apps/overview/overview.php:780
+msgid "Checkout started"
+msgstr "Sākta izrakstīšanās"
+
+#: admin/apps/overview/overview.php:784
+msgid "Site Revenue (comparison)"
+msgstr "Vietnes ieņēmumi (salīdzinājums)"
+
+#: admin/apps/overview/overview.php:786
+msgid "Visits By Device"
+msgstr "Apmeklējumi pēc ierīces"
+
+#: admin/apps/overview/overview.php:787
+msgid "Device Category"
+msgstr "Ierīces kategorija"
+
+#: admin/apps/overview/overview.php:788
+msgid "Active Users"
+msgstr "Aktīvie lietotāji"
+
+#: admin/apps/overview/overview.php:789 admin/apps/overview/overview.php:791
+msgid "Product Name"
+msgstr "produkta nosaukums"
+
+#: admin/apps/overview/overview.php:790
+msgid "Sales"
+msgstr "Pārdošana"
+
+#: admin/apps/overview/overview.php:792
+msgid "Quantity Sold"
+msgstr "Pārdots daudzums"
+
+#: admin/apps/overview/overview.php:793 admin/apps/overview/overview.php:807
+msgid "Revenue"
+msgstr "Ieņēmumi"
+
+#: admin/apps/overview/overview.php:794
+msgid "Column Removed"
+msgstr "Kolonna noņemta"
+
+#: admin/apps/overview/overview.php:795
+msgid "Section Removed"
+msgstr "Sadaļa noņemta"
+
+#: admin/apps/overview/overview.php:796
+msgid "View Plans"
+msgstr "Skatīt plānus"
+
+#: admin/apps/overview/overview.php:797
+msgid "Unable to fetch analytics data, please try again later"
+msgstr "Nevar izgūt analītikas datus. Lūdzu, vēlāk mēģiniet vēlreiz"
+
+#: admin/apps/overview/overview.php:798
+msgid "Column background colour"
+msgstr "Kolonnas fona krāsa"
+
+#: admin/apps/overview/overview.php:800
+msgid "Hide card title"
+msgstr "Paslēpt kartītes nosaukumu"
+
+#: admin/apps/overview/overview.php:801 admin/apps/overview/overview.php:895
+msgid "Site Health"
+msgstr "Vietnes veselība"
+
+#: admin/apps/overview/overview.php:802
+msgid "Conversions"
+msgstr "Reklāmguvumi"
+
+#: admin/apps/overview/overview.php:803
+msgid "This card only works with google analytics 4 accounts"
+msgstr "Šī karte darbojas tikai ar Google Analytics 4 kontiem"
+
+#: admin/apps/overview/overview.php:804
+msgid "This card only works with universal analytics propeties."
+msgstr "Šī karte darbojas tikai ar universālajām analītikas īpašībām."
+
+#: admin/apps/overview/overview.php:805
+msgid "Orders"
+msgstr "Pasūtījumi"
+
+#: admin/apps/overview/overview.php:806
+msgid "Orders (comparison period)."
+msgstr "Pasūtījumi (salīdzināšanas periods)."
+
+#: admin/apps/overview/overview.php:808
+msgid "Revenue (comparison period)."
+msgstr "Ieņēmumi (salīdzināšanas periods)."
+
+#: admin/apps/overview/overview.php:809
+msgid "Current Period"
+msgstr "Pašreizējais periods"
+
+#: admin/apps/overview/overview.php:810
+msgid "Comparison Period"
+msgstr "Salīdzināšanas periods"
+
+#: admin/apps/overview/overview.php:811
+msgid "Match Card Height"
+msgstr "Atbilst kartes augstumam"
+
+#: admin/apps/overview/overview.php:813
+msgid "What would you like to do?"
+msgstr "Ko tu gribētu darīt?"
+
+#: admin/apps/overview/overview.php:814
+msgid "To do"
+msgstr "Darīt"
+
+#: admin/apps/overview/overview.php:815
+msgid "Done"
+msgstr "Gatavs"
+
+#: admin/apps/overview/overview.php:816
+msgid "Size"
+msgstr "Izmērs"
+
+#: admin/apps/overview/overview.php:817
+msgid "Background Colour"
+msgstr "Fona krāsa"
+
+#: admin/apps/overview/overview.php:818
+msgid "Custom CSS class"
+msgstr "Pielāgota CSS klase"
+
+#: admin/apps/overview/overview.php:819
+msgid "Add New Card"
+msgstr "Pievienot jaunu karti"
+
+#: admin/apps/overview/overview.php:820 admin/apps/overview/overview.php:1249
+#: admin/classes/settings.php:78 admin/classes/settings.php:91
+#: admin/classes/settings.php:226 admin/classes/uipress-app.php:1406
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: admin/apps/overview/overview.php:821
+msgid "Card Settings"
+msgstr "Kartes iestatījumi"
+
+#: admin/apps/overview/overview.php:822
+msgid "Move Column Down"
+msgstr "Pārvietot kolonnu uz leju"
+
+#: admin/apps/overview/overview.php:823
+msgid "Move Column Up"
+msgstr "Pārvietot kolonnu uz augšu"
+
+#: admin/apps/overview/overview.php:824
+msgid "Add new column"
+msgstr "Pievienot jaunu kolonnu"
+
+#: admin/apps/overview/overview.php:825
+msgid "Section Settings"
+msgstr "Sadaļas iestatījumi"
+
+#: admin/apps/overview/overview.php:826
+msgid "Toggle section visibility"
+msgstr "Pārslēgt sadaļas redzamību"
+
+#: admin/apps/overview/overview.php:827
+msgid "Page Settings"
+msgstr "Lapas iestatījumi"
+
+#: admin/apps/overview/overview.php:828
+msgid "In the last"
+msgstr "Pēdējā"
+
+#: admin/apps/overview/overview.php:830 admin/apps/users/uip-users-ajax.php:662
+msgid "Something has gone wrong"
+msgstr "Kaut kas ir nogājis greizi"
+
+#: admin/apps/overview/overview.php:831
+msgid "Connect your matomo site to use this card"
+msgstr "Lai izmantotu šo karti, pievienojiet savu matomo vietni"
+
+#: admin/apps/overview/overview.php:832
+msgid "Connect Matomo Analytics"
+msgstr "Pievienojiet Matomo Analytics"
+
+#: admin/apps/overview/overview.php:833
+msgid "Auth Token"
+msgstr "Auth Token"
+
+#: admin/apps/overview/overview.php:834
+msgid "Matomo Url"
+msgstr "Matomo URL"
+
+#: admin/apps/overview/overview.php:835
+msgid "Matomo Site ID"
+msgstr "Matomo vietnes ID"
+
+#: admin/apps/overview/overview.php:837
+msgid "Click below to change matomo account"
+msgstr "Noklikšķiniet tālāk, lai mainītu matomo kontu"
+
+#: admin/apps/overview/overview.php:838
+msgid "Change account"
+msgstr "Mainīt kontu"
+
+#: admin/apps/overview/overview.php:839
+msgid "City"
+msgstr "Pilsēta"
+
+#: admin/apps/overview/overview.php:840
+msgid "Average Page Load"
+msgstr "Vidējā lapas ielāde"
+
+#: admin/apps/overview/overview.php:842
+msgid "Exit Rate"
+msgstr "Izejas līmenis"
+
+#: admin/apps/overview/overview.php:843
+msgid "Average Time On Page"
+msgstr "Vidējais lapā pavadītais laiks"
+
+#: admin/apps/overview/overview.php:844
+msgid "Referer"
+msgstr "Referents"
+
+#: admin/apps/overview/overview.php:845
+msgid "Section name"
+msgstr "Sadaļas nosaukums"
+
+#: admin/apps/overview/overview.php:846
+msgid "Section description"
+msgstr "Sadaļas apraksts"
+
+#: admin/apps/overview/overview.php:868
+msgid "Recently Published"
+msgstr "Nesen publicēts"
+
+#: admin/apps/overview/overview.php:870
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr "Rādīt ziņas, lapas un CPT, kas publicētas datumu diapazonā."
+
+#: admin/apps/overview/overview.php:871 admin/apps/overview/overview.php:880
+#: admin/apps/overview/overview.php:889 admin/apps/overview/overview.php:898
+#: admin/apps/overview/overview.php:907 admin/apps/overview/overview.php:916
+#: admin/apps/overview/overview.php:925 admin/apps/overview/overview.php:934
+#: admin/apps/overview/overview.php:943 admin/apps/overview/overview.php:952
+#: admin/classes/uipress-app.php:2526
+msgid "General"
+msgstr "Ģenerālis"
+
+#: admin/apps/overview/overview.php:877
+msgid "Recent Comments"
+msgstr "Jaunākie komentāri"
+
+#: admin/apps/overview/overview.php:879
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr ""
+"Parāda kopējo komentāru skaitu un nesen publicētos komentārus datumu "
+"diapazonā."
+
+#: admin/apps/overview/overview.php:886
+msgid "System Info"
+msgstr "Sistēmas informācija"
+
+#: admin/apps/overview/overview.php:888
+msgid "Displays info our about your cms and server setup."
+msgstr "Parāda informāciju par jūsu cms un servera iestatīšanu."
+
+#: admin/apps/overview/overview.php:897
+msgid "Displays info our about your sites health."
+msgstr "Parāda informāciju par jūsu vietņu veselību."
+
+#: admin/apps/overview/overview.php:906
+msgid "Displays current time and date"
+msgstr "Parāda pašreizējo laiku un datumu"
+
+#: admin/apps/overview/overview.php:913
+msgid "Video"
+msgstr "Video"
+
+#: admin/apps/overview/overview.php:915
+msgid "Displays a custom video"
+msgstr "Parāda pielāgotu videoklipu"
+
+#: admin/apps/overview/overview.php:924
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "Uz karti izvada WordPress īskodu"
+
+#: admin/apps/overview/overview.php:931
+msgid "Custom HTML"
+msgstr "Pielāgots HTML"
+
+#: admin/apps/overview/overview.php:933
+msgid "Outputs custom HTML to the card"
+msgstr "Kartē tiek izvadīts pielāgots HTML"
+
+#: admin/apps/overview/overview.php:940
+msgid "Quote of the day"
+msgstr "Dienas citāts"
+
+#: admin/apps/overview/overview.php:942
+msgid "Shows a random quote of the day"
+msgstr "Parāda nejaušu dienas citātu"
+
+#: admin/apps/overview/overview.php:949
+msgid "To do list"
+msgstr "Darāmo lietu saraksts"
+
+#: admin/apps/overview/overview.php:951
+msgid "A simple todo list card"
+msgstr "Vienkārša uzdevumu saraksta karte"
+
+#: admin/apps/overview/overview.php:1038
+msgid "Hello"
+msgstr "Sveiki"
+
+#: admin/apps/overview/overview.php:1187
+msgid "Clear Layout"
+msgstr "Notīrīt izkārtojumu"
+
+#: admin/apps/overview/overview.php:1191 admin/apps/overview/overview.php:1234
+msgid "New Section"
+msgstr "Jauna sadaļa"
+
+#: admin/apps/overview/overview.php:1196 admin/apps/overview/overview.php:1237
+msgid "Save changes"
+msgstr "Saglabāt izmaiņas"
+
+#: admin/apps/overview/overview.php:1240
+msgid "Exit edit mode"
+msgstr "Iziet no rediģēšanas režīma"
+
+#: admin/apps/overview/overview.php:1253
+msgid "Editing Mode"
+msgstr "Rediģēšanas režīms"
+
+#: admin/apps/overview/overview.php:1265
+msgid "Disconnect Analytics"
+msgstr "Atvienot pakalpojumu Analytics"
+
+#: admin/apps/overview/overview.php:1275
+msgid "Export Layout"
+msgstr "Eksportēt izkārtojumu"
+
+#: admin/apps/overview/overview.php:1284
+msgid "Import Layout"
+msgstr "Importēt izkārtojumu"
+
+#: admin/apps/overview/overview.php:1298 admin/classes/settings.php:258
+#: admin/classes/styles.php:457
+msgid "Unlock Export and Import features with pro"
+msgstr "Atbloķējiet eksportēšanas un importēšanas funkcijas, izmantojot pro"
+
+#: admin/apps/overview/overview.php:1321
+msgid "Home"
+msgstr "Mājas"
+
+#: admin/apps/overview/overview.php:1369
+msgid "It's a little quiet around here"
+msgstr "Šeit ir mazliet kluss"
+
+#: admin/apps/overview/overview.php:1371
+msgid ""
+"Looks like you haven't created a dashboard yet. Enter edit mode to get "
+"started or import a default template"
+msgstr ""
+"Šķiet, ka jūs vēl neesat izveidojis informācijas paneli. Ieejiet rediģēšanas "
+"režīmā, lai sāktu darbu, vai importējiet noklusējuma veidni"
+
+#: admin/apps/overview/overview.php:1374
+msgid "Import default template"
+msgstr "Importēt noklusējuma veidni"
+
+#: admin/apps/overview/overview.php:1375
+msgid "Enter edit mode"
+msgstr "Ieejiet rediģēšanas režīmā"
+
+#: admin/apps/overview/overview.php:1419
+msgid "Match Column Height"
+msgstr "Atbilst kolonnas augstumam"
+
+#: admin/apps/overview/overview.php:1427
+msgid "Hide section title"
+msgstr "Slēpt sadaļas nosaukumu"
+
+#: admin/apps/overview/overview.php:1435
+msgid "Section Width"
+msgstr "Sadaļas platums"
+
+#: admin/apps/overview/overview.php:1452
+msgid "Remove Section"
+msgstr "Noņemt sadaļu"
+
+#: admin/apps/overview/woocommerce.php:46
+#: admin/apps/overview/woocommerce.php:125
+#: admin/apps/overview/woocommerce.php:203
+msgid "Woocommerce is required for this widget"
+msgstr "Šim logrīkam ir nepieciešama Woocommerce"
+
+#: admin/apps/overview/woocommerce.php:74
+msgid "Total Revenue"
+msgstr "Kopējie ieņēmumi"
+
+#: admin/apps/overview/woocommerce.php:76
+msgid "Display total sales revenue in your store within the date range."
+msgstr "Parādiet kopējos pārdošanas ieņēmumus savā veikalā datumu diapazonā."
+
+#: admin/apps/overview/woocommerce.php:77
+#: admin/apps/overview/woocommerce.php:86
+#: admin/apps/overview/woocommerce.php:95
+#: admin/apps/overview/woocommerce.php:104
+#: admin/apps/overview/woocommerce.php:113
+msgid "Commerce"
+msgstr "komercija"
+
+#: admin/apps/overview/woocommerce.php:83
+msgid "Total Orders"
+msgstr "Kopējais pasūtījumu skaits"
+
+#: admin/apps/overview/woocommerce.php:85
+msgid "Display total orders in your store within the date range."
+msgstr "Parādiet kopējo pasūtījumu skaitu jūsu veikalā datumu diapazonā."
+
+#: admin/apps/overview/woocommerce.php:92
+msgid "Average Order Value"
+msgstr "Vidējā pasūtījuma vērtība"
+
+#: admin/apps/overview/woocommerce.php:94
+msgid "Display average order value in your store within the date range."
+msgstr "Parādiet vidējo pasūtījuma vērtību jūsu veikalā datumu diapazonā."
+
+#: admin/apps/overview/woocommerce.php:101
+msgid "Recent Orders"
+msgstr "Jaunākie pasūtījumi"
+
+#: admin/apps/overview/woocommerce.php:103
+msgid "Display recent orders from your store within the date range."
+msgstr "Parādiet jaunākos pasūtījumus no sava veikala datumu diapazonā."
+
+#: admin/apps/overview/woocommerce.php:110
+msgid "Popular Products"
+msgstr "Populāri produkti"
+
+#: admin/apps/overview/woocommerce.php:112
+msgid "Display top selling products from your store within the date range."
+msgstr ""
+"Parādiet visvairāk pārdotos produktus no sava veikala datumu diapazonā."
+
+#: admin/apps/overview/woocommerce.php:191
+msgid "No orders during the date range."
+msgstr "Nav pasūtījumu datumu diapazonā."
+
+#: admin/apps/overview/woocommerce.php:272
+msgid "No products sold during the date range."
+msgstr "Šajā datumu diapazonā nav pārdots neviens produkts."
+
+#: admin/apps/users/uip-history.php:132
+msgid "Once every 1 minutes"
+msgstr "Reizi 1 minūtē"
+
+#: admin/apps/users/uip-history.php:145
+msgctxt "post type general name"
+msgid "History"
+msgstr "Vēsture"
+
+#: admin/apps/users/uip-history.php:146
+msgctxt "post type singular name"
+msgid "history"
+msgstr "vēsture"
+
+#: admin/apps/users/uip-history.php:147
+msgctxt "admin menu"
+msgid "History"
+msgstr "Vēsture"
+
+#: admin/apps/users/uip-history.php:148
+msgctxt "add new on admin bar"
+msgid "History"
+msgstr "Vēsture"
+
+#: admin/apps/users/uip-history.php:149
+msgctxt "history"
+msgid "Add New"
+msgstr "Pievieno jaunu"
+
+#: admin/apps/users/uip-history.php:150
+msgid "Add New History"
+msgstr "Pievienot jaunu vēsturi"
+
+#: admin/apps/users/uip-history.php:151
+msgid "New History"
+msgstr "Jaunā vēsture"
+
+#: admin/apps/users/uip-history.php:152
+msgid "Edit History"
+msgstr "Rediģēt vēsturi"
+
+#: admin/apps/users/uip-history.php:153
+msgid "View History"
+msgstr "Skatīt vēsturi"
+
+#: admin/apps/users/uip-history.php:154
+msgid "All History"
+msgstr "Visa Vēsture"
+
+#: admin/apps/users/uip-history.php:155
+msgid "Search History"
+msgstr "Meklēšanas vēsture"
+
+#: admin/apps/users/uip-history.php:156
+msgid "No History found."
+msgstr "Vēsture nav atrasta."
+
+#: admin/apps/users/uip-history.php:157
+msgid "No History found in Trash."
+msgstr "Vēsture nav atrasta miskastē."
+
+#: admin/apps/users/uip-user-groups.php:41
+msgctxt "post type general name"
+msgid "Group"
+msgstr "Grupa"
+
+#: admin/apps/users/uip-user-groups.php:42
+msgctxt "post type singular name"
+msgid "Group"
+msgstr "Grupa"
+
+#: admin/apps/users/uip-user-groups.php:43
+msgctxt "admin menu"
+msgid "Groups"
+msgstr "Grupas"
+
+#: admin/apps/users/uip-user-groups.php:44
+msgctxt "add new on admin bar"
+msgid "Group"
+msgstr "Grupa"
+
+#: admin/apps/users/uip-user-groups.php:45
+msgctxt "Group"
+msgid "Add New"
+msgstr "Pievieno jaunu"
+
+#: admin/apps/users/uip-user-groups.php:46
+#: admin/apps/users/uip-user-groups.php:57
+msgid "Add New Group"
+msgstr "Pievienot jaunu grupu"
+
+#: admin/apps/users/uip-user-groups.php:47
+msgid "New Group"
+msgstr "Jauna grupa"
+
+#: admin/apps/users/uip-user-groups.php:48
+msgid "Edit Group"
+msgstr "Rediģēt grupu"
+
+#: admin/apps/users/uip-user-groups.php:49
+msgid "View Group"
+msgstr "Skatīt grupu"
+
+#: admin/apps/users/uip-user-groups.php:50
+msgid "All Groups"
+msgstr "Visas grupas"
+
+#: admin/apps/users/uip-user-groups.php:51
+msgid "Search Groups"
+msgstr "Meklēt grupas"
+
+#: admin/apps/users/uip-user-groups.php:52
+msgid "No Groups found."
+msgstr "Nav atrasta neviena grupa."
+
+#: admin/apps/users/uip-user-groups.php:53
+msgid "No Groups found in Trash."
+msgstr "Atkritnē nav atrasta neviena grupa."
+
+#: admin/apps/users/uip-user-groups.php:80
+msgid "No group to delete"
+msgstr "Nav grupas, ko dzēst"
+
+#: admin/apps/users/uip-user-groups.php:90
+msgid "Unable to delete the group"
+msgstr "Nevar izdzēst grupu"
+
+#: admin/apps/users/uip-user-groups.php:147
+msgid "Group deleted"
+msgstr "Grupa izdzēsta"
+
+#: admin/apps/users/uip-user-groups.php:166
+msgid "Unable to move folder group itself"
+msgstr "Nevar pārvietot pašu mapju grupu"
+
+#: admin/apps/users/uip-user-groups.php:180
+msgid "Unable to move group"
+msgstr "Nevar pārvietot grupu"
+
+#: admin/apps/users/uip-user-groups.php:208
+msgid "Group moved"
+msgstr "Grupa pārvietota"
+
+#: admin/apps/users/uip-user-groups.php:227
+msgid "No item to move"
+msgstr "Nav vienumu, ko pārvietot"
+
+#: admin/apps/users/uip-user-groups.php:241
+msgid "Item moved"
+msgstr "Vienums ir pārvietots"
+
+#: admin/apps/users/uip-user-groups.php:259
+msgid "No users to move"
+msgstr "Nav lietotāju, ko pārvietot"
+
+#: admin/apps/users/uip-user-groups.php:277
+msgid "User moved"
+msgstr "Lietotājs ir pārvietots"
+
+#: admin/apps/users/uip-user-groups.php:318
+msgid "Group updated"
+msgstr "Grupa atjaunināta"
+
+#: admin/apps/users/uip-user-groups.php:339 admin/classes/folders.php:557
+msgid "Title is required"
+msgstr "Nosaukums ir nepieciešams"
+
+#: admin/apps/users/uip-user-groups.php:345 admin/classes/folders.php:563
+msgid "Colour is required"
+msgstr "Nepieciešama krāsa"
+
+#: admin/apps/users/uip-user-groups.php:360
+msgid "Unable to create group"
+msgstr "Nevar izveidot grupu"
+
+#: admin/apps/users/uip-user-groups.php:372
+msgid "Group created"
+msgstr "Grupa izveidota"
+
+#: admin/apps/users/uip-users-ajax.php:415
+msgid "Unknown"
+msgstr "Nezināms"
+
+#: admin/apps/users/uip-users-ajax.php:511
+#: admin/apps/users/uip-users-ajax.php:577
+msgid "You don't have sufficent priviledges to edit users"
+msgstr "Jums nav pietiekamu tiesību, lai rediģētu lietotājus"
+
+#: admin/apps/users/uip-users-ajax.php:517
+#: admin/apps/users/uip-users-ajax.php:1023
+msgid "Email is not valid"
+msgstr "E-pasts nav derīgs"
+
+#: admin/apps/users/uip-users-ajax.php:528
+#: admin/apps/users/uip-users-ajax.php:1016
+msgid "Email already exists"
+msgstr "ēpasta adrese jau pastāv"
+
+#: admin/apps/users/uip-users-ajax.php:557
+#: admin/apps/users/uip-users-ajax.php:1069
+msgid "User saved"
+msgstr "Lietotājs saglabāts"
+
+#: admin/apps/users/uip-users-ajax.php:583
+msgid "No users sent to update"
+msgstr "Atjaunināšanai nav nosūtīts neviens lietotājs"
+
+#: admin/apps/users/uip-users-ajax.php:589
+msgid "No roles sent to update"
+msgstr "Atjaunināšanai nav nosūtīta neviena loma"
+
+#: admin/apps/users/uip-users-ajax.php:610
+msgid "User roles updated"
+msgstr "Lietotāju lomas ir atjauninātas"
+
+#: admin/apps/users/uip-users-ajax.php:630
+#: admin/apps/users/uip-users-ajax.php:716
+#: admin/apps/users/uip-users-ajax.php:777
+#: admin/apps/users/uip-users-ajax.php:818
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr "Jums nav pietiekamu privilēģiju, lai pārvaldītu lomas"
+
+#: admin/apps/users/uip-users-ajax.php:636
+msgid "Original role name required"
+msgstr "Nepieciešams oriģinālais lomas nosaukums"
+
+#: admin/apps/users/uip-users-ajax.php:642
+#: admin/apps/users/uip-users-ajax.php:722
+#: admin/apps/users/uip-users-ajax.php:783
+#: admin/apps/users/uip-users-ajax.php:836
+#: admin/apps/users/uip-users-ajax.php:879
+#: admin/apps/users/uip-users-ajax.php:885
+#: admin/apps/users/uip-users-ajax.php:944
+#: admin/apps/users/uip-users-ajax.php:950
+msgid "Role name is required"
+msgstr "Nepieciešams lomas nosaukums"
+
+#: admin/apps/users/uip-users-ajax.php:667
+msgid "Role saved"
+msgstr "Loma saglabāta"
+
+#: admin/apps/users/uip-users-ajax.php:686
+msgid "You don't have sufficent priviledges to do this"
+msgstr "Jums nav pietiekamu privilēģiju, lai to izdarītu"
+
+#: admin/apps/users/uip-users-ajax.php:697
+msgid "User logged out everywhere"
+msgstr "Lietotājs ir atteicies visur"
+
+#: admin/apps/users/uip-users-ajax.php:728
+msgid "Role label cannot contain spaces"
+msgstr "Lomas etiķetē nedrīkst būt atstarpes"
+
+#: admin/apps/users/uip-users-ajax.php:734
+msgid "Role label is required"
+msgstr "Nepieciešama lomas etiķete"
+
+#: admin/apps/users/uip-users-ajax.php:753
+msgid "Unable to add role. Make sure role name is unique"
+msgstr "Nevar pievienot lomu. Pārliecinieties, vai lomas nosaukums ir unikāls"
+
+#: admin/apps/users/uip-users-ajax.php:758
+msgid "Role created"
+msgstr "Loma izveidota"
+
+#: admin/apps/users/uip-users-ajax.php:792
+#: admin/apps/users/uip-users-ajax.php:843
+msgid "You can't delete a role that is currently assigned to yourself"
+msgstr "Jūs nevarat izdzēst lomu, kas pašlaik ir piešķirta jums"
+
+#: admin/apps/users/uip-users-ajax.php:799
+msgid "Role deleted"
+msgstr "Loma dzēsta"
+
+#: admin/apps/users/uip-users-ajax.php:824
+msgid "No roles to delete"
+msgstr "Nav lomu, ko dzēst"
+
+#: admin/apps/users/uip-users-ajax.php:852
+msgid "Roles deleted"
+msgstr "Lomas izdzēstas"
+
+#: admin/apps/users/uip-users-ajax.php:873
+msgid "You don't have sufficent priviledges to add this capability"
+msgstr "Jums nav pietiekamu privilēģiju, lai pievienotu šo iespēju"
+
+#: admin/apps/users/uip-users-ajax.php:891
+#: admin/apps/users/uip-users-ajax.php:956
+msgid "Role name cannot contain spaces"
+msgstr "Lomas nosaukumā nedrīkst būt atstarpes"
+
+#: admin/apps/users/uip-users-ajax.php:897
+msgid "Capability name cannot contain spaces"
+msgstr "Iespējas nosaukumā nedrīkst būt atstarpes"
+
+#: admin/apps/users/uip-users-ajax.php:912
+msgid "Unable to add capability. Make sure role name is unique"
+msgstr ""
+"Nevar pievienot iespēju. Pārliecinieties, vai lomas nosaukums ir unikāls"
+
+#: admin/apps/users/uip-users-ajax.php:917
+msgid "Capability added"
+msgstr "Iespēja pievienota"
+
+#: admin/apps/users/uip-users-ajax.php:938
+msgid "You don't have sufficent priviledges to delete this capability"
+msgstr "Jums nav pietiekamu privilēģiju, lai dzēstu šo iespēju"
+
+#: admin/apps/users/uip-users-ajax.php:971
+msgid "Unable to delete capability. Make sure role name is unique"
+msgstr "Nevar izdzēst iespēju. Pārliecinieties, vai lomas nosaukums ir unikāls"
+
+#: admin/apps/users/uip-users-ajax.php:976
+msgid "Capability deleted"
+msgstr "Iespēja dzēsta"
+
+#: admin/apps/users/uip-users-ajax.php:996
+msgid "You don't have sufficent priviledges to create users"
+msgstr "Jums nav pietiekamu privilēģiju, lai izveidotu lietotājus"
+
+#: admin/apps/users/uip-users-ajax.php:1003
+msgid "Username already exists"
+msgstr "Lietotājvārds jau eksistē"
+
+#: admin/apps/users/uip-users-ajax.php:1009
+msgid "Username is not valid"
+msgstr "Lietotājvārds nav derīgs"
+
+#: admin/apps/users/uip-users-ajax.php:1029
+msgid "Password is required"
+msgstr "nepieciešama parole"
+
+#: admin/apps/users/uip-users-ajax.php:1088
+#: admin/apps/users/uip-users-ajax.php:1127
+msgid "You don't have sufficent priviledges to edit this user"
+msgstr "Jums nav pietiekamu tiesību, lai rediģētu šo lietotāju"
+
+#: admin/apps/users/uip-users-ajax.php:1097
+msgid "Password reset link sent"
+msgstr "Paroles atiestatīšanas saite ir nosūtīta"
+
+#: admin/apps/users/uip-users-ajax.php:1101
+msgid "Unable to send password reset email at the moment"
+msgstr "Pašlaik nevar nosūtīt paroles atiestatīšanas e-pastu"
+
+#: admin/apps/users/uip-users-ajax.php:1121
+msgid "No users sent to reset passwords!"
+msgstr "Nav nosūtīts neviens lietotājs, lai atiestatītu paroles!"
+
+#: admin/apps/users/uip-users-ajax.php:1141
+msgid "Unable to send password reset email"
+msgstr "Nevar nosūtīt paroles atiestatīšanas e-pastu"
+
+#: admin/apps/users/uip-users-ajax.php:1142
+#: admin/apps/users/uip-users-ajax.php:1315
+#: admin/apps/users/uip-users-ajax.php:1325
+#, php-format
+msgid "User ID: %s"
+msgstr "Lietotāja ID: %s"
+
+#: admin/apps/users/uip-users-ajax.php:1148
+msgid "Password reset links succesfully sent"
+msgstr "Paroles atiestatīšanas saites ir veiksmīgi nosūtītas"
+
+#: admin/apps/users/uip-users-ajax.php:1173
+msgid "Subject is required"
+msgstr "Obligāts priekšmets"
+
+#: admin/apps/users/uip-users-ajax.php:1179
+msgid "Reply to email is required"
+msgstr "Nepieciešama atbilde uz e-pastu"
+
+#: admin/apps/users/uip-users-ajax.php:1185
+msgid "Message is required"
+msgstr "Nepieciešama ziņa"
+
+#: admin/apps/users/uip-users-ajax.php:1200
+msgid "No email to send message to."
+msgstr "Nav e-pasta, uz kuru nosūtīt ziņojumu."
+
+#: admin/apps/users/uip-users-ajax.php:1232
+msgid "Unable to send mail at this time"
+msgstr "Pašlaik nevar nosūtīt pastu"
+
+#: admin/apps/users/uip-users-ajax.php:1237
+msgid "Message sent"
+msgstr "Ziņa nosūtīta"
+
+#: admin/apps/users/uip-users-ajax.php:1261
+msgid "You can't delete yourself!"
+msgstr "Jūs nevarat izdzēst sevi!"
+
+#: admin/apps/users/uip-users-ajax.php:1270
+msgid "User successfully deleted"
+msgstr "Lietotājs veiksmīgi izdzēsts"
+
+#: admin/apps/users/uip-users-ajax.php:1274
+#: admin/apps/users/uip-users-ajax.php:1279
+#: admin/apps/users/uip-users-ajax.php:1305
+msgid "You don't have sufficent priviledges to delete this user"
+msgstr "Jums nav pietiekamu privilēģiju, lai dzēstu šo lietotāju"
+
+#: admin/apps/users/uip-users-ajax.php:1299
+msgid "No users sent to delete!"
+msgstr "Nav nosūtīts neviens lietotājs, ko dzēst!"
+
+#: admin/apps/users/uip-users-ajax.php:1314
+msgid "You can't delete yourself"
+msgstr "Jūs nevarat izdzēst sevi"
+
+#: admin/apps/users/uip-users-ajax.php:1324
+msgid "Unable to delete this user"
+msgstr "Nevar izdzēst šo lietotāju"
+
+#: admin/apps/users/uip-users-ajax.php:1331
+msgid "Users successfully deleted"
+msgstr "Lietotāji veiksmīgi izdzēsti"
+
+#: admin/apps/users/uip-users.php:53 admin/apps/users/uip-users.php:266
+#: admin/apps/users/uip-users.php:377 admin/apps/users/uip-users.php:1291
+msgid "Users"
+msgstr "Lietotāji"
+
+#: admin/apps/users/uip-users.php:54
+msgid "Creates user management page"
+msgstr "Izveido lietotāju pārvaldības lapu"
+
+#: admin/apps/users/uip-users.php:58
+msgid "Disable Users Page?"
+msgstr "Vai atspējot lietotāju lapu?"
+
+#: admin/apps/users/uip-users.php:59
+msgid ""
+"If disabled, the user management page will not be available to any users."
+msgstr ""
+"Ja tas ir atspējots, lietotāju pārvaldības lapa nebūs pieejama nevienam "
+"lietotājam."
+
+#: admin/apps/users/uip-users.php:66
+msgid "User management page Disabled for"
+msgstr "Lietotāju pārvaldības lapa Atspējota"
+
+#: admin/apps/users/uip-users.php:67
+msgid ""
+"When the user management page module is disabled, the user management page "
+"will not be accesible for the users / roles"
+msgstr ""
+"Ja lietotāju pārvaldības lapas modulis ir atspējots, lietotāju pārvaldības "
+"lapa lietotājiem/lomām nebūs pieejama"
+
+#: admin/apps/users/uip-users.php:75
+msgid "Enable user activity log?"
+msgstr "Vai iespējot lietotāja darbību žurnālu?"
+
+#: admin/apps/users/uip-users.php:76
+msgid ""
+"If enabled, uipress will log actions taken by all users, including page "
+"views, comments, post creation etc."
+msgstr ""
+"Ja iespējots, uipress reģistrēs visu lietotāju veiktās darbības, tostarp "
+"lapu skatījumus, komentārus, ziņu izveidi utt."
+
+#: admin/apps/users/uip-users.php:84
+msgid "Disable page view logging"
+msgstr "Atspējot lapas skatījuma reģistrēšanu"
+
+#: admin/apps/users/uip-users.php:87
+#, php-format
+msgid ""
+"By Default, %s will track page views for logged in users as part of the "
+"activity log. While sometimes useful, this will have the biggest impact on "
+"the log size in the database. Disabling this feature will keep the log "
+"smaller."
+msgstr ""
+"Pēc noklusējuma %s kā daļu no darbību žurnāla izsekos pieteikušos lietotāju "
+"lapu skatījumus. Lai gan dažreiz tas ir noderīgi, tas visvairāk ietekmēs "
+"žurnāla lielumu datu bāzē. Atspējojot šo funkciju, žurnāls būs mazāks."
+
+#: admin/apps/users/uip-users.php:99
+msgid "Enable recent page view logging"
+msgstr "Iespējot pēdējo lapas skatījumu reģistrēšanu"
+
+#: admin/apps/users/uip-users.php:100
+#, php-format
+msgid ""
+"Seperate to the main history log, %s will keep 5 recent page views in the "
+"user meta. This can have a small impact on the page load speed."
+msgstr ""
+"Atsevišķi no galvenā vēstures žurnāla %s lietotāja meta saglabās 5 nesenos "
+"lapu skatījumus. Tas var nedaudz ietekmēt lapas ielādes ātrumu."
+
+#: admin/apps/users/uip-users.php:108
+msgid "How long to keep history?"
+msgstr "Cik ilgi glabāt vēsturi?"
+
+#: admin/apps/users/uip-users.php:109
+msgid ""
+"By default, activity items will be deleted after 60 days, enter the amount "
+"of days to keep items to change this"
+msgstr ""
+"Pēc noklusējuma darbību vienumi tiks dzēsti pēc 60 dienām. Lai to mainītu, "
+"ievadiet dienu skaitu, kas jāpatur"
+
+#: admin/apps/users/uip-users.php:118
+msgid "Delay history entries?"
+msgstr "Kavēt vēstures ierakstus?"
+
+#: admin/apps/users/uip-users.php:120
+msgid ""
+"Use scheduled tasks to insert the history actions to avoid any extra page "
+"load speed. By default entries are added as they happen, with this enabled "
+"there will be delay of about 10 seconds before actions appear."
+msgstr ""
+"Izmantojiet ieplānotos uzdevumus, lai ievietotu vēstures darbības, lai "
+"izvairītos no papildu lapas ielādes ātruma. Pēc noklusējuma ieraksti tiek "
+"pievienoti, kad tie notiek. Ja tas ir iespējots, darbību parādīšanās aizkave "
+"būs aptuveni 10 sekundes."
+
+#: admin/apps/users/uip-users.php:131
+msgid "Anonymize user IP addresses?"
+msgstr "Vai anonimizēt lietotāju IP adreses?"
+
+#: admin/apps/users/uip-users.php:132
+msgid ""
+"Each history item logs the users IP address, enable this to anonymize the "
+"address."
+msgstr ""
+"Katrs vēstures vienums reģistrē lietotāja IP adresi, iespējojiet šo, lai "
+"anonimizētu adresi."
+
+#: admin/apps/users/uip-users.php:217 admin/apps/users/uip-users.php:218
+msgid "User Management"
+msgstr "Lietotāju pārvaldība"
+
+#: admin/apps/users/uip-users.php:270 admin/apps/users/uip-users.php:328
+#: admin/apps/users/uip-users.php:1244
+msgid "Roles"
+msgstr "Lomas"
+
+#: admin/apps/users/uip-users.php:274
+msgid "Activity"
+msgstr "Aktivitāte"
+
+#: admin/apps/users/uip-users.php:290
+msgid "results"
+msgstr "rezultātus"
+
+#: admin/apps/users/uip-users.php:291 admin/apps/users/uip-users.php:316
+msgid "Previous"
+msgstr "Iepriekšējais"
+
+#: admin/apps/users/uip-users.php:292 admin/apps/users/uip-users.php:315
+msgid "Next"
+msgstr "Nākamais"
+
+#: admin/apps/users/uip-users.php:293
+msgid "Search users"
+msgstr "Meklēt lietotājus"
+
+#: admin/apps/users/uip-users.php:294
+msgid "Filter by role"
+msgstr "Filtrēt pēc lomas"
+
+#: admin/apps/users/uip-users.php:295
+msgid "Search roles"
+msgstr "Meklēt lomas"
+
+#: admin/apps/users/uip-users.php:296
+msgid "Table options"
+msgstr "Tabulas iespējas"
+
+#: admin/apps/users/uip-users.php:297
+msgid "Order"
+msgstr "Pasūtiet"
+
+#: admin/apps/users/uip-users.php:298
+msgid "Ascending"
+msgstr "Augošā"
+
+#: admin/apps/users/uip-users.php:299
+msgid "Descending"
+msgstr "Dilstoša"
+
+#: admin/apps/users/uip-users.php:300
+msgid "Sort By"
+msgstr "Kārtot pēc"
+
+#: admin/apps/users/uip-users.php:301
+msgid "Per page"
+msgstr "Par lapu"
+
+#: admin/apps/users/uip-users.php:302
+msgid "Fields"
+msgstr "Lauki"
+
+#: admin/apps/users/uip-users.php:303
+msgid "Date created"
+msgstr "Izveidošanas datums"
+
+#: admin/apps/users/uip-users.php:304
+msgid "On"
+msgstr "Ieslēgts"
+
+#: admin/apps/users/uip-users.php:305
+msgid "After"
+msgstr "Pēc"
+
+#: admin/apps/users/uip-users.php:306
+msgid "Before"
+msgstr "Pirms tam"
+
+#: admin/apps/users/uip-users.php:307 admin/apps/users/uip-users.php:308
+msgid "Date filters"
+msgstr "Datumu filtri"
+
+#: admin/apps/users/uip-users.php:310
+msgid "Account created"
+msgstr "Konts izveidots"
+
+#: admin/apps/users/uip-users.php:312 admin/apps/users/uip-users.php:326
+#: admin/apps/users/uip-users.php:1219
+msgid "Email"
+msgstr "E-pasts"
+
+#: admin/apps/users/uip-users.php:313
+msgid "Recent page views"
+msgstr "Nesenie lapu skatījumi"
+
+#: admin/apps/users/uip-users.php:314
+msgid "Recent activity"
+msgstr "Pēdējās aktivitātes"
+
+#: admin/apps/users/uip-users.php:317
+msgid "Last login"
+msgstr "Pēdējā pieteikšanās"
+
+#: admin/apps/users/uip-users.php:318
+msgid "Login location"
+msgstr "Pieteikšanās vieta"
+
+#: admin/apps/users/uip-users.php:319
+msgid "No recent activity"
+msgstr "Nav pēdējo darbību"
+
+#: admin/apps/users/uip-users.php:320
+msgid "Total posts"
+msgstr "Ziņu kopskaits"
+
+#: admin/apps/users/uip-users.php:321
+msgid "Total comments"
+msgstr "Kopā komentāri"
+
+#: admin/apps/users/uip-users.php:322
+msgid "User Options"
+msgstr "Lietotāja opcijas"
+
+#: admin/apps/users/uip-users.php:323 admin/apps/users/uip-users.php:332
+msgid "Edit user"
+msgstr "Rediģēt lietotāju"
+
+#: admin/apps/users/uip-users.php:324
+msgid "First name"
+msgstr "Vārds"
+
+#: admin/apps/users/uip-users.php:325
+msgid "Last name"
+msgstr "Uzvārds"
+
+#: admin/apps/users/uip-users.php:327
+msgid "Assign roles"
+msgstr "Piešķiriet lomas"
+
+#: admin/apps/users/uip-users.php:329
+msgid "User notes"
+msgstr "Lietotāja piezīmes"
+
+#: admin/apps/users/uip-users.php:330
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: admin/apps/users/uip-users.php:331
+msgid "Update user"
+msgstr "Atjaunināt lietotāju"
+
+#: admin/apps/users/uip-users.php:333
+msgid "Send password reset"
+msgstr "Sūtīt paroles atiestatīšanu"
+
+#: admin/apps/users/uip-users.php:334 admin/apps/users/uip-users.php:342
+msgid "Send message"
+msgstr "Sūtīt ziņu"
+
+#: admin/apps/users/uip-users.php:335
+msgid "Delete user"
+msgstr "Dzēst lietotāju"
+
+#: admin/apps/users/uip-users.php:336
+msgid "Are you sure you want to delete this user?"
+msgstr "Vai tiešām vēlaties dzēst šo lietotāju?"
+
+#: admin/apps/users/uip-users.php:337
+msgid "Are you sure you want to the selected users?"
+msgstr "Vai tiešām vēlaties atlasītajiem lietotājiem?"
+
+#: admin/apps/users/uip-users.php:338
+msgid ""
+"Are you sure you want to send password reset links to the selected users?"
+msgstr ""
+"Vai tiešām vēlaties atlasītajiem lietotājiem nosūtīt paroles atiestatīšanas "
+"saites?"
+
+#: admin/apps/users/uip-users.php:339
+msgid "Recipient"
+msgstr "Saņēmējs"
+
+#: admin/apps/users/uip-users.php:340
+msgid "Subject"
+msgstr "Priekšmets"
+
+#: admin/apps/users/uip-users.php:341
+msgid "Message"
+msgstr "Ziņa"
+
+#: admin/apps/users/uip-users.php:343
+msgid "Reply to email"
+msgstr "Atbildēt uz e-pastu"
+
+#: admin/apps/users/uip-users.php:344
+msgid "New user"
+msgstr "Jauns lietotājs"
+
+#: admin/apps/users/uip-users.php:345
+msgid "Save user"
+msgstr "Saglabāt lietotāju"
+
+#: admin/apps/users/uip-users.php:346
+msgid "Password"
+msgstr "Parole"
+
+#: admin/apps/users/uip-users.php:347 admin/apps/users/uip-users.php:1207
+msgid "Username"
+msgstr "Lietotājvārds"
+
+#: admin/apps/users/uip-users.php:348 admin/apps/users/uip-users.php:1279
+msgid "Role name"
+msgstr "Lomas nosaukums"
+
+#: admin/apps/users/uip-users.php:349
+msgid "Edit role"
+msgstr "Rediģēt lomu"
+
+#: admin/apps/users/uip-users.php:350
+msgid "Save role"
+msgstr "Saglabāt lomu"
+
+#: admin/apps/users/uip-users.php:351
+msgid "Capabilities"
+msgstr "Iespējas"
+
+#: admin/apps/users/uip-users.php:353
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"Jūs pašlaik rediģējat administratora lomu. Parasti tā ir vissvarīgākā loma "
+"vietnē, tāpēc, lūdzu, nenoņemiet nepieciešamās iespējas."
+
+#: admin/apps/users/uip-users.php:356
+msgid "Delete role"
+msgstr "Dzēst lomu"
+
+#: admin/apps/users/uip-users.php:357
+msgid "Are you sure you want to delete this role?"
+msgstr "Vai tiešām vēlaties dzēst šo lomu?"
+
+#: admin/apps/users/uip-users.php:358
+msgid "Are you sure you want to delete these roles?"
+msgstr "Vai tiešām vēlaties dzēst šīs lomas?"
+
+#: admin/apps/users/uip-users.php:359
+msgid "Role options"
+msgstr "Lomu iespējas"
+
+#: admin/apps/users/uip-users.php:360
+msgid "Clone"
+msgstr "Klonēt"
+
+#: admin/apps/users/uip-users.php:361
+msgid "New role"
+msgstr "Jauna loma"
+
+#: admin/apps/users/uip-users.php:362
+msgid "Role label"
+msgstr "Lomas etiķete"
+
+#: admin/apps/users/uip-users.php:363
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "Viens vārds, bez atstarpēm. Pasvītras un domuzīmes ir atļautas"
+
+#: admin/apps/users/uip-users.php:364
+msgid "copy"
+msgstr "kopiju"
+
+#: admin/apps/users/uip-users.php:365
+msgid "search roles"
+msgstr "meklēšanas lomas"
+
+#: admin/apps/users/uip-users.php:366
+msgid "Search history"
+msgstr "Meklēšanas vēsture"
+
+#: admin/apps/users/uip-users.php:367
+msgid "All actions"
+msgstr "Visas darbības"
+
+#: admin/apps/users/uip-users.php:368
+msgid "Add custom capability (Single word, no spaces)"
+msgstr "Pievienojiet pielāgotas iespējas (viens vārds, bez atstarpēm)"
+
+#: admin/apps/users/uip-users.php:369
+msgid "Add capability"
+msgstr "Pievienojiet iespēju"
+
+#: admin/apps/users/uip-users.php:370
+msgid "roles selected"
+msgstr "izvēlētās lomas"
+
+#: admin/apps/users/uip-users.php:371
+msgid "Delete selected"
+msgstr "Dzēst atlasīto"
+
+#: admin/apps/users/uip-users.php:372
+msgid "Deselect"
+msgstr "Noņemiet atlasi"
+
+#: admin/apps/users/uip-users.php:373
+msgid "Delete users"
+msgstr "Dzēst lietotājus"
+
+#: admin/apps/users/uip-users.php:374
+msgid "Clear selection"
+msgstr "Notīrīt atlasi"
+
+#: admin/apps/users/uip-users.php:375
+msgid "recipients"
+msgstr "saņēmējiem"
+
+#: admin/apps/users/uip-users.php:376 admin/classes/uipress-app.php:1409
+msgid "users"
+msgstr "lietotājiem"
+
+#: admin/apps/users/uip-users.php:378
+msgid "Replace existing roles"
+msgstr "Aizstāt esošās lomas"
+
+#: admin/apps/users/uip-users.php:379
+msgid "Update roles"
+msgstr "Atjaunināt lomas"
+
+#: admin/apps/users/uip-users.php:380
+msgid "users selected"
+msgstr "atlasīti lietotāji"
+
+#: admin/apps/users/uip-users.php:381
+msgid "Choose image"
+msgstr "Izvēlieties attēlu"
+
+#: admin/apps/users/uip-users.php:382
+msgid "Profile image"
+msgstr "Profila attēls"
+
+#: admin/apps/users/uip-users.php:383 admin/apps/users/uip-users.php:387
+#: admin/apps/users/uip-users.php:1250
+msgid "Groups"
+msgstr "Grupas"
+
+#: admin/apps/users/uip-users.php:384
+msgid "All users"
+msgstr "Visi lietotāji"
+
+#: admin/apps/users/uip-users.php:385
+msgid "No group"
+msgstr "Nav grupas"
+
+#: admin/apps/users/uip-users.php:386
+msgid "No groups created yet."
+msgstr "Vēl nav izveidota neviena grupa."
+
+#: admin/apps/users/uip-users.php:388
+msgid "New group"
+msgstr "Jauna grupa"
+
+#: admin/apps/users/uip-users.php:390
+msgid "Color"
+msgstr "Krāsa"
+
+#: admin/apps/users/uip-users.php:391
+msgid "Create group"
+msgstr "Izveidot grupu"
+
+#: admin/apps/users/uip-users.php:392
+msgid "Group name"
+msgstr "Grupas nosaukums"
+
+#: admin/apps/users/uip-users.php:393
+msgid "Edit group"
+msgstr "Rediģēt grupu"
+
+#: admin/apps/users/uip-users.php:394
+msgid "Update group"
+msgstr "Atjaunināt grupu"
+
+#: admin/apps/users/uip-users.php:395
+msgid "Remove from group"
+msgstr "Noņemt no grupas"
+
+#: admin/apps/users/uip-users.php:396
+msgid "User groups"
+msgstr "Lietotāju grupas"
+
+#: admin/apps/users/uip-users.php:397
+msgid "Assign groups"
+msgstr "Piešķirt grupas"
+
+#: admin/apps/users/uip-users.php:398
+msgid "Search groups"
+msgstr "Meklēt grupas"
+
+#: admin/apps/users/uip-users.php:399
+msgid "Pro feature"
+msgstr "Pro funkcija"
+
+#: admin/apps/users/uip-users.php:400
+msgid "Upgrade to UiPress Pro to unlock the user management and activity logs"
+msgstr ""
+"Jauniniet uz UiPress Pro, lai atbloķētu lietotāju pārvaldības un darbību "
+"žurnālus"
+
+#: admin/apps/users/uip-users.php:401
+msgid "View Uipress Pro plans"
+msgstr "Skatiet Uipress Pro plānus"
+
+#: admin/apps/users/uip-users.php:402
+msgid "Group icon"
+msgstr "Grupas ikona"
+
+#: admin/apps/users/uip-users.php:403
+msgid "Logout everywhere else"
+msgstr "Atteikties visur citur"
+
+#: admin/apps/users/uip-users.php:404
+msgid "Open profile"
+msgstr "Atvērt profilu"
+
+#: admin/apps/users/uip-users.php:405
+msgid ""
+"Are you sure you want to delete this capability? This will remove the "
+"capability sitewide. Please note not all capabilities can be deleted."
+msgstr ""
+"Vai tiešām vēlaties dzēst šo iespēju? Tas noņems iespēju visā vietnē. Lūdzu, "
+"ņemiet vērā, ka visas iespējas nevar izdzēst."
+
+#: admin/apps/users/uip-users.php:517
+msgid "Read"
+msgstr "Lasīt"
+
+#: admin/apps/users/uip-users.php:529
+msgid "Publish"
+msgstr "Publicēt"
+
+#: admin/apps/users/uip-users.php:535 admin/classes/uipress-app.php:1335
+msgid "Create"
+msgstr "Izveidot"
+
+#: admin/apps/users/uip-users.php:553
+msgid "Manage"
+msgstr "Pārvaldīt"
+
+#: admin/apps/users/uip-users.php:565 admin/classes/settings.php:242
+#: admin/classes/styles.php:442
+msgid "Import"
+msgstr "Importēt"
+
+#: admin/apps/users/uip-users.php:571
+msgid "Custom"
+msgstr "Pielāgots"
+
+#: admin/apps/users/uip-users.php:737
+msgid "User no longer exists"
+msgstr "Lietotājs vairs nepastāv"
+
+#: admin/apps/users/uip-users.php:742 admin/apps/users/uip-users.php:1106
+#, php-format
+msgid "%s ago"
+msgstr "pirms %s"
+
+#: admin/apps/users/uip-users.php:753 admin/apps/users/uip-users.php:1370
+msgid "Page view"
+msgstr "Lapas skatījums"
+
+#: admin/apps/users/uip-users.php:755
+msgid "Viewed page"
+msgstr "Apskatīta lapa"
+
+#: admin/apps/users/uip-users.php:764 admin/apps/users/uip-users.php:1374
+msgid "Post created"
+msgstr "Ziņa izveidota"
+
+#: admin/apps/users/uip-users.php:766
+msgid "Created post"
+msgstr "Izveidota ziņa"
+
+#: admin/apps/users/uip-users.php:769 admin/apps/users/uip-users.php:790
+#: admin/apps/users/uip-users.php:838
+msgid "View page"
+msgstr "Skatīt lapu"
+
+#: admin/apps/users/uip-users.php:773 admin/apps/users/uip-users.php:794
+#: admin/apps/users/uip-users.php:811 admin/apps/users/uip-users.php:842
+msgid "Edit page"
+msgstr "Rediģēt lapu"
+
+#: admin/apps/users/uip-users.php:785
+msgid "Post modified"
+msgstr "Ziņa ir pārveidota"
+
+#: admin/apps/users/uip-users.php:787
+msgid "Modified post"
+msgstr "Pārveidota ziņa"
+
+#: admin/apps/users/uip-users.php:806
+msgid "Post moved to trash"
+msgstr "Ziņa ir pārvietota uz miskasti"
+
+#: admin/apps/users/uip-users.php:808
+msgid "Moved post to trash"
+msgstr "Ziņa pārvietota uz miskasti"
+
+#: admin/apps/users/uip-users.php:820 admin/apps/users/uip-users.php:1386
+msgid "Post deleted"
+msgstr "Ziņa dzēsta"
+
+#: admin/apps/users/uip-users.php:822
+msgid "Deleted post"
+msgstr "Izdzēsta ziņa"
+
+#: admin/apps/users/uip-users.php:831 admin/apps/users/uip-users.php:1390
+msgid "Post status change"
+msgstr "Izlikt statusa maiņu"
+
+#: admin/apps/users/uip-users.php:834
+#, php-format
+msgid "Post status changed from %s to %s"
+msgstr "Ziņas statuss mainīts no %s uz %s"
+
+#: admin/apps/users/uip-users.php:855
+msgid "Posted a comment"
+msgstr "Ievietoja komentāru"
+
+#: admin/apps/users/uip-users.php:857
+msgid "Posted a comment on post"
+msgstr "Ievietoja komentāru pie ziņas"
+
+#: admin/apps/users/uip-users.php:868 admin/apps/users/uip-users.php:898
+msgid "View comment"
+msgstr "Skatīt komentāru"
+
+#: admin/apps/users/uip-users.php:872 admin/apps/users/uip-users.php:902
+msgid "Edit comment"
+msgstr "Rediģēt komentāru"
+
+#: admin/apps/users/uip-users.php:884
+msgid "Trashed a comment"
+msgstr "Komentārs ir ievietots atkritnē"
+
+#: admin/apps/users/uip-users.php:886
+msgid "Moved a comment to the trash"
+msgstr "Komentārs ir pārvietots uz miskasti"
+
+#: admin/apps/users/uip-users.php:912
+msgid "Deleted a comment"
+msgstr "Izdzēsa komentāru"
+
+#: admin/apps/users/uip-users.php:914
+msgid "Permanently deleted a comment"
+msgstr "Neatgriezeniski izdzēsa komentāru"
+
+#: admin/apps/users/uip-users.php:920 admin/apps/users/uip-users.php:1403
+msgid "Plugin activated"
+msgstr "Spraudnis ir aktivizēts"
+
+#: admin/apps/users/uip-users.php:922
+#, php-format
+msgid "A plugin called %s was activated"
+msgstr "Tika aktivizēts spraudnis ar nosaukumu %s"
+
+#: admin/apps/users/uip-users.php:928 admin/apps/users/uip-users.php:1407
+msgid "Plugin deactivated"
+msgstr "Spraudnis deaktivizēts"
+
+#: admin/apps/users/uip-users.php:930
+#, php-format
+msgid "A plugin called %s was deactivated"
+msgstr "Spraudnis ar nosaukumu %s tika deaktivizēts"
+
+#: admin/apps/users/uip-users.php:936
+msgid "User logged in"
+msgstr "Lietotājs pieteicies"
+
+#: admin/apps/users/uip-users.php:938
+#, php-format
+msgid "Logged in with ip address %s. Country: %s"
+msgstr "Pieteicies ar IP adresi %s. Valsts: %s"
+
+#: admin/apps/users/uip-users.php:944
+msgid "User logged out"
+msgstr "Lietotājs ir atteicies"
+
+#: admin/apps/users/uip-users.php:946
+#, php-format
+msgid "Logged out with ip address %s. Country: %s"
+msgstr "Atteicies ar IP adresi %s. Valsts: %s"
+
+#: admin/apps/users/uip-users.php:982 admin/apps/users/uip-users.php:988
+#: admin/apps/users/uip-users.php:1002
+msgid "Site option changed"
+msgstr "Vietnes opcija mainīta"
+
+#: admin/apps/users/uip-users.php:984
+#, php-format
+msgid "Site option (%s) was changed from %s to %s"
+msgstr "Vietnes opcija (%s) tika mainīta no %s uz %s"
+
+#: admin/apps/users/uip-users.php:990
+#, php-format
+msgid "Site option was changed. %s"
+msgstr "Vietnes opcija tika mainīta. %s"
+
+#: admin/apps/users/uip-users.php:1004
+#, php-format
+msgid "Site option (%s) was added with a value of (%s)"
+msgstr "Vietnes opcija (%s) tika pievienota ar vērtību (%s)"
+
+#: admin/apps/users/uip-users.php:1010
+msgid "Uploaded attachment"
+msgstr "Augšupielādēts pielikums"
+
+#: admin/apps/users/uip-users.php:1012
+#, php-format
+msgid "Attachment called (%s) was uploaded to (%s). Attachment ID: %s"
+msgstr ""
+"Pielikums ar nosaukumu (%s) tika augšupielādēts uz (%s). Pielikuma ID: %s"
+
+#: admin/apps/users/uip-users.php:1021
+msgid "View attachment"
+msgstr "Skatīt pielikumu"
+
+#: admin/apps/users/uip-users.php:1029
+msgid "Deleted attachment"
+msgstr "Dzēsts pielikums"
+
+#: admin/apps/users/uip-users.php:1031
+#, php-format
+msgid "Attachment called (%s) was deleted. Attachment ID: %s"
+msgstr "Izsauktais pielikums (%s) tika izdzēsts. Pielikuma ID: %s"
+
+#: admin/apps/users/uip-users.php:1037 admin/apps/users/uip-users.php:1262
+#: admin/apps/users/uip-users.php:1435
+msgid "User created"
+msgstr "Lietotājs izveidots"
+
+#: admin/apps/users/uip-users.php:1039
+#, php-format
+msgid "New user created with username (%s) and email (%s)"
+msgstr "Izveidots jauns lietotājs ar lietotājvārdu (%s) un e-pastu (%s)"
+
+#: admin/apps/users/uip-users.php:1045 admin/apps/users/uip-users.php:1439
+msgid "User deleted"
+msgstr "Lietotājs izdzēsts"
+
+#: admin/apps/users/uip-users.php:1047
+#, php-format
+msgid "A user with username (%s) and email (%s) was deleted"
+msgstr "Tika izdzēsts lietotājs ar lietotājvārdu (%s) un e-pasta adresi (%s)."
+
+#: admin/apps/users/uip-users.php:1082 admin/apps/users/uip-users.php:1443
+msgid "User updated"
+msgstr "Lietotājs atjaunināts"
+
+#: admin/apps/users/uip-users.php:1084
+#, php-format
+msgid "A user with username (%s) and email (%s) was updated from (%s) to (%s)"
+msgstr ""
+"Lietotājs ar lietotājvārdu (%s) un e-pasta adresi (%s) tika atjaunināts no "
+"(%s) uz (%s)"
+
+#: admin/apps/users/uip-users.php:1226
+msgid "First Name"
+msgstr "Vārds"
+
+#: admin/apps/users/uip-users.php:1232
+msgid "Last Name"
+msgstr "Uzvārds"
+
+#: admin/apps/users/uip-users.php:1238
+msgid "Last Login"
+msgstr "Pēdējā pieteikšanās"
+
+#: admin/apps/users/uip-users.php:1256
+msgid "User ID"
+msgstr "Lietotāja ID"
+
+#: admin/apps/users/uip-users.php:1298
+msgid "Permissions granted"
+msgstr "Atļaujas piešķirtas"
+
+#: admin/apps/users/uip-users.php:1315
+msgid "ID"
+msgstr "ID"
+
+#: admin/apps/users/uip-users.php:1327
+msgid "IP Address"
+msgstr "IP adrese"
+
+#: admin/apps/users/uip-users.php:1340
+msgid "Time"
+msgstr "Laiks"
+
+#: admin/apps/users/uip-users.php:1347
+msgid "Action"
+msgstr "Darbība"
+
+#: admin/apps/users/uip-users.php:1378
+msgid "Post updated"
+msgstr "Ziņa atjaunināta"
+
+#: admin/apps/users/uip-users.php:1382
+msgid "Post trashed"
+msgstr "Ziņa ir ievietota atkritnē"
+
+#: admin/apps/users/uip-users.php:1394
+msgid "Trashed comment"
+msgstr "Atkritnē ievietots komentārs"
+
+#: admin/apps/users/uip-users.php:1398
+msgid "Deelete comment"
+msgstr "Dzēst komentāru"
+
+#: admin/apps/users/uip-users.php:1411
+msgid "User login"
+msgstr "Lietotāja pieteikšanās"
+
+#: admin/apps/users/uip-users.php:1415
+msgid "User logout"
+msgstr "Lietotāja atteikšanās"
+
+#: admin/apps/users/uip-users.php:1419
+msgid "Option change"
+msgstr "Opciju maiņa"
+
+#: admin/apps/users/uip-users.php:1423
+msgid "Site option added"
+msgstr "Pievienota vietnes opcija"
+
+#: admin/apps/users/uip-users.php:1427
+msgid "Attachmnet uploaded"
+msgstr "Attachmnet augšupielādēts"
+
+#: admin/apps/users/uip-users.php:1431
+msgid "Attachmnet deleted"
+msgstr "Attachmnet izdzēsts"
+
+#: admin/classes/debug.php:133 admin/classes/debug.php:139
+#: admin/classes/debug.php:161
+msgid "Unable to register UiPress at this time"
+msgstr "Pašlaik nevar reģistrēt UiPress"
+
+#: admin/classes/debug.php:152
+msgid "UiPress succesfully activated"
+msgstr "UiPress ir veiksmīgi aktivizēts"
+
+#: admin/classes/folders.php:112 admin/classes/uipress-app.php:453
+#: admin/classes/uipress-app.php:1367
+msgid "Folders"
+msgstr "Mapes"
+
+#: admin/classes/folders.php:113
+msgid "Creates media folder system."
+msgstr "Izveido multivides mapju sistēmu."
+
+#: admin/classes/folders.php:117
+msgid "Disable Folders?"
+msgstr "Vai atspējot mapes?"
+
+#: admin/classes/folders.php:118
+msgid "No media folders will be displayed when this option is activated."
+msgstr "Kad šī opcija ir aktivizēta, netiks parādīta neviena multivides mape."
+
+#: admin/classes/folders.php:125
+msgid "Folders Disabled For"
+msgstr "Mapes ir atspējotas"
+
+#: admin/classes/folders.php:126
+#, php-format
+msgid "%s folders will be disabled for any users or roles you select"
+msgstr ""
+"%s mapes tiks atspējotas visiem jūsu atlasītajiem lietotājiem vai lomām"
+
+#: admin/classes/folders.php:134
+msgid "Enable folders for post types"
+msgstr "Iespējot mapes ziņu veidiem"
+
+#: admin/classes/folders.php:135
+#, php-format
+msgid "%s folders will be enabled post, page and custom post types you choose"
+msgstr ""
+"%s mapēs tiks iespējoti jūsu izvēlētie ziņu, lapu un pielāgotie ziņu veidi"
+
+#: admin/classes/folders.php:171
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "Darbības"
+
+#: admin/classes/folders.php:173
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "Izvēlne"
+
+#: admin/classes/folders.php:311
+msgid "No folder to delete"
+msgstr "Nav mapes, ko dzēst"
+
+#: admin/classes/folders.php:321
+msgid "Unable to delete the folder"
+msgstr "Nevar izdzēst mapi"
+
+#: admin/classes/folders.php:372
+msgid "Folder deleted"
+msgstr "Mape izdzēsta"
+
+#: admin/classes/folders.php:391
+msgid "Unable to move folder into itself"
+msgstr "Nevar pārvietot mapi uz sevi"
+
+#: admin/classes/folders.php:405
+msgid "Unable to move folder"
+msgstr "Nevar pārvietot mapi"
+
+#: admin/classes/folders.php:433
+msgid "Folder moved"
+msgstr "Mape pārvietota"
+
+#: admin/classes/folders.php:536
+msgid "Folder updated"
+msgstr "Mape atjaunināta"
+
+#: admin/classes/folders.php:578
+msgid "Unable to create folder"
+msgstr "Nevar izveidot mapi"
+
+#: admin/classes/folders.php:589
+msgid "Folder created"
+msgstr "Mape izveidota"
+
+#: admin/classes/settings.php:144
+msgid "Unable to save user settings"
+msgstr "Nevar saglabāt lietotāja iestatījumus"
+
+#: admin/classes/settings.php:150 admin/classes/uipress-app.php:1358
+msgid "Settings saved"
+msgstr "Iestatījumi saglabāti"
+
+#: admin/classes/settings.php:164
+msgid "Settings reset"
+msgstr "Iestatījumu atiestatīšana"
+
+#: admin/classes/settings.php:209 admin/classes/styles.php:432
+msgid "Version"
+msgstr "Versija"
+
+#: admin/classes/settings.php:230
+msgid "Save settings"
+msgstr "Saglabāt iestatījumus"
+
+#: admin/classes/settings.php:413
+msgid "No licence key provided"
+msgstr "Nav norādīta licences atslēga"
+
+#: admin/classes/settings.php:445
+msgid "Licence removed"
+msgstr "Licence noņemta"
+
+#: admin/classes/styles.php:138 admin/classes/styles.php:151
+#: admin/classes/styles.php:430
+msgid "Styles"
+msgstr "Stili"
+
+#: admin/classes/styles.php:213
+msgid "Unable to fetch themes at this moment. Please try again later"
+msgstr "Pašlaik nevar ienest motīvus. Lūdzu, pamēģiniet vēlreiz vēlāk"
+
+#: admin/classes/styles.php:247
+msgid "Unable to like theme at this moment. Please try again later"
+msgstr "Šobrīd nevar atzīmēt motīvu ar Patīk. Lūdzu, pamēģiniet vēlreiz vēlāk"
+
+#: admin/classes/styles.php:266
+msgid "Unable to save styles"
+msgstr "Nevar saglabāt stilus"
+
+#: admin/classes/styles.php:292
+msgid "Styles saved"
+msgstr "Stili saglabāti"
+
+#: admin/classes/styles.php:411
+msgid ""
+"Uipress styles isn't optimised for mobile devices. Switch to a larger screen "
+"to modify UiPress Styles"
+msgstr ""
+"Uipress stili nav optimizēti mobilajām ierīcēm. Pārslēdzieties uz lielāku "
+"ekrānu, lai mainītu UiPress stilus"
+
+#: admin/classes/styles.php:469
+msgid "Clear All"
+msgstr "Nodzēst visu"
+
+#: admin/classes/styles.php:533
+msgid "Global"
+msgstr "Globāli"
+
+#: admin/classes/styles.php:536
+msgid "Body Background"
+msgstr "Ķermeņa fons"
+
+#: admin/classes/styles.php:547
+msgid "Default Background"
+msgstr "Noklusējuma fons"
+
+#: admin/classes/styles.php:558
+msgid "Muted Background"
+msgstr "Izslēgts fons"
+
+#: admin/classes/styles.php:569
+msgid "Muted Background Accent"
+msgstr "Izslēgts fona akcents"
+
+#: admin/classes/styles.php:580
+msgid "Primary Color"
+msgstr "Primārā krāsa"
+
+#: admin/classes/styles.php:591
+msgid "Primary Color Wash"
+msgstr "Primārās krāsas mazgāšana"
+
+#: admin/classes/styles.php:602
+msgid "Primary Color Hover"
+msgstr "Galvenās krāsas kursors"
+
+#: admin/classes/styles.php:613
+msgid "Secondary Color"
+msgstr "Sekundārā krāsa"
+
+#: admin/classes/styles.php:624
+msgid "Secondary Color Hover"
+msgstr "Sekundārās krāsas kursors"
+
+#: admin/classes/styles.php:635
+msgid "Font"
+msgstr "Fonts"
+
+#: admin/classes/styles.php:646
+msgid "Border Width"
+msgstr "Robežas platums"
+
+#: admin/classes/styles.php:657
+msgid "Border Radius"
+msgstr "Robežas rādiuss"
+
+#: admin/classes/styles.php:668
+msgid "Border Colour"
+msgstr "Apmales krāsa"
+
+#: admin/classes/styles.php:679
+msgid "Notification Background"
+msgstr "Paziņojumu fons"
+
+#: admin/classes/styles.php:696
+msgid "Base font size"
+msgstr "Pamata fonta lielums"
+
+#: admin/classes/styles.php:707 admin/classes/styles.php:1008
+#: admin/classes/styles.php:1148
+msgid "Text Color"
+msgstr "Teksta krāsa"
+
+#: admin/classes/styles.php:718
+msgid "Text Emphasis Color"
+msgstr "Teksta uzsvara krāsa"
+
+#: admin/classes/styles.php:729
+msgid "Text Muted Color"
+msgstr "Teksta klusināta krāsa"
+
+#: admin/classes/styles.php:745
+msgid "Buttons"
+msgstr "Pogas"
+
+#: admin/classes/styles.php:748
+msgid "Button Border Radius"
+msgstr "Pogas apmales rādiuss"
+
+#: admin/classes/styles.php:760
+msgid "Button Border Width"
+msgstr "Pogas apmales platums"
+
+#: admin/classes/styles.php:772
+msgid "Default Button Border Colour"
+msgstr "Noklusējuma pogas apmales krāsa"
+
+#: admin/classes/styles.php:784
+msgid "Default Button Background Colour"
+msgstr "Noklusējuma pogas fona krāsa"
+
+#: admin/classes/styles.php:796
+msgid "Default Button Hover Background Colour"
+msgstr "Noklusējuma pogas kursora fona krāsa"
+
+#: admin/classes/styles.php:808
+msgid "Default Button Text Colour"
+msgstr "Noklusējuma pogas teksta krāsa"
+
+#: admin/classes/styles.php:821
+msgid "Primary Button Border Colour"
+msgstr "Pogas apmales galvenā krāsa"
+
+#: admin/classes/styles.php:833
+msgid "Primary Button Background Colour"
+msgstr "Pogas galvenā fona krāsa"
+
+#: admin/classes/styles.php:845
+msgid "Primary Button Hover Background Colour"
+msgstr "Pogas kursora galvenā fona krāsa"
+
+#: admin/classes/styles.php:857
+msgid "Primary Button Text Colour"
+msgstr "Pogas galvenā teksta krāsa"
+
+#: admin/classes/styles.php:870
+msgid "Danger Button Border Colour"
+msgstr "Bīstamības pogas apmales krāsa"
+
+#: admin/classes/styles.php:882
+msgid "Danger Button Background Colour"
+msgstr "Bīstamības pogas fona krāsa"
+
+#: admin/classes/styles.php:894
+msgid "Danger Button Hover Background Colour"
+msgstr "Bīstamības pogas kursora fona krāsa"
+
+#: admin/classes/styles.php:906
+msgid "Danger Button Text Colour"
+msgstr "Bīstamības pogas teksta krāsa"
+
+#: admin/classes/styles.php:919
+msgid "Page Action Button Border Colour"
+msgstr "Lapas darbības pogas apmales krāsa"
+
+#: admin/classes/styles.php:931
+msgid "Page Action Button Background Colour"
+msgstr "Lapas darbību pogas fona krāsa"
+
+#: admin/classes/styles.php:943
+msgid "Page Action Button Hover Background Colour"
+msgstr "Lapas darbības poga, kas virza kursoru, fona krāsa"
+
+#: admin/classes/styles.php:955
+msgid "Page Action Button Text Colour"
+msgstr "Lapas darbības pogas teksta krāsa"
+
+#: admin/classes/styles.php:973 admin/classes/uipress-app.php:2669
+msgid "Menu"
+msgstr "Izvēlne"
+
+#: admin/classes/styles.php:975
+msgid "Background Color"
+msgstr "Fona krāsa"
+
+#: admin/classes/styles.php:986 admin/classes/styles.php:1170
+msgid "Secondary background Color"
+msgstr "Sekundārā fona krāsa"
+
+#: admin/classes/styles.php:997
+msgid "Button Hover background Color"
+msgstr "Pogas kursora fona krāsa"
+
+#: admin/classes/styles.php:1019
+msgid "Active Text Color"
+msgstr "Aktīvā teksta krāsa"
+
+#: admin/classes/styles.php:1030
+msgid "Active Top Level Item background colour"
+msgstr "Aktīvā augstākā līmeņa preces fona krāsa"
+
+#: admin/classes/styles.php:1041
+msgid "Search Input background colour"
+msgstr "Meklēt Ievadiet fona krāsu"
+
+#: admin/classes/styles.php:1052
+msgid "Search Input text colour"
+msgstr "Meklēt Ievades teksta krāsa"
+
+#: admin/classes/styles.php:1063
+msgid "Submenu Text Color"
+msgstr "Apakšizvēlne Teksta krāsa"
+
+#: admin/classes/styles.php:1074
+msgid "Submenu Active Text Color"
+msgstr "Apakšizvēlne Aktīvā teksta krāsa"
+
+#: admin/classes/styles.php:1085
+msgid "Submenu Hover Text Color"
+msgstr "Apakšizvēlne Kursora teksta krāsa"
+
+#: admin/classes/styles.php:1096
+msgid "Width"
+msgstr "Platums"
+
+#: admin/classes/styles.php:1108
+msgid "Padding"
+msgstr "Polsterējums"
+
+#: admin/classes/styles.php:1120
+msgid "Logo Height"
+msgstr "Logotipa augstums"
+
+#: admin/classes/styles.php:1134 admin/classes/uipress-app.php:2773
+msgid "Toolbar"
+msgstr "Rīkjosla"
+
+#: admin/classes/styles.php:1137
+msgid "Toolbar Background Color"
+msgstr "Rīkjoslas fona krāsa"
+
+#: admin/classes/styles.php:1159
+msgid "Link Hover Text Color"
+msgstr "Saites kursora teksta krāsa"
+
+#: admin/classes/styles.php:1183
+msgid "Cards"
+msgstr "Kartes"
+
+#: admin/classes/styles.php:1186 admin/classes/styles.php:1270
+msgid "Background color"
+msgstr "Fona krāsa"
+
+#: admin/classes/styles.php:1198
+msgid "Border color"
+msgstr "Apmales krāsa"
+
+#: admin/classes/styles.php:1210
+msgid "Border radius"
+msgstr "Robežas rādiuss"
+
+#: admin/classes/styles.php:1222
+msgid "Shadow spread"
+msgstr "Ēnu izplatība"
+
+#: admin/classes/styles.php:1234
+msgid "Shadow blur"
+msgstr "Ēnu izplūšana"
+
+#: admin/classes/styles.php:1246
+msgid "Shadow color"
+msgstr "Ēnu krāsa"
+
+#: admin/classes/styles.php:1267 admin/classes/uipress-app.php:2944
+msgid "Login"
+msgstr "Pieslēgties"
+
+#: admin/classes/uipress-app.php:268
+msgctxt "post type general name"
+msgid "Folder"
+msgstr "Mape"
+
+#: admin/classes/uipress-app.php:269
+msgctxt "post type singular name"
+msgid "folder"
+msgstr "mapi"
+
+#: admin/classes/uipress-app.php:270
+msgctxt "admin menu"
+msgid "Folders"
+msgstr "Mapes"
+
+#: admin/classes/uipress-app.php:271
+msgctxt "add new on admin bar"
+msgid "Folder"
+msgstr "Mape"
+
+#: admin/classes/uipress-app.php:272
+msgctxt "folder"
+msgid "Add New"
+msgstr "Pievieno jaunu"
+
+#: admin/classes/uipress-app.php:273 admin/classes/uipress-app.php:284
+msgid "Add New Folder"
+msgstr "Pievienot jaunu mapi"
+
+#: admin/classes/uipress-app.php:274 admin/classes/uipress-app.php:1368
+msgid "New Folder"
+msgstr "Jauna mape"
+
+#: admin/classes/uipress-app.php:275 admin/classes/uipress-app.php:1372
+msgid "Edit Folder"
+msgstr "Rediģēt mapi"
+
+#: admin/classes/uipress-app.php:276
+msgid "View Folder"
+msgstr "Skatīt mapi"
+
+#: admin/classes/uipress-app.php:277
+msgid "All Folders"
+msgstr "Visas mapes"
+
+#: admin/classes/uipress-app.php:278
+msgid "Search Folders"
+msgstr "Meklēt mapēs"
+
+#: admin/classes/uipress-app.php:279
+msgid "No Folders found."
+msgstr "Nav atrasta neviena mape."
+
+#: admin/classes/uipress-app.php:280
+msgid "No Folders found in Trash."
+msgstr "Atkritnē nav atrasta neviena mape."
+
+#: admin/classes/uipress-app.php:1167
+msgid "active"
+msgstr "aktīvs"
+
+#: admin/classes/uipress-app.php:1171
+msgid "inactive"
+msgstr "neaktīvs"
+
+#: admin/classes/uipress-app.php:1320
+msgid "Menu Preferences"
+msgstr "Izvēlnes preferences"
+
+#: admin/classes/uipress-app.php:1321
+msgid "Hide search bar"
+msgstr "Paslēpt meklēšanas joslu"
+
+#: admin/classes/uipress-app.php:1322
+msgid "Hide Icons"
+msgstr "Slēpt ikonas"
+
+#: admin/classes/uipress-app.php:1323
+msgid "Show submenu on hover"
+msgstr "Rādīt apakšizvēlni, virzot kursoru"
+
+#: admin/classes/uipress-app.php:1324
+msgid "Search Menu"
+msgstr "Meklēt izvēlne"
+
+#: admin/classes/uipress-app.php:1326
+msgid "Search"
+msgstr "Meklēt"
+
+#: admin/classes/uipress-app.php:1329
+msgid "Show more"
+msgstr "Parādīt vairāk"
+
+#: admin/classes/uipress-app.php:1330
+msgid "other matches"
+msgstr "citi mači"
+
+#: admin/classes/uipress-app.php:1331 admin/classes/uipress-app.php:1359
+msgid "Nothing found"
+msgstr "Nekas nav atrasts"
+
+#: admin/classes/uipress-app.php:1332 admin/classes/uipress-app.php:1337
+msgid "View Site"
+msgstr "Skatīt vietni"
+
+#: admin/classes/uipress-app.php:1333
+msgid "Dashboard"
+msgstr "Mērinstrumentu panelis"
+
+#: admin/classes/uipress-app.php:1334
+msgid "Search Site"
+msgstr "Meklēt vietni"
+
+#: admin/classes/uipress-app.php:1336
+msgid "Create New"
+msgstr "Izveidot jaunu"
+
+#: admin/classes/uipress-app.php:1338
+msgid "Updates"
+msgstr "Atjauninājumi"
+
+#: admin/classes/uipress-app.php:1339
+msgid "Preferences"
+msgstr "Preferences"
+
+#: admin/classes/uipress-app.php:1340
+msgid "Dark mode"
+msgstr "Tumšais režīms"
+
+#: admin/classes/uipress-app.php:1341
+msgid "Show screen options toggle"
+msgstr "Rādīt ekrāna opcijas"
+
+#: admin/classes/uipress-app.php:1342
+msgid "Screen options"
+msgstr "Ekrāna opcijas"
+
+#: admin/classes/uipress-app.php:1343
+msgid "Hide admin bar links (left)"
+msgstr "Slēpt administratora joslas saites (pa kreisi)"
+
+#: admin/classes/uipress-app.php:1344
+msgid "Logout"
+msgstr "Izlogoties"
+
+#: admin/classes/uipress-app.php:1345
+msgid "Notifications"
+msgstr "Paziņojumi"
+
+#: admin/classes/uipress-app.php:1346
+msgid "Hide notification"
+msgstr "Paslēpt paziņojumu"
+
+#: admin/classes/uipress-app.php:1347
+msgid "hidden notifications"
+msgstr "slēptie paziņojumi"
+
+#: admin/classes/uipress-app.php:1348
+msgid "show all"
+msgstr "parādīt visu"
+
+#: admin/classes/uipress-app.php:1349
+msgid "Notifiction Hidden"
+msgstr "Paziņojums paslēpts"
+
+#: admin/classes/uipress-app.php:1350
+msgid "Toggle Menu"
+msgstr "Pārslēgt izvēlni"
+
+#: admin/classes/uipress-app.php:1351
+msgid "Choose users or roles"
+msgstr "Izvēlieties lietotājus vai lomas"
+
+#: admin/classes/uipress-app.php:1352
+msgid "Search users and roles"
+msgstr "Meklēt lietotājus un lomas"
+
+#: admin/classes/uipress-app.php:1353
+msgid "Choose Image"
+msgstr "Izvēlieties Attēls"
+
+#: admin/classes/uipress-app.php:1354
+msgid "Choose Post Types"
+msgstr "Izvēlieties Ziņu veidi"
+
+#: admin/classes/uipress-app.php:1355 admin/classes/uipress-app.php:1356
+msgid "Searach Post Types"
+msgstr "Search Post veidi"
+
+#: admin/classes/uipress-app.php:1360
+msgid "Default"
+msgstr "Noklusējums"
+
+#: admin/classes/uipress-app.php:1361
+msgid "Add File"
+msgstr "Pievienot failu"
+
+#: admin/classes/uipress-app.php:1362
+msgid "URL to file"
+msgstr "URL failam"
+
+#: admin/classes/uipress-app.php:1363
+msgid "Remove"
+msgstr "Noņemt"
+
+#: admin/classes/uipress-app.php:1364
+msgid "All media"
+msgstr "Visi mediji"
+
+#: admin/classes/uipress-app.php:1366
+msgid "No folder"
+msgstr "Nav mapes"
+
+#: admin/classes/uipress-app.php:1369
+msgid "Folder Name"
+msgstr "Mapes nosaukums"
+
+#: admin/classes/uipress-app.php:1370
+msgid "Colour"
+msgstr "Krāsa"
+
+#: admin/classes/uipress-app.php:1374
+msgid "1 File"
+msgstr "1 Fails"
+
+#: admin/classes/uipress-app.php:1375
+msgid "files"
+msgstr "failus"
+
+#: admin/classes/uipress-app.php:1376
+msgid "You haven't created a folder yet"
+msgstr "Jūs vēl neesat izveidojis mapi"
+
+#: admin/classes/uipress-app.php:1377
+msgid "Remove from folder"
+msgstr "Noņemt no mapes"
+
+#: admin/classes/uipress-app.php:1378
+msgid ""
+"Upgrade to pro to unlock the notification center. View, edit and organise "
+"all your plugin and theme notifications in one place"
+msgstr ""
+"Jauniniet uz pro, lai atbloķētu paziņojumu centru. Skatiet, rediģējiet un "
+"kārtojiet visus savus spraudņu un motīvu paziņojumus vienuviet"
+
+#: admin/classes/uipress-app.php:1379
+msgid ""
+"Upgrade to pro to gain full control of search results and included post types"
+msgstr ""
+"Jauniniet uz profesionālu, lai pilnībā kontrolētu meklēšanas rezultātus un "
+"iekļautos ziņu veidus"
+
+#: admin/classes/uipress-app.php:1382
+msgid "Styles Imported"
+msgstr "Importētie stili"
+
+#: admin/classes/uipress-app.php:1383
+msgid "Settings Imported"
+msgstr "Iestatījumi importēti"
+
+#: admin/classes/uipress-app.php:1384
+msgid "Remove Licence"
+msgstr "Noņemt licenci"
+
+#: admin/classes/uipress-app.php:1385
+#, php-format
+msgid "%s Pro is active"
+msgstr "%s Pro ir aktīvs"
+
+#: admin/classes/uipress-app.php:1386
+#, php-format
+msgid "%s Pro"
+msgstr "%s Pro"
+
+#: admin/classes/uipress-app.php:1387
+msgid "Activate"
+msgstr "Aktivizēt"
+
+#: admin/classes/uipress-app.php:1388
+msgid "Add a pro licence to unlock pro features."
+msgstr "Pievienojiet Pro licenci, lai atbloķētu Pro funkcijas."
+
+#: admin/classes/uipress-app.php:1389
+msgid "Choose Icon"
+msgstr "Izvēlieties ikonu"
+
+#: admin/classes/uipress-app.php:1390
+msgid "Are you sure you want to delete this?"
+msgstr "Vai tiešām vēlaties to dzēst?"
+
+#: admin/classes/uipress-app.php:1391
+msgid "Import started"
+msgstr "Sākta importēšana"
+
+#: admin/classes/uipress-app.php:1392
+msgid "Are you sure you want to reset the settings?"
+msgstr "Vai tiešām vēlaties atiestatīt iestatījumus?"
+
+#: admin/classes/uipress-app.php:1393
+msgid "Last 7 Days"
+msgstr "Pēdējās 7 dienas"
+
+#: admin/classes/uipress-app.php:1394
+msgid "Last 30 Days"
+msgstr "Pēdējās 30 dienas"
+
+#: admin/classes/uipress-app.php:1399
+msgid "selected"
+msgstr "atlasīts"
+
+#: admin/classes/uipress-app.php:1400
+msgid "Theme Library"
+msgstr "Tēmu bibliotēka"
+
+#: admin/classes/uipress-app.php:1401
+msgid "Library"
+msgstr "Bibliotēka"
+
+#: admin/classes/uipress-app.php:1402
+msgid "Import Theme"
+msgstr "Importēt motīvu"
+
+#: admin/classes/uipress-app.php:1403
+msgid "Pro template"
+msgstr "Pro veidne"
+
+#: admin/classes/uipress-app.php:1404
+msgid "Theme Imported"
+msgstr "Motīvs ir importēts"
+
+#: admin/classes/uipress-app.php:1405
+msgid "Made by"
+msgstr "Ražots"
+
+#: admin/classes/uipress-app.php:1407
+msgid "Failed to fetch folder content"
+msgstr "Neizdevās ienest mapes saturu"
+
+#: admin/classes/uipress-app.php:1408
+msgid "user"
+msgstr "lietotājs"
+
+#: admin/classes/uipress-app.php:1850
+msgid "Unkown Post Type"
+msgstr "Nezināms ziņas veids"
+
+#: admin/classes/uipress-app.php:1853
+msgid "Unkown"
+msgstr "Nezināms"
+
+#: admin/classes/uipress-app.php:1991
+msgid "Core"
+msgstr "Kodols"
+
+#: admin/classes/uipress-app.php:1997
+msgid "Themes"
+msgstr "Tēmas"
+
+#: admin/classes/uipress-app.php:2003
+msgid "Plugins"
+msgstr "Spraudņi"
+
+#: admin/classes/uipress-app.php:2527
+msgid "General options"
+msgstr "Vispārīgas iespējas"
+
+#: admin/classes/uipress-app.php:2532
+msgid "Network Override"
+msgstr "Tīkla ignorēšana"
+
+#: admin/classes/uipress-app.php:2533
+msgid "If enabled, all settings applied here will be pushed to subsites."
+msgstr ""
+"Ja iespējots, visi šeit lietotie iestatījumi tiks nosūtīti uz apakšvietnēm."
+
+#: admin/classes/uipress-app.php:2542
+msgid "Set Dark Mode as Default"
+msgstr "Iestatiet tumšo režīmu kā noklusējumu"
+
+#: admin/classes/uipress-app.php:2543
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr ""
+"Ja tas ir iespējots, tumšā režīma noklusējuma vērtība būs patiesa "
+"lietotājiem, kuri nav iestatījuši preferenci."
+
+#: admin/classes/uipress-app.php:2551
+msgid "Set Dark Mode according to prefers color scheme"
+msgstr "Iestatiet tumšo režīmu atbilstoši izvēlētajai krāsu shēmai"
+
+#: admin/classes/uipress-app.php:2552
+msgid "UiPress will detetct the OS color scheme and update accordingly"
+msgstr "UiPress noteiks OS krāsu shēmu un attiecīgi atjauninās"
+
+#: admin/classes/uipress-app.php:2560
+msgid "Disable dark mode"
+msgstr "Atspējot tumšo režīmu"
+
+#: admin/classes/uipress-app.php:2561
+msgid "If enabled, dark mode switch will not be available."
+msgstr "Ja tas ir iespējots, tumšā režīma slēdzis nebūs pieejams."
+
+#: admin/classes/uipress-app.php:2569
+msgid "Set overview page as homepage"
+msgstr "Iestatīt pārskata lapu kā sākumlapu"
+
+#: admin/classes/uipress-app.php:2570
+msgid ""
+"If enabled, the overview page will be the homepage when logging in and when "
+"accessing the admin area."
+msgstr ""
+"Ja tas ir iespējots, pārskata lapa būs sākumlapa, piesakoties un piekļūstot "
+"administratora apgabalam."
+
+#: admin/classes/uipress-app.php:2578
+msgid "Set custom page as homepage"
+msgstr "Iestatīt pielāgotu lapu kā sākumlapu"
+
+#: admin/classes/uipress-app.php:2580
+msgid ""
+"If enabled, the page you choose will be the homepage when logging in and "
+"when accessing the admin area. For admin pages use a relative URL (path "
+"after /wp-admin/), for other pages use an absolute URL"
+msgstr ""
+"Ja tas ir iespējots, jūsu izvēlētā lapa būs sākumlapa, piesakoties un "
+"piekļūstot administratora apgabalam. Administratora lapām izmantojiet "
+"relatīvo URL (ceļš aiz /wp-admin/), citām lapām izmantojiet absolūto URL"
+
+#: admin/classes/uipress-app.php:2590
+#, php-format
+msgid "Rename %s"
+msgstr "Pārdēvēt %s"
+
+#: admin/classes/uipress-app.php:2591
+#, php-format
+msgid "White label %s by changing the name displayed."
+msgstr "Balta etiķete %s, mainot parādīto nosaukumu."
+
+#: admin/classes/uipress-app.php:2599
+#, php-format
+msgid "Rename %s plugin author"
+msgstr "Pārdēvēt %s spraudņa autoru"
+
+#: admin/classes/uipress-app.php:2600
+#, php-format
+msgid "White label %s by changing the author in the plugin table."
+msgstr "Balta etiķete %s, mainot autoru spraudņu tabulā."
+
+#: admin/classes/uipress-app.php:2608
+#, php-format
+msgid "Change %s plugin URL"
+msgstr "Mainīt %s spraudņa URL"
+
+#: admin/classes/uipress-app.php:2609
+#, php-format
+msgid "White label %s by changing the plugin URL in the plugin table."
+msgstr "Balta etiķete %s, spraudņa tabulā mainot spraudņa URL."
+
+#: admin/classes/uipress-app.php:2617
+msgid "App Icon"
+msgstr "Lietotnes ikona"
+
+#: admin/classes/uipress-app.php:2618
+#, php-format
+msgid "Replace %s plugin icon with your own"
+msgstr "Aizstāt %s spraudņa ikonu ar savu"
+
+#: admin/classes/uipress-app.php:2626
+msgid "Admin Favicon"
+msgstr "Admin Favicon"
+
+#: admin/classes/uipress-app.php:2627
+msgid "Add an image to be used as the site favicon for admin pages."
+msgstr ""
+"Pievienojiet attēlu, kas tiks izmantots kā vietnes izlases ikona "
+"administratora lapām."
+
+#: admin/classes/uipress-app.php:2635
+#, php-format
+msgid "Hide %s from plugin table"
+msgstr "Paslēpt %s spraudņu tabulā"
+
+#: admin/classes/uipress-app.php:2636
+#, php-format
+msgid "If enabled, %s will be hidden from the plugin table"
+msgstr "Ja iespējots, %s tiks paslēpts spraudņu tabulā"
+
+#: admin/classes/uipress-app.php:2644
+msgid "Hide Footer"
+msgstr "Slēpt kājeni"
+
+#: admin/classes/uipress-app.php:2645
+msgid "Hide the footer text that shows at the bottom of every admin page"
+msgstr ""
+"Paslēpiet kājenes tekstu, kas tiek rādīts katras administratora lapas apakšā"
+
+#: admin/classes/uipress-app.php:2653
+msgid "Footer Text"
+msgstr "Kājenes teksts"
+
+#: admin/classes/uipress-app.php:2654
+msgid "Text entered here will be present at the bottom of admin pages"
+msgstr "Šeit ievadītais teksts būs redzams administratora lapu apakšā"
+
+#: admin/classes/uipress-app.php:2670 admin/classes/uipress-app.php:2675
+msgid "Creates new admin menu."
+msgstr "Izveido jaunu administratora izvēlni."
+
+#: admin/classes/uipress-app.php:2674
+msgid "Disable Admin Menu Module"
+msgstr "Atspējot administratora izvēlnes moduli"
+
+#: admin/classes/uipress-app.php:2682
+msgid "Menu Disabled for"
+msgstr "Izvēlne ir atspējota"
+
+#: admin/classes/uipress-app.php:2683
+#, php-format
+msgid "%s menu will be disabled for any users or roles you select"
+msgstr ""
+"%s izvēlne tiks atspējota visiem jūsu atlasītajiem lietotājiem vai lomām"
+
+#: admin/classes/uipress-app.php:2691
+msgid "Logo Light Mode"
+msgstr "Logotipa gaismas režīms"
+
+#: admin/classes/uipress-app.php:2692
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "Iestata administrēšanas joslas logotipu gaišajā režīmā."
+
+#: admin/classes/uipress-app.php:2699
+msgid "Logo Dark Mode"
+msgstr "Logo tumšais režīms"
+
+#: admin/classes/uipress-app.php:2700
+msgid "Optional dark mode logo for admin bar."
+msgstr "Izvēles tumšā režīma logotips administratora joslai."
+
+#: admin/classes/uipress-app.php:2707
+#, php-format
+msgid "Load %s Menu on front end"
+msgstr "Ielādēt %s izvēlni priekšpusē"
+
+#: admin/classes/uipress-app.php:2708
+#, php-format
+msgid ""
+"If enabled, %s menu will load on the front end. Please note, this will not "
+"work on all themes and styling will vary"
+msgstr ""
+"Ja iespējots, %s izvēlne tiks ielādēta priekšpusē. Lūdzu, ņemiet vērā, ka "
+"tas nedarbosies ar visām tēmām, un stils būs atšķirīgs"
+
+#: admin/classes/uipress-app.php:2716
+#, php-format
+msgid "Only Load %s Menu on front end for"
+msgstr "Tikai ielādēt %s izvēlni priekšpusē"
+
+#: admin/classes/uipress-app.php:2717
+msgid "Only load front end menu for selected roles and usernames"
+msgstr "Ielādēt priekšgala izvēlni tikai atlasītajām lomām un lietotājvārdiem"
+
+#: admin/classes/uipress-app.php:2725
+msgid "Collapsed Menu Logo Light Mode"
+msgstr "Sakļautās izvēlnes logotipa apgaismojuma režīms"
+
+#: admin/classes/uipress-app.php:2726
+msgid "Optional logo for when the menu is collapsed."
+msgstr "Izvēles logotips, ja izvēlne ir sakļauta."
+
+#: admin/classes/uipress-app.php:2733
+msgid "Collapsed Menu Logo Dark Mode"
+msgstr "Sakļautās izvēlnes logotipa tumšais režīms"
+
+#: admin/classes/uipress-app.php:2734
+msgid "Optional dark nmode logo for when the menu is collapsed."
+msgstr "Izvēles tumšs nmode logotips, ja izvēlne ir sakļauta."
+
+#: admin/classes/uipress-app.php:2741
+msgid "Show site title in menu"
+msgstr "Rādīt vietnes nosaukumu izvēlnē"
+
+#: admin/classes/uipress-app.php:2742
+msgid ""
+"If enabled, the site title will be displayed in the menu next to the logo"
+msgstr "Ja iespējots, vietnes nosaukums tiks parādīts izvēlnē blakus logotipam"
+
+#: admin/classes/uipress-app.php:2749 admin/classes/uipress-app.php:2811
+msgid "Disable Search"
+msgstr "Atspējot meklēšanu"
+
+#: admin/classes/uipress-app.php:2750
+msgid "Disables admin menu search."
+msgstr "Atspējo meklēšanu administratora izvēlnē."
+
+#: admin/classes/uipress-app.php:2757
+msgid "Set collapsed menu as default"
+msgstr "Iestatīt sakļauto izvēlni kā noklusējumu"
+
+#: admin/classes/uipress-app.php:2758
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"Ja tas ir iespējots, lietotājiem, kuri nav iestatījuši preferenci, izvēlnē "
+"pēc noklusējuma tiks izmantota samazinātā izvēlne."
+
+#: admin/classes/uipress-app.php:2774
+msgid "Creates new admin toolbar."
+msgstr "Izveido jaunu administratora rīkjoslu."
+
+#: admin/classes/uipress-app.php:2778
+msgid "Disable ToolBar Module?"
+msgstr "Vai atspējot rīkjoslas moduli?"
+
+#: admin/classes/uipress-app.php:2779
+msgid ""
+"Creates new admin bar, adds user off canvas menu, builds global search and "
+"notification center."
+msgstr ""
+"Izveido jaunu administratora joslu, pievieno lietotāju ārpus kanvas izvēlnes,"
+" veido globālo meklēšanas un paziņojumu centru."
+
+#: admin/classes/uipress-app.php:2786
+msgid "Admin Bar Disabled For"
+msgstr "Administratora josla ir atspējota"
+
+#: admin/classes/uipress-app.php:2787
+#, php-format
+msgid "%s toolbar module will be disabled for any users or roles you select"
+msgstr ""
+"%s rīkjoslas modulis tiks atspējots visiem jūsu atlasītajiem lietotājiem vai "
+"lomām"
+
+#: admin/classes/uipress-app.php:2795
+msgid "Hide admin bar links (left side)"
+msgstr "Slēpt administratora joslas saites (kreisajā pusē)"
+
+#: admin/classes/uipress-app.php:2796
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"Visiem lietotājiem atspējo mantotās saites administratora joslas kreisajā "
+"pusē. Arī slēpj lietotāja preferences."
+
+#: admin/classes/uipress-app.php:2803
+msgid "Enable floating flyout toolbar"
+msgstr "Iespējot peldošo izlidošanas rīkjoslu"
+
+#: admin/classes/uipress-app.php:2804
+msgid "Changes the toolbar to a floating flyout toolbar"
+msgstr "Maina rīkjoslu uz peldošu izlidošanas rīkjoslu"
+
+#: admin/classes/uipress-app.php:2812
+msgid "Disables search icon and global search function from admin bar."
+msgstr ""
+"Administratora joslā atspējo meklēšanas ikonu un globālās meklēšanas "
+"funkciju."
+
+#: admin/classes/uipress-app.php:2819
+msgid "Disable Create Button"
+msgstr "Atspējot izveides pogu"
+
+#: admin/classes/uipress-app.php:2820
+msgid "Disables the 'create' button in the admin bar."
+msgstr "Atspējo pogu “Izveidot” administratora joslā."
+
+#: admin/classes/uipress-app.php:2827
+msgid "Open View Website in new tab"
+msgstr "Atveriet Skatīt vietni jaunā cilnē"
+
+#: admin/classes/uipress-app.php:2828
+msgid ""
+"When enabled, clicking on view website or the home button will open in a new "
+"browser tab"
+msgstr ""
+"Kad tas ir iespējots, jaunā pārlūkprogrammas cilnē tiks atvērta poga Skatīt "
+"vietni vai sākuma poga"
+
+#: admin/classes/uipress-app.php:2835
+msgid "Disable View Website Button"
+msgstr "Atspējot pogu Skatīt vietni"
+
+#: admin/classes/uipress-app.php:2836
+msgid "Disables the view website link button in the admin bar."
+msgstr "Administrēšanas joslā atspējo pogu Skatīt vietnes saiti."
+
+#: admin/classes/uipress-app.php:2843
+#, php-format
+msgid "Load %s admin bar on front end"
+msgstr "Ielādēt %s administratora joslu priekšpusē"
+
+#: admin/classes/uipress-app.php:2844
+#, php-format
+msgid ""
+"If enabled, %s toolbar will load on the front end. Please note, this will "
+"not work on all themes and styling will vary"
+msgstr ""
+"Ja iespējots, %s rīkjosla tiks ielādēta priekšpusē. Lūdzu, ņemiet vērā, ka "
+"tas nedarbosies ar visām tēmām, un stils būs atšķirīgs"
+
+#: admin/classes/uipress-app.php:2852
+msgid "Hide admin bar on front end"
+msgstr "Slēpt administratora joslu priekšpusē"
+
+#: admin/classes/uipress-app.php:2853
+msgid "If enabled, front end admin bar will not load."
+msgstr "Ja tas ir iespējots, priekšgala administratora josla netiks ielādēta."
+
+#: admin/classes/uipress-app.php:2861
+msgid "Disable Notification Center"
+msgstr "Atspējot paziņojumu centru"
+
+#: admin/classes/uipress-app.php:2862
+msgid "If disabled, notifcations will show in the normal way"
+msgstr "Ja tas ir atspējots, paziņojumi tiks rādīti parastajā veidā"
+
+#: admin/classes/uipress-app.php:2870
+msgid "Post Types available in Search"
+msgstr "Meklēšanā pieejami ziņu veidi"
+
+#: admin/classes/uipress-app.php:2871
+msgid "The global search will only search the selected post types."
+msgstr "Globālā meklēšana meklēs tikai atlasītos ziņu veidus."
+
+#: admin/classes/uipress-app.php:2879
+msgid "Post Types available in create button (new)"
+msgstr "Ziņu veidi, kas pieejami izveides pogā (jauns)"
+
+#: admin/classes/uipress-app.php:2880
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr ""
+"Izveidošanas nolaižamajā izvēlnē tiks parādīti tikai atlasītie ziņu veidi."
+
+#: admin/classes/uipress-app.php:2888
+msgid "Only show notifications to"
+msgstr "Rādīt tikai paziņojumus"
+
+#: admin/classes/uipress-app.php:2889
+#, php-format
+msgid ""
+"%s will hide all notifications from all users except those selected below"
+msgstr ""
+"%s slēps visus paziņojumus no visiem lietotājiem, izņemot tālāk atlasītos"
+
+#: admin/classes/uipress-app.php:2897
+msgid "Only show updates to"
+msgstr "Rādīt tikai atjauninājumus uz"
+
+#: admin/classes/uipress-app.php:2898
+#, php-format
+msgid "%s will hide all updates from all users except those selected below"
+msgstr ""
+"%s slēps visus atjauninājumus no visiem lietotājiem, izņemot tālāk atlasītos"
+
+#: admin/classes/uipress-app.php:2914
+msgid "Theme"
+msgstr "Tēma"
+
+#: admin/classes/uipress-app.php:2915 admin/classes/uipress-app.php:2945
+#: admin/classes/uipress-app.php:3000
+msgid "Styles page content."
+msgstr "Stilu lapas saturs."
+
+#: admin/classes/uipress-app.php:2919
+msgid "Disable Admin Theme Module"
+msgstr "Atspējot administratora motīvu moduli"
+
+#: admin/classes/uipress-app.php:2920
+msgid "When the theme is disabled, pages will be styles in the original way."
+msgstr "Ja motīvs ir atspējots, lapas tiks veidotas sākotnējā veidā."
+
+#: admin/classes/uipress-app.php:2927
+msgid "Theme Disabled for"
+msgstr "Motīvs ir atspējots"
+
+#: admin/classes/uipress-app.php:2928
+msgid ""
+"When the theme is disabled, pages will be styles in the original way for "
+"selected users or roles."
+msgstr ""
+"Ja motīvs ir atspējots, atlasītajiem lietotājiem vai lomām lapas būs stili "
+"sākotnējā veidā."
+
+#: admin/classes/uipress-app.php:2949
+msgid "Disable Login Module"
+msgstr "Atspējot pieteikšanās moduli"
+
+#: admin/classes/uipress-app.php:2950
+msgid ""
+"When the login module is disabled, the login page will be displayed in the "
+"original way."
+msgstr ""
+"Kad pieteikšanās modulis ir atspējots, pieteikšanās lapa tiks parādīta "
+"sākotnējā veidā."
+
+#: admin/classes/uipress-app.php:2958
+msgid "Dark Mode"
+msgstr "Tumšais režīms"
+
+#: admin/classes/uipress-app.php:2959
+msgid "Puts the login page in dark mode for all users."
+msgstr "Pārvieto pieteikšanās lapu tumšajā režīmā visiem lietotājiem."
+
+#: admin/classes/uipress-app.php:2966
+msgid "Disable Language Selector"
+msgstr "Atspējot valodas atlasītāju"
+
+#: admin/classes/uipress-app.php:2967
+msgid "Removes the language selector added to the login page"
+msgstr "Noņem pieteikšanās lapai pievienoto valodas atlasītāju"
+
+#: admin/classes/uipress-app.php:2974
+msgid "Login Logo"
+msgstr "Pieteikšanās logotips"
+
+#: admin/classes/uipress-app.php:2975
+msgid "Sets the logo for the login page"
+msgstr "Iestata pieteikšanās lapas logotipu"
+
+#: admin/classes/uipress-app.php:2982
+msgid "Login Background"
+msgstr "Pieteikšanās fons"
+
+#: admin/classes/uipress-app.php:2983
+msgid "Sets an optional background image on the login page."
+msgstr "Iestata papildu fona attēlu pieteikšanās lapā."
+
+#: admin/classes/uipress-app.php:2999
+msgid "Advanced"
+msgstr "Papildu"
+
+#: admin/classes/uipress-app.php:3004
+msgid "Advanced Disabled For"
+msgstr "Advanced Disabled For"
+
+#: admin/classes/uipress-app.php:3005
+msgid "Code added here will not load for any users or roles you select"
+msgstr ""
+"Šeit pievienotais kods netiks ielādēts nevienam jūsu atlasītajam lietotājam "
+"vai lomām"
+
+#: admin/classes/uipress-app.php:3013
+msgid "Enqueue scripts"
+msgstr "Ievietojiet skriptus rindā"
+
+#: admin/classes/uipress-app.php:3014
+msgid "Add scripts to the head of every admin page and login page"
+msgstr ""
+"Pievienojiet skriptus katras administratora lapas un pieteikšanās lapas "
+"galvenē"
+
+#: admin/classes/uipress-app.php:3022
+msgid "Enqueue styles"
+msgstr "Rindas stili"
+
+#: admin/classes/uipress-app.php:3023
+msgid "Add stylesheets to the head of every admin page and login page"
+msgstr ""
+"Pievienojiet stila lapas katras administratora lapas un pieteikšanās lapas "
+"galvenē"
+
+#: admin/classes/uipress-app.php:3031
+msgid "Admin CSS"
+msgstr "Admin CSS"
+
+#: admin/classes/uipress-app.php:3032
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr ""
+"Šeit pievienotais CSS tiks ielādēts katrā administratora lapā, kā arī "
+"pieteikšanās lapā"
+
+#: admin/classes/uipress-app.php:3041
+msgid "Admin JavaScript"
+msgstr "Admin JavaScript"
+
+#: admin/classes/uipress-app.php:3042
+msgid ""
+"JavaScript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr ""
+"Šeit pievienotais JavaScript tiks ielādēts katrā administratora lapā, kā arī "
+"pieteikšanās lapā"
+
+#: admin/classes/uipress-app.php:3051
+msgid "HTML for document head"
+msgstr "HTML dokumenta galvai"
+
+#: admin/classes/uipress-app.php:3052
+msgid ""
+"Add HTML here to be added to every admin page and login page head section"
+msgstr ""
+"Pievienojiet šeit HTML, lai to pievienotu katrai administratora lapai un "
+"pieteikšanās lapas galvas sadaļai"
+
+#: admin/classes/uipress-app.php:3061
+msgid "Safe Mode Key"
+msgstr "Drošā režīma taustiņš"
+
+#: admin/classes/uipress-app.php:3063
+msgid ""
+"Add a private key to allow you to disable uipress on specific pages with "
+"query paramaters. For example, add '?no_uip=your_key' to a URL and it wil "
+"stop uipress from loading on that page."
+msgstr ""
+"Pievienojiet privāto atslēgu, lai ļautu atspējot uipress noteiktās lapās ar "
+"vaicājuma parametriem. Piemēram, pievienojiet '?no_uip=your_key' vietrādim "
+"URL, un tas pārtrauks uipress ielādi šajā lapā."
+
+#: admin/classes/update.php:66
+msgid "Welcome to UiPress version "
+msgstr "Laipni lūdzam UiPress versijā"
+
+#: admin/classes/update.php:69 admin/classes/update.php:101
+msgid ""
+"Would you like to automatically import settings from your older version of "
+"uipress?"
+msgstr ""
+"Vai vēlaties automātiski importēt iestatījumus no savas vecākās uipress "
+"versijas?"
+
+#: admin/classes/update.php:71
+msgid "Don't show again"
+msgstr "Nerādīt vēlreiz"
+
+#: admin/classes/update.php:72 admin/classes/update.php:103
+msgid "Import settings"
+msgstr "Importēt iestatījumus"
+
+#: admin/classes/update.php:115
+msgid "Check for updates"
+msgstr "Meklēt atjauninājumus"
+
+#: admin/classes/update.php:141
+msgid "Unable to contact update server"
+msgstr "Nevar sazināties ar atjaunināšanas serveri"
+
+#: admin/classes/update.php:156
+msgid "Update available"
+msgstr "Pieejams atjauninājums"
+
+#: admin/classes/update.php:162
+msgid "No Updates available"
+msgstr "Nav pieejami atjauninājumi"
+
+#: admin/classes/update.php:180
+msgid "Message dismissed"
+msgstr "Ziņojums ir noraidīts"
+
+#: admin/classes/update.php:204
+msgid "No settings to import"
+msgstr "Nav iestatījumu, ko importēt"
+
+#: admin/classes/update.php:350
+msgid "Settings imported"
+msgstr "Iestatījumi importēti"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress"
+msgstr "UiPress"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress admin extension with a streamlined dashboard, Google "
+"Analytics & WooCommerce Integration, intuitive media library, dark mode and "
+"much more."
+msgstr ""
+"Jaudīgs WordPress administratora paplašinājums ar pilnveidotu informācijas "
+"paneli, Google Analytics un WooCommerce integrāciju, intuitīvu multivides "
+"bibliotēku, tumšo režīmu un daudz ko citu."
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "Administrators 2020"

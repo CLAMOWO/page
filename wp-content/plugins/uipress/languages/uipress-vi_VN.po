@@ -1,0 +1,4815 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress\n"
+"POT-Creation-Date: 2022-06-12 12:06+0200\n"
+"PO-Revision-Date: 2022-06-22 20:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese (Viet Nam)\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Team: Rubyvio https://rubyvio.com"
+"X-Poedit-Basepath: ..\n"
+"X-Translate-Version: beta; wp-6.0"
+"X-Human revision: none;
+
+#: admin/apps/admin-pages/admin-pages.php:110
+#: admin/apps/menu-creator/menu-creator.php:1304
+msgid "Apply to subsites"
+msgstr "Áp dụng cho các trang con"
+
+#: admin/apps/admin-pages/admin-pages.php:121
+msgid "Menu Icon"
+msgstr "Biểu tượng Menu"
+
+#: admin/apps/admin-pages/admin-pages.php:131
+msgid "Manually add to menu?"
+msgstr "Thêm vào menu theo cách thủ công?"
+
+#: admin/apps/admin-pages/admin-pages.php:250
+msgid "Admin Pages - Beta"
+msgstr "Trang quản trị - Beta"
+
+#: admin/apps/admin-pages/admin-pages.php:251
+msgid "Creates custom admin pages."
+msgstr "Tạo các trang quản trị tùy chỉnh."
+
+#: admin/apps/admin-pages/admin-pages.php:255
+msgid "Disable custom admin pages?"
+msgstr "Tắt các trang quản trị tùy chỉnh?"
+
+#: admin/apps/admin-pages/admin-pages.php:256
+msgid "If disabled, the admin pages will not be available to any users."
+msgstr ""
+"Nếu bị vô hiệu hóa, các trang quản trị sẽ không có sẵn cho bất kỳ người dùng "
+"nào."
+
+#: admin/apps/admin-pages/admin-pages.php:263
+msgid "Admin Page Slug"
+msgstr "Trang quản trị viên Slug"
+
+#: admin/apps/admin-pages/admin-pages.php:264
+msgid ""
+"This defaults to admin-pages. Changes to this will need you to resave "
+"permalink structure."
+msgstr ""
+"Điều này mặc định cho các trang quản trị. Những thay đổi đối với điều này sẽ "
+"cần bạn lưu lại cấu trúc liên kết cố định."
+
+#: admin/apps/admin-pages/admin-pages.php:271
+msgid "Who can edit and create admin pages?"
+msgstr "Ai có thể chỉnh sửa và tạo trang quản trị?"
+
+#: admin/apps/admin-pages/admin-pages.php:272
+msgid ""
+"Editing and creation of admin pages will be disabled for the users or roles "
+"you select"
+msgstr ""
+"Việc chỉnh sửa và tạo trang quản trị sẽ bị vô hiệu hóa đối với người dùng "
+"hoặc vai trò bạn chọn"
+
+#: admin/apps/admin-pages/admin-pages.php:280
+msgid "Who can see admin pages?"
+msgstr "Ai có thể xem các trang quản trị?"
+
+#: admin/apps/admin-pages/admin-pages.php:281
+msgid "UiPress will only show admin pages for the users or roles you select"
+msgstr ""
+"UiPress sẽ chỉ hiển thị các trang quản trị cho người dùng hoặc vai trò bạn "
+"chọn"
+
+#: admin/apps/admin-pages/admin-pages.php:320
+msgctxt "post type general name"
+msgid "Admin Page"
+msgstr "Trang quản trị"
+
+#: admin/apps/admin-pages/admin-pages.php:321
+msgctxt "post type singular name"
+msgid "Admin Page"
+msgstr "Trang quản trị"
+
+#: admin/apps/admin-pages/admin-pages.php:322
+msgctxt "admin menu"
+msgid "Admin Pages"
+msgstr "Trang quản trị"
+
+#: admin/apps/admin-pages/admin-pages.php:323
+msgctxt "add new on admin bar"
+msgid "Admin Page"
+msgstr "Trang quản trị"
+
+#: admin/apps/admin-pages/admin-pages.php:324
+msgctxt "Admin Page"
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: admin/apps/admin-pages/admin-pages.php:325
+msgid "Add New Admin Page"
+msgstr "Thêm trang quản trị mới"
+
+#: admin/apps/admin-pages/admin-pages.php:326
+msgid "New Admin Page"
+msgstr "Trang quản trị mới"
+
+#: admin/apps/admin-pages/admin-pages.php:327
+msgid "Edit Admin Page"
+msgstr "Chỉnh sửa trang quản trị"
+
+#: admin/apps/admin-pages/admin-pages.php:328
+msgid "View Admin Page"
+msgstr "Xem trang quản trị"
+
+#: admin/apps/admin-pages/admin-pages.php:329
+msgid "All Admin Pages"
+msgstr "Tất cả các trang quản trị"
+
+#: admin/apps/admin-pages/admin-pages.php:330
+msgid "Search Admin Pages"
+msgstr "Tìm kiếm các trang quản trị"
+
+#: admin/apps/admin-pages/admin-pages.php:331
+msgid "No Admin Pages found."
+msgstr "Không tìm thấy Trang quản trị nào."
+
+#: admin/apps/admin-pages/admin-pages.php:332
+msgid "No Admin Pages found in Trash."
+msgstr "Không tìm thấy Trang quản trị nào trong Thùng rác."
+
+#: admin/apps/admin-pages/admin-pages.php:336
+#: admin/apps/menu-creator/menu-creator.php:667
+#: admin/apps/users/uip-history.php:161
+msgid "Description."
+msgstr "Sự mô tả."
+
+#: admin/apps/content/content.php:96
+msgid "Content Page"
+msgstr "Trang nội dung"
+
+#: admin/apps/content/content.php:97
+msgid "Creates content page"
+msgstr "Tạo trang nội dung"
+
+#: admin/apps/content/content.php:101
+msgid "Disable Content Page?"
+msgstr "Tắt Trang Nội dung?"
+
+#: admin/apps/content/content.php:102
+msgid "If disabled, the content page will not be available to any users."
+msgstr ""
+"Nếu bị vô hiệu hóa, trang nội dung sẽ không có sẵn cho bất kỳ người dùng nào."
+
+#: admin/apps/content/content.php:109
+msgid "Content Page Disabled for"
+msgstr "Trang nội dung bị vô hiệu hóa cho"
+
+#: admin/apps/content/content.php:110
+msgid ""
+"When the content page module is disabled, the content page will not be "
+"accesible for the users / roles"
+msgstr ""
+"Khi mô-đun trang nội dung bị vô hiệu hóa, trang nội dung sẽ không được truy "
+"cập cho người dùng / vai trò"
+
+#: admin/apps/content/content.php:118
+msgid "Post types available in content page"
+msgstr "Các loại bài đăng có sẵn trong trang nội dung"
+
+#: admin/apps/content/content.php:119
+msgid "Only the selected post types will be available in the content page."
+msgstr "Chỉ những loại bài đã chọn mới có trong trang nội dung."
+
+#: admin/apps/content/content.php:127
+msgid "Enable private library mode"
+msgstr "Bật chế độ thư viện riêng tư"
+
+#: admin/apps/content/content.php:128
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This also includes folders"
+msgstr ""
+"Khi được bật, trang nội dung sẽ chỉ hiển thị nội dung do người dùng hiện "
+"đang đăng nhập tạo hoặc tải lên. Điều này cũng bao gồm các thư mục"
+
+#: admin/apps/content/content.php:184
+msgid "Original Title / Value"
+msgstr "Tiêu đề / Giá trị gốc"
+
+#: admin/apps/content/content.php:188 admin/classes/styles.php:693
+msgid "Text"
+msgstr "Chữ"
+
+#: admin/apps/content/content.php:192 admin/apps/content/content.php:2033
+msgid "Date Created"
+msgstr "Ngày tạo"
+
+#: admin/apps/content/content.php:196
+msgid "File Extension (attachments only)"
+msgstr "Phần mở rộng Tệp (chỉ tệp đính kèm)"
+
+#: admin/apps/content/content.php:200
+msgid "Sequence Number"
+msgstr "Số thứ tự"
+
+#: admin/apps/content/content.php:204
+msgid "Meta Value"
+msgstr "Giá trị Meta"
+
+#: admin/apps/content/content.php:208
+msgid "Find and Replace"
+msgstr "Tìm và thay thế"
+
+#: admin/apps/content/content.php:266 admin/classes/uipress-app.php:1731
+#: admin/classes/uipress-app.php:2073
+msgid "No preferences supplied to save"
+msgstr "Không có tùy chọn nào được cung cấp để lưu"
+
+#: admin/apps/content/content.php:288 admin/classes/uipress-app.php:1742
+#: admin/classes/uipress-app.php:2095
+msgid "Preferences saved"
+msgstr "Các tùy chọn đã được lưu"
+
+#: admin/apps/content/content.php:291 admin/classes/uipress-app.php:1746
+#: admin/classes/uipress-app.php:2098
+msgid "Unable to save user preferences"
+msgstr "Không thể lưu tùy chọn của người dùng"
+
+#: admin/apps/content/content.php:320 admin/apps/content/content.php:328
+#: admin/apps/content/content.php:957
+msgid "Unable to save attachment"
+msgstr "Không thể lưu tệp đính kèm"
+
+#: admin/apps/content/content.php:337
+msgid "Image Saved"
+msgstr "Đã lưu hình ảnh"
+
+#: admin/apps/content/content.php:370
+msgid "Failed to upload file"
+msgstr "Không tải lên được tệp"
+
+#: admin/apps/content/content.php:400
+msgid "Items uploaded"
+msgstr "Các mục đã tải lên"
+
+#: admin/apps/content/content.php:423
+msgid "Views updated"
+msgstr "Đã cập nhật lượt xem"
+
+#: admin/apps/content/content.php:455 admin/apps/content/content.php:517
+#: admin/apps/content/content.php:579 admin/apps/content/content.php:769
+#: admin/apps/menu-creator/menu-creator.php:752
+#: admin/apps/menu-creator/menu-creator.php:777
+#: admin/apps/menu-creator/menu-creator.php:814
+#: admin/apps/menu-creator/menu-creator.php:867
+#: admin/apps/menu-creator/menu-creator.php:936
+#: admin/apps/users/uip-user-groups.php:309 admin/classes/folders.php:528
+#: admin/classes/settings.php:308 admin/classes/uipress-app.php:1357
+msgid "Something went wrong"
+msgstr "Đã xảy ra sự cố"
+
+#: admin/apps/content/content.php:460
+msgid "Items duplicated successfully"
+msgstr "Các mục được sao chép thành công"
+
+#: admin/apps/content/content.php:463
+msgid "Itms couldn't be duplicated"
+msgstr "Nó không thể được sao chép"
+
+#: admin/apps/content/content.php:501 admin/apps/content/content.php:543
+msgid "No Meta Key provided"
+msgstr "Không có khóa Meta được cung cấp"
+
+#: admin/apps/content/content.php:583
+msgid "Attributes Updated"
+msgstr "Đã cập nhật các thuộc tính"
+
+#: admin/apps/content/content.php:774
+msgid "Items deleted successfully"
+msgstr "Các mục đã được xóa thành công"
+
+#: admin/apps/content/content.php:777
+msgid "Itms couldn't be deleted"
+msgstr "Không thể xóa nó"
+
+#: admin/apps/content/content.php:799 admin/classes/folders.php:452
+#: admin/classes/folders.php:484
+msgid "No content to move"
+msgstr "Không có nội dung để di chuyển"
+
+#: admin/apps/content/content.php:812 admin/classes/folders.php:466
+#: admin/classes/folders.php:497
+msgid "Content moved"
+msgstr "Nội dung đã di chuyển"
+
+#: admin/apps/content/content.php:938
+msgid "Unable to update item"
+msgstr "Không thể cập nhật mặt hàng"
+
+#: admin/apps/content/content.php:968
+msgid "Item updated"
+msgstr "Đã cập nhật mặt hàng"
+
+#: admin/apps/content/content.php:1007
+msgid "Items updated"
+msgstr "Các mặt hàng được cập nhật"
+
+#: admin/apps/content/content.php:1319 admin/apps/content/content.php:1611
+msgid "Content"
+msgstr "Nội dung"
+
+#: admin/apps/content/content.php:1362
+#: admin/apps/menu-creator/menu-creator.php:1096
+#: admin/classes/uipress-app.php:1325
+msgid "Pro Feature"
+msgstr "Tính năng Pro"
+
+#: admin/apps/content/content.php:1365
+msgid "Upgrade to UiPress Pro to unlock the content page and content folders"
+msgstr ""
+"Nâng cấp lên UiPress Pro để mở khóa trang nội dung và các thư mục nội dung"
+
+#: admin/apps/content/content.php:1367
+#: admin/apps/menu-creator/menu-creator.php:1101
+msgid "See UiPress Pro Plans"
+msgstr "Xem các gói UiPress Pro"
+
+#: admin/apps/content/content.php:1411
+msgid "Update Tags and Categories"
+msgstr "Cập nhật thẻ và danh mục"
+
+#: admin/apps/content/content.php:1418 admin/apps/content/content.php:1831
+#: admin/apps/content/content.php:1836 admin/apps/content/content.php:2068
+#: admin/apps/content/content.php:2071
+msgid "Categories"
+msgstr "Thể loại"
+
+#: admin/apps/content/content.php:1419 admin/apps/content/content.php:1837
+#: admin/apps/content/content.php:2072
+msgid "Search categories..."
+msgstr "Tìm kiếm danh mục ..."
+
+#: admin/apps/content/content.php:1424
+msgid "Keep existing categories"
+msgstr "Giữ các danh mục hiện có"
+
+#: admin/apps/content/content.php:1433 admin/apps/content/content.php:1843
+#: admin/apps/content/content.php:1847 admin/apps/content/content.php:2080
+#: admin/apps/content/content.php:2083
+msgid "Tags"
+msgstr "Thẻ"
+
+#: admin/apps/content/content.php:1434 admin/apps/content/content.php:1848
+#: admin/apps/content/content.php:2084
+msgid "Search tags..."
+msgstr "Tìm kiếm các thẻ ..."
+
+#: admin/apps/content/content.php:1439
+msgid "Keep existing tags"
+msgstr "Giữ các thẻ hiện có"
+
+#: admin/apps/content/content.php:1448 admin/apps/content/content.php:1686
+#: admin/classes/uipress-app.php:1373
+msgid "Update"
+msgstr "Cập nhật"
+
+#: admin/apps/content/content.php:1465 admin/apps/content/content.php:2567
+msgid "Batch Rename"
+msgstr "Đổi tên hàng loạt"
+
+#: admin/apps/content/content.php:1473
+msgid "Attribute to rename"
+msgstr "Thuộc tính để đổi tên"
+
+#: admin/apps/content/content.php:1480 admin/apps/content/content.php:2323
+#: admin/apps/menu-creator/menu-creator.php:1151
+#: admin/apps/menu-creator/menu-creator.php:1651
+#: admin/apps/menu-creator/menu-creator.php:1652
+#: admin/apps/users/uip-users.php:311 admin/apps/users/uip-users.php:389
+#: admin/apps/users/uip-users.php:1213 admin/classes/uipress-app.php:1371
+msgid "Name"
+msgstr "Tên"
+
+#: admin/apps/content/content.php:1481
+msgid "Meta Key"
+msgstr "Khóa Meta"
+
+#: admin/apps/content/content.php:1482
+msgid "Alt Tag (Attachments only)"
+msgstr "Thẻ thay thế (Chỉ tệp đính kèm)"
+
+#: admin/apps/content/content.php:1487
+msgid "Meta Key Name"
+msgstr "Tên khóa meta"
+
+#: admin/apps/content/content.php:1498
+msgid "Filename Structure"
+msgstr "Cấu trúc tên tệp"
+
+#: admin/apps/content/content.php:1506
+msgid "Rename Item"
+msgstr "Đổi tên mục"
+
+#: admin/apps/content/content.php:1514 admin/apps/overview/overview.php:812
+msgid "Add"
+msgstr "cộng"
+
+#: admin/apps/content/content.php:1540
+msgid "New Text"
+msgstr "Văn bản mới"
+
+#: admin/apps/content/content.php:1542
+msgid "Date Format"
+msgstr "Định dạng ngày tháng"
+
+#: admin/apps/content/content.php:1544
+msgid "Start Number"
+msgstr "Số bắt đầu"
+
+#: admin/apps/content/content.php:1546
+msgid "Meta key Name"
+msgstr "Tên khóa meta"
+
+#: admin/apps/content/content.php:1548
+msgid "Find"
+msgstr "Tìm thấy"
+
+#: admin/apps/content/content.php:1552
+msgid "Replace"
+msgstr "Thay thế"
+
+#: admin/apps/content/content.php:1576 admin/apps/content/content.php:1593
+#: admin/apps/menu-creator/menu-creator.php:1464
+msgid "Preview"
+msgstr "Xem trước"
+
+#: admin/apps/content/content.php:1579
+msgid "Current"
+msgstr "Hiện hành"
+
+#: admin/apps/content/content.php:1580
+#: admin/apps/menu-creator/menu-creator.php:1136
+msgid "New"
+msgstr "Mới"
+
+#: admin/apps/content/content.php:1594
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: admin/apps/content/content.php:1618 admin/classes/uipress-app.php:1365
+msgid "All Content"
+msgstr "Tất cả nội dung"
+
+#: admin/apps/content/content.php:1679
+#: admin/apps/menu-creator/menu-creator.php:1225
+#: admin/apps/users/uip-users.php:541
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+#: admin/apps/content/content.php:1684
+msgid "Edit Image"
+msgstr "Chỉnh sửa hình ảnh"
+
+#: admin/apps/content/content.php:1715 admin/apps/users/uip-users.php:309
+msgid "Details"
+msgstr "Thông tin chi tiết"
+
+#: admin/apps/content/content.php:1771 admin/apps/content/content.php:1772
+#: admin/apps/overview/overview.php:715
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: admin/apps/content/content.php:1778
+msgid "Alt Text"
+msgstr "Văn bản thay thế"
+
+#: admin/apps/content/content.php:1779
+msgid "Alt"
+msgstr "Alt"
+
+#: admin/apps/content/content.php:1783 admin/apps/content/content.php:1784
+msgid "Caption"
+msgstr "Đầu đề"
+
+#: admin/apps/content/content.php:1788 admin/apps/content/content.php:1789
+#: admin/apps/users/uip-users.php:1353
+msgid "Description"
+msgstr "Sự mô tả"
+
+#: admin/apps/content/content.php:1799
+msgid "Meta Data"
+msgstr "Metadata"
+
+#: admin/apps/content/content.php:1819 admin/apps/content/content.php:1824
+#: admin/apps/content/content.php:2339
+#: admin/apps/menu-creator/menu-creator.php:1155
+#: admin/apps/menu-creator/menu-creator.php:1294
+#: admin/classes/uipress-app.php:1151
+msgid "Status"
+msgstr "Trạng thái"
+
+#: admin/apps/content/content.php:1825
+msgid "Search status..."
+msgstr "Trạng thái tìm kiếm ..."
+
+#: admin/apps/content/content.php:1927
+msgid "Filters"
+msgstr "Bộ lọc"
+
+#: admin/apps/content/content.php:1932
+msgid "Upload"
+msgstr "Tải lên"
+
+#: admin/apps/content/content.php:1954
+msgid "Items Per Page"
+msgstr "Các mục trên mỗi trang"
+
+#: admin/apps/content/content.php:1964
+msgid "Columns"
+msgstr "Cột"
+
+#: admin/apps/content/content.php:1976
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: admin/apps/content/content.php:1984
+msgid "of"
+msgstr "của"
+
+#: admin/apps/content/content.php:1987
+msgid "items"
+msgstr "mặt hàng"
+
+#: admin/apps/content/content.php:2011 admin/apps/content/content.php:2014
+msgid "Post Types"
+msgstr "Các loại bài đăng"
+
+#: admin/apps/content/content.php:2015
+msgid "Search Post Types..."
+msgstr "Tìm kiếm các loại bài đăng ..."
+
+#: admin/apps/content/content.php:2022 admin/apps/content/content.php:2025
+msgid "Post Status"
+msgstr "Trạng thái bài đăng"
+
+#: admin/apps/content/content.php:2026
+msgid "Search Post Statuses..."
+msgstr "Tìm kiếm Trạng thái Bài đăng ..."
+
+#: admin/apps/content/content.php:2039
+msgid "Posted On"
+msgstr "Đăng trên"
+
+#: admin/apps/content/content.php:2040
+msgid "Posted After"
+msgstr "Đăng sau"
+
+#: admin/apps/content/content.php:2041
+msgid "Posted Before"
+msgstr "Đã đăng trước"
+
+#: admin/apps/content/content.php:2056 admin/apps/content/content.php:2059
+msgid "Media Types"
+msgstr "Các loại phương tiện"
+
+#: admin/apps/content/content.php:2060
+msgid "Search Media Types..."
+msgstr "Tìm kiếm các loại phương tiện ..."
+
+#: admin/apps/content/content.php:2089
+msgid "Clear Filters"
+msgstr "Xóa bộ lọc"
+
+#: admin/apps/content/content.php:2090
+msgid "Save as view"
+msgstr "Lưu dưới dạng xem"
+
+#: admin/apps/content/content.php:2136
+msgid "Posted"
+msgstr "Đã đăng"
+
+#: admin/apps/content/content.php:2327
+msgid "Type"
+msgstr "Loại hình"
+
+#: admin/apps/content/content.php:2331
+msgid "Author"
+msgstr "Tác giả"
+
+#: admin/apps/content/content.php:2335
+#: admin/apps/menu-creator/menu-creator.php:1159
+#: admin/apps/overview/overview.php:904 admin/apps/users/uip-users.php:1333
+msgid "Date"
+msgstr "Ngày"
+
+#: admin/apps/content/content.php:2483
+msgid "Load More"
+msgstr "Tải thêm"
+
+#: admin/apps/content/content.php:2492
+msgid "No content found"
+msgstr "Không tìm thấy nội dung"
+
+#: admin/apps/content/content.php:2511 admin/apps/users/uip-users.php:547
+#: admin/classes/uipress-app.php:1327
+msgid "View"
+msgstr "Lượt xem"
+
+#: admin/apps/content/content.php:2518
+#: admin/apps/menu-creator/menu-creator.php:1203
+#: admin/apps/users/uip-users.php:523 admin/classes/uipress-app.php:1328
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: admin/apps/content/content.php:2525
+msgid "Quick Edit"
+msgstr "Chỉnh sửa nhanh"
+
+#: admin/apps/content/content.php:2532
+#: admin/apps/menu-creator/menu-creator.php:1210
+msgid "Duplicate"
+msgstr "Nhân bản"
+
+#: admin/apps/content/content.php:2540
+msgid "Delete Item"
+msgstr "Xóa mục"
+
+#: admin/apps/content/content.php:2560
+msgid "items selected"
+msgstr "các mục đã chọn"
+
+#: admin/apps/content/content.php:2573
+msgid "Categories & Tags"
+msgstr "Danh mục & Thẻ"
+
+#: admin/apps/content/content.php:2579
+msgid "Delete Selected"
+msgstr "Xóa đã chọn"
+
+#: admin/apps/content/content.php:2585
+msgid "Clear Selection"
+msgstr "Xóa lựa chọn"
+
+#: admin/apps/content/content.php:2607
+msgid "Create New View"
+msgstr "Tạo chế độ xem mới"
+
+#: admin/apps/content/content.php:2612
+msgid "View name"
+msgstr "Xem tên"
+
+#: admin/apps/content/content.php:2615
+msgid "View Name"
+msgstr "Xem tên"
+
+#: admin/apps/content/content.php:2623
+#: admin/apps/menu-creator/menu-creator.php:1709
+#: admin/apps/overview/overview.php:836 admin/classes/styles.php:437
+msgid "Save"
+msgstr "Tiết kiệm"
+
+#: admin/apps/menu-creator/menu-creator.php:405
+#: admin/apps/menu-creator/menu-creator.php:1044
+#: admin/apps/menu-creator/menu-creator.php:1052
+#: admin/apps/menu-creator/menu-creator.php:1131
+#: admin/apps/menu-creator/menu-creator.php:1699
+msgid "Menu Creator"
+msgstr "Trình tạo thực đơn"
+
+#: admin/apps/menu-creator/menu-creator.php:406
+msgid "Creates custom admin menus."
+msgstr "Tạo menu quản trị tùy chỉnh."
+
+#: admin/apps/menu-creator/menu-creator.php:410
+msgid "Disable Menu Creator?"
+msgstr "Tắt Trình tạo menu?"
+
+#: admin/apps/menu-creator/menu-creator.php:411
+msgid "If disabled, the menu creator will not be available to any users."
+msgstr ""
+"Nếu bị tắt, trình tạo menu sẽ không khả dụng cho bất kỳ người dùng nào."
+
+#: admin/apps/menu-creator/menu-creator.php:651
+msgctxt "post type general name"
+msgid "Admin Menu"
+msgstr "Menu quản trị"
+
+#: admin/apps/menu-creator/menu-creator.php:652
+msgctxt "post type singular name"
+msgid "admin menu"
+msgstr "menu quản trị"
+
+#: admin/apps/menu-creator/menu-creator.php:653
+msgctxt "admin menu"
+msgid "Admin Menus"
+msgstr "Menu quản trị"
+
+#: admin/apps/menu-creator/menu-creator.php:654
+msgctxt "add new on admin bar"
+msgid "Admin Menu"
+msgstr "Menu quản trị"
+
+#: admin/apps/menu-creator/menu-creator.php:655
+msgctxt "Admin Menu"
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: admin/apps/menu-creator/menu-creator.php:656
+msgid "Add New Admin Menu"
+msgstr "Thêm Menu quản trị mới"
+
+#: admin/apps/menu-creator/menu-creator.php:657
+msgid "New Admin Menu"
+msgstr "Menu quản trị mới"
+
+#: admin/apps/menu-creator/menu-creator.php:658
+msgid "Edit Admin Menu"
+msgstr "Chỉnh sửa Menu quản trị"
+
+#: admin/apps/menu-creator/menu-creator.php:659
+msgid "View Admin Menu"
+msgstr "Xem Menu quản trị"
+
+#: admin/apps/menu-creator/menu-creator.php:660
+msgid "All Admin Menus"
+msgstr "Tất cả menu quản trị viên"
+
+#: admin/apps/menu-creator/menu-creator.php:661
+msgid "Search Admin Menus"
+msgstr "Tìm kiếm menu quản trị"
+
+#: admin/apps/menu-creator/menu-creator.php:662
+msgid "No Admin Menus found."
+msgstr "Không tìm thấy Menu quản trị viên."
+
+#: admin/apps/menu-creator/menu-creator.php:663
+msgid "No Admin Menus found in Trash."
+msgstr "Không tìm thấy Menu quản trị nào trong Thùng rác."
+
+#: admin/apps/menu-creator/menu-creator.php:759
+msgid "Status Updated"
+msgstr "Đã cập nhật trạng thái"
+
+#: admin/apps/menu-creator/menu-creator.php:783
+msgid "You don't have permission to delete this"
+msgstr "Bạn không có quyền xóa cái này"
+
+#: admin/apps/menu-creator/menu-creator.php:791
+msgid "Unable to delete menu"
+msgstr "Không thể xóa menu"
+
+#: admin/apps/menu-creator/menu-creator.php:796
+msgid "Menu deleted"
+msgstr "Menu đã bị xóa"
+
+#: admin/apps/menu-creator/menu-creator.php:820
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "Không thể sao chép menu, menu bị hỏng"
+
+#: admin/apps/menu-creator/menu-creator.php:826
+msgid "(copy)"
+msgstr "(copy)"
+
+#: admin/apps/menu-creator/menu-creator.php:834
+msgid "Unable to duplicate menu"
+msgstr "Không thể sao chép menu"
+
+#: admin/apps/menu-creator/menu-creator.php:844
+msgid "Menu duplicated"
+msgstr "Menu bị sao chép"
+
+#: admin/apps/menu-creator/menu-creator.php:873
+msgid "Unable to save, menu is corrupted"
+msgstr "Không thể lưu, menu bị hỏng"
+
+#: admin/apps/menu-creator/menu-creator.php:894
+msgid "Unable to save menu"
+msgstr "Không thể lưu menu"
+
+#: admin/apps/menu-creator/menu-creator.php:917
+msgid "Menu Saved"
+msgstr "Menu đã lưu"
+
+#: admin/apps/menu-creator/menu-creator.php:962
+#: admin/apps/users/uip-users.php:1321 admin/classes/settings.php:328
+msgid "User"
+msgstr "Người sử dụng"
+
+#: admin/apps/menu-creator/menu-creator.php:977
+#: admin/apps/menu-creator/menu-creator.php:988
+#: admin/apps/users/uip-users.php:1285 admin/classes/settings.php:343
+#: admin/classes/settings.php:354
+msgid "Role"
+msgstr "Vai diễn"
+
+#: admin/apps/menu-creator/menu-creator.php:995 admin/classes/settings.php:361
+msgid "Nothing found for term:"
+msgstr "Không tìm thấy gì cho thuật ngữ:"
+
+#: admin/apps/menu-creator/menu-creator.php:1044
+#, php-format
+msgid "%s Menu Creator"
+msgstr "% s Trình tạo menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1099
+msgid "Upgrade to UiPress Pro to unlock the menu creator"
+msgstr "Nâng cấp lên UiPress Pro để mở khóa trình tạo menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1142
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "Có vẻ như bạn chưa tạo bất kỳ menu quản trị nào"
+
+#: admin/apps/menu-creator/menu-creator.php:1143
+msgid "Create your first admin menu"
+msgstr "Tạo menu quản trị đầu tiên của bạn"
+
+#: admin/apps/menu-creator/menu-creator.php:1217
+#: admin/apps/menu-creator/menu-creator.php:1718
+#: admin/apps/users/uip-users.php:559 admin/classes/settings.php:248
+#: admin/classes/styles.php:447
+msgid "Export"
+msgstr "Xuất khẩu"
+
+#: admin/apps/menu-creator/menu-creator.php:1264
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"Trình tạo menu không được tối ưu hóa cho thiết bị di động. Để có kết quả tốt "
+"nhất, hãy chuyển sang màn hình lớn hơn"
+
+#: admin/apps/menu-creator/menu-creator.php:1279
+msgid "Menu Items"
+msgstr "Các mục menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1283
+msgid "Menu Settings"
+msgstr "Cài đặt menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1314
+#: admin/apps/menu-creator/menu-creator.php:1315
+msgid "Menu Name"
+msgstr "Tên thực đơn"
+
+#: admin/apps/menu-creator/menu-creator.php:1319
+msgid "Menu Applies to"
+msgstr "Thực đơn áp dụng cho"
+
+#: admin/apps/menu-creator/menu-creator.php:1323
+msgid "Inclusive"
+msgstr "Bao gồm"
+
+#: admin/apps/menu-creator/menu-creator.php:1327
+msgid "Exclusive"
+msgstr "Loại trừ"
+
+#: admin/apps/menu-creator/menu-creator.php:1331
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr ""
+"Ở chế độ Bao gồm, menu này sẽ tải cho tất cả Tên người dùng và vai trò được "
+"chọn bên dưới."
+
+#: admin/apps/menu-creator/menu-creator.php:1334
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"Ở chế độ Độc quyền, menu này sẽ tải cho mọi người dùng ngoại trừ những Tên "
+"người dùng và vai trò được chọn bên dưới."
+
+#: admin/apps/menu-creator/menu-creator.php:1340
+msgid "Choose users or roles..."
+msgstr "Chọn người dùng hoặc vai trò ..."
+
+#: admin/apps/menu-creator/menu-creator.php:1342
+msgid "Search roles and users..."
+msgstr "Tìm kiếm vai trò và người dùng ..."
+
+#: admin/apps/menu-creator/menu-creator.php:1351
+msgid "Custom Items"
+msgstr "Mục tùy chỉnh"
+
+#: admin/apps/menu-creator/menu-creator.php:1355
+msgid "New Separator"
+msgstr "Dấu phân cách mới"
+
+#: admin/apps/menu-creator/menu-creator.php:1358
+msgid "New Custom Link"
+msgstr "Liên kết tùy chỉnh mới"
+
+#: admin/apps/menu-creator/menu-creator.php:1363
+msgid "Available Menu Items"
+msgstr "Các mục có sẵn trong menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1370
+msgid "Search menu items"
+msgstr "Tìm kiếm các mục trong menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1518
+msgid "Add some menu items from the left toolbar to get started"
+msgstr "Thêm một số mục menu từ thanh công cụ bên trái để bắt đầu"
+
+#: admin/apps/menu-creator/menu-creator.php:1537
+msgid "Separator"
+msgstr "Dấu phân cách"
+
+#: admin/apps/menu-creator/menu-creator.php:1642
+msgid "Edit Menu Item"
+msgstr "Chỉnh sửa mục menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1656
+#: admin/apps/menu-creator/menu-creator.php:1657
+msgid "Link"
+msgstr "Liên kết"
+
+#: admin/apps/menu-creator/menu-creator.php:1661
+msgid "Classes"
+msgstr "Các lớp học"
+
+#: admin/apps/menu-creator/menu-creator.php:1663
+msgid "Custom classes"
+msgstr "Các lớp tùy chỉnh"
+
+#: admin/apps/menu-creator/menu-creator.php:1667
+msgid "Opens in new tab?"
+msgstr "Mở trong tab mới?"
+
+#: admin/apps/menu-creator/menu-creator.php:1677
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: admin/apps/menu-creator/menu-creator.php:1702
+msgid "Back to all menus"
+msgstr "Quay lại tất cả các menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1727
+msgid "Import Menu"
+msgstr "Nhập Menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1736 admin/classes/settings.php:265
+msgid "Reset Settings"
+msgstr "Đặt lại cài đặt"
+
+#: admin/apps/overview/analytics.php:74
+msgid "Analytics account removed"
+msgstr "Tài khoản Analytics đã bị xóa"
+
+#: admin/apps/overview/analytics.php:93
+msgid "Unable to connect account"
+msgstr "Không thể kết nối tài khoản"
+
+#: admin/apps/overview/analytics.php:106
+msgid "Analytics account connected"
+msgstr "Tài khoản Analytics được kết nối"
+
+#: admin/apps/overview/analytics.php:310 admin/apps/overview/analytics.php:718
+#: admin/apps/overview/overview.php:761
+msgid "Site Users"
+msgstr "Người dùng trang web"
+
+#: admin/apps/overview/analytics.php:318 admin/apps/overview/overview.php:762
+msgid "Site Users (comparison period)"
+msgstr "Người dùng trang web (khoảng thời gian so sánh)"
+
+#: admin/apps/overview/analytics.php:383 admin/apps/overview/analytics.php:700
+#: admin/apps/overview/overview.php:759
+msgid "Page Views"
+msgstr "Số lượt xem trang"
+
+#: admin/apps/overview/analytics.php:391
+msgid "Page Views (comparison period)"
+msgstr "Số lần xem Trang (khoảng thời gian so sánh)"
+
+#: admin/apps/overview/analytics.php:608 admin/apps/overview/analytics.php:709
+msgid "Page Speed"
+msgstr "Tốc độ trang"
+
+#: admin/apps/overview/analytics.php:616
+msgid "Page Speed (comparison period)"
+msgstr "Tốc độ trang (khoảng thời gian so sánh)"
+
+#: admin/apps/overview/analytics.php:663 admin/apps/overview/analytics.php:703
+#: admin/apps/overview/analytics.php:712 admin/apps/overview/analytics.php:721
+#: admin/apps/overview/analytics.php:730 admin/apps/overview/analytics.php:739
+#: admin/apps/overview/analytics.php:748 admin/apps/overview/analytics.php:757
+#: admin/apps/overview/analytics.php:766 admin/apps/overview/analytics.php:775
+#: admin/apps/overview/analytics.php:784 admin/apps/overview/analytics.php:793
+#: admin/apps/overview/analytics.php:802 admin/apps/overview/analytics.php:811
+#: admin/apps/overview/analytics.php:820 admin/apps/overview/analytics.php:829
+#: admin/apps/overview/analytics.php:838 admin/apps/overview/analytics.php:847
+#: admin/apps/overview/analytics.php:856 admin/apps/overview/analytics.php:865
+#: admin/apps/overview/analytics.php:874 admin/apps/overview/analytics.php:883
+msgid "Analytics"
+msgstr "phân tích"
+
+#: admin/apps/overview/analytics.php:665
+msgid "Creates the google analytics cards for the overview page."
+msgstr "Tạo thẻ phân tích google cho trang tổng quan."
+
+#: admin/apps/overview/analytics.php:681
+msgid "Google Analytics disabled for"
+msgstr "Google Analytics bị vô hiệu hóa đối với"
+
+#: admin/apps/overview/analytics.php:682
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr ""
+"Phân tích sẽ bị vô hiệu hóa trên trang tổng quan đối với bất kỳ người dùng "
+"hoặc vai trò nào bạn chọn"
+
+#: admin/apps/overview/analytics.php:702
+msgid "Display website page views within the date range."
+msgstr "Hiển thị số lượt xem trang của trang web trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:711
+msgid "Display website page speed within the date range."
+msgstr "Hiển thị tốc độ trang web trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:720
+msgid "Display website users within the date range."
+msgstr "Hiển thị người dùng trang web trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:727
+msgid "Site visits by device"
+msgstr "Lượt truy cập trang web bằng thiết bị"
+
+#: admin/apps/overview/analytics.php:729
+msgid "Display site usage by device within the date range."
+msgstr "Hiển thị mức sử dụng trang web theo thiết bị trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:736 admin/apps/overview/overview.php:841
+msgid "Bounce Rate"
+msgstr "Tỷ lệ thoát"
+
+#: admin/apps/overview/analytics.php:738
+msgid "Display site bounce rate within the date range."
+msgstr "Hiển thị tỷ lệ thoát trang trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:745
+msgid "Session Duration"
+msgstr "Thời lượng phiên"
+
+#: admin/apps/overview/analytics.php:747
+msgid "Display site session duration within the date range."
+msgstr "Hiển thị thời lượng phiên của trang trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:754
+msgid "Visits by Country"
+msgstr "Lượt truy cập theo quốc gia"
+
+#: admin/apps/overview/analytics.php:756
+msgid "Displays country user data within the date range."
+msgstr "Hiển thị dữ liệu người dùng quốc gia trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:763
+msgid "Traffic Sources"
+msgstr "Nguồn lưu lượng"
+
+#: admin/apps/overview/analytics.php:765
+msgid "Displays traffic source info within the date range."
+msgstr "Hiển thị thông tin nguồn lưu lượng trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:772
+msgid "Visits By Page"
+msgstr "Lượt truy cập theo trang"
+
+#: admin/apps/overview/analytics.php:774
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr ""
+"Hiển thị lưu lượng truy cập cho các trang phổ biến nhất trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:781
+msgid "Event Count By Event Name"
+msgstr "Đếm sự kiện theo tên sự kiện"
+
+#: admin/apps/overview/analytics.php:783
+msgid "Display list of events within the date range."
+msgstr "Hiển thị danh sách các sự kiện trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:790
+msgid "Sessions by channel grouping"
+msgstr "Phiên theo nhóm kênh"
+
+#: admin/apps/overview/analytics.php:792
+msgid "Display sessions by channel grouping within the date range."
+msgstr "Hiển thị các phiên theo nhóm kênh trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:799
+msgid "User in the last 30 minutes"
+msgstr "Người dùng trong 30 phút qua"
+
+#: admin/apps/overview/analytics.php:801
+msgid "Displays active users from the last 30 minutes."
+msgstr "Hiển thị những người dùng đang hoạt động trong 30 phút qua."
+
+#: admin/apps/overview/analytics.php:808
+msgid "Engagement Rate"
+msgstr "Tỷ lệ tương tác"
+
+#: admin/apps/overview/analytics.php:810
+msgid "Displays average angagement rate for date range"
+msgstr "Hiển thị tốc độ góc trung bình cho phạm vi ngày"
+
+#: admin/apps/overview/analytics.php:817 admin/apps/overview/overview.php:783
+msgid "Site Revenue"
+msgstr "Doanh thu từ trang web"
+
+#: admin/apps/overview/analytics.php:819
+msgid ""
+"Displays site revenue for date range. The sum of revenue from purchases, "
+"subscriptions, and advertising."
+msgstr ""
+"Hiển thị doanh thu trang web cho phạm vi ngày. Tổng doanh thu từ mua hàng, "
+"đăng ký và quảng cáo."
+
+#: admin/apps/overview/analytics.php:826
+msgid "New vs Returning Users"
+msgstr "Người dùng mới so với Người dùng cũ"
+
+#: admin/apps/overview/analytics.php:828
+msgid "Displays new vs returning users for the date range."
+msgstr "Hiển thị người dùng mới và người dùng cũ trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:835
+msgid "Top Cities"
+msgstr "Các thành phố hàng đầu"
+
+#: admin/apps/overview/analytics.php:837
+msgid "Displays page views by city for the date range."
+msgstr "Hiển thị số lần xem trang theo thành phố trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:844 admin/apps/overview/overview.php:785
+msgid "Ecommerce Overview"
+msgstr "Tổng quan về thương mại điện tử"
+
+#: admin/apps/overview/analytics.php:846
+msgid "Displays add to cart, checkout and purchase data for the date range."
+msgstr ""
+"Hiển thị dữ liệu thêm vào giỏ hàng, thanh toán và mua hàng cho phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:853 admin/apps/overview/overview.php:781
+#: admin/apps/overview/overview.php:782
+msgid "Conversion Rate"
+msgstr "Tỷ lệ chuyển đổi"
+
+#: admin/apps/overview/analytics.php:855
+msgid ""
+"The percentage of active users who made their first purchase for the date "
+"range."
+msgstr ""
+"Phần trăm người dùng đang hoạt động đã thực hiện giao dịch mua hàng đầu tiên "
+"của họ trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:862
+msgid "Top Products"
+msgstr "Sản phẩm hàng đầu"
+
+#: admin/apps/overview/analytics.php:864
+msgid "Products with the most sales for for the date range."
+msgstr "Sản phẩm có doanh số bán hàng nhiều nhất trong phạm vi ngày."
+
+#: admin/apps/overview/analytics.php:871
+msgid "Conversions in the last 30 minutes"
+msgstr "Chuyển đổi trong 30 phút qua"
+
+#: admin/apps/overview/analytics.php:873
+msgid "Conversions logged in the last 30 minutes."
+msgstr "Chuyển đổi được ghi lại trong 30 phút qua."
+
+#: admin/apps/overview/analytics.php:880
+msgid "Page Views in the last 30 minutes"
+msgstr "Số lượt xem trang trong 30 phút qua"
+
+#: admin/apps/overview/analytics.php:882
+msgid "Page views in the last 30 minutes."
+msgstr "Số lượt xem trang trong 30 phút qua."
+
+#: admin/apps/overview/analytics.php:1013
+msgid "Unable to fetch analytics data at this moment. Please try again later"
+msgstr ""
+"Không thể tìm nạp dữ liệu phân tích tại thời điểm này. Vui lòng thử lại sau"
+
+#: admin/apps/overview/overview.php:106 admin/apps/overview/overview.php:1150
+msgid "Overview"
+msgstr "Tổng quan"
+
+#: admin/apps/overview/overview.php:107
+msgid "Creates the overview page."
+msgstr "Tạo trang tổng quan."
+
+#: admin/apps/overview/overview.php:111
+msgid "Disable Overview Page?"
+msgstr "Tắt Trang Tổng quan?"
+
+#: admin/apps/overview/overview.php:112
+msgid "Overview page will be hidden when this option is activated."
+msgstr "Trang tổng quan sẽ bị ẩn khi tùy chọn này được kích hoạt."
+
+#: admin/apps/overview/overview.php:119
+msgid "Overview Page Disabled For"
+msgstr "Trang tổng quan bị vô hiệu hóa cho"
+
+#: admin/apps/overview/overview.php:120
+msgid "Overview Page will be disabled for any users or roles you select"
+msgstr ""
+"Trang Tổng quan sẽ bị vô hiệu hóa đối với bất kỳ người dùng hoặc vai trò nào "
+"bạn chọn"
+
+#: admin/apps/overview/overview.php:128
+msgid "Who can edit the overview page?"
+msgstr "Ai có thể chỉnh sửa trang tổng quan?"
+
+#: admin/apps/overview/overview.php:129
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If none "
+"are chosen it will fall back to administrators only"
+msgstr ""
+"Bất kỳ vai trò hoặc người dùng nào được chọn ở đây sẽ có thể chỉnh sửa trang "
+"tổng quan. Nếu không có ai được chọn, nó sẽ chỉ dành cho quản trị viên"
+
+#: admin/apps/overview/overview.php:137
+msgid "Default report start date"
+msgstr "Ngày bắt đầu báo cáo mặc định"
+
+#: admin/apps/overview/overview.php:138
+msgid ""
+"By default the overview date range will start 7 days before current date. "
+"Add a number of days between 1 and 90 to change length of date range"
+msgstr ""
+"Theo mặc định, phạm vi ngày tổng quan sẽ bắt đầu 7 ngày trước ngày hiện tại. "
+"Thêm một số ngày từ 1 đến 90 để thay đổi độ dài của phạm vi ngày"
+
+#: admin/apps/overview/overview.php:146
+msgid "Default report end date offset"
+msgstr "Khoảng chênh lệch ngày kết thúc báo cáo mặc định"
+
+#: admin/apps/overview/overview.php:147
+msgid ""
+"By default the overview date range will end on the current day (0). To end "
+"the report on yesterday for example, enter 1"
+msgstr ""
+"Theo mặc định, phạm vi ngày tổng quan sẽ kết thúc vào ngày hiện tại (0). Ví "
+"dụ: để kết thúc báo cáo vào ngày hôm qua, hãy nhập 1"
+
+#: admin/apps/overview/overview.php:155
+msgid "Reporting Currency Symbol"
+msgstr "Báo cáo ký hiệu tiền tệ"
+
+#: admin/apps/overview/overview.php:156
+msgid ""
+"If you are using google analytics commerce reports, enter the currency "
+"symbol your reports are in here"
+msgstr ""
+"Nếu bạn đang sử dụng các báo cáo thương mại của google analytics, hãy nhập "
+"ký hiệu đơn vị tiền tệ mà báo cáo của bạn có tại đây"
+
+#: admin/apps/overview/overview.php:164
+msgid "Custom welcome message"
+msgstr "Tin nhắn chào mừng tùy chỉnh"
+
+#: admin/apps/overview/overview.php:165
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr ""
+"Thêm thông báo chào mừng tùy chỉnh tại đây để hiển thị trên trang tổng quan"
+
+#: admin/apps/overview/overview.php:243 admin/apps/overview/overview.php:384
+#: admin/apps/overview/woocommerce.php:158
+msgid "ago"
+msgstr "trước kia"
+
+#: admin/apps/overview/overview.php:259 admin/apps/overview/overview.php:447
+#: admin/apps/overview/woocommerce.php:183
+#: admin/apps/overview/woocommerce.php:265
+msgid "Posts fetched"
+msgstr "Đã tìm nạp bài đăng"
+
+#: admin/apps/overview/overview.php:267
+msgid "No posts posted during the date range."
+msgstr "Không có bài đăng nào được đăng trong phạm vi ngày."
+
+#: admin/apps/overview/overview.php:282
+msgid "Unable to save dash at this time"
+msgstr "Không thể lưu dấu gạch ngang vào lúc này"
+
+#: admin/apps/overview/overview.php:292
+msgid "Dashboard settings saved"
+msgstr "Đã lưu cài đặt trang tổng quan"
+
+#: admin/apps/overview/overview.php:307
+msgid "Dashboard settings reset"
+msgstr "Đặt lại cài đặt trang tổng quan"
+
+#: admin/apps/overview/overview.php:320 admin/apps/overview/overview.php:328
+msgid "Unable to load shortcode at this time"
+msgstr "Không thể tải mã ngắn vào lúc này"
+
+#: admin/apps/overview/overview.php:335
+msgid "Shortcode loaded"
+msgstr "Đã tải mã ngắn"
+
+#: admin/apps/overview/overview.php:454
+msgid "No comments during the date range."
+msgstr "Không có bình luận trong phạm vi ngày."
+
+#: admin/apps/overview/overview.php:477
+msgid "Core version"
+msgstr "Phiên bản cốt lõi"
+
+#: admin/apps/overview/overview.php:482
+msgid "PHP version"
+msgstr "Phiên bản PHP"
+
+#: admin/apps/overview/overview.php:487
+msgid "Active Plugins"
+msgstr "Các plugin hoạt động"
+
+#: admin/apps/overview/overview.php:492
+msgid "Inactive Plugins"
+msgstr "Plugin không hoạt động"
+
+#: admin/apps/overview/overview.php:497
+msgid "Installed Themes"
+msgstr "Chủ đề đã cài đặt"
+
+#: admin/apps/overview/overview.php:532
+msgid "Unable to fetch quote of the day"
+msgstr "Không thể tìm nạp báo giá trong ngày"
+
+#: admin/apps/overview/overview.php:570
+msgid "Passed Checks"
+msgstr "Séc đã vượt qua"
+
+#: admin/apps/overview/overview.php:578
+msgid "Recommended"
+msgstr "Khuyến khích"
+
+#: admin/apps/overview/overview.php:586
+msgid "Critical"
+msgstr "Phê bình"
+
+#: admin/apps/overview/overview.php:597
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "Hãy xem% d mục trên"
+
+#: admin/apps/overview/overview.php:598
+msgid "Site Health screen"
+msgstr "Màn hình tình trạng trang web"
+
+#: admin/apps/overview/overview.php:606
+msgid "Device Visits"
+msgstr "Lượt truy cập thiết bị"
+
+#: admin/apps/overview/overview.php:693
+msgid "Card width"
+msgstr "Chiều rộng thẻ"
+
+#: admin/apps/overview/overview.php:694
+msgid "Column width"
+msgstr "Chiều rộng cột"
+
+#: admin/apps/overview/overview.php:695
+msgid "Column settings"
+msgstr "Cài đặt cột"
+
+#: admin/apps/overview/overview.php:696
+msgid "Column Size"
+msgstr "Kích thước cột"
+
+#: admin/apps/overview/overview.php:697
+msgid "Remove Card"
+msgstr "Xóa thẻ"
+
+#: admin/apps/overview/overview.php:698 admin/apps/overview/overview.php:799
+msgid "Delete Column"
+msgstr "Xóa cột"
+
+#: admin/apps/overview/overview.php:699
+msgid "In the"
+msgstr "bên trong"
+
+#: admin/apps/overview/overview.php:700
+msgid "day range"
+msgstr "phạm vi ngày"
+
+#: admin/apps/overview/overview.php:701
+msgid "xxsmall (1/6)"
+msgstr "xxsmall (1/6)"
+
+#: admin/apps/overview/overview.php:702
+msgid "xsmall (1/5)"
+msgstr "xsmall (1/5)"
+
+#: admin/apps/overview/overview.php:703
+msgid "small (1/4)"
+msgstr "nhỏ (1/4)"
+
+#: admin/apps/overview/overview.php:704
+msgid "small medium (1/3)"
+msgstr "nhỏ vừa (1/3)"
+
+#: admin/apps/overview/overview.php:705
+msgid "medium (1/2)"
+msgstr "trung bình (1/2)"
+
+#: admin/apps/overview/overview.php:706
+msgid "medium large (2/3)"
+msgstr "vừa lớn (2/3)"
+
+#: admin/apps/overview/overview.php:707
+msgid "large (3/4)"
+msgstr "lớn (3/4)"
+
+#: admin/apps/overview/overview.php:708
+msgid "xlarge (1/1)"
+msgstr "xlarge (1/1)"
+
+#: admin/apps/overview/overview.php:709
+msgid "I am an empty column. Drag cards into me."
+msgstr "Tôi là một cột trống. Kéo thẻ vào tôi."
+
+#: admin/apps/overview/overview.php:710
+msgid "Column Added"
+msgstr "Đã thêm cột"
+
+#: admin/apps/overview/overview.php:711
+msgid "Add card"
+msgstr "Thêm thẻ"
+
+#: admin/apps/overview/overview.php:712
+msgid "Section added"
+msgstr "Đã thêm phần"
+
+#: admin/apps/overview/overview.php:713
+msgid "Search Cards"
+msgstr "Thẻ tìm kiếm"
+
+#: admin/apps/overview/overview.php:714
+msgid "Pro"
+msgstr "Chuyên nghiệp"
+
+#: admin/apps/overview/overview.php:716 admin/apps/overview/overview.php:922
+msgid "Shortcode"
+msgstr "Mã ngắn"
+
+#: admin/apps/overview/overview.php:717
+msgid "Video URL"
+msgstr "URL video"
+
+#: admin/apps/overview/overview.php:718
+msgid "Embed Type"
+msgstr "Loại nhúng"
+
+#: admin/apps/overview/overview.php:719
+msgid "UiPress Pro feature"
+msgstr "Tính năng UiPress Pro"
+
+#: admin/apps/overview/overview.php:720
+msgid "Upgrade to one of our premium plans to unlock this feature."
+msgstr ""
+"Nâng cấp lên một trong các gói cao cấp của chúng tôi để mở khóa tính năng "
+"này."
+
+#: admin/apps/overview/overview.php:721
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/apps/overview/overview.php:722
+msgid "Card Added"
+msgstr "Đã thêm thẻ"
+
+#: admin/apps/overview/overview.php:723
+msgid "Card Background colour"
+msgstr "Màu nền thẻ"
+
+#: admin/apps/overview/overview.php:724
+msgid "# Hex code only (#fff)"
+msgstr "# Chỉ mã hex (#fff)"
+
+#: admin/apps/overview/overview.php:725
+msgid "Use light color for text"
+msgstr "Sử dụng màu sáng cho văn bản"
+
+#: admin/apps/overview/overview.php:726
+msgid "Chart Type"
+msgstr "Loại biểu đồ"
+
+#: admin/apps/overview/overview.php:727
+msgid "Line Chart"
+msgstr "Biểu đồ đường"
+
+#: admin/apps/overview/overview.php:728
+msgid "Bar Chart"
+msgstr "Biểu đồ cột"
+
+#: admin/apps/overview/overview.php:729
+msgid "vs previous"
+msgstr "so với trước đó"
+
+#: admin/apps/overview/overview.php:730 admin/apps/overview/overview.php:829
+msgid "days"
+msgstr "ngày"
+
+#: admin/apps/overview/overview.php:731
+msgid "Doughnut"
+msgstr "Bánh vòng"
+
+#: admin/apps/overview/overview.php:732
+msgid "Polar Area"
+msgstr "Vùng cực"
+
+#: admin/apps/overview/overview.php:733
+msgid "Bar"
+msgstr "Quán ba"
+
+#: admin/apps/overview/overview.php:734 admin/apps/overview/overview.php:741
+msgid "Horizontal Bar"
+msgstr "Thanh ngang"
+
+#: admin/apps/overview/overview.php:735
+msgid "Country"
+msgstr "Quốc gia"
+
+#: admin/apps/overview/overview.php:736
+msgid "Visits"
+msgstr "Lượt truy cập"
+
+#: admin/apps/overview/overview.php:737
+msgid "Change"
+msgstr "Biến đổi"
+
+#: admin/apps/overview/overview.php:738
+msgid "No Background"
+msgstr "Không có nền"
+
+#: admin/apps/overview/overview.php:739
+msgid "Hide Map"
+msgstr "Ẩn bản đồ"
+
+#: admin/apps/overview/overview.php:740
+msgid "Connect your account to use this card"
+msgstr "Kết nối tài khoản của bạn để sử dụng thẻ này"
+
+#: admin/apps/overview/overview.php:742
+msgid "Hide Chart"
+msgstr "Ẩn biểu đồ"
+
+#: admin/apps/overview/overview.php:743
+msgid "Source"
+msgstr "Nguồn"
+
+#: admin/apps/overview/overview.php:744
+msgid "Page"
+msgstr "Trang"
+
+#: admin/apps/overview/overview.php:745
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: admin/apps/overview/overview.php:746
+msgid "Sold"
+msgstr "Đã bán"
+
+#: admin/apps/overview/overview.php:747
+msgid "Value"
+msgstr "Giá trị"
+
+#: admin/apps/overview/overview.php:748
+msgid "WooCommerce is required to use this card"
+msgstr "WooCommerce bắt buộc phải sử dụng thẻ này"
+
+#: admin/apps/overview/overview.php:749 admin/classes/uipress-app.php:1380
+msgid "Please select a valid JSON file"
+msgstr "Vui lòng chọn một tệp JSON hợp lệ"
+
+#: admin/apps/overview/overview.php:750 admin/classes/uipress-app.php:1381
+msgid "File is to big"
+msgstr "Tệp lớn"
+
+#: admin/apps/overview/overview.php:751
+msgid "Layout Imported"
+msgstr "Đã nhập bố cục"
+
+#: admin/apps/overview/overview.php:752
+msgid "Unable to import layout"
+msgstr "Không thể nhập bố cục"
+
+#: admin/apps/overview/overview.php:753
+msgid "Are you sure you want to clear the current layout? There is no undo."
+msgstr "Bạn có chắc chắn muốn xóa bố cục hiện tại không? Không có hoàn tác."
+
+#: admin/apps/overview/overview.php:754
+msgid "Available Cards"
+msgstr "Thẻ có sẵn"
+
+#: admin/apps/overview/overview.php:755
+msgid "Event Count"
+msgstr "Số sự kiện"
+
+#: admin/apps/overview/overview.php:756
+msgid "Event Name"
+msgstr "Tên sự kiện"
+
+#: admin/apps/overview/overview.php:757
+msgid "Channel"
+msgstr "Kênh truyền hình"
+
+#: admin/apps/overview/overview.php:758
+msgid "Sessions"
+msgstr "Phiên"
+
+#: admin/apps/overview/overview.php:760
+msgid "Page Views  (comparison period)"
+msgstr "Số lần xem Trang (khoảng thời gian so sánh)"
+
+#: admin/apps/overview/overview.php:763
+msgid "To"
+msgstr "Đến"
+
+#: admin/apps/overview/overview.php:764
+msgid "From"
+msgstr "Từ"
+
+#: admin/apps/overview/overview.php:765
+msgid "Date Range"
+msgstr "Phạm vi ngày"
+
+#: admin/apps/overview/overview.php:766
+msgid "Custom Comparison Dates"
+msgstr "Ngày so sánh tùy chỉnh"
+
+#: admin/apps/overview/overview.php:767
+msgid "Apply"
+msgstr "Ứng dụng"
+
+#: admin/apps/overview/overview.php:768
+msgid "vs"
+msgstr "vs"
+
+#: admin/apps/overview/overview.php:769
+msgid "Custom Range"
+msgstr "Phạm vi tùy chỉnh"
+
+#: admin/apps/overview/overview.php:770 admin/classes/uipress-app.php:1397
+msgid "Today"
+msgstr "Hôm nay"
+
+#: admin/apps/overview/overview.php:771 admin/classes/uipress-app.php:1398
+msgid "Yesterday"
+msgstr "Hôm qua"
+
+#: admin/apps/overview/overview.php:772
+msgid "Last 7 days"
+msgstr "7 ngày qua"
+
+#: admin/apps/overview/overview.php:773
+msgid "Last 30 days"
+msgstr "30 ngày trước"
+
+#: admin/apps/overview/overview.php:774
+msgid "Last 60 days"
+msgstr "60 ngày qua"
+
+#: admin/apps/overview/overview.php:775
+msgid "Last 90 days"
+msgstr "90 ngày qua"
+
+#: admin/apps/overview/overview.php:776 admin/classes/uipress-app.php:1395
+msgid "This Month"
+msgstr "Tháng này"
+
+#: admin/apps/overview/overview.php:777 admin/classes/uipress-app.php:1396
+msgid "Last Month"
+msgstr "Tháng trước"
+
+#: admin/apps/overview/overview.php:778
+msgid "Purchases"
+msgstr "Mua hàng"
+
+#: admin/apps/overview/overview.php:779
+msgid "Added to cart"
+msgstr "Đã thêm vào giỏ hàng"
+
+#: admin/apps/overview/overview.php:780
+msgid "Checkout started"
+msgstr "Thanh toán đã bắt đầu"
+
+#: admin/apps/overview/overview.php:784
+msgid "Site Revenue (comparison)"
+msgstr "Doanh thu từ trang web (so sánh)"
+
+#: admin/apps/overview/overview.php:786
+msgid "Visits By Device"
+msgstr "Lượt truy cập bằng thiết bị"
+
+#: admin/apps/overview/overview.php:787
+msgid "Device Category"
+msgstr "Danh mục thiết bị"
+
+#: admin/apps/overview/overview.php:788
+msgid "Active Users"
+msgstr "Người dùng đang hoạt động"
+
+#: admin/apps/overview/overview.php:789 admin/apps/overview/overview.php:791
+msgid "Product Name"
+msgstr "tên sản phẩm"
+
+#: admin/apps/overview/overview.php:790
+msgid "Sales"
+msgstr "Việc bán hàng"
+
+#: admin/apps/overview/overview.php:792
+msgid "Quantity Sold"
+msgstr "Số lượng bán"
+
+#: admin/apps/overview/overview.php:793 admin/apps/overview/overview.php:807
+msgid "Revenue"
+msgstr "Doanh thu"
+
+#: admin/apps/overview/overview.php:794
+msgid "Column Removed"
+msgstr "Đã xóa cột"
+
+#: admin/apps/overview/overview.php:795
+msgid "Section Removed"
+msgstr "Phần đã bị xóa"
+
+#: admin/apps/overview/overview.php:796
+msgid "View Plans"
+msgstr "Xem kế hoạch"
+
+#: admin/apps/overview/overview.php:797
+msgid "Unable to fetch analytics data, please try again later"
+msgstr "Không thể tìm nạp dữ liệu phân tích, vui lòng thử lại sau"
+
+#: admin/apps/overview/overview.php:798
+msgid "Column background colour"
+msgstr "Màu nền của cột"
+
+#: admin/apps/overview/overview.php:800
+msgid "Hide card title"
+msgstr "Ẩn tiêu đề thẻ"
+
+#: admin/apps/overview/overview.php:801 admin/apps/overview/overview.php:895
+msgid "Site Health"
+msgstr "Tình trạng trang web"
+
+#: admin/apps/overview/overview.php:802
+msgid "Conversions"
+msgstr "Chuyển đổi"
+
+#: admin/apps/overview/overview.php:803
+msgid "This card only works with google analytics 4 accounts"
+msgstr "Thẻ này chỉ hoạt động với tài khoản google analytics 4"
+
+#: admin/apps/overview/overview.php:804
+msgid "This card only works with universal analytics propeties."
+msgstr "Thẻ này chỉ hoạt động với các phương pháp phân tích phổ quát."
+
+#: admin/apps/overview/overview.php:805
+msgid "Orders"
+msgstr "Đơn hàng"
+
+#: admin/apps/overview/overview.php:806
+msgid "Orders (comparison period)."
+msgstr "Đơn đặt hàng (kỳ đối chiếu)."
+
+#: admin/apps/overview/overview.php:808
+msgid "Revenue (comparison period)."
+msgstr "Doanh thu (kỳ so sánh)."
+
+#: admin/apps/overview/overview.php:809
+msgid "Current Period"
+msgstr "Giai đoạn hiện tại"
+
+#: admin/apps/overview/overview.php:810
+msgid "Comparison Period"
+msgstr "Khoảng thời gian so sánh"
+
+#: admin/apps/overview/overview.php:811
+msgid "Match Card Height"
+msgstr "Chiều cao thẻ khớp"
+
+#: admin/apps/overview/overview.php:813
+msgid "What would you like to do?"
+msgstr "Bạn thích làm gì?"
+
+#: admin/apps/overview/overview.php:814
+msgid "To do"
+msgstr "Làm"
+
+#: admin/apps/overview/overview.php:815
+msgid "Done"
+msgstr "Xong"
+
+#: admin/apps/overview/overview.php:816
+msgid "Size"
+msgstr "Kích thước"
+
+#: admin/apps/overview/overview.php:817
+msgid "Background Colour"
+msgstr "Màu nền"
+
+#: admin/apps/overview/overview.php:818
+msgid "Custom CSS class"
+msgstr "Lớp CSS tùy chỉnh"
+
+#: admin/apps/overview/overview.php:819
+msgid "Add New Card"
+msgstr "Thêm thẻ mới"
+
+#: admin/apps/overview/overview.php:820 admin/apps/overview/overview.php:1249
+#: admin/classes/settings.php:78 admin/classes/settings.php:91
+#: admin/classes/settings.php:226 admin/classes/uipress-app.php:1406
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: admin/apps/overview/overview.php:821
+msgid "Card Settings"
+msgstr "Cài đặt thẻ"
+
+#: admin/apps/overview/overview.php:822
+msgid "Move Column Down"
+msgstr "Di chuyển cột xuống"
+
+#: admin/apps/overview/overview.php:823
+msgid "Move Column Up"
+msgstr "Di chuyển cột lên trên"
+
+#: admin/apps/overview/overview.php:824
+msgid "Add new column"
+msgstr "Thêm cột mới"
+
+#: admin/apps/overview/overview.php:825
+msgid "Section Settings"
+msgstr "Cài đặt phần"
+
+#: admin/apps/overview/overview.php:826
+msgid "Toggle section visibility"
+msgstr "Chuyển đổi chế độ hiển thị phần"
+
+#: admin/apps/overview/overview.php:827
+msgid "Page Settings"
+msgstr "Cài đặt trang"
+
+#: admin/apps/overview/overview.php:828
+msgid "In the last"
+msgstr "Cuối cùng"
+
+#: admin/apps/overview/overview.php:830 admin/apps/users/uip-users-ajax.php:662
+msgid "Something has gone wrong"
+msgstr "Có gì đó không ổn"
+
+#: admin/apps/overview/overview.php:831
+msgid "Connect your matomo site to use this card"
+msgstr "Kết nối trang web matomo của bạn để sử dụng thẻ này"
+
+#: admin/apps/overview/overview.php:832
+msgid "Connect Matomo Analytics"
+msgstr "Kết nối Matomo Analytics"
+
+#: admin/apps/overview/overview.php:833
+msgid "Auth Token"
+msgstr "Mã xác thực"
+
+#: admin/apps/overview/overview.php:834
+msgid "Matomo Url"
+msgstr "Matomo Url"
+
+#: admin/apps/overview/overview.php:835
+msgid "Matomo Site ID"
+msgstr "ID trang Matomo"
+
+#: admin/apps/overview/overview.php:837
+msgid "Click below to change matomo account"
+msgstr "Nhấp vào bên dưới để thay đổi tài khoản matomo"
+
+#: admin/apps/overview/overview.php:838
+msgid "Change account"
+msgstr "Thay đổi tài khoản"
+
+#: admin/apps/overview/overview.php:839
+msgid "City"
+msgstr "Thành phố"
+
+#: admin/apps/overview/overview.php:840
+msgid "Average Page Load"
+msgstr "Tải trang trung bình"
+
+#: admin/apps/overview/overview.php:842
+msgid "Exit Rate"
+msgstr "Tỷ lệ thoát"
+
+#: admin/apps/overview/overview.php:843
+msgid "Average Time On Page"
+msgstr "Thời gian trung bình trên trang"
+
+#: admin/apps/overview/overview.php:844
+msgid "Referer"
+msgstr "Người giới thiệu"
+
+#: admin/apps/overview/overview.php:845
+msgid "Section name"
+msgstr "Tên phần"
+
+#: admin/apps/overview/overview.php:846
+msgid "Section description"
+msgstr "Mô tả phần"
+
+#: admin/apps/overview/overview.php:868
+msgid "Recently Published"
+msgstr "Đã xuất bản gần đây"
+
+#: admin/apps/overview/overview.php:870
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr "Hiển thị các bài đăng, trang và CPT được xuất bản trong phạm vi ngày."
+
+#: admin/apps/overview/overview.php:871 admin/apps/overview/overview.php:880
+#: admin/apps/overview/overview.php:889 admin/apps/overview/overview.php:898
+#: admin/apps/overview/overview.php:907 admin/apps/overview/overview.php:916
+#: admin/apps/overview/overview.php:925 admin/apps/overview/overview.php:934
+#: admin/apps/overview/overview.php:943 admin/apps/overview/overview.php:952
+#: admin/classes/uipress-app.php:2526
+msgid "General"
+msgstr "Chung"
+
+#: admin/apps/overview/overview.php:877
+msgid "Recent Comments"
+msgstr "Những ý kiến gần đây"
+
+#: admin/apps/overview/overview.php:879
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr ""
+"Hiển thị tổng số nhận xét và nhận xét gần đây được xuất bản trong phạm vi "
+"ngày."
+
+#: admin/apps/overview/overview.php:886
+msgid "System Info"
+msgstr "Thông tin hệ thống"
+
+#: admin/apps/overview/overview.php:888
+msgid "Displays info our about your cms and server setup."
+msgstr ""
+"Hiển thị thông tin của chúng tôi về tin nhắn SMS và thiết lập máy chủ của "
+"bạn."
+
+#: admin/apps/overview/overview.php:897
+msgid "Displays info our about your sites health."
+msgstr "Hiển thị thông tin của chúng tôi về tình trạng trang web của bạn."
+
+#: admin/apps/overview/overview.php:906
+msgid "Displays current time and date"
+msgstr "Hiển thị ngày và giờ hiện tại"
+
+#: admin/apps/overview/overview.php:913
+msgid "Video"
+msgstr "Video"
+
+#: admin/apps/overview/overview.php:915
+msgid "Displays a custom video"
+msgstr "Hiển thị một video tùy chỉnh"
+
+#: admin/apps/overview/overview.php:924
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "Xuất một mã ngắn WordPress vào thẻ"
+
+#: admin/apps/overview/overview.php:931
+msgid "Custom HTML"
+msgstr "HTML tùy chỉnh"
+
+#: admin/apps/overview/overview.php:933
+msgid "Outputs custom HTML to the card"
+msgstr "Xuất HTML tùy chỉnh vào thẻ"
+
+#: admin/apps/overview/overview.php:940
+msgid "Quote of the day"
+msgstr "Trích dẫn trong ngày"
+
+#: admin/apps/overview/overview.php:942
+msgid "Shows a random quote of the day"
+msgstr "Hiển thị một trích dẫn ngẫu nhiên trong ngày"
+
+#: admin/apps/overview/overview.php:949
+msgid "To do list"
+msgstr "Những việc cần làm"
+
+#: admin/apps/overview/overview.php:951
+msgid "A simple todo list card"
+msgstr "Một thẻ danh sách việc cần làm đơn giản"
+
+#: admin/apps/overview/overview.php:1038
+msgid "Hello"
+msgstr "Xin chào"
+
+#: admin/apps/overview/overview.php:1187
+msgid "Clear Layout"
+msgstr "Bố cục rõ ràng"
+
+#: admin/apps/overview/overview.php:1191 admin/apps/overview/overview.php:1234
+msgid "New Section"
+msgstr "Phần mới"
+
+#: admin/apps/overview/overview.php:1196 admin/apps/overview/overview.php:1237
+msgid "Save changes"
+msgstr "Lưu thay đổi"
+
+#: admin/apps/overview/overview.php:1240
+msgid "Exit edit mode"
+msgstr "Thoát chế độ chỉnh sửa"
+
+#: admin/apps/overview/overview.php:1253
+msgid "Editing Mode"
+msgstr "Chế độ chỉnh sửa"
+
+#: admin/apps/overview/overview.php:1265
+msgid "Disconnect Analytics"
+msgstr "Ngắt kết nối Analytics"
+
+#: admin/apps/overview/overview.php:1275
+msgid "Export Layout"
+msgstr "Xuất bố cục"
+
+#: admin/apps/overview/overview.php:1284
+msgid "Import Layout"
+msgstr "Nhập bố cục"
+
+#: admin/apps/overview/overview.php:1298 admin/classes/settings.php:258
+#: admin/classes/styles.php:457
+msgid "Unlock Export and Import features with pro"
+msgstr "Mở khóa các tính năng Xuất và Nhập với chuyên nghiệp"
+
+#: admin/apps/overview/overview.php:1321
+msgid "Home"
+msgstr "Nhà"
+
+#: admin/apps/overview/overview.php:1369
+msgid "It's a little quiet around here"
+msgstr "Ở đây hơi yên tĩnh"
+
+#: admin/apps/overview/overview.php:1371
+msgid ""
+"Looks like you haven't created a dashboard yet. Enter edit mode to get "
+"started or import a default template"
+msgstr ""
+"Có vẻ như bạn chưa tạo trang tổng quan. Vào chế độ chỉnh sửa để bắt đầu hoặc "
+"nhập mẫu mặc định"
+
+#: admin/apps/overview/overview.php:1374
+msgid "Import default template"
+msgstr "Nhập mẫu mặc định"
+
+#: admin/apps/overview/overview.php:1375
+msgid "Enter edit mode"
+msgstr "Vào chế độ chỉnh sửa"
+
+#: admin/apps/overview/overview.php:1419
+msgid "Match Column Height"
+msgstr "Chiều cao cột đối sánh"
+
+#: admin/apps/overview/overview.php:1427
+msgid "Hide section title"
+msgstr "Ẩn tiêu đề phần"
+
+#: admin/apps/overview/overview.php:1435
+msgid "Section Width"
+msgstr "Chiều rộng phần"
+
+#: admin/apps/overview/overview.php:1452
+msgid "Remove Section"
+msgstr "Xóa phần"
+
+#: admin/apps/overview/woocommerce.php:46
+#: admin/apps/overview/woocommerce.php:125
+#: admin/apps/overview/woocommerce.php:203
+msgid "Woocommerce is required for this widget"
+msgstr "Woocommerce là bắt buộc đối với tiện ích này"
+
+#: admin/apps/overview/woocommerce.php:74
+msgid "Total Revenue"
+msgstr "Tổng doanh thu"
+
+#: admin/apps/overview/woocommerce.php:76
+msgid "Display total sales revenue in your store within the date range."
+msgstr ""
+"Hiển thị tổng doanh thu bán hàng tại cửa hàng của bạn trong phạm vi ngày."
+
+#: admin/apps/overview/woocommerce.php:77
+#: admin/apps/overview/woocommerce.php:86
+#: admin/apps/overview/woocommerce.php:95
+#: admin/apps/overview/woocommerce.php:104
+#: admin/apps/overview/woocommerce.php:113
+msgid "Commerce"
+msgstr "thương mại"
+
+#: admin/apps/overview/woocommerce.php:83
+msgid "Total Orders"
+msgstr "Tổng số đơn hàng"
+
+#: admin/apps/overview/woocommerce.php:85
+msgid "Display total orders in your store within the date range."
+msgstr ""
+"Hiển thị tổng số đơn đặt hàng trong cửa hàng của bạn trong phạm vi ngày."
+
+#: admin/apps/overview/woocommerce.php:92
+msgid "Average Order Value"
+msgstr "Giá trị đặt hàng trung bình"
+
+#: admin/apps/overview/woocommerce.php:94
+msgid "Display average order value in your store within the date range."
+msgstr ""
+"Hiển thị giá trị đặt hàng trung bình trong cửa hàng của bạn trong phạm vi "
+"ngày."
+
+#: admin/apps/overview/woocommerce.php:101
+msgid "Recent Orders"
+msgstr "những đơn đặt hàng gần đây"
+
+#: admin/apps/overview/woocommerce.php:103
+msgid "Display recent orders from your store within the date range."
+msgstr ""
+"Hiển thị các đơn đặt hàng gần đây từ cửa hàng của bạn trong phạm vi ngày."
+
+#: admin/apps/overview/woocommerce.php:110
+msgid "Popular Products"
+msgstr "Sản phẩm phổ biến"
+
+#: admin/apps/overview/woocommerce.php:112
+msgid "Display top selling products from your store within the date range."
+msgstr ""
+"Hiển thị các sản phẩm bán chạy nhất từ cửa hàng của bạn trong phạm vi ngày."
+
+#: admin/apps/overview/woocommerce.php:191
+msgid "No orders during the date range."
+msgstr "Không có đơn đặt hàng trong phạm vi ngày."
+
+#: admin/apps/overview/woocommerce.php:272
+msgid "No products sold during the date range."
+msgstr "Không có sản phẩm nào được bán trong phạm vi ngày."
+
+#: admin/apps/users/uip-history.php:132
+msgid "Once every 1 minutes"
+msgstr "Cứ 1 phút một lần"
+
+#: admin/apps/users/uip-history.php:145
+msgctxt "post type general name"
+msgid "History"
+msgstr "Lịch sử"
+
+#: admin/apps/users/uip-history.php:146
+msgctxt "post type singular name"
+msgid "history"
+msgstr "lịch sử"
+
+#: admin/apps/users/uip-history.php:147
+msgctxt "admin menu"
+msgid "History"
+msgstr "Lịch sử"
+
+#: admin/apps/users/uip-history.php:148
+msgctxt "add new on admin bar"
+msgid "History"
+msgstr "Lịch sử"
+
+#: admin/apps/users/uip-history.php:149
+msgctxt "history"
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: admin/apps/users/uip-history.php:150
+msgid "Add New History"
+msgstr "Thêm lịch sử mới"
+
+#: admin/apps/users/uip-history.php:151
+msgid "New History"
+msgstr "Lịch sử mới"
+
+#: admin/apps/users/uip-history.php:152
+msgid "Edit History"
+msgstr "Chỉnh sửa lịch sử"
+
+#: admin/apps/users/uip-history.php:153
+msgid "View History"
+msgstr "Xem lịch sử"
+
+#: admin/apps/users/uip-history.php:154
+msgid "All History"
+msgstr "Tất cả lịch sử"
+
+#: admin/apps/users/uip-history.php:155
+msgid "Search History"
+msgstr "Lịch sử tìm kiếm"
+
+#: admin/apps/users/uip-history.php:156
+msgid "No History found."
+msgstr "Không tìm thấy Lịch sử."
+
+#: admin/apps/users/uip-history.php:157
+msgid "No History found in Trash."
+msgstr "Không tìm thấy Lịch sử trong Thùng rác."
+
+#: admin/apps/users/uip-user-groups.php:41
+msgctxt "post type general name"
+msgid "Group"
+msgstr "Tập đoàn"
+
+#: admin/apps/users/uip-user-groups.php:42
+msgctxt "post type singular name"
+msgid "Group"
+msgstr "Tập đoàn"
+
+#: admin/apps/users/uip-user-groups.php:43
+msgctxt "admin menu"
+msgid "Groups"
+msgstr "Các nhóm"
+
+#: admin/apps/users/uip-user-groups.php:44
+msgctxt "add new on admin bar"
+msgid "Group"
+msgstr "Tập đoàn"
+
+#: admin/apps/users/uip-user-groups.php:45
+msgctxt "Group"
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: admin/apps/users/uip-user-groups.php:46
+#: admin/apps/users/uip-user-groups.php:57
+msgid "Add New Group"
+msgstr "Thêm nhóm mới"
+
+#: admin/apps/users/uip-user-groups.php:47
+msgid "New Group"
+msgstr "Nhóm mới"
+
+#: admin/apps/users/uip-user-groups.php:48
+msgid "Edit Group"
+msgstr "Chỉnh sửa nhóm"
+
+#: admin/apps/users/uip-user-groups.php:49
+msgid "View Group"
+msgstr "Xem nhóm"
+
+#: admin/apps/users/uip-user-groups.php:50
+msgid "All Groups"
+msgstr "Tất cả các nhóm"
+
+#: admin/apps/users/uip-user-groups.php:51
+msgid "Search Groups"
+msgstr "Nhóm tìm kiếm"
+
+#: admin/apps/users/uip-user-groups.php:52
+msgid "No Groups found."
+msgstr "Không tìm thấy Nhóm nào."
+
+#: admin/apps/users/uip-user-groups.php:53
+msgid "No Groups found in Trash."
+msgstr "Không tìm thấy Nhóm nào trong Thùng rác."
+
+#: admin/apps/users/uip-user-groups.php:80
+msgid "No group to delete"
+msgstr "Không có nhóm nào để xóa"
+
+#: admin/apps/users/uip-user-groups.php:90
+msgid "Unable to delete the group"
+msgstr "Không thể xóa nhóm"
+
+#: admin/apps/users/uip-user-groups.php:147
+msgid "Group deleted"
+msgstr "Nhóm đã bị xóa"
+
+#: admin/apps/users/uip-user-groups.php:166
+msgid "Unable to move folder group itself"
+msgstr "Không thể tự di chuyển nhóm thư mục"
+
+#: admin/apps/users/uip-user-groups.php:180
+msgid "Unable to move group"
+msgstr "Không thể di chuyển nhóm"
+
+#: admin/apps/users/uip-user-groups.php:208
+msgid "Group moved"
+msgstr "Nhóm đã di chuyển"
+
+#: admin/apps/users/uip-user-groups.php:227
+msgid "No item to move"
+msgstr "Không có mục nào để di chuyển"
+
+#: admin/apps/users/uip-user-groups.php:241
+msgid "Item moved"
+msgstr "Mục đã chuyển"
+
+#: admin/apps/users/uip-user-groups.php:259
+msgid "No users to move"
+msgstr "Không có người dùng để di chuyển"
+
+#: admin/apps/users/uip-user-groups.php:277
+msgid "User moved"
+msgstr "Người dùng đã di chuyển"
+
+#: admin/apps/users/uip-user-groups.php:318
+msgid "Group updated"
+msgstr "Đã cập nhật nhóm"
+
+#: admin/apps/users/uip-user-groups.php:339 admin/classes/folders.php:557
+msgid "Title is required"
+msgstr "Tiêu đề là bắt buộc"
+
+#: admin/apps/users/uip-user-groups.php:345 admin/classes/folders.php:563
+msgid "Colour is required"
+msgstr "Màu sắc là bắt buộc"
+
+#: admin/apps/users/uip-user-groups.php:360
+msgid "Unable to create group"
+msgstr "Không thể tạo nhóm"
+
+#: admin/apps/users/uip-user-groups.php:372
+msgid "Group created"
+msgstr "Đã tạo nhóm"
+
+#: admin/apps/users/uip-users-ajax.php:415
+msgid "Unknown"
+msgstr "không xác định"
+
+#: admin/apps/users/uip-users-ajax.php:511
+#: admin/apps/users/uip-users-ajax.php:577
+msgid "You don't have sufficent priviledges to edit users"
+msgstr "Bạn không có đủ quyền riêng tư để chỉnh sửa người dùng"
+
+#: admin/apps/users/uip-users-ajax.php:517
+#: admin/apps/users/uip-users-ajax.php:1023
+msgid "Email is not valid"
+msgstr "Email không hợp lệ"
+
+#: admin/apps/users/uip-users-ajax.php:528
+#: admin/apps/users/uip-users-ajax.php:1016
+msgid "Email already exists"
+msgstr "Email đã tồn tại"
+
+#: admin/apps/users/uip-users-ajax.php:557
+#: admin/apps/users/uip-users-ajax.php:1069
+msgid "User saved"
+msgstr "Người dùng đã lưu"
+
+#: admin/apps/users/uip-users-ajax.php:583
+msgid "No users sent to update"
+msgstr "Không có người dùng nào được gửi để cập nhật"
+
+#: admin/apps/users/uip-users-ajax.php:589
+msgid "No roles sent to update"
+msgstr "Không có vai trò nào được gửi để cập nhật"
+
+#: admin/apps/users/uip-users-ajax.php:610
+msgid "User roles updated"
+msgstr "Đã cập nhật vai trò người dùng"
+
+#: admin/apps/users/uip-users-ajax.php:630
+#: admin/apps/users/uip-users-ajax.php:716
+#: admin/apps/users/uip-users-ajax.php:777
+#: admin/apps/users/uip-users-ajax.php:818
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr "Bạn không có đủ tư cách riêng để quản lý các vai trò"
+
+#: admin/apps/users/uip-users-ajax.php:636
+msgid "Original role name required"
+msgstr "Tên vai trò gốc bắt buộc"
+
+#: admin/apps/users/uip-users-ajax.php:642
+#: admin/apps/users/uip-users-ajax.php:722
+#: admin/apps/users/uip-users-ajax.php:783
+#: admin/apps/users/uip-users-ajax.php:836
+#: admin/apps/users/uip-users-ajax.php:879
+#: admin/apps/users/uip-users-ajax.php:885
+#: admin/apps/users/uip-users-ajax.php:944
+#: admin/apps/users/uip-users-ajax.php:950
+msgid "Role name is required"
+msgstr "Tên vai trò là bắt buộc"
+
+#: admin/apps/users/uip-users-ajax.php:667
+msgid "Role saved"
+msgstr "Đã lưu vai trò"
+
+#: admin/apps/users/uip-users-ajax.php:686
+msgid "You don't have sufficent priviledges to do this"
+msgstr "Bạn không có đủ tư nhân để làm điều này"
+
+#: admin/apps/users/uip-users-ajax.php:697
+msgid "User logged out everywhere"
+msgstr "Người dùng đã đăng xuất ở mọi nơi"
+
+#: admin/apps/users/uip-users-ajax.php:728
+msgid "Role label cannot contain spaces"
+msgstr "Nhãn vai trò không được chứa khoảng trắng"
+
+#: admin/apps/users/uip-users-ajax.php:734
+msgid "Role label is required"
+msgstr "Nhãn vai trò là bắt buộc"
+
+#: admin/apps/users/uip-users-ajax.php:753
+msgid "Unable to add role. Make sure role name is unique"
+msgstr "Không thể thêm vai trò. Đảm bảo tên vai trò là duy nhất"
+
+#: admin/apps/users/uip-users-ajax.php:758
+msgid "Role created"
+msgstr "Đã tạo vai trò"
+
+#: admin/apps/users/uip-users-ajax.php:792
+#: admin/apps/users/uip-users-ajax.php:843
+msgid "You can't delete a role that is currently assigned to yourself"
+msgstr "Bạn không thể xóa vai trò hiện được chỉ định cho mình"
+
+#: admin/apps/users/uip-users-ajax.php:799
+msgid "Role deleted"
+msgstr "Đã xóa vai trò"
+
+#: admin/apps/users/uip-users-ajax.php:824
+msgid "No roles to delete"
+msgstr "Không có vai trò nào để xóa"
+
+#: admin/apps/users/uip-users-ajax.php:852
+msgid "Roles deleted"
+msgstr "Các vai trò đã bị xóa"
+
+#: admin/apps/users/uip-users-ajax.php:873
+msgid "You don't have sufficent priviledges to add this capability"
+msgstr "Bạn không có đủ quyền riêng tư để thêm khả năng này"
+
+#: admin/apps/users/uip-users-ajax.php:891
+#: admin/apps/users/uip-users-ajax.php:956
+msgid "Role name cannot contain spaces"
+msgstr "Tên vai trò không được chứa khoảng trắng"
+
+#: admin/apps/users/uip-users-ajax.php:897
+msgid "Capability name cannot contain spaces"
+msgstr "Tên khả năng không được chứa khoảng trắng"
+
+#: admin/apps/users/uip-users-ajax.php:912
+msgid "Unable to add capability. Make sure role name is unique"
+msgstr "Không thể thêm khả năng. Đảm bảo rằng tên vai trò là duy nhất"
+
+#: admin/apps/users/uip-users-ajax.php:917
+msgid "Capability added"
+msgstr "Khả năng được thêm vào"
+
+#: admin/apps/users/uip-users-ajax.php:938
+msgid "You don't have sufficent priviledges to delete this capability"
+msgstr "Bạn không có đủ quyền riêng tư để xóa khả năng này"
+
+#: admin/apps/users/uip-users-ajax.php:971
+msgid "Unable to delete capability. Make sure role name is unique"
+msgstr "Không thể xóa khả năng. Đảm bảo tên vai trò là duy nhất"
+
+#: admin/apps/users/uip-users-ajax.php:976
+msgid "Capability deleted"
+msgstr "Khả năng bị xóa"
+
+#: admin/apps/users/uip-users-ajax.php:996
+msgid "You don't have sufficent priviledges to create users"
+msgstr "Bạn không có đủ quyền riêng tư để tạo người dùng"
+
+#: admin/apps/users/uip-users-ajax.php:1003
+msgid "Username already exists"
+msgstr "tên đăng kí đã được sử dụng"
+
+#: admin/apps/users/uip-users-ajax.php:1009
+msgid "Username is not valid"
+msgstr "Tên người dùng không hợp lệ"
+
+#: admin/apps/users/uip-users-ajax.php:1029
+msgid "Password is required"
+msgstr "Mật khẩu là bắt buộc"
+
+#: admin/apps/users/uip-users-ajax.php:1088
+#: admin/apps/users/uip-users-ajax.php:1127
+msgid "You don't have sufficent priviledges to edit this user"
+msgstr "Bạn không có đủ quyền riêng tư để chỉnh sửa người dùng này"
+
+#: admin/apps/users/uip-users-ajax.php:1097
+msgid "Password reset link sent"
+msgstr "Đã gửi liên kết đặt lại mật khẩu"
+
+#: admin/apps/users/uip-users-ajax.php:1101
+msgid "Unable to send password reset email at the moment"
+msgstr "Không thể gửi email đặt lại mật khẩu vào lúc này"
+
+#: admin/apps/users/uip-users-ajax.php:1121
+msgid "No users sent to reset passwords!"
+msgstr "Không có người dùng nào được gửi để đặt lại mật khẩu!"
+
+#: admin/apps/users/uip-users-ajax.php:1141
+msgid "Unable to send password reset email"
+msgstr "Không thể gửi email đặt lại mật khẩu"
+
+#: admin/apps/users/uip-users-ajax.php:1142
+#: admin/apps/users/uip-users-ajax.php:1315
+#: admin/apps/users/uip-users-ajax.php:1325
+#, php-format
+msgid "User ID: %s"
+msgstr "ID người dùng:% s"
+
+#: admin/apps/users/uip-users-ajax.php:1148
+msgid "Password reset links succesfully sent"
+msgstr "Đã gửi thành công liên kết đặt lại mật khẩu"
+
+#: admin/apps/users/uip-users-ajax.php:1173
+msgid "Subject is required"
+msgstr "Chủ đề là bắt buộc"
+
+#: admin/apps/users/uip-users-ajax.php:1179
+msgid "Reply to email is required"
+msgstr "Trả lời email là bắt buộc"
+
+#: admin/apps/users/uip-users-ajax.php:1185
+msgid "Message is required"
+msgstr "Tin nhắn là bắt buộc"
+
+#: admin/apps/users/uip-users-ajax.php:1200
+msgid "No email to send message to."
+msgstr "Không có email để gửi tin nhắn."
+
+#: admin/apps/users/uip-users-ajax.php:1232
+msgid "Unable to send mail at this time"
+msgstr "Không thể gửi thư vào lúc này"
+
+#: admin/apps/users/uip-users-ajax.php:1237
+msgid "Message sent"
+msgstr "Đã gửi tin nhắn"
+
+#: admin/apps/users/uip-users-ajax.php:1261
+msgid "You can't delete yourself!"
+msgstr "Bạn không thể xóa chính mình!"
+
+#: admin/apps/users/uip-users-ajax.php:1270
+msgid "User successfully deleted"
+msgstr "Người dùng đã được xóa thành công"
+
+#: admin/apps/users/uip-users-ajax.php:1274
+#: admin/apps/users/uip-users-ajax.php:1279
+#: admin/apps/users/uip-users-ajax.php:1305
+msgid "You don't have sufficent priviledges to delete this user"
+msgstr "Bạn không có đủ quyền riêng tư để xóa người dùng này"
+
+#: admin/apps/users/uip-users-ajax.php:1299
+msgid "No users sent to delete!"
+msgstr "Không có người dùng nào được gửi để xóa!"
+
+#: admin/apps/users/uip-users-ajax.php:1314
+msgid "You can't delete yourself"
+msgstr "Bạn không thể xóa chính mình"
+
+#: admin/apps/users/uip-users-ajax.php:1324
+msgid "Unable to delete this user"
+msgstr "Không thể xóa người dùng này"
+
+#: admin/apps/users/uip-users-ajax.php:1331
+msgid "Users successfully deleted"
+msgstr "Người dùng đã được xóa thành công"
+
+#: admin/apps/users/uip-users.php:53 admin/apps/users/uip-users.php:266
+#: admin/apps/users/uip-users.php:377 admin/apps/users/uip-users.php:1291
+msgid "Users"
+msgstr "Người dùng"
+
+#: admin/apps/users/uip-users.php:54
+msgid "Creates user management page"
+msgstr "Tạo trang quản lý người dùng"
+
+#: admin/apps/users/uip-users.php:58
+msgid "Disable Users Page?"
+msgstr "Vô hiệu hóa trang người dùng?"
+
+#: admin/apps/users/uip-users.php:59
+msgid ""
+"If disabled, the user management page will not be available to any users."
+msgstr ""
+"Nếu bị vô hiệu hóa, trang quản lý người dùng sẽ không khả dụng cho bất kỳ "
+"người dùng nào."
+
+#: admin/apps/users/uip-users.php:66
+msgid "User management page Disabled for"
+msgstr "Trang quản lý người dùng bị vô hiệu hóa đối với"
+
+#: admin/apps/users/uip-users.php:67
+msgid ""
+"When the user management page module is disabled, the user management page "
+"will not be accesible for the users / roles"
+msgstr ""
+"Khi mô-đun trang quản lý người dùng bị vô hiệu hóa, trang quản lý người dùng "
+"sẽ không thể cấp cho người dùng / vai trò"
+
+#: admin/apps/users/uip-users.php:75
+msgid "Enable user activity log?"
+msgstr "Bật nhật ký hoạt động của người dùng?"
+
+#: admin/apps/users/uip-users.php:76
+msgid ""
+"If enabled, uipress will log actions taken by all users, including page "
+"views, comments, post creation etc."
+msgstr ""
+"Nếu được bật, uipress sẽ ghi lại các hành động được thực hiện bởi tất cả "
+"người dùng, bao gồm lượt xem trang, nhận xét, tạo bài đăng, v.v."
+
+#: admin/apps/users/uip-users.php:84
+msgid "Disable page view logging"
+msgstr "Tắt ghi nhật ký lượt xem trang"
+
+#: admin/apps/users/uip-users.php:87
+#, php-format
+msgid ""
+"By Default, %s will track page views for logged in users as part of the "
+"activity log. While sometimes useful, this will have the biggest impact on "
+"the log size in the database. Disabling this feature will keep the log "
+"smaller."
+msgstr ""
+"Theo Mặc định,% s sẽ theo dõi lượt xem trang cho những người dùng đã đăng "
+"nhập như một phần của nhật ký hoạt động. Mặc dù đôi khi hữu ích, điều này sẽ "
+"có tác động lớn nhất đến kích thước nhật ký trong cơ sở dữ liệu. Tắt tính "
+"năng này sẽ giữ cho nhật ký nhỏ hơn."
+
+#: admin/apps/users/uip-users.php:99
+msgid "Enable recent page view logging"
+msgstr "Bật ghi nhật ký lượt xem trang gần đây"
+
+#: admin/apps/users/uip-users.php:100
+#, php-format
+msgid ""
+"Seperate to the main history log, %s will keep 5 recent page views in the "
+"user meta. This can have a small impact on the page load speed."
+msgstr ""
+"Tách đến nhật ký lịch sử chính,% s sẽ giữ 5 lần xem trang gần đây trong meta "
+"người dùng. Điều này có thể có tác động nhỏ đến tốc độ tải trang."
+
+#: admin/apps/users/uip-users.php:108
+msgid "How long to keep history?"
+msgstr "Giữ lịch sử trong bao lâu?"
+
+#: admin/apps/users/uip-users.php:109
+msgid ""
+"By default, activity items will be deleted after 60 days, enter the amount "
+"of days to keep items to change this"
+msgstr ""
+"Theo mặc định, các mục hoạt động sẽ bị xóa sau 60 ngày, hãy nhập số ngày giữ "
+"các mục để thay đổi điều này"
+
+#: admin/apps/users/uip-users.php:118
+msgid "Delay history entries?"
+msgstr "Trì hoãn mục lịch sử?"
+
+#: admin/apps/users/uip-users.php:120
+msgid ""
+"Use scheduled tasks to insert the history actions to avoid any extra page "
+"load speed. By default entries are added as they happen, with this enabled "
+"there will be delay of about 10 seconds before actions appear."
+msgstr ""
+"Sử dụng các tác vụ đã lên lịch để chèn các tác vụ lịch sử nhằm tránh tăng "
+"thêm tốc độ tải trang. Theo mặc định, các mục nhập được thêm vào khi chúng "
+"xảy ra, với việc kích hoạt này, sẽ có độ trễ khoảng 10 giây trước khi các "
+"hành động xuất hiện."
+
+#: admin/apps/users/uip-users.php:131
+msgid "Anonymize user IP addresses?"
+msgstr "Ẩn danh địa chỉ IP của người dùng?"
+
+#: admin/apps/users/uip-users.php:132
+msgid ""
+"Each history item logs the users IP address, enable this to anonymize the "
+"address."
+msgstr ""
+"Mỗi mục lịch sử ghi lại địa chỉ IP của người dùng, cho phép điều này để ẩn "
+"danh địa chỉ."
+
+#: admin/apps/users/uip-users.php:217 admin/apps/users/uip-users.php:218
+msgid "User Management"
+msgstr "Quản lý người dùng"
+
+#: admin/apps/users/uip-users.php:270 admin/apps/users/uip-users.php:328
+#: admin/apps/users/uip-users.php:1244
+msgid "Roles"
+msgstr "Vai trò"
+
+#: admin/apps/users/uip-users.php:274
+msgid "Activity"
+msgstr "Hoạt động"
+
+#: admin/apps/users/uip-users.php:290
+msgid "results"
+msgstr "kết quả"
+
+#: admin/apps/users/uip-users.php:291 admin/apps/users/uip-users.php:316
+msgid "Previous"
+msgstr "Trước"
+
+#: admin/apps/users/uip-users.php:292 admin/apps/users/uip-users.php:315
+msgid "Next"
+msgstr "Tiếp theo"
+
+#: admin/apps/users/uip-users.php:293
+msgid "Search users"
+msgstr "Tìm kiếm người dùng"
+
+#: admin/apps/users/uip-users.php:294
+msgid "Filter by role"
+msgstr "Lọc theo vai trò"
+
+#: admin/apps/users/uip-users.php:295
+msgid "Search roles"
+msgstr "Tìm kiếm vai trò"
+
+#: admin/apps/users/uip-users.php:296
+msgid "Table options"
+msgstr "Tùy chọn bảng"
+
+#: admin/apps/users/uip-users.php:297
+msgid "Order"
+msgstr "Gọi món"
+
+#: admin/apps/users/uip-users.php:298
+msgid "Ascending"
+msgstr "Tăng dần"
+
+#: admin/apps/users/uip-users.php:299
+msgid "Descending"
+msgstr "Giảm dần"
+
+#: admin/apps/users/uip-users.php:300
+msgid "Sort By"
+msgstr "Sắp xếp theo"
+
+#: admin/apps/users/uip-users.php:301
+msgid "Per page"
+msgstr "Trên một trang"
+
+#: admin/apps/users/uip-users.php:302
+msgid "Fields"
+msgstr "Lĩnh vực"
+
+#: admin/apps/users/uip-users.php:303
+msgid "Date created"
+msgstr "Ngày tạo"
+
+#: admin/apps/users/uip-users.php:304
+msgid "On"
+msgstr "Trên"
+
+#: admin/apps/users/uip-users.php:305
+msgid "After"
+msgstr "Sau"
+
+#: admin/apps/users/uip-users.php:306
+msgid "Before"
+msgstr "Trước"
+
+#: admin/apps/users/uip-users.php:307 admin/apps/users/uip-users.php:308
+msgid "Date filters"
+msgstr "Bộ lọc ngày"
+
+#: admin/apps/users/uip-users.php:310
+msgid "Account created"
+msgstr "Tài khoản đã được tạo"
+
+#: admin/apps/users/uip-users.php:312 admin/apps/users/uip-users.php:326
+#: admin/apps/users/uip-users.php:1219
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/apps/users/uip-users.php:313
+msgid "Recent page views"
+msgstr "Số lượt xem trang gần đây"
+
+#: admin/apps/users/uip-users.php:314
+msgid "Recent activity"
+msgstr "Hoạt động gần đây"
+
+#: admin/apps/users/uip-users.php:317
+msgid "Last login"
+msgstr "Lân đăng nhập cuôi"
+
+#: admin/apps/users/uip-users.php:318
+msgid "Login location"
+msgstr "Đăng nhập vị trí"
+
+#: admin/apps/users/uip-users.php:319
+msgid "No recent activity"
+msgstr "Không có hoạt động gần đây"
+
+#: admin/apps/users/uip-users.php:320
+msgid "Total posts"
+msgstr "Tổng số bài đăng"
+
+#: admin/apps/users/uip-users.php:321
+msgid "Total comments"
+msgstr "Tổng số nhận xét"
+
+#: admin/apps/users/uip-users.php:322
+msgid "User Options"
+msgstr "Tùy chọn người dùng"
+
+#: admin/apps/users/uip-users.php:323 admin/apps/users/uip-users.php:332
+msgid "Edit user"
+msgstr "Người dùng biên tập"
+
+#: admin/apps/users/uip-users.php:324
+msgid "First name"
+msgstr "Họ"
+
+#: admin/apps/users/uip-users.php:325
+msgid "Last name"
+msgstr "Họ"
+
+#: admin/apps/users/uip-users.php:327
+msgid "Assign roles"
+msgstr "Chỉ định vai trò"
+
+#: admin/apps/users/uip-users.php:329
+msgid "User notes"
+msgstr "Ghi chú của người dùng"
+
+#: admin/apps/users/uip-users.php:330
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: admin/apps/users/uip-users.php:331
+msgid "Update user"
+msgstr "Cập nhật người dùng"
+
+#: admin/apps/users/uip-users.php:333
+msgid "Send password reset"
+msgstr "Gửi đặt lại mật khẩu"
+
+#: admin/apps/users/uip-users.php:334 admin/apps/users/uip-users.php:342
+msgid "Send message"
+msgstr "Gửi tin nhắn"
+
+#: admin/apps/users/uip-users.php:335
+msgid "Delete user"
+msgstr "Xóa người dùng"
+
+#: admin/apps/users/uip-users.php:336
+msgid "Are you sure you want to delete this user?"
+msgstr "Bạn có chắc chắn muốn xóa người dùng này không?"
+
+#: admin/apps/users/uip-users.php:337
+msgid "Are you sure you want to the selected users?"
+msgstr "Bạn có chắc chắn muốn những người dùng đã chọn không?"
+
+#: admin/apps/users/uip-users.php:338
+msgid ""
+"Are you sure you want to send password reset links to the selected users?"
+msgstr ""
+"Bạn có chắc chắn muốn gửi liên kết đặt lại mật khẩu cho những người dùng đã "
+"chọn không?"
+
+#: admin/apps/users/uip-users.php:339
+msgid "Recipient"
+msgstr "Người nhận"
+
+#: admin/apps/users/uip-users.php:340
+msgid "Subject"
+msgstr "Môn học"
+
+#: admin/apps/users/uip-users.php:341
+msgid "Message"
+msgstr "Thông điệp"
+
+#: admin/apps/users/uip-users.php:343
+msgid "Reply to email"
+msgstr "Trả lời email"
+
+#: admin/apps/users/uip-users.php:344
+msgid "New user"
+msgstr "Người dùng mới"
+
+#: admin/apps/users/uip-users.php:345
+msgid "Save user"
+msgstr "Lưu người dùng"
+
+#: admin/apps/users/uip-users.php:346
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: admin/apps/users/uip-users.php:347 admin/apps/users/uip-users.php:1207
+msgid "Username"
+msgstr "tên tài khoản"
+
+#: admin/apps/users/uip-users.php:348 admin/apps/users/uip-users.php:1279
+msgid "Role name"
+msgstr "Tên vai trò"
+
+#: admin/apps/users/uip-users.php:349
+msgid "Edit role"
+msgstr "Chỉnh sửa vai trò"
+
+#: admin/apps/users/uip-users.php:350
+msgid "Save role"
+msgstr "Lưu vai trò"
+
+#: admin/apps/users/uip-users.php:351
+msgid "Capabilities"
+msgstr "Năng lực"
+
+#: admin/apps/users/uip-users.php:353
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"Bạn hiện đang chỉnh sửa vai trò quản trị viên. Đây thường là vai trò quan "
+"trọng nhất trên trang web, vì vậy hãy đảm bảo không loại bỏ các khả năng cần "
+"thiết."
+
+#: admin/apps/users/uip-users.php:356
+msgid "Delete role"
+msgstr "Xóa vai trò"
+
+#: admin/apps/users/uip-users.php:357
+msgid "Are you sure you want to delete this role?"
+msgstr "Bạn có chắc chắn muốn xóa vai trò này không?"
+
+#: admin/apps/users/uip-users.php:358
+msgid "Are you sure you want to delete these roles?"
+msgstr "Bạn có chắc chắn muốn xóa các vai trò này không?"
+
+#: admin/apps/users/uip-users.php:359
+msgid "Role options"
+msgstr "Tùy chọn vai trò"
+
+#: admin/apps/users/uip-users.php:360
+msgid "Clone"
+msgstr "Dòng vô tính"
+
+#: admin/apps/users/uip-users.php:361
+msgid "New role"
+msgstr "Vai trò mới"
+
+#: admin/apps/users/uip-users.php:362
+msgid "Role label"
+msgstr "Nhãn vai trò"
+
+#: admin/apps/users/uip-users.php:363
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+"Từ đơn, không có khoảng trắng. Cho phép dấu gạch dưới và dấu gạch ngang"
+
+#: admin/apps/users/uip-users.php:364
+msgid "copy"
+msgstr "sao chép"
+
+#: admin/apps/users/uip-users.php:365
+msgid "search roles"
+msgstr "vai trò tìm kiếm"
+
+#: admin/apps/users/uip-users.php:366
+msgid "Search history"
+msgstr "Lịch sử tìm kiếm"
+
+#: admin/apps/users/uip-users.php:367
+msgid "All actions"
+msgstr "Tất cả các hành động"
+
+#: admin/apps/users/uip-users.php:368
+msgid "Add custom capability (Single word, no spaces)"
+msgstr "Thêm khả năng tùy chỉnh (Từ đơn, không có khoảng trắng)"
+
+#: admin/apps/users/uip-users.php:369
+msgid "Add capability"
+msgstr "Thêm khả năng"
+
+#: admin/apps/users/uip-users.php:370
+msgid "roles selected"
+msgstr "vai trò đã chọn"
+
+#: admin/apps/users/uip-users.php:371
+msgid "Delete selected"
+msgstr "Xóa đã chọn"
+
+#: admin/apps/users/uip-users.php:372
+msgid "Deselect"
+msgstr "Bỏ chọn"
+
+#: admin/apps/users/uip-users.php:373
+msgid "Delete users"
+msgstr "Xóa người dùng"
+
+#: admin/apps/users/uip-users.php:374
+msgid "Clear selection"
+msgstr "Xóa lựa chọn"
+
+#: admin/apps/users/uip-users.php:375
+msgid "recipients"
+msgstr "người nhận"
+
+#: admin/apps/users/uip-users.php:376 admin/classes/uipress-app.php:1409
+msgid "users"
+msgstr "người dùng"
+
+#: admin/apps/users/uip-users.php:378
+msgid "Replace existing roles"
+msgstr "Thay thế các vai trò hiện có"
+
+#: admin/apps/users/uip-users.php:379
+msgid "Update roles"
+msgstr "Cập nhật vai trò"
+
+#: admin/apps/users/uip-users.php:380
+msgid "users selected"
+msgstr "người dùng đã chọn"
+
+#: admin/apps/users/uip-users.php:381
+msgid "Choose image"
+msgstr "Chọn hình ảnh"
+
+#: admin/apps/users/uip-users.php:382
+msgid "Profile image"
+msgstr "Hình ảnh hồ sơ cá nhân"
+
+#: admin/apps/users/uip-users.php:383 admin/apps/users/uip-users.php:387
+#: admin/apps/users/uip-users.php:1250
+msgid "Groups"
+msgstr "Các nhóm"
+
+#: admin/apps/users/uip-users.php:384
+msgid "All users"
+msgstr "Tất cả người sử dụng"
+
+#: admin/apps/users/uip-users.php:385
+msgid "No group"
+msgstr "Không có nhóm"
+
+#: admin/apps/users/uip-users.php:386
+msgid "No groups created yet."
+msgstr "Chưa có nhóm nào được tạo."
+
+#: admin/apps/users/uip-users.php:388
+msgid "New group"
+msgstr "Nhóm mới"
+
+#: admin/apps/users/uip-users.php:390
+msgid "Color"
+msgstr "Màu sắc"
+
+#: admin/apps/users/uip-users.php:391
+msgid "Create group"
+msgstr "Tạo nhóm"
+
+#: admin/apps/users/uip-users.php:392
+msgid "Group name"
+msgstr "Tên nhóm"
+
+#: admin/apps/users/uip-users.php:393
+msgid "Edit group"
+msgstr "Chỉnh sửa nhóm"
+
+#: admin/apps/users/uip-users.php:394
+msgid "Update group"
+msgstr "Cập nhật nhóm"
+
+#: admin/apps/users/uip-users.php:395
+msgid "Remove from group"
+msgstr "Loại bỏ khỏi nhóm"
+
+#: admin/apps/users/uip-users.php:396
+msgid "User groups"
+msgstr "Các nhóm người sử dụng"
+
+#: admin/apps/users/uip-users.php:397
+msgid "Assign groups"
+msgstr "Chỉ định nhóm"
+
+#: admin/apps/users/uip-users.php:398
+msgid "Search groups"
+msgstr "Tìm kiếm nhóm"
+
+#: admin/apps/users/uip-users.php:399
+msgid "Pro feature"
+msgstr "Tính năng chuyên nghiệp"
+
+#: admin/apps/users/uip-users.php:400
+msgid "Upgrade to UiPress Pro to unlock the user management and activity logs"
+msgstr ""
+"Nâng cấp lên UiPress Pro để mở khóa nhật ký hoạt động và quản lý người dùng"
+
+#: admin/apps/users/uip-users.php:401
+msgid "View Uipress Pro plans"
+msgstr "Xem các gói Uipress Pro"
+
+#: admin/apps/users/uip-users.php:402
+msgid "Group icon"
+msgstr "Biểu tượng nhóm"
+
+#: admin/apps/users/uip-users.php:403
+msgid "Logout everywhere else"
+msgstr "Đăng xuất ở mọi nơi khác"
+
+#: admin/apps/users/uip-users.php:404
+msgid "Open profile"
+msgstr "Mở hồ sơ"
+
+#: admin/apps/users/uip-users.php:405
+msgid ""
+"Are you sure you want to delete this capability? This will remove the "
+"capability sitewide. Please note not all capabilities can be deleted."
+msgstr ""
+"Bạn có chắc chắn muốn xóa khả năng này không? Điều này sẽ loại bỏ trang web "
+"khả năng. Xin lưu ý rằng không phải tất cả các khả năng đều có thể bị xóa."
+
+#: admin/apps/users/uip-users.php:517
+msgid "Read"
+msgstr "Đọc"
+
+#: admin/apps/users/uip-users.php:529
+msgid "Publish"
+msgstr "Công bố"
+
+#: admin/apps/users/uip-users.php:535 admin/classes/uipress-app.php:1335
+msgid "Create"
+msgstr "Tạo ra"
+
+#: admin/apps/users/uip-users.php:553
+msgid "Manage"
+msgstr "Quản lý"
+
+#: admin/apps/users/uip-users.php:565 admin/classes/settings.php:242
+#: admin/classes/styles.php:442
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: admin/apps/users/uip-users.php:571
+msgid "Custom"
+msgstr "Phong tục"
+
+#: admin/apps/users/uip-users.php:737
+msgid "User no longer exists"
+msgstr "Người dùng không còn tồn tại"
+
+#: admin/apps/users/uip-users.php:742 admin/apps/users/uip-users.php:1106
+#, php-format
+msgid "%s ago"
+msgstr "% s trước"
+
+#: admin/apps/users/uip-users.php:753 admin/apps/users/uip-users.php:1370
+msgid "Page view"
+msgstr "Lượt xem trang"
+
+#: admin/apps/users/uip-users.php:755
+msgid "Viewed page"
+msgstr "Trang đã xem"
+
+#: admin/apps/users/uip-users.php:764 admin/apps/users/uip-users.php:1374
+msgid "Post created"
+msgstr "Đã tạo bài đăng"
+
+#: admin/apps/users/uip-users.php:766
+msgid "Created post"
+msgstr "Đã tạo bài đăng"
+
+#: admin/apps/users/uip-users.php:769 admin/apps/users/uip-users.php:790
+#: admin/apps/users/uip-users.php:838
+msgid "View page"
+msgstr "Xem trang"
+
+#: admin/apps/users/uip-users.php:773 admin/apps/users/uip-users.php:794
+#: admin/apps/users/uip-users.php:811 admin/apps/users/uip-users.php:842
+msgid "Edit page"
+msgstr "Chỉnh sửa trang"
+
+#: admin/apps/users/uip-users.php:785
+msgid "Post modified"
+msgstr "Bài đã sửa đổi"
+
+#: admin/apps/users/uip-users.php:787
+msgid "Modified post"
+msgstr "Bài đã sửa đổi"
+
+#: admin/apps/users/uip-users.php:806
+msgid "Post moved to trash"
+msgstr "Đã chuyển bài đăng vào thùng rác"
+
+#: admin/apps/users/uip-users.php:808
+msgid "Moved post to trash"
+msgstr "Đã chuyển bài đăng vào thùng rác"
+
+#: admin/apps/users/uip-users.php:820 admin/apps/users/uip-users.php:1386
+msgid "Post deleted"
+msgstr "Bài đăng đã bị xóa"
+
+#: admin/apps/users/uip-users.php:822
+msgid "Deleted post"
+msgstr "Đã xóa bài đăng"
+
+#: admin/apps/users/uip-users.php:831 admin/apps/users/uip-users.php:1390
+msgid "Post status change"
+msgstr "Đăng thay đổi trạng thái"
+
+#: admin/apps/users/uip-users.php:834
+#, php-format
+msgid "Post status changed from %s to %s"
+msgstr "Trạng thái bài đăng đã thay đổi từ% s thành% s"
+
+#: admin/apps/users/uip-users.php:855
+msgid "Posted a comment"
+msgstr "Đã đăng một bình luận"
+
+#: admin/apps/users/uip-users.php:857
+msgid "Posted a comment on post"
+msgstr "Đã đăng bình luận về bài đăng"
+
+#: admin/apps/users/uip-users.php:868 admin/apps/users/uip-users.php:898
+msgid "View comment"
+msgstr "Xem bình luận"
+
+#: admin/apps/users/uip-users.php:872 admin/apps/users/uip-users.php:902
+msgid "Edit comment"
+msgstr "Chỉnh sửa bình luận"
+
+#: admin/apps/users/uip-users.php:884
+msgid "Trashed a comment"
+msgstr "Đã chuyển nhận xét vào thùng rác"
+
+#: admin/apps/users/uip-users.php:886
+msgid "Moved a comment to the trash"
+msgstr "Đã chuyển một nhận xét vào thùng rác"
+
+#: admin/apps/users/uip-users.php:912
+msgid "Deleted a comment"
+msgstr "Đã xóa một bình luận"
+
+#: admin/apps/users/uip-users.php:914
+msgid "Permanently deleted a comment"
+msgstr "Đã xóa vĩnh viễn một nhận xét"
+
+#: admin/apps/users/uip-users.php:920 admin/apps/users/uip-users.php:1403
+msgid "Plugin activated"
+msgstr "Đã kích hoạt plugin"
+
+#: admin/apps/users/uip-users.php:922
+#, php-format
+msgid "A plugin called %s was activated"
+msgstr "Một plugin có tên% s đã được kích hoạt"
+
+#: admin/apps/users/uip-users.php:928 admin/apps/users/uip-users.php:1407
+msgid "Plugin deactivated"
+msgstr "Đã vô hiệu hóa plugin"
+
+#: admin/apps/users/uip-users.php:930
+#, php-format
+msgid "A plugin called %s was deactivated"
+msgstr "Một plugin có tên% s đã bị vô hiệu hóa"
+
+#: admin/apps/users/uip-users.php:936
+msgid "User logged in"
+msgstr "Người dùng đã đăng nhập"
+
+#: admin/apps/users/uip-users.php:938
+#, php-format
+msgid "Logged in with ip address %s. Country: %s"
+msgstr "Đã đăng nhập bằng địa chỉ ip% s. Quốc gia:% s"
+
+#: admin/apps/users/uip-users.php:944
+msgid "User logged out"
+msgstr "Người dùng đã đăng xuất"
+
+#: admin/apps/users/uip-users.php:946
+#, php-format
+msgid "Logged out with ip address %s. Country: %s"
+msgstr "Đăng xuất bằng địa chỉ ip% s. Quốc gia:% s"
+
+#: admin/apps/users/uip-users.php:982 admin/apps/users/uip-users.php:988
+#: admin/apps/users/uip-users.php:1002
+msgid "Site option changed"
+msgstr "Tùy chọn trang web đã thay đổi"
+
+#: admin/apps/users/uip-users.php:984
+#, php-format
+msgid "Site option (%s) was changed from %s to %s"
+msgstr "Tùy chọn trang web (% s) đã được thay đổi từ% s thành% s"
+
+#: admin/apps/users/uip-users.php:990
+#, php-format
+msgid "Site option was changed. %s"
+msgstr "Tùy chọn trang web đã được thay đổi. %S"
+
+#: admin/apps/users/uip-users.php:1004
+#, php-format
+msgid "Site option (%s) was added with a value of (%s)"
+msgstr "Tùy chọn trang web (% s) đã được thêm vào với giá trị là (% s)"
+
+#: admin/apps/users/uip-users.php:1010
+msgid "Uploaded attachment"
+msgstr "Đã tải lên tệp đính kèm"
+
+#: admin/apps/users/uip-users.php:1012
+#, php-format
+msgid "Attachment called (%s) was uploaded to (%s). Attachment ID: %s"
+msgstr "Tệp đính kèm có tên (% s) đã được tải lên (% s). ID tệp đính kèm:% s"
+
+#: admin/apps/users/uip-users.php:1021
+msgid "View attachment"
+msgstr "Xem phần đính kèm"
+
+#: admin/apps/users/uip-users.php:1029
+msgid "Deleted attachment"
+msgstr "Đã xóa tệp đính kèm"
+
+#: admin/apps/users/uip-users.php:1031
+#, php-format
+msgid "Attachment called (%s) was deleted. Attachment ID: %s"
+msgstr "Tệp đính kèm có tên (% s) đã bị xóa. ID tệp đính kèm:% s"
+
+#: admin/apps/users/uip-users.php:1037 admin/apps/users/uip-users.php:1262
+#: admin/apps/users/uip-users.php:1435
+msgid "User created"
+msgstr "Người dùng đã tạo"
+
+#: admin/apps/users/uip-users.php:1039
+#, php-format
+msgid "New user created with username (%s) and email (%s)"
+msgstr "Người dùng mới được tạo bằng tên người dùng (% s) và email (% s)"
+
+#: admin/apps/users/uip-users.php:1045 admin/apps/users/uip-users.php:1439
+msgid "User deleted"
+msgstr "Người dùng đã bị xóa"
+
+#: admin/apps/users/uip-users.php:1047
+#, php-format
+msgid "A user with username (%s) and email (%s) was deleted"
+msgstr "Một người dùng có tên người dùng (% s) và email (% s) đã bị xóa"
+
+#: admin/apps/users/uip-users.php:1082 admin/apps/users/uip-users.php:1443
+msgid "User updated"
+msgstr "Người dùng đã cập nhật"
+
+#: admin/apps/users/uip-users.php:1084
+#, php-format
+msgid "A user with username (%s) and email (%s) was updated from (%s) to (%s)"
+msgstr ""
+"Một người dùng có tên người dùng (% s) và email (% s) đã được cập nhật từ (% "
+"s) thành (% s)"
+
+#: admin/apps/users/uip-users.php:1226
+msgid "First Name"
+msgstr "Họ"
+
+#: admin/apps/users/uip-users.php:1232
+msgid "Last Name"
+msgstr "Họ"
+
+#: admin/apps/users/uip-users.php:1238
+msgid "Last Login"
+msgstr "Lân đăng nhập cuôi"
+
+#: admin/apps/users/uip-users.php:1256
+msgid "User ID"
+msgstr "Tên người dùng"
+
+#: admin/apps/users/uip-users.php:1298
+msgid "Permissions granted"
+msgstr "Quyền được cấp"
+
+#: admin/apps/users/uip-users.php:1315
+msgid "ID"
+msgstr "TÔI"
+
+#: admin/apps/users/uip-users.php:1327
+msgid "IP Address"
+msgstr "Địa chỉ IP"
+
+#: admin/apps/users/uip-users.php:1340
+msgid "Time"
+msgstr "Thời gian"
+
+#: admin/apps/users/uip-users.php:1347
+msgid "Action"
+msgstr "Hoạt động"
+
+#: admin/apps/users/uip-users.php:1378
+msgid "Post updated"
+msgstr "Đã cập nhật bài đăng"
+
+#: admin/apps/users/uip-users.php:1382
+msgid "Post trashed"
+msgstr "Đăng vào thùng rác"
+
+#: admin/apps/users/uip-users.php:1394
+msgid "Trashed comment"
+msgstr "Nhận xét đã được chuyển vào thùng rác"
+
+#: admin/apps/users/uip-users.php:1398
+msgid "Deelete comment"
+msgstr "Xóa bình luận"
+
+#: admin/apps/users/uip-users.php:1411
+msgid "User login"
+msgstr "Đăng nhập người dùng"
+
+#: admin/apps/users/uip-users.php:1415
+msgid "User logout"
+msgstr "Người dùng đăng xuất"
+
+#: admin/apps/users/uip-users.php:1419
+msgid "Option change"
+msgstr "Thay đổi tùy chọn"
+
+#: admin/apps/users/uip-users.php:1423
+msgid "Site option added"
+msgstr "Đã thêm tùy chọn trang web"
+
+#: admin/apps/users/uip-users.php:1427
+msgid "Attachmnet uploaded"
+msgstr "Đã tải lên Attachmnet"
+
+#: admin/apps/users/uip-users.php:1431
+msgid "Attachmnet deleted"
+msgstr "Đã xóa Attachmnet"
+
+#: admin/classes/debug.php:133 admin/classes/debug.php:139
+#: admin/classes/debug.php:161
+msgid "Unable to register UiPress at this time"
+msgstr "Không thể đăng ký UiPress vào lúc này"
+
+#: admin/classes/debug.php:152
+msgid "UiPress succesfully activated"
+msgstr "UiPress được kích hoạt thành công"
+
+#: admin/classes/folders.php:112 admin/classes/uipress-app.php:453
+#: admin/classes/uipress-app.php:1367
+msgid "Folders"
+msgstr "Thư mục"
+
+#: admin/classes/folders.php:113
+msgid "Creates media folder system."
+msgstr "Tạo hệ thống thư mục phương tiện."
+
+#: admin/classes/folders.php:117
+msgid "Disable Folders?"
+msgstr "Tắt thư mục?"
+
+#: admin/classes/folders.php:118
+msgid "No media folders will be displayed when this option is activated."
+msgstr ""
+"Không có thư mục media nào sẽ được hiển thị khi tùy chọn này được kích hoạt."
+
+#: admin/classes/folders.php:125
+msgid "Folders Disabled For"
+msgstr "Thư mục bị vô hiệu hóa cho"
+
+#: admin/classes/folders.php:126
+#, php-format
+msgid "%s folders will be disabled for any users or roles you select"
+msgstr ""
+"Các thư mục% s sẽ bị vô hiệu hóa đối với bất kỳ người dùng hoặc vai trò nào "
+"bạn chọn"
+
+#: admin/classes/folders.php:134
+msgid "Enable folders for post types"
+msgstr "Bật các thư mục cho các loại bài đăng"
+
+#: admin/classes/folders.php:135
+#, php-format
+msgid "%s folders will be enabled post, page and custom post types you choose"
+msgstr ""
+"Các thư mục% s sẽ được bật các loại bài đăng, trang và bài đăng tùy chỉnh mà "
+"bạn chọn"
+
+#: admin/classes/folders.php:171
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "Hành động"
+
+#: admin/classes/folders.php:173
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "Thực đơn"
+
+#: admin/classes/folders.php:311
+msgid "No folder to delete"
+msgstr "Không có thư mục nào để xóa"
+
+#: admin/classes/folders.php:321
+msgid "Unable to delete the folder"
+msgstr "Không thể xóa thư mục"
+
+#: admin/classes/folders.php:372
+msgid "Folder deleted"
+msgstr "Thư mục đã bị xóa"
+
+#: admin/classes/folders.php:391
+msgid "Unable to move folder into itself"
+msgstr "Không thể di chuyển thư mục vào chính nó"
+
+#: admin/classes/folders.php:405
+msgid "Unable to move folder"
+msgstr "Không thể di chuyển thư mục"
+
+#: admin/classes/folders.php:433
+msgid "Folder moved"
+msgstr "Thư mục đã được di chuyển"
+
+#: admin/classes/folders.php:536
+msgid "Folder updated"
+msgstr "Đã cập nhật thư mục"
+
+#: admin/classes/folders.php:578
+msgid "Unable to create folder"
+msgstr "Không thể tạo thư mục"
+
+#: admin/classes/folders.php:589
+msgid "Folder created"
+msgstr "Thư mục đã được tạo"
+
+#: admin/classes/settings.php:144
+msgid "Unable to save user settings"
+msgstr "Không thể lưu cài đặt người dùng"
+
+#: admin/classes/settings.php:150 admin/classes/uipress-app.php:1358
+msgid "Settings saved"
+msgstr "Đã lưu cài đặt"
+
+#: admin/classes/settings.php:164
+msgid "Settings reset"
+msgstr "Đặt lại cài đặt"
+
+#: admin/classes/settings.php:209 admin/classes/styles.php:432
+msgid "Version"
+msgstr "Phiên bản"
+
+#: admin/classes/settings.php:230
+msgid "Save settings"
+msgstr "Lưu các thiết lập"
+
+#: admin/classes/settings.php:413
+msgid "No licence key provided"
+msgstr "Không có khóa cấp phép được cung cấp"
+
+#: admin/classes/settings.php:445
+msgid "Licence removed"
+msgstr "Giấy phép bị xóa"
+
+#: admin/classes/styles.php:138 admin/classes/styles.php:151
+#: admin/classes/styles.php:430
+msgid "Styles"
+msgstr "Phong cách"
+
+#: admin/classes/styles.php:213
+msgid "Unable to fetch themes at this moment. Please try again later"
+msgstr "Không thể tìm nạp chủ đề tại thời điểm này. Vui lòng thử lại sau"
+
+#: admin/classes/styles.php:247
+msgid "Unable to like theme at this moment. Please try again later"
+msgstr "Không thể thích chủ đề tại thời điểm này. Vui lòng thử lại sau"
+
+#: admin/classes/styles.php:266
+msgid "Unable to save styles"
+msgstr "Không thể lưu kiểu"
+
+#: admin/classes/styles.php:292
+msgid "Styles saved"
+msgstr "Đã lưu kiểu"
+
+#: admin/classes/styles.php:411
+msgid ""
+"Uipress styles isn't optimised for mobile devices. Switch to a larger screen "
+"to modify UiPress Styles"
+msgstr ""
+"Kiểu giải nén không được tối ưu hóa cho thiết bị di động. Chuyển sang màn "
+"hình lớn hơn để sửa đổi Kiểu UiPress"
+
+#: admin/classes/styles.php:469
+msgid "Clear All"
+msgstr "Quet sạch tât cả"
+
+#: admin/classes/styles.php:533
+msgid "Global"
+msgstr "Toàn cầu"
+
+#: admin/classes/styles.php:536
+msgid "Body Background"
+msgstr "Nền cơ thể"
+
+#: admin/classes/styles.php:547
+msgid "Default Background"
+msgstr "Nền mặc định"
+
+#: admin/classes/styles.php:558
+msgid "Muted Background"
+msgstr "Nền bị tắt tiếng"
+
+#: admin/classes/styles.php:569
+msgid "Muted Background Accent"
+msgstr "Dấu nền bị tắt tiếng"
+
+#: admin/classes/styles.php:580
+msgid "Primary Color"
+msgstr "Màu chính"
+
+#: admin/classes/styles.php:591
+msgid "Primary Color Wash"
+msgstr "Màu chính rửa"
+
+#: admin/classes/styles.php:602
+msgid "Primary Color Hover"
+msgstr "Di chuột màu chính"
+
+#: admin/classes/styles.php:613
+msgid "Secondary Color"
+msgstr "Màu thứ cấp"
+
+#: admin/classes/styles.php:624
+msgid "Secondary Color Hover"
+msgstr "Di chuột màu phụ"
+
+#: admin/classes/styles.php:635
+msgid "Font"
+msgstr "Nét chữ"
+
+#: admin/classes/styles.php:646
+msgid "Border Width"
+msgstr "Chiều rộng biên giới"
+
+#: admin/classes/styles.php:657
+msgid "Border Radius"
+msgstr "Bán kính đường viền"
+
+#: admin/classes/styles.php:668
+msgid "Border Colour"
+msgstr "Màu viền"
+
+#: admin/classes/styles.php:679
+msgid "Notification Background"
+msgstr "Nền thông báo"
+
+#: admin/classes/styles.php:696
+msgid "Base font size"
+msgstr "Kích thước phông chữ cơ sở"
+
+#: admin/classes/styles.php:707 admin/classes/styles.php:1008
+#: admin/classes/styles.php:1148
+msgid "Text Color"
+msgstr "Văn bản màu"
+
+#: admin/classes/styles.php:718
+msgid "Text Emphasis Color"
+msgstr "Màu nhấn mạnh văn bản"
+
+#: admin/classes/styles.php:729
+msgid "Text Muted Color"
+msgstr "Màu văn bản bị tắt tiếng"
+
+#: admin/classes/styles.php:745
+msgid "Buttons"
+msgstr "nút"
+
+#: admin/classes/styles.php:748
+msgid "Button Border Radius"
+msgstr "Bán kính đường viền nút"
+
+#: admin/classes/styles.php:760
+msgid "Button Border Width"
+msgstr "Chiều rộng đường viền nút"
+
+#: admin/classes/styles.php:772
+msgid "Default Button Border Colour"
+msgstr "Màu đường viền nút mặc định"
+
+#: admin/classes/styles.php:784
+msgid "Default Button Background Colour"
+msgstr "Màu nền của nút mặc định"
+
+#: admin/classes/styles.php:796
+msgid "Default Button Hover Background Colour"
+msgstr "Màu nền của nút di chuột mặc định"
+
+#: admin/classes/styles.php:808
+msgid "Default Button Text Colour"
+msgstr "Màu văn bản nút mặc định"
+
+#: admin/classes/styles.php:821
+msgid "Primary Button Border Colour"
+msgstr "Màu đường viền nút chính"
+
+#: admin/classes/styles.php:833
+msgid "Primary Button Background Colour"
+msgstr "Màu nền của nút chính"
+
+#: admin/classes/styles.php:845
+msgid "Primary Button Hover Background Colour"
+msgstr "Màu nền của nút di chuột chính"
+
+#: admin/classes/styles.php:857
+msgid "Primary Button Text Colour"
+msgstr "Màu văn bản của nút chính"
+
+#: admin/classes/styles.php:870
+msgid "Danger Button Border Colour"
+msgstr "Màu viền nút nguy hiểm"
+
+#: admin/classes/styles.php:882
+msgid "Danger Button Background Colour"
+msgstr "Màu nền của nút nguy hiểm"
+
+#: admin/classes/styles.php:894
+msgid "Danger Button Hover Background Colour"
+msgstr "Màu nền của nút di chuột nguy hiểm"
+
+#: admin/classes/styles.php:906
+msgid "Danger Button Text Colour"
+msgstr "Màu văn bản của nút nguy hiểm"
+
+#: admin/classes/styles.php:919
+msgid "Page Action Button Border Colour"
+msgstr "Màu đường viền của nút hành động trang"
+
+#: admin/classes/styles.php:931
+msgid "Page Action Button Background Colour"
+msgstr "Màu nền của nút hành động trang"
+
+#: admin/classes/styles.php:943
+msgid "Page Action Button Hover Background Colour"
+msgstr "Màu nền di chuột của nút hành động trang"
+
+#: admin/classes/styles.php:955
+msgid "Page Action Button Text Colour"
+msgstr "Màu văn bản của nút hành động trang"
+
+#: admin/classes/styles.php:973 admin/classes/uipress-app.php:2669
+msgid "Menu"
+msgstr "Thực đơn"
+
+#: admin/classes/styles.php:975
+msgid "Background Color"
+msgstr "Màu nền"
+
+#: admin/classes/styles.php:986 admin/classes/styles.php:1170
+msgid "Secondary background Color"
+msgstr "Màu nền phụ"
+
+#: admin/classes/styles.php:997
+msgid "Button Hover background Color"
+msgstr "Màu nền của nút Di chuột"
+
+#: admin/classes/styles.php:1019
+msgid "Active Text Color"
+msgstr "Màu văn bản hiện hoạt"
+
+#: admin/classes/styles.php:1030
+msgid "Active Top Level Item background colour"
+msgstr "Màu nền của mục cấp cao nhất đang hoạt động"
+
+#: admin/classes/styles.php:1041
+msgid "Search Input background colour"
+msgstr "Màu nền của Phương thức nhập tìm kiếm"
+
+#: admin/classes/styles.php:1052
+msgid "Search Input text colour"
+msgstr "Màu văn bản Nhập tìm kiếm"
+
+#: admin/classes/styles.php:1063
+msgid "Submenu Text Color"
+msgstr "Màu văn bản menu con"
+
+#: admin/classes/styles.php:1074
+msgid "Submenu Active Text Color"
+msgstr "Màu văn bản hoạt động của menu con"
+
+#: admin/classes/styles.php:1085
+msgid "Submenu Hover Text Color"
+msgstr "Màu văn bản di chuột của menu con"
+
+#: admin/classes/styles.php:1096
+msgid "Width"
+msgstr "Bề rộng"
+
+#: admin/classes/styles.php:1108
+msgid "Padding"
+msgstr "Đệm lót"
+
+#: admin/classes/styles.php:1120
+msgid "Logo Height"
+msgstr "Chiều cao logo"
+
+#: admin/classes/styles.php:1134 admin/classes/uipress-app.php:2773
+msgid "Toolbar"
+msgstr "Thanh công cụ"
+
+#: admin/classes/styles.php:1137
+msgid "Toolbar Background Color"
+msgstr "Màu nền của Thanh công cụ"
+
+#: admin/classes/styles.php:1159
+msgid "Link Hover Text Color"
+msgstr "Màu văn bản di chuột liên kết"
+
+#: admin/classes/styles.php:1183
+msgid "Cards"
+msgstr "thẻ"
+
+#: admin/classes/styles.php:1186 admin/classes/styles.php:1270
+msgid "Background color"
+msgstr "Màu nền"
+
+#: admin/classes/styles.php:1198
+msgid "Border color"
+msgstr "Màu viền"
+
+#: admin/classes/styles.php:1210
+msgid "Border radius"
+msgstr "Bán kính biên giới"
+
+#: admin/classes/styles.php:1222
+msgid "Shadow spread"
+msgstr "Bóng lan rộng"
+
+#: admin/classes/styles.php:1234
+msgid "Shadow blur"
+msgstr "Bóng mờ"
+
+#: admin/classes/styles.php:1246
+msgid "Shadow color"
+msgstr "Màu bóng"
+
+#: admin/classes/styles.php:1267 admin/classes/uipress-app.php:2944
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: admin/classes/uipress-app.php:268
+msgctxt "post type general name"
+msgid "Folder"
+msgstr "Thư mục"
+
+#: admin/classes/uipress-app.php:269
+msgctxt "post type singular name"
+msgid "folder"
+msgstr "thư mục"
+
+#: admin/classes/uipress-app.php:270
+msgctxt "admin menu"
+msgid "Folders"
+msgstr "Thư mục"
+
+#: admin/classes/uipress-app.php:271
+msgctxt "add new on admin bar"
+msgid "Folder"
+msgstr "Thư mục"
+
+#: admin/classes/uipress-app.php:272
+msgctxt "folder"
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: admin/classes/uipress-app.php:273 admin/classes/uipress-app.php:284
+msgid "Add New Folder"
+msgstr "Thêm thư mục mới"
+
+#: admin/classes/uipress-app.php:274 admin/classes/uipress-app.php:1368
+msgid "New Folder"
+msgstr "Thư mục mới"
+
+#: admin/classes/uipress-app.php:275 admin/classes/uipress-app.php:1372
+msgid "Edit Folder"
+msgstr "Chỉnh sửa thư mục"
+
+#: admin/classes/uipress-app.php:276
+msgid "View Folder"
+msgstr "Xem thư mục"
+
+#: admin/classes/uipress-app.php:277
+msgid "All Folders"
+msgstr "Tất cả các thư mục"
+
+#: admin/classes/uipress-app.php:278
+msgid "Search Folders"
+msgstr "Thư mục Tìm kiếm"
+
+#: admin/classes/uipress-app.php:279
+msgid "No Folders found."
+msgstr "Không tìm thấy thư mục nào."
+
+#: admin/classes/uipress-app.php:280
+msgid "No Folders found in Trash."
+msgstr "Không tìm thấy thư mục nào trong Thùng rác."
+
+#: admin/classes/uipress-app.php:1167
+msgid "active"
+msgstr "tích cực"
+
+#: admin/classes/uipress-app.php:1171
+msgid "inactive"
+msgstr "không hoạt động"
+
+#: admin/classes/uipress-app.php:1320
+msgid "Menu Preferences"
+msgstr "Tùy chọn menu"
+
+#: admin/classes/uipress-app.php:1321
+msgid "Hide search bar"
+msgstr "Ẩn thanh tìm kiếm"
+
+#: admin/classes/uipress-app.php:1322
+msgid "Hide Icons"
+msgstr "Ẩn các biểu tượng"
+
+#: admin/classes/uipress-app.php:1323
+msgid "Show submenu on hover"
+msgstr "Hiển thị menu con khi di chuột"
+
+#: admin/classes/uipress-app.php:1324
+msgid "Search Menu"
+msgstr "Menu Tìm kiếm"
+
+#: admin/classes/uipress-app.php:1326
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: admin/classes/uipress-app.php:1329
+msgid "Show more"
+msgstr "Cho xem nhiều hơn"
+
+#: admin/classes/uipress-app.php:1330
+msgid "other matches"
+msgstr "các trận đấu khác"
+
+#: admin/classes/uipress-app.php:1331 admin/classes/uipress-app.php:1359
+msgid "Nothing found"
+msgstr "Không tìm thấy thứ gì"
+
+#: admin/classes/uipress-app.php:1332 admin/classes/uipress-app.php:1337
+msgid "View Site"
+msgstr "Xem trang web"
+
+#: admin/classes/uipress-app.php:1333
+msgid "Dashboard"
+msgstr "bảng điều khiển"
+
+#: admin/classes/uipress-app.php:1334
+msgid "Search Site"
+msgstr "Tìm kiếm trang web"
+
+#: admin/classes/uipress-app.php:1336
+msgid "Create New"
+msgstr "Tạo mới"
+
+#: admin/classes/uipress-app.php:1338
+msgid "Updates"
+msgstr "Cập nhật"
+
+#: admin/classes/uipress-app.php:1339
+msgid "Preferences"
+msgstr "Sở thích"
+
+#: admin/classes/uipress-app.php:1340
+msgid "Dark mode"
+msgstr "Chế độ tối"
+
+#: admin/classes/uipress-app.php:1341
+msgid "Show screen options toggle"
+msgstr "Hiển thị tùy chọn màn hình chuyển đổi"
+
+#: admin/classes/uipress-app.php:1342
+msgid "Screen options"
+msgstr "Tùy chọn màn hình"
+
+#: admin/classes/uipress-app.php:1343
+msgid "Hide admin bar links (left)"
+msgstr "Ẩn liên kết thanh quản trị (bên trái)"
+
+#: admin/classes/uipress-app.php:1344
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: admin/classes/uipress-app.php:1345
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: admin/classes/uipress-app.php:1346
+msgid "Hide notification"
+msgstr "Ẩn thông báo"
+
+#: admin/classes/uipress-app.php:1347
+msgid "hidden notifications"
+msgstr "thông báo ẩn"
+
+#: admin/classes/uipress-app.php:1348
+msgid "show all"
+msgstr "hiển thị tất cả"
+
+#: admin/classes/uipress-app.php:1349
+msgid "Notifiction Hidden"
+msgstr "Thông báo bị ẩn"
+
+#: admin/classes/uipress-app.php:1350
+msgid "Toggle Menu"
+msgstr "Menu chuyển đổi"
+
+#: admin/classes/uipress-app.php:1351
+msgid "Choose users or roles"
+msgstr "Chọn người dùng hoặc vai trò"
+
+#: admin/classes/uipress-app.php:1352
+msgid "Search users and roles"
+msgstr "Tìm kiếm người dùng và vai trò"
+
+#: admin/classes/uipress-app.php:1353
+msgid "Choose Image"
+msgstr "Chọn hình ảnh"
+
+#: admin/classes/uipress-app.php:1354
+msgid "Choose Post Types"
+msgstr "Chọn loại bài đăng"
+
+#: admin/classes/uipress-app.php:1355 admin/classes/uipress-app.php:1356
+msgid "Searach Post Types"
+msgstr "Các loại bài đăng Searach"
+
+#: admin/classes/uipress-app.php:1360
+msgid "Default"
+msgstr "Mặc định"
+
+#: admin/classes/uipress-app.php:1361
+msgid "Add File"
+msgstr "Thêm tập tin"
+
+#: admin/classes/uipress-app.php:1362
+msgid "URL to file"
+msgstr "URL đến tệp"
+
+#: admin/classes/uipress-app.php:1363
+msgid "Remove"
+msgstr "Loại bỏ"
+
+#: admin/classes/uipress-app.php:1364
+msgid "All media"
+msgstr "Tất cả các kênh truyền thông"
+
+#: admin/classes/uipress-app.php:1366
+msgid "No folder"
+msgstr "Không có thư mục"
+
+#: admin/classes/uipress-app.php:1369
+msgid "Folder Name"
+msgstr "Tên thư mục"
+
+#: admin/classes/uipress-app.php:1370
+msgid "Colour"
+msgstr "Màu sắc"
+
+#: admin/classes/uipress-app.php:1374
+msgid "1 File"
+msgstr "1 tệp"
+
+#: admin/classes/uipress-app.php:1375
+msgid "files"
+msgstr "các tập tin"
+
+#: admin/classes/uipress-app.php:1376
+msgid "You haven't created a folder yet"
+msgstr "Bạn chưa tạo một thư mục"
+
+#: admin/classes/uipress-app.php:1377
+msgid "Remove from folder"
+msgstr "Xóa khỏi thư mục"
+
+#: admin/classes/uipress-app.php:1378
+msgid ""
+"Upgrade to pro to unlock the notification center. View, edit and organise "
+"all your plugin and theme notifications in one place"
+msgstr ""
+"Nâng cấp lên chuyên nghiệp để mở khóa trung tâm thông báo. Xem, chỉnh sửa và "
+"sắp xếp tất cả các thông báo plugin và chủ đề của bạn ở một nơi"
+
+#: admin/classes/uipress-app.php:1379
+msgid ""
+"Upgrade to pro to gain full control of search results and included post types"
+msgstr ""
+"Nâng cấp lên chuyên nghiệp để có toàn quyền kiểm soát kết quả tìm kiếm và "
+"các loại bài đăng được bao gồm"
+
+#: admin/classes/uipress-app.php:1382
+msgid "Styles Imported"
+msgstr "Kiểu dáng đã nhập"
+
+#: admin/classes/uipress-app.php:1383
+msgid "Settings Imported"
+msgstr "Đã nhập cài đặt"
+
+#: admin/classes/uipress-app.php:1384
+msgid "Remove Licence"
+msgstr "Xóa giấy phép"
+
+#: admin/classes/uipress-app.php:1385
+#, php-format
+msgid "%s Pro is active"
+msgstr "% s Pro đang hoạt động"
+
+#: admin/classes/uipress-app.php:1386
+#, php-format
+msgid "%s Pro"
+msgstr "% s Pro"
+
+#: admin/classes/uipress-app.php:1387
+msgid "Activate"
+msgstr "Hoạt động"
+
+#: admin/classes/uipress-app.php:1388
+msgid "Add a pro licence to unlock pro features."
+msgstr "Thêm giấy phép chuyên nghiệp để mở khóa các tính năng chuyên nghiệp."
+
+#: admin/classes/uipress-app.php:1389
+msgid "Choose Icon"
+msgstr "Chọn biểu tượng"
+
+#: admin/classes/uipress-app.php:1390
+msgid "Are you sure you want to delete this?"
+msgstr "Bạn có chắc chắn muốn xóa cái này không?"
+
+#: admin/classes/uipress-app.php:1391
+msgid "Import started"
+msgstr "Đã bắt đầu nhập"
+
+#: admin/classes/uipress-app.php:1392
+msgid "Are you sure you want to reset the settings?"
+msgstr "Bạn có chắc chắn muốn đặt lại cài đặt không?"
+
+#: admin/classes/uipress-app.php:1393
+msgid "Last 7 Days"
+msgstr "7 ngày qua"
+
+#: admin/classes/uipress-app.php:1394
+msgid "Last 30 Days"
+msgstr "30 ngày trước"
+
+#: admin/classes/uipress-app.php:1399
+msgid "selected"
+msgstr "đã chọn"
+
+#: admin/classes/uipress-app.php:1400
+msgid "Theme Library"
+msgstr "Thư viện chủ đề"
+
+#: admin/classes/uipress-app.php:1401
+msgid "Library"
+msgstr "Thư viện"
+
+#: admin/classes/uipress-app.php:1402
+msgid "Import Theme"
+msgstr "Nhập chủ đề"
+
+#: admin/classes/uipress-app.php:1403
+msgid "Pro template"
+msgstr "Mẫu chuyên nghiệp"
+
+#: admin/classes/uipress-app.php:1404
+msgid "Theme Imported"
+msgstr "Đã nhập chủ đề"
+
+#: admin/classes/uipress-app.php:1405
+msgid "Made by"
+msgstr "Được làm bởi"
+
+#: admin/classes/uipress-app.php:1407
+msgid "Failed to fetch folder content"
+msgstr "Không tìm nạp được nội dung thư mục"
+
+#: admin/classes/uipress-app.php:1408
+msgid "user"
+msgstr "người sử dụng"
+
+#: admin/classes/uipress-app.php:1850
+msgid "Unkown Post Type"
+msgstr "Loại bài đăng chưa gỡ xuống"
+
+#: admin/classes/uipress-app.php:1853
+msgid "Unkown"
+msgstr "Unkown"
+
+#: admin/classes/uipress-app.php:1991
+msgid "Core"
+msgstr "Cốt lõi"
+
+#: admin/classes/uipress-app.php:1997
+msgid "Themes"
+msgstr "Chủ đề"
+
+#: admin/classes/uipress-app.php:2003
+msgid "Plugins"
+msgstr "bổ sung"
+
+#: admin/classes/uipress-app.php:2527
+msgid "General options"
+msgstr "Các tùy chọn chung"
+
+#: admin/classes/uipress-app.php:2532
+msgid "Network Override"
+msgstr "Ghi đè mạng"
+
+#: admin/classes/uipress-app.php:2533
+msgid "If enabled, all settings applied here will be pushed to subsites."
+msgstr ""
+"Nếu được bật, tất cả các cài đặt được áp dụng ở đây sẽ được chuyển sang các "
+"trang con."
+
+#: admin/classes/uipress-app.php:2542
+msgid "Set Dark Mode as Default"
+msgstr "Đặt Chế độ tối làm Mặc định"
+
+#: admin/classes/uipress-app.php:2543
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr ""
+"Nếu được bật, chế độ tối sẽ mặc định thành true cho những người dùng chưa "
+"đặt tùy chọn."
+
+#: admin/classes/uipress-app.php:2551
+msgid "Set Dark Mode according to prefers color scheme"
+msgstr "Đặt Chế độ tối theo cách phối màu ưa thích"
+
+#: admin/classes/uipress-app.php:2552
+msgid "UiPress will detetct the OS color scheme and update accordingly"
+msgstr "UiPress sẽ phát hiện bảng màu hệ điều hành và cập nhật cho phù hợp"
+
+#: admin/classes/uipress-app.php:2560
+msgid "Disable dark mode"
+msgstr "Tắt chế độ tối"
+
+#: admin/classes/uipress-app.php:2561
+msgid "If enabled, dark mode switch will not be available."
+msgstr "Nếu được bật, chuyển chế độ tối sẽ không khả dụng."
+
+#: admin/classes/uipress-app.php:2569
+msgid "Set overview page as homepage"
+msgstr "Đặt trang tổng quan làm trang chủ"
+
+#: admin/classes/uipress-app.php:2570
+msgid ""
+"If enabled, the overview page will be the homepage when logging in and when "
+"accessing the admin area."
+msgstr ""
+"Nếu được bật, trang tổng quan sẽ là trang chủ khi đăng nhập và khi truy cập "
+"khu vực quản trị."
+
+#: admin/classes/uipress-app.php:2578
+msgid "Set custom page as homepage"
+msgstr "Đặt trang tùy chỉnh làm trang chủ"
+
+#: admin/classes/uipress-app.php:2580
+msgid ""
+"If enabled, the page you choose will be the homepage when logging in and "
+"when accessing the admin area. For admin pages use a relative URL (path "
+"after /wp-admin/), for other pages use an absolute URL"
+msgstr ""
+"Nếu được bật, trang bạn chọn sẽ là trang chủ khi đăng nhập và khi truy cập "
+"khu vực quản trị. Đối với các trang quản trị sử dụng URL tương đối (đường "
+"dẫn sau / wp-admin /), đối với các trang khác sử dụng URL tuyệt đối"
+
+#: admin/classes/uipress-app.php:2590
+#, php-format
+msgid "Rename %s"
+msgstr "Đổi tên% s"
+
+#: admin/classes/uipress-app.php:2591
+#, php-format
+msgid "White label %s by changing the name displayed."
+msgstr "Nhãn trắng% s bằng cách thay đổi tên hiển thị."
+
+#: admin/classes/uipress-app.php:2599
+#, php-format
+msgid "Rename %s plugin author"
+msgstr "Đổi tên tác giả plugin% s"
+
+#: admin/classes/uipress-app.php:2600
+#, php-format
+msgid "White label %s by changing the author in the plugin table."
+msgstr "Nhãn trắng% s bằng cách thay đổi tác giả trong bảng plugin."
+
+#: admin/classes/uipress-app.php:2608
+#, php-format
+msgid "Change %s plugin URL"
+msgstr "Thay đổi URL plugin% s"
+
+#: admin/classes/uipress-app.php:2609
+#, php-format
+msgid "White label %s by changing the plugin URL in the plugin table."
+msgstr "Nhãn trắng% s bằng cách thay đổi URL plugin trong bảng plugin."
+
+#: admin/classes/uipress-app.php:2617
+msgid "App Icon"
+msgstr "Biểu tượng ứng dụng"
+
+#: admin/classes/uipress-app.php:2618
+#, php-format
+msgid "Replace %s plugin icon with your own"
+msgstr "Thay thế biểu tượng plugin% s bằng biểu tượng của riêng bạn"
+
+#: admin/classes/uipress-app.php:2626
+msgid "Admin Favicon"
+msgstr "Yêu thích của quản trị viên"
+
+#: admin/classes/uipress-app.php:2627
+msgid "Add an image to be used as the site favicon for admin pages."
+msgstr ""
+"Thêm một hình ảnh được sử dụng làm biểu tượng yêu thích của trang web cho "
+"các trang quản trị."
+
+#: admin/classes/uipress-app.php:2635
+#, php-format
+msgid "Hide %s from plugin table"
+msgstr "Ẩn% s khỏi bảng plugin"
+
+#: admin/classes/uipress-app.php:2636
+#, php-format
+msgid "If enabled, %s will be hidden from the plugin table"
+msgstr "Nếu được bật,% s sẽ bị ẩn khỏi bảng plugin"
+
+#: admin/classes/uipress-app.php:2644
+msgid "Hide Footer"
+msgstr "Ẩn chân trang"
+
+#: admin/classes/uipress-app.php:2645
+msgid "Hide the footer text that shows at the bottom of every admin page"
+msgstr "Ẩn văn bản chân trang hiển thị ở cuối mỗi trang quản trị"
+
+#: admin/classes/uipress-app.php:2653
+msgid "Footer Text"
+msgstr "Văn bản chân trang"
+
+#: admin/classes/uipress-app.php:2654
+msgid "Text entered here will be present at the bottom of admin pages"
+msgstr "Văn bản được nhập ở đây sẽ hiển thị ở cuối trang quản trị"
+
+#: admin/classes/uipress-app.php:2670 admin/classes/uipress-app.php:2675
+msgid "Creates new admin menu."
+msgstr "Tạo menu quản trị mới."
+
+#: admin/classes/uipress-app.php:2674
+msgid "Disable Admin Menu Module"
+msgstr "Tắt mô-đun menu quản trị"
+
+#: admin/classes/uipress-app.php:2682
+msgid "Menu Disabled for"
+msgstr "Đã tắt menu cho"
+
+#: admin/classes/uipress-app.php:2683
+#, php-format
+msgid "%s menu will be disabled for any users or roles you select"
+msgstr ""
+"Menu% s sẽ bị vô hiệu hóa đối với bất kỳ người dùng hoặc vai trò nào bạn chọn"
+
+#: admin/classes/uipress-app.php:2691
+msgid "Logo Light Mode"
+msgstr "Chế độ ánh sáng biểu trưng"
+
+#: admin/classes/uipress-app.php:2692
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "Đặt biểu trưng cho thanh quản trị ở chế độ sáng."
+
+#: admin/classes/uipress-app.php:2699
+msgid "Logo Dark Mode"
+msgstr "Chế độ tối biểu trưng"
+
+#: admin/classes/uipress-app.php:2700
+msgid "Optional dark mode logo for admin bar."
+msgstr "Biểu trưng chế độ tối tùy chọn cho thanh quản trị."
+
+#: admin/classes/uipress-app.php:2707
+#, php-format
+msgid "Load %s Menu on front end"
+msgstr "Tải% s Menu trên giao diện người dùng"
+
+#: admin/classes/uipress-app.php:2708
+#, php-format
+msgid ""
+"If enabled, %s menu will load on the front end. Please note, this will not "
+"work on all themes and styling will vary"
+msgstr ""
+"Nếu được bật, menu% s sẽ tải trên giao diện người dùng. Xin lưu ý, điều này "
+"sẽ không hoạt động trên tất cả các chủ đề và kiểu dáng sẽ khác nhau"
+
+#: admin/classes/uipress-app.php:2716
+#, php-format
+msgid "Only Load %s Menu on front end for"
+msgstr "Chỉ tải% s Menu trên giao diện người dùng cho"
+
+#: admin/classes/uipress-app.php:2717
+msgid "Only load front end menu for selected roles and usernames"
+msgstr ""
+"Chỉ tải menu giao diện người dùng cho các vai trò và tên người dùng đã chọn"
+
+#: admin/classes/uipress-app.php:2725
+msgid "Collapsed Menu Logo Light Mode"
+msgstr "Chế độ ánh sáng biểu trưng của menu đã thu gọn"
+
+#: admin/classes/uipress-app.php:2726
+msgid "Optional logo for when the menu is collapsed."
+msgstr "Biểu trưng tùy chọn khi menu được thu gọn."
+
+#: admin/classes/uipress-app.php:2733
+msgid "Collapsed Menu Logo Dark Mode"
+msgstr "Chế độ tối biểu trưng menu đã thu gọn"
+
+#: admin/classes/uipress-app.php:2734
+msgid "Optional dark nmode logo for when the menu is collapsed."
+msgstr "Biểu trưng nmode tối tùy chọn cho khi menu được thu gọn."
+
+#: admin/classes/uipress-app.php:2741
+msgid "Show site title in menu"
+msgstr "Hiển thị tiêu đề trang web trong menu"
+
+#: admin/classes/uipress-app.php:2742
+msgid ""
+"If enabled, the site title will be displayed in the menu next to the logo"
+msgstr ""
+"Nếu được bật, tiêu đề trang web sẽ được hiển thị trong menu bên cạnh biểu "
+"trưng"
+
+#: admin/classes/uipress-app.php:2749 admin/classes/uipress-app.php:2811
+msgid "Disable Search"
+msgstr "Tắt tìm kiếm"
+
+#: admin/classes/uipress-app.php:2750
+msgid "Disables admin menu search."
+msgstr "Tắt tìm kiếm trong menu quản trị."
+
+#: admin/classes/uipress-app.php:2757
+msgid "Set collapsed menu as default"
+msgstr "Đặt menu thu gọn làm mặc định"
+
+#: admin/classes/uipress-app.php:2758
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"Nếu được bật, menu sẽ mặc định thành menu thu nhỏ cho người dùng chưa đặt "
+"tùy chọn .."
+
+#: admin/classes/uipress-app.php:2774
+msgid "Creates new admin toolbar."
+msgstr "Tạo thanh công cụ quản trị mới."
+
+#: admin/classes/uipress-app.php:2778
+msgid "Disable ToolBar Module?"
+msgstr "Tắt mô-đun ToolBar?"
+
+#: admin/classes/uipress-app.php:2779
+msgid ""
+"Creates new admin bar, adds user off canvas menu, builds global search and "
+"notification center."
+msgstr ""
+"Tạo thanh quản trị mới, thêm người dùng ngoài menu canvas, xây dựng trung "
+"tâm thông báo và tìm kiếm toàn cầu."
+
+#: admin/classes/uipress-app.php:2786
+msgid "Admin Bar Disabled For"
+msgstr "Thanh quản trị bị vô hiệu hóa cho"
+
+#: admin/classes/uipress-app.php:2787
+#, php-format
+msgid "%s toolbar module will be disabled for any users or roles you select"
+msgstr ""
+"% s mô-đun thanh công cụ sẽ bị vô hiệu hóa đối với bất kỳ người dùng hoặc "
+"vai trò nào bạn chọn"
+
+#: admin/classes/uipress-app.php:2795
+msgid "Hide admin bar links (left side)"
+msgstr "Ẩn liên kết thanh quản trị (bên trái)"
+
+#: admin/classes/uipress-app.php:2796
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"Tắt các liên kết kế thừa ở phía bên trái của thanh quản trị cho tất cả người "
+"dùng. Cũng ẩn sở thích của người dùng."
+
+#: admin/classes/uipress-app.php:2803
+msgid "Enable floating flyout toolbar"
+msgstr "Bật thanh công cụ bay nổi"
+
+#: admin/classes/uipress-app.php:2804
+msgid "Changes the toolbar to a floating flyout toolbar"
+msgstr "Thay đổi thanh công cụ thành thanh công cụ bay nổi"
+
+#: admin/classes/uipress-app.php:2812
+msgid "Disables search icon and global search function from admin bar."
+msgstr ""
+"Tắt biểu tượng tìm kiếm và chức năng tìm kiếm toàn cầu từ thanh quản trị."
+
+#: admin/classes/uipress-app.php:2819
+msgid "Disable Create Button"
+msgstr "Tắt nút tạo"
+
+#: admin/classes/uipress-app.php:2820
+msgid "Disables the 'create' button in the admin bar."
+msgstr "Tắt nút 'tạo' trong thanh quản trị."
+
+#: admin/classes/uipress-app.php:2827
+msgid "Open View Website in new tab"
+msgstr "Mở Xem trang web trong tab mới"
+
+#: admin/classes/uipress-app.php:2828
+msgid ""
+"When enabled, clicking on view website or the home button will open in a new "
+"browser tab"
+msgstr ""
+"Khi được bật, nhấp vào xem trang web hoặc nút trang chủ sẽ mở trong tab "
+"trình duyệt mới"
+
+#: admin/classes/uipress-app.php:2835
+msgid "Disable View Website Button"
+msgstr "Nút Tắt Xem Trang web"
+
+#: admin/classes/uipress-app.php:2836
+msgid "Disables the view website link button in the admin bar."
+msgstr "Tắt nút xem liên kết trang web trong thanh quản trị."
+
+#: admin/classes/uipress-app.php:2843
+#, php-format
+msgid "Load %s admin bar on front end"
+msgstr "Tải thanh quản trị% s trên giao diện người dùng"
+
+#: admin/classes/uipress-app.php:2844
+#, php-format
+msgid ""
+"If enabled, %s toolbar will load on the front end. Please note, this will "
+"not work on all themes and styling will vary"
+msgstr ""
+"Nếu được bật, thanh công cụ% s sẽ tải trên giao diện người dùng. Xin lưu ý, "
+"điều này sẽ không hoạt động trên tất cả các chủ đề và kiểu dáng sẽ khác nhau"
+
+#: admin/classes/uipress-app.php:2852
+msgid "Hide admin bar on front end"
+msgstr "Ẩn thanh quản trị trên giao diện người dùng"
+
+#: admin/classes/uipress-app.php:2853
+msgid "If enabled, front end admin bar will not load."
+msgstr "Nếu được bật, thanh quản trị giao diện người dùng sẽ không tải."
+
+#: admin/classes/uipress-app.php:2861
+msgid "Disable Notification Center"
+msgstr "Tắt Trung tâm Thông báo"
+
+#: admin/classes/uipress-app.php:2862
+msgid "If disabled, notifcations will show in the normal way"
+msgstr "Nếu bị vô hiệu hóa, thông báo sẽ hiển thị theo cách bình thường"
+
+#: admin/classes/uipress-app.php:2870
+msgid "Post Types available in Search"
+msgstr "Các loại bài đăng có sẵn trong Tìm kiếm"
+
+#: admin/classes/uipress-app.php:2871
+msgid "The global search will only search the selected post types."
+msgstr "Tìm kiếm toàn cầu sẽ chỉ tìm kiếm các loại bài đăng đã chọn."
+
+#: admin/classes/uipress-app.php:2879
+msgid "Post Types available in create button (new)"
+msgstr "Các loại bài đăng có sẵn trong nút tạo (mới)"
+
+#: admin/classes/uipress-app.php:2880
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr ""
+"Chỉ những loại bài đăng đã chọn mới hiển thị trong trình đơn thả xuống tạo."
+
+#: admin/classes/uipress-app.php:2888
+msgid "Only show notifications to"
+msgstr "Chỉ hiển thị thông báo cho"
+
+#: admin/classes/uipress-app.php:2889
+#, php-format
+msgid ""
+"%s will hide all notifications from all users except those selected below"
+msgstr ""
+"% s sẽ ẩn tất cả thông báo với tất cả người dùng ngoại trừ những người được "
+"chọn bên dưới"
+
+#: admin/classes/uipress-app.php:2897
+msgid "Only show updates to"
+msgstr "Chỉ hiển thị các bản cập nhật cho"
+
+#: admin/classes/uipress-app.php:2898
+#, php-format
+msgid "%s will hide all updates from all users except those selected below"
+msgstr ""
+"% s sẽ ẩn tất cả các cập nhật khỏi tất cả người dùng ngoại trừ những người "
+"được chọn bên dưới"
+
+#: admin/classes/uipress-app.php:2914
+msgid "Theme"
+msgstr "Chủ đề"
+
+#: admin/classes/uipress-app.php:2915 admin/classes/uipress-app.php:2945
+#: admin/classes/uipress-app.php:3000
+msgid "Styles page content."
+msgstr "Tạo kiểu nội dung trang."
+
+#: admin/classes/uipress-app.php:2919
+msgid "Disable Admin Theme Module"
+msgstr "Tắt mô-đun chủ đề quản trị viên"
+
+#: admin/classes/uipress-app.php:2920
+msgid "When the theme is disabled, pages will be styles in the original way."
+msgstr ""
+"Khi chủ đề bị vô hiệu hóa, các trang sẽ được tạo kiểu theo cách ban đầu."
+
+#: admin/classes/uipress-app.php:2927
+msgid "Theme Disabled for"
+msgstr "Chủ đề bị vô hiệu hóa cho"
+
+#: admin/classes/uipress-app.php:2928
+msgid ""
+"When the theme is disabled, pages will be styles in the original way for "
+"selected users or roles."
+msgstr ""
+"Khi chủ đề bị vô hiệu hóa, các trang sẽ được tạo kiểu theo cách ban đầu cho "
+"người dùng hoặc vai trò đã chọn."
+
+#: admin/classes/uipress-app.php:2949
+msgid "Disable Login Module"
+msgstr "Tắt mô-đun đăng nhập"
+
+#: admin/classes/uipress-app.php:2950
+msgid ""
+"When the login module is disabled, the login page will be displayed in the "
+"original way."
+msgstr ""
+"Khi mô-đun đăng nhập bị vô hiệu hóa, trang đăng nhập sẽ được hiển thị theo "
+"cách ban đầu."
+
+#: admin/classes/uipress-app.php:2958
+msgid "Dark Mode"
+msgstr "Chế độ tối"
+
+#: admin/classes/uipress-app.php:2959
+msgid "Puts the login page in dark mode for all users."
+msgstr "Đặt trang đăng nhập ở chế độ tối cho tất cả người dùng."
+
+#: admin/classes/uipress-app.php:2966
+msgid "Disable Language Selector"
+msgstr "Tắt bộ chọn ngôn ngữ"
+
+#: admin/classes/uipress-app.php:2967
+msgid "Removes the language selector added to the login page"
+msgstr "Xóa bộ chọn ngôn ngữ được thêm vào trang đăng nhập"
+
+#: admin/classes/uipress-app.php:2974
+msgid "Login Logo"
+msgstr "Logo đăng nhập"
+
+#: admin/classes/uipress-app.php:2975
+msgid "Sets the logo for the login page"
+msgstr "Đặt logo cho trang đăng nhập"
+
+#: admin/classes/uipress-app.php:2982
+msgid "Login Background"
+msgstr "Nền đăng nhập"
+
+#: admin/classes/uipress-app.php:2983
+msgid "Sets an optional background image on the login page."
+msgstr "Đặt hình nền tùy chọn trên trang đăng nhập."
+
+#: admin/classes/uipress-app.php:2999
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: admin/classes/uipress-app.php:3004
+msgid "Advanced Disabled For"
+msgstr "Đã tắt nâng cao cho"
+
+#: admin/classes/uipress-app.php:3005
+msgid "Code added here will not load for any users or roles you select"
+msgstr ""
+"Mã được thêm vào đây sẽ không tải cho bất kỳ người dùng hoặc vai trò nào bạn "
+"chọn"
+
+#: admin/classes/uipress-app.php:3013
+msgid "Enqueue scripts"
+msgstr "Enqueue script"
+
+#: admin/classes/uipress-app.php:3014
+msgid "Add scripts to the head of every admin page and login page"
+msgstr "Thêm tập lệnh vào phần đầu của mỗi trang quản trị và trang đăng nhập"
+
+#: admin/classes/uipress-app.php:3022
+msgid "Enqueue styles"
+msgstr "Enqueue phong cách"
+
+#: admin/classes/uipress-app.php:3023
+msgid "Add stylesheets to the head of every admin page and login page"
+msgstr "Thêm biểu định kiểu vào đầu của mỗi trang quản trị và trang đăng nhập"
+
+#: admin/classes/uipress-app.php:3031
+msgid "Admin CSS"
+msgstr "CSS quản trị"
+
+#: admin/classes/uipress-app.php:3032
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr ""
+"CSS được thêm vào đây sẽ được tải trên mọi trang quản trị cũng như trang "
+"đăng nhập"
+
+#: admin/classes/uipress-app.php:3041
+msgid "Admin JavaScript"
+msgstr "JavaScript quản trị"
+
+#: admin/classes/uipress-app.php:3042
+msgid ""
+"JavaScript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr ""
+"JavaScript được thêm vào đây sẽ được tải trên mọi trang quản trị cũng như "
+"trang đăng nhập"
+
+#: admin/classes/uipress-app.php:3051
+msgid "HTML for document head"
+msgstr "HTML cho đầu tài liệu"
+
+#: admin/classes/uipress-app.php:3052
+msgid ""
+"Add HTML here to be added to every admin page and login page head section"
+msgstr ""
+"Thêm HTML vào đây để được thêm vào mọi trang quản trị và phần đầu trang đăng "
+"nhập"
+
+#: admin/classes/uipress-app.php:3061
+msgid "Safe Mode Key"
+msgstr "Phím Chế độ An toàn"
+
+#: admin/classes/uipress-app.php:3063
+msgid ""
+"Add a private key to allow you to disable uipress on specific pages with "
+"query paramaters. For example, add '?no_uip=your_key' to a URL and it wil "
+"stop uipress from loading on that page."
+msgstr ""
+"Thêm khóa riêng tư để cho phép bạn vô hiệu hóa giải nén trên các trang cụ "
+"thể với tham số truy vấn. Ví dụ: thêm '? No_uip = your_key' vào một URL và "
+"nó sẽ ngăn uipress tải trên trang đó."
+
+#: admin/classes/update.php:66
+msgid "Welcome to UiPress version "
+msgstr "Chào mừng bạn đến với phiên bản UiPress"
+
+#: admin/classes/update.php:69 admin/classes/update.php:101
+msgid ""
+"Would you like to automatically import settings from your older version of "
+"uipress?"
+msgstr ""
+"Bạn có muốn tự động nhập cài đặt từ phiên bản uipress cũ hơn của mình không?"
+
+#: admin/classes/update.php:71
+msgid "Don't show again"
+msgstr "Không hiển thị lại"
+
+#: admin/classes/update.php:72 admin/classes/update.php:103
+msgid "Import settings"
+msgstr "Nhập cài đặt"
+
+#: admin/classes/update.php:115
+msgid "Check for updates"
+msgstr "Kiểm tra cập nhật"
+
+#: admin/classes/update.php:141
+msgid "Unable to contact update server"
+msgstr "Không thể liên hệ với máy chủ cập nhật"
+
+#: admin/classes/update.php:156
+msgid "Update available"
+msgstr "Cập nhật có sẵn"
+
+#: admin/classes/update.php:162
+msgid "No Updates available"
+msgstr "Không có bảng cập nhật có sẵn"
+
+#: admin/classes/update.php:180
+msgid "Message dismissed"
+msgstr "Đã loại bỏ tin nhắn"
+
+#: admin/classes/update.php:204
+msgid "No settings to import"
+msgstr "Không có cài đặt nào để nhập"
+
+#: admin/classes/update.php:350
+msgid "Settings imported"
+msgstr "Đã nhập cài đặt"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress"
+msgstr "UiPress"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress admin extension with a streamlined dashboard, Google "
+"Analytics & WooCommerce Integration, intuitive media library, dark mode and "
+"much more."
+msgstr ""
+"Tiện ích mở rộng quản trị WordPress mạnh mẽ với trang tổng quan được sắp xếp "
+"hợp lý, Tích hợp Google Analytics & WooCommerce, thư viện phương tiện trực "
+"quan, chế độ tối và hơn thế nữa."
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "Quản trị viên 2020"

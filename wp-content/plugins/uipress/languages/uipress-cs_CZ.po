@@ -1,0 +1,4808 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress\n"
+"POT-Creation-Date: 2022-06-12 12:06+0200\n"
+"PO-Revision-Date: 2022-06-15 09:57+0000\n"
+"Last-Translator: \n"
+"Language-Team: Čeština\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Team: Rubyvio https://rubyvio.com"
+"X-Poedit-Basepath: ..\n"
+"X-Translate-Version: beta; wp-6.0"
+"X-Human revision: yes-210622
+
+#: admin/apps/overview/overview.php:724
+msgid "# Hex code only (#fff)"
+msgstr "# Pouze hexadecimální kód (#fff)"
+
+#: admin/apps/users/uip-users.php:742 admin/apps/users/uip-users.php:1106
+#, php-format
+msgid "%s ago"
+msgstr "před %s"
+
+#: admin/classes/folders.php:126
+#, php-format
+msgid "%s folders will be disabled for any users or roles you select"
+msgstr ""
+"Složky %s budou zakázány pro všechny uživatele nebo role, které vyberete"
+
+#: admin/classes/folders.php:135
+#, php-format
+msgid "%s folders will be enabled post, page and custom post types you choose"
+msgstr ""
+"Pro složky %s budou povoleny typy příspěvků, stránek a vlastních příspěvků, "
+"které si vyberete"
+
+#: admin/apps/menu-creator/menu-creator.php:1044
+#, php-format
+msgid "%s Menu Creator"
+msgstr "%s Tvůrce menu"
+
+#: admin/classes/uipress-app.php:2683
+#, php-format
+msgid "%s menu will be disabled for any users or roles you select"
+msgstr ""
+"Nabídka %s bude deaktivována pro všechny uživatele nebo role, které vyberete"
+
+#: admin/classes/uipress-app.php:1386
+#, php-format
+msgid "%s Pro"
+msgstr "%s Pro"
+
+#: admin/classes/uipress-app.php:1385
+#, php-format
+msgid "%s Pro is active"
+msgstr "%s Pro je aktivní"
+
+#: admin/classes/uipress-app.php:2787
+#, php-format
+msgid "%s toolbar module will be disabled for any users or roles you select"
+msgstr ""
+"Modul panelu nástrojů %s bude deaktivován pro všechny uživatele nebo role, "
+"které vyberete"
+
+#: admin/classes/uipress-app.php:2889
+#, php-format
+msgid ""
+"%s will hide all notifications from all users except those selected below"
+msgstr ""
+"%s skryje všechna upozornění od všech uživatelů kromě těch, kteří jsou "
+"vybráni níže"
+
+#: admin/classes/uipress-app.php:2898
+#, php-format
+msgid "%s will hide all updates from all users except those selected below"
+msgstr "%s skryje všechny aktualizace od všech uživatelů kromě níže vybraných"
+
+#: admin/apps/menu-creator/menu-creator.php:826
+msgid "(copy)"
+msgstr "(kopírovat)"
+
+#: admin/classes/uipress-app.php:1374
+msgid "1 File"
+msgstr "1 Soubor"
+
+#: admin/apps/users/uip-users.php:922
+#, php-format
+msgid "A plugin called %s was activated"
+msgstr "Byl aktivován plugin s názvem %s"
+
+#: admin/apps/users/uip-users.php:930
+#, php-format
+msgid "A plugin called %s was deactivated"
+msgstr "Plugin s názvem %s byl deaktivován"
+
+#: admin/apps/overview/overview.php:951
+msgid "A simple todo list card"
+msgstr "Jednoduchá karta se seznamem úkolů"
+
+#: admin/apps/users/uip-users.php:1047
+#, php-format
+msgid "A user with username (%s) and email (%s) was deleted"
+msgstr "Uživatel s uživatelským jménem (%s) a e-mailem (%s) byl smazán"
+
+#: admin/apps/users/uip-users.php:1084
+#, php-format
+msgid "A user with username (%s) and email (%s) was updated from (%s) to (%s)"
+msgstr ""
+"Uživatel s uživatelským jménem (%s) a e-mailem (%s) byl aktualizován z (%s) "
+"na (%s)"
+
+#: admin/apps/users/uip-users.php:310
+msgid "Account created"
+msgstr "Účet založen"
+
+#: admin/apps/users/uip-users.php:1347
+msgid "Action"
+msgstr "Akce"
+
+#: admin/classes/uipress-app.php:1387
+msgid "Activate"
+msgstr "aktivovat"
+
+#: admin/classes/uipress-app.php:1167
+msgid "active"
+msgstr "aktivní"
+
+#: admin/apps/overview/overview.php:487
+msgid "Active Plugins"
+msgstr "Aktivní pluginy"
+
+#: admin/classes/styles.php:1019
+msgid "Active Text Color"
+msgstr "Barva aktivního textu"
+
+#: admin/classes/styles.php:1030
+msgid "Active Top Level Item background colour"
+msgstr "Barva pozadí aktivní položky nejvyšší úrovně"
+
+#: admin/apps/overview/overview.php:788
+msgid "Active Users"
+msgstr "Aktivní uživatelé"
+
+#: admin/apps/users/uip-users.php:274
+msgid "Activity"
+msgstr "Aktivita"
+
+#: admin/apps/content/content.php:1514 admin/apps/overview/overview.php:812
+msgid "Add"
+msgstr "Přidat"
+
+#: admin/apps/overview/overview.php:165
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr ""
+"Zde přidejte vlastní uvítací zprávu, která se zobrazí na stránce přehledu"
+
+#: admin/classes/uipress-app.php:3063
+msgid ""
+"Add a private key to allow you to disable uipress on specific pages with "
+"query paramaters. For example, add '?no_uip=your_key' to a URL and it wil "
+"stop uipress from loading on that page."
+msgstr ""
+"Přidejte soukromý klíč, který vám umožní zakázat uipress na konkrétních "
+"stránkách s parametry dotazu. Například přidejte '?no_uip=your_key' k URL a "
+"uipress to zastaví načítání na této stránce."
+
+#: admin/classes/uipress-app.php:1388
+msgid "Add a pro licence to unlock pro features."
+msgstr ""
+"Chcete-li odemknout profesionální funkce, přidejte profesionální licenci."
+
+#: admin/classes/uipress-app.php:2627
+msgid "Add an image to be used as the site favicon for admin pages."
+msgstr ""
+"Přidejte obrázek, který bude použit jako favicon webu pro stránky správce."
+
+#: admin/apps/users/uip-users.php:369
+msgid "Add capability"
+msgstr "Přidejte schopnosti"
+
+#: admin/apps/overview/overview.php:711
+msgid "Add card"
+msgstr "Přidat kartu"
+
+#: admin/apps/users/uip-users.php:368
+msgid "Add custom capability (Single word, no spaces)"
+msgstr "Přidat vlastní schopnost (jedno slovo, bez mezer)"
+
+#: admin/classes/uipress-app.php:1361
+msgid "Add File"
+msgstr "Přidat soubor"
+
+#: admin/classes/uipress-app.php:3052
+msgid ""
+"Add HTML here to be added to every admin page and login page head section"
+msgstr ""
+"Zde přidejte HTML, které se přidá na každou stránku správce a sekci záhlaví "
+"přihlašovací stránky"
+
+#: admin/apps/menu-creator/menu-creator.php:656
+msgid "Add New Admin Menu"
+msgstr "Přidat novou nabídku správce"
+
+#: admin/apps/admin-pages/admin-pages.php:325
+msgid "Add New Admin Page"
+msgstr "Přidat novou stránku správce"
+
+#: admin/apps/overview/overview.php:819
+msgid "Add New Card"
+msgstr "Přidat novou kartu"
+
+#: admin/apps/overview/overview.php:824
+msgid "Add new column"
+msgstr "Přidat nový sloupec"
+
+#: admin/classes/uipress-app.php:273 admin/classes/uipress-app.php:284
+msgid "Add New Folder"
+msgstr "Přidat novou složku"
+
+#: admin/apps/users/uip-user-groups.php:46
+#: admin/apps/users/uip-user-groups.php:57
+msgid "Add New Group"
+msgstr "Přidat novou skupinu"
+
+#: admin/apps/users/uip-history.php:150
+msgid "Add New History"
+msgstr "Přidat novou historii"
+
+#: admin/apps/menu-creator/menu-creator.php:654
+msgctxt "add new on admin bar"
+msgid "Admin Menu"
+msgstr "Nabídka správce"
+
+#: admin/apps/admin-pages/admin-pages.php:323
+msgctxt "add new on admin bar"
+msgid "Admin Page"
+msgstr "Stránka správce"
+
+#: admin/classes/uipress-app.php:271
+msgctxt "add new on admin bar"
+msgid "Folder"
+msgstr "Složka"
+
+#: admin/apps/users/uip-user-groups.php:44
+msgctxt "add new on admin bar"
+msgid "Group"
+msgstr "Skupina"
+
+#: admin/apps/users/uip-history.php:148
+msgctxt "add new on admin bar"
+msgid "History"
+msgstr "Dějiny"
+
+#: admin/classes/uipress-app.php:3014
+msgid "Add scripts to the head of every admin page and login page"
+msgstr ""
+"Přidejte skripty do záhlaví každé stránky správce a přihlašovací stránky"
+
+#: admin/apps/menu-creator/menu-creator.php:1518
+msgid "Add some menu items from the left toolbar to get started"
+msgstr ""
+"Chcete-li začít, přidejte některé položky nabídky z levého panelu nástrojů"
+
+#: admin/classes/uipress-app.php:3023
+msgid "Add stylesheets to the head of every admin page and login page"
+msgstr ""
+"Přidejte šablony stylů do záhlaví každé stránky správce a přihlašovací "
+"stránky"
+
+#: admin/apps/overview/overview.php:779
+msgid "Added to cart"
+msgstr "Přidáno do košíku"
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "Admin 2020"
+
+#: admin/classes/uipress-app.php:2786
+msgid "Admin Bar Disabled For"
+msgstr "Administrátorská lišta deaktivována pro"
+
+#: admin/classes/uipress-app.php:3031
+msgid "Admin CSS"
+msgstr "Admin CSS"
+
+#: admin/classes/uipress-app.php:2626
+msgid "Admin Favicon"
+msgstr "Favicon správce"
+
+#: admin/classes/uipress-app.php:3041
+msgid "Admin JavaScript"
+msgstr "Admin JavaScript"
+
+#: admin/apps/menu-creator/menu-creator.php:655
+msgctxt "Admin Menu"
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: admin/apps/menu-creator/menu-creator.php:653
+msgctxt "admin menu"
+msgid "Admin Menus"
+msgstr "Administrátorské nabídky"
+
+#: admin/apps/admin-pages/admin-pages.php:322
+msgctxt "admin menu"
+msgid "Admin Pages"
+msgstr "Administrátorské stránky"
+
+#: admin/classes/uipress-app.php:270
+msgctxt "admin menu"
+msgid "Folders"
+msgstr "Složky"
+
+#: admin/apps/users/uip-user-groups.php:43
+msgctxt "admin menu"
+msgid "Groups"
+msgstr "Skupiny"
+
+#: admin/apps/users/uip-history.php:147
+msgctxt "admin menu"
+msgid "History"
+msgstr "Dějiny"
+
+#: admin/apps/admin-pages/admin-pages.php:324
+msgctxt "Admin Page"
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: admin/apps/admin-pages/admin-pages.php:263
+msgid "Admin Page Slug"
+msgstr "Admin Page Slug"
+
+#: admin/apps/admin-pages/admin-pages.php:250
+msgid "Admin Pages - Beta"
+msgstr "Administrátorské stránky – Beta"
+
+#: admin/classes/uipress-app.php:2999
+msgid "Advanced"
+msgstr "Pokročilý"
+
+#: admin/classes/uipress-app.php:3004
+msgid "Advanced Disabled For"
+msgstr "Advanced Disabled For"
+
+#: admin/apps/users/uip-users.php:305
+msgid "After"
+msgstr "Po"
+
+#: admin/apps/overview/overview.php:243 admin/apps/overview/overview.php:384
+#: admin/apps/overview/woocommerce.php:158
+msgid "ago"
+msgstr "před"
+
+#: admin/apps/users/uip-users.php:367
+msgid "All actions"
+msgstr "Všechny akce"
+
+#: admin/apps/menu-creator/menu-creator.php:660
+msgid "All Admin Menus"
+msgstr "Všechny nabídky správce"
+
+#: admin/apps/admin-pages/admin-pages.php:329
+msgid "All Admin Pages"
+msgstr "Všechny stránky správce"
+
+#: admin/apps/content/content.php:1618 admin/classes/uipress-app.php:1365
+msgid "All Content"
+msgstr "Veškerý obsah"
+
+#: admin/classes/uipress-app.php:277
+msgid "All Folders"
+msgstr "Všechny složky"
+
+#: admin/apps/users/uip-user-groups.php:50
+msgid "All Groups"
+msgstr "Všechny skupiny"
+
+#: admin/apps/users/uip-history.php:154
+msgid "All History"
+msgstr "Celá historie"
+
+#: admin/classes/uipress-app.php:1364
+msgid "All media"
+msgstr "Všechna média"
+
+#: admin/apps/users/uip-users.php:384
+msgid "All users"
+msgstr "Všichni uživatelé"
+
+#: admin/apps/content/content.php:1779
+msgid "Alt"
+msgstr "Alt"
+
+#: admin/apps/content/content.php:1482
+msgid "Alt Tag (Attachments only)"
+msgstr "Alt Tag (pouze přílohy)"
+
+#: admin/apps/content/content.php:1778
+msgid "Alt Text"
+msgstr "Alternativní text"
+
+#: admin/apps/overview/analytics.php:663 admin/apps/overview/analytics.php:703
+#: admin/apps/overview/analytics.php:712 admin/apps/overview/analytics.php:721
+#: admin/apps/overview/analytics.php:730 admin/apps/overview/analytics.php:739
+#: admin/apps/overview/analytics.php:748 admin/apps/overview/analytics.php:757
+#: admin/apps/overview/analytics.php:766 admin/apps/overview/analytics.php:775
+#: admin/apps/overview/analytics.php:784 admin/apps/overview/analytics.php:793
+#: admin/apps/overview/analytics.php:802 admin/apps/overview/analytics.php:811
+#: admin/apps/overview/analytics.php:820 admin/apps/overview/analytics.php:829
+#: admin/apps/overview/analytics.php:838 admin/apps/overview/analytics.php:847
+#: admin/apps/overview/analytics.php:856 admin/apps/overview/analytics.php:865
+#: admin/apps/overview/analytics.php:874 admin/apps/overview/analytics.php:883
+msgid "Analytics"
+msgstr "Analytics"
+
+#: admin/apps/overview/analytics.php:106
+msgid "Analytics account connected"
+msgstr "Účet Analytics je připojen"
+
+#: admin/apps/overview/analytics.php:74
+msgid "Analytics account removed"
+msgstr "Účet Analytics byl odstraněn"
+
+#: admin/apps/overview/analytics.php:682
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr ""
+"Služba Analytics bude na stránce přehledu deaktivována pro všechny uživatele "
+"nebo role, které vyberete"
+
+#: admin/apps/users/uip-users.php:131
+msgid "Anonymize user IP addresses?"
+msgstr "Anonymizovat IP adresy uživatelů?"
+
+#: admin/apps/overview/overview.php:129
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If none "
+"are chosen it will fall back to administrators only"
+msgstr ""
+"Jakákoli role nebo uživatel zde vybraný bude moci upravit stránku s "
+"přehledem. Pokud žádný nevyberete, vrátí se pouze administrátorům"
+
+#: admin/classes/uipress-app.php:2617
+msgid "App Icon"
+msgstr "Ikona aplikace"
+
+#: admin/apps/overview/overview.php:767
+msgid "Apply"
+msgstr "Aplikovat"
+
+#: admin/apps/admin-pages/admin-pages.php:110
+#: admin/apps/menu-creator/menu-creator.php:1304
+msgid "Apply to subsites"
+msgstr "Použít na podstránky"
+
+#: admin/apps/overview/overview.php:753
+msgid "Are you sure you want to clear the current layout? There is no undo."
+msgstr "Opravdu chcete vymazat aktuální rozvržení? Není možné vrátit zpět."
+
+#: admin/apps/users/uip-users.php:358
+msgid "Are you sure you want to delete these roles?"
+msgstr "Opravdu chcete tyto role smazat?"
+
+#: admin/apps/users/uip-users.php:405
+msgid ""
+"Are you sure you want to delete this capability? This will remove the "
+"capability sitewide. Please note not all capabilities can be deleted."
+msgstr ""
+"Opravdu chcete tuto funkci smazat? Tím odeberete schopnost na celém webu. "
+"Upozorňujeme, že ne všechny funkce lze odstranit."
+
+#: admin/apps/users/uip-users.php:357
+msgid "Are you sure you want to delete this role?"
+msgstr "Opravdu chcete tuto roli smazat?"
+
+#: admin/apps/users/uip-users.php:336
+msgid "Are you sure you want to delete this user?"
+msgstr "Opravdu chcete tohoto uživatele smazat?"
+
+#: admin/classes/uipress-app.php:1390
+msgid "Are you sure you want to delete this?"
+msgstr "Opravdu to chcete smazat?"
+
+#: admin/classes/uipress-app.php:1392
+msgid "Are you sure you want to reset the settings?"
+msgstr "Opravdu chcete obnovit nastavení?"
+
+#: admin/apps/users/uip-users.php:338
+msgid ""
+"Are you sure you want to send password reset links to the selected users?"
+msgstr "Opravdu chcete vybraným uživatelům odeslat odkazy na obnovení hesla?"
+
+#: admin/apps/users/uip-users.php:337
+msgid "Are you sure you want to the selected users?"
+msgstr "Opravdu chcete vybrané uživatele?"
+
+#: admin/apps/users/uip-users.php:298
+msgid "Ascending"
+msgstr "Vzestupně"
+
+#: admin/apps/users/uip-users.php:397
+msgid "Assign groups"
+msgstr "Přiřadit skupiny"
+
+#: admin/apps/users/uip-users.php:327
+msgid "Assign roles"
+msgstr "Přidělte role"
+
+#: admin/apps/users/uip-users.php:1031
+#, php-format
+msgid "Attachment called (%s) was deleted. Attachment ID: %s"
+msgstr "Příloha nazvaná (%s) byla smazána. ID přílohy: %s"
+
+#: admin/apps/users/uip-users.php:1012
+#, php-format
+msgid "Attachment called (%s) was uploaded to (%s). Attachment ID: %s"
+msgstr "Příloha volaná (%s) byla nahrána do (%s). ID přílohy: %s"
+
+#: admin/apps/users/uip-users.php:1431
+msgid "Attachmnet deleted"
+msgstr "Příloha byla smazána"
+
+#: admin/apps/users/uip-users.php:1427
+msgid "Attachmnet uploaded"
+msgstr "Attachmnet nahrán"
+
+#: admin/apps/content/content.php:1473
+msgid "Attribute to rename"
+msgstr "Atribut k přejmenování"
+
+#: admin/apps/content/content.php:583
+msgid "Attributes Updated"
+msgstr "Atributy aktualizovány"
+
+#: admin/apps/overview/overview.php:833
+msgid "Auth Token"
+msgstr "Auth Token"
+
+#: admin/apps/content/content.php:2331
+msgid "Author"
+msgstr "Autor"
+
+#: admin/apps/overview/overview.php:754
+msgid "Available Cards"
+msgstr "Dostupné karty"
+
+#: admin/apps/menu-creator/menu-creator.php:1363
+msgid "Available Menu Items"
+msgstr "Dostupné položky nabídky"
+
+#: admin/apps/overview/woocommerce.php:92
+msgid "Average Order Value"
+msgstr "Průměrná hodnota objednávky"
+
+#: admin/apps/overview/overview.php:840
+msgid "Average Page Load"
+msgstr "Průměrné načtení stránky"
+
+#: admin/apps/overview/overview.php:843
+msgid "Average Time On Page"
+msgstr "Průměrný čas na stránce"
+
+#: admin/apps/menu-creator/menu-creator.php:1702
+msgid "Back to all menus"
+msgstr "Zpět do všech nabídek"
+
+#: admin/classes/styles.php:975
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: admin/classes/styles.php:1186 admin/classes/styles.php:1270
+msgid "Background color"
+msgstr "Barva pozadí"
+
+#: admin/apps/overview/overview.php:817
+msgid "Background Colour"
+msgstr "Barva pozadí"
+
+#: admin/apps/overview/overview.php:733
+msgid "Bar"
+msgstr "Bar"
+
+#: admin/apps/overview/overview.php:728
+msgid "Bar Chart"
+msgstr "Sloupcový graf"
+
+#: admin/classes/styles.php:696
+msgid "Base font size"
+msgstr "Základní velikost písma"
+
+#: admin/apps/content/content.php:1465 admin/apps/content/content.php:2567
+msgid "Batch Rename"
+msgstr "Dávkové přejmenování"
+
+#: admin/apps/users/uip-users.php:306
+msgid "Before"
+msgstr "Před"
+
+#: admin/classes/styles.php:536
+msgid "Body Background"
+msgstr "Body pozadí"
+
+#: admin/classes/styles.php:1198
+msgid "Border color"
+msgstr "Barva ohraničení"
+
+#: admin/classes/styles.php:668
+msgid "Border Colour"
+msgstr "Barva ohraničení"
+
+#: admin/classes/styles.php:657
+msgid "Border Radius"
+msgstr "Poloměr okraje"
+
+#: admin/classes/styles.php:1210
+msgid "Border radius"
+msgstr "Poloměr hranice"
+
+#: admin/classes/styles.php:646
+msgid "Border Width"
+msgstr "Šířka okraje"
+
+#: admin/apps/overview/analytics.php:736 admin/apps/overview/overview.php:841
+msgid "Bounce Rate"
+msgstr "Míra okamžitého opuštění"
+
+#: admin/classes/styles.php:748
+msgid "Button Border Radius"
+msgstr "Poloměr okraje tlačítka"
+
+#: admin/classes/styles.php:760
+msgid "Button Border Width"
+msgstr "Šířka okraje tlačítka"
+
+#: admin/classes/styles.php:997
+msgid "Button Hover background Color"
+msgstr "Barva pozadí tlačítka přechodu"
+
+#: admin/classes/styles.php:745
+msgid "Buttons"
+msgstr "Tlačítka"
+
+#: admin/apps/overview/overview.php:147
+msgid ""
+"By default the overview date range will end on the current day (0). To end "
+"the report on yesterday for example, enter 1"
+msgstr ""
+"Ve výchozím nastavení bude období přehledu končit aktuálním dnem (0). Chcete-"
+"li ukončit sestavu například včera, zadejte 1"
+
+#: admin/apps/overview/overview.php:138
+msgid ""
+"By default the overview date range will start 7 days before current date. "
+"Add a number of days between 1 and 90 to change length of date range"
+msgstr ""
+"Ve výchozím nastavení začíná časové období přehledu 7 dní před aktuálním "
+"datem. Chcete-li změnit délku časového období, přidejte počet dní mezi 1 a 90"
+
+#: admin/apps/users/uip-users.php:87
+#, php-format
+msgid ""
+"By Default, %s will track page views for logged in users as part of the "
+"activity log. While sometimes useful, this will have the biggest impact on "
+"the log size in the database. Disabling this feature will keep the log "
+"smaller."
+msgstr ""
+"Ve výchozím nastavení bude %s sledovat zobrazení stránek pro přihlášené "
+"uživatele jako součást protokolu aktivit. I když je to někdy užitečné, bude "
+"to mít největší dopad na velikost protokolu v databázi. Vypnutím této funkce "
+"bude protokol menší."
+
+#: admin/apps/users/uip-users.php:109
+msgid ""
+"By default, activity items will be deleted after 60 days, enter the amount "
+"of days to keep items to change this"
+msgstr ""
+"Ve výchozím nastavení budou položky aktivity smazány po 60 dnech. Chcete-li "
+"to změnit, zadejte počet dní, po které se mají položky uchovávat"
+
+#: admin/apps/users/uip-users.php:330
+msgid "Cancel"
+msgstr "zrušení"
+
+#: admin/apps/users/uip-users.php:351
+msgid "Capabilities"
+msgstr "Schopnosti"
+
+#: admin/apps/users/uip-users-ajax.php:917
+msgid "Capability added"
+msgstr "Schopnost přidána"
+
+#: admin/apps/users/uip-users-ajax.php:976
+msgid "Capability deleted"
+msgstr "Schopnost odstraněna"
+
+#: admin/apps/users/uip-users-ajax.php:897
+msgid "Capability name cannot contain spaces"
+msgstr "Název schopnosti nesmí obsahovat mezery"
+
+#: admin/apps/content/content.php:1783 admin/apps/content/content.php:1784
+msgid "Caption"
+msgstr "Titulek"
+
+#: admin/apps/overview/overview.php:722
+msgid "Card Added"
+msgstr "Karta přidána"
+
+#: admin/apps/overview/overview.php:723
+msgid "Card Background colour"
+msgstr "Barva pozadí karty"
+
+#: admin/apps/overview/overview.php:821
+msgid "Card Settings"
+msgstr "Nastavení karty"
+
+#: admin/apps/overview/overview.php:693
+msgid "Card width"
+msgstr "Šířka karty"
+
+#: admin/classes/styles.php:1183
+msgid "Cards"
+msgstr "karty"
+
+#: admin/apps/content/content.php:1418 admin/apps/content/content.php:1831
+#: admin/apps/content/content.php:1836 admin/apps/content/content.php:2068
+#: admin/apps/content/content.php:2071
+msgid "Categories"
+msgstr "Kategorie"
+
+#: admin/apps/content/content.php:2573
+msgid "Categories & Tags"
+msgstr "Kategorie a štítky"
+
+#: admin/apps/overview/overview.php:737
+msgid "Change"
+msgstr "Změna"
+
+#: admin/classes/uipress-app.php:2608
+#, php-format
+msgid "Change %s plugin URL"
+msgstr "Změňte adresu URL pluginu %s"
+
+#: admin/apps/overview/overview.php:838
+msgid "Change account"
+msgstr "Změnit účet"
+
+#: admin/classes/uipress-app.php:2804
+msgid "Changes the toolbar to a floating flyout toolbar"
+msgstr "Změní panel nástrojů na plovoucí panel nástrojů"
+
+#: admin/apps/overview/overview.php:757
+msgid "Channel"
+msgstr "Kanál"
+
+#: admin/apps/overview/overview.php:726
+msgid "Chart Type"
+msgstr "Typ grafu"
+
+#: admin/classes/update.php:115
+msgid "Check for updates"
+msgstr "Kontrola aktualizací"
+
+#: admin/apps/overview/overview.php:780
+msgid "Checkout started"
+msgstr "Pokladna byla zahájena"
+
+#: admin/classes/uipress-app.php:1389
+msgid "Choose Icon"
+msgstr "Vyberte ikonu"
+
+#: admin/classes/uipress-app.php:1353
+msgid "Choose Image"
+msgstr "Vyberte Obrázek"
+
+#: admin/apps/users/uip-users.php:381
+msgid "Choose image"
+msgstr "Vyberte obrázek"
+
+#: admin/classes/uipress-app.php:1354
+msgid "Choose Post Types"
+msgstr "Vyberte Typy příspěvků"
+
+#: admin/classes/uipress-app.php:1351
+msgid "Choose users or roles"
+msgstr "Vyberte uživatele nebo role"
+
+#: admin/apps/menu-creator/menu-creator.php:1340
+msgid "Choose users or roles..."
+msgstr "Vyberte uživatele nebo role..."
+
+#: admin/apps/overview/overview.php:839
+msgid "City"
+msgstr "Město"
+
+#: admin/apps/menu-creator/menu-creator.php:1661
+msgid "Classes"
+msgstr "Třídy"
+
+#: admin/classes/styles.php:469
+msgid "Clear All"
+msgstr "Vymazat vše"
+
+#: admin/apps/content/content.php:2089
+msgid "Clear Filters"
+msgstr "Vymazat filtry"
+
+#: admin/apps/overview/overview.php:1187
+msgid "Clear Layout"
+msgstr "Vymazat rozložení"
+
+#: admin/apps/content/content.php:2585
+msgid "Clear Selection"
+msgstr "Vymazat výběr"
+
+#: admin/apps/users/uip-users.php:374
+msgid "Clear selection"
+msgstr "Jasný výběr"
+
+#: admin/apps/overview/overview.php:837
+msgid "Click below to change matomo account"
+msgstr "Kliknutím níže změníte účet matomo"
+
+#: admin/apps/users/uip-users.php:360
+msgid "Clone"
+msgstr "Klonovat"
+
+#: admin/classes/uipress-app.php:3005
+msgid "Code added here will not load for any users or roles you select"
+msgstr ""
+"Kód přidaný zde se nenačte pro žádné uživatele ani role, které vyberete"
+
+#: admin/classes/uipress-app.php:2733
+msgid "Collapsed Menu Logo Dark Mode"
+msgstr "Tmavý režim loga sbalené nabídky"
+
+#: admin/classes/uipress-app.php:2725
+msgid "Collapsed Menu Logo Light Mode"
+msgstr "Světelný režim loga sbalené nabídky"
+
+#: admin/apps/users/uip-users.php:390
+msgid "Color"
+msgstr "Barva"
+
+#: admin/classes/uipress-app.php:1370
+msgid "Colour"
+msgstr "Barva"
+
+#: admin/apps/users/uip-user-groups.php:345 admin/classes/folders.php:563
+msgid "Colour is required"
+msgstr "Barva je povinná"
+
+#: admin/apps/overview/overview.php:710
+msgid "Column Added"
+msgstr "Sloupec přidán"
+
+#: admin/apps/overview/overview.php:798
+msgid "Column background colour"
+msgstr "Barva pozadí sloupce"
+
+#: admin/apps/overview/overview.php:794
+msgid "Column Removed"
+msgstr "Sloupec odstraněn"
+
+#: admin/apps/overview/overview.php:695
+msgid "Column settings"
+msgstr "Nastavení sloupců"
+
+#: admin/apps/overview/overview.php:696
+msgid "Column Size"
+msgstr "Velikost sloupce"
+
+#: admin/apps/overview/overview.php:694
+msgid "Column width"
+msgstr "Šířka sloupce"
+
+#: admin/apps/content/content.php:1964
+msgid "Columns"
+msgstr "Sloupce"
+
+#: admin/apps/overview/woocommerce.php:77
+#: admin/apps/overview/woocommerce.php:86
+#: admin/apps/overview/woocommerce.php:95
+#: admin/apps/overview/woocommerce.php:104
+#: admin/apps/overview/woocommerce.php:113
+msgid "Commerce"
+msgstr "komerce"
+
+#: admin/apps/overview/overview.php:810
+msgid "Comparison Period"
+msgstr "Srovnávací období"
+
+#: admin/apps/overview/overview.php:832
+msgid "Connect Matomo Analytics"
+msgstr "Připojte Matomo Analytics"
+
+#: admin/apps/overview/overview.php:740
+msgid "Connect your account to use this card"
+msgstr "Chcete-li používat tuto kartu, připojte svůj účet"
+
+#: admin/apps/overview/overview.php:831
+msgid "Connect your matomo site to use this card"
+msgstr "Chcete-li používat tuto kartu, připojte svůj web matomo"
+
+#: admin/apps/content/content.php:1319 admin/apps/content/content.php:1611
+msgid "Content"
+msgstr "Obsah"
+
+#: admin/apps/content/content.php:812 admin/classes/folders.php:466
+#: admin/classes/folders.php:497
+msgid "Content moved"
+msgstr "Obsah přesunut"
+
+#: admin/apps/content/content.php:96
+msgid "Content Page"
+msgstr "Stránka obsahu"
+
+#: admin/apps/content/content.php:109
+msgid "Content Page Disabled for"
+msgstr "Stránka obsahu zakázána pro"
+
+#: admin/apps/overview/analytics.php:853 admin/apps/overview/overview.php:781
+#: admin/apps/overview/overview.php:782
+msgid "Conversion Rate"
+msgstr "Míra konverze"
+
+#: admin/apps/overview/overview.php:802
+msgid "Conversions"
+msgstr "Konverze"
+
+#: admin/apps/overview/analytics.php:871
+msgid "Conversions in the last 30 minutes"
+msgstr "Konverze za posledních 30 minut"
+
+#: admin/apps/overview/analytics.php:873
+msgid "Conversions logged in the last 30 minutes."
+msgstr "Konverze zaznamenané za posledních 30 minut."
+
+#: admin/apps/users/uip-users.php:364
+msgid "copy"
+msgstr "kopírovat"
+
+#: admin/classes/uipress-app.php:1991
+msgid "Core"
+msgstr "Jádro"
+
+#: admin/apps/overview/overview.php:477
+msgid "Core version"
+msgstr "Základní verze"
+
+#: admin/apps/overview/overview.php:735
+msgid "Country"
+msgstr "Země"
+
+#: admin/apps/users/uip-users.php:535 admin/classes/uipress-app.php:1335
+msgid "Create"
+msgstr "Vytvořit"
+
+#: admin/apps/users/uip-users.php:391
+msgid "Create group"
+msgstr "Vytvořit skupinu"
+
+#: admin/classes/uipress-app.php:1336
+msgid "Create New"
+msgstr "Vytvořit nový"
+
+#: admin/apps/content/content.php:2607
+msgid "Create New View"
+msgstr "Vytvořit nový pohled"
+
+#: admin/apps/menu-creator/menu-creator.php:1143
+msgid "Create your first admin menu"
+msgstr "Vytvořte svou první nabídku správce"
+
+#: admin/apps/users/uip-users.php:766
+msgid "Created post"
+msgstr "Vytvořený příspěvek"
+
+#: admin/apps/content/content.php:97
+msgid "Creates content page"
+msgstr "Vytvoří stránku s obsahem"
+
+#: admin/apps/menu-creator/menu-creator.php:406
+msgid "Creates custom admin menus."
+msgstr "Vytváří vlastní nabídky správce."
+
+#: admin/apps/admin-pages/admin-pages.php:251
+msgid "Creates custom admin pages."
+msgstr "Vytváří vlastní stránky pro správu."
+
+#: admin/classes/folders.php:113
+msgid "Creates media folder system."
+msgstr "Vytvoří systém složek médií."
+
+#: admin/classes/uipress-app.php:2779
+msgid ""
+"Creates new admin bar, adds user off canvas menu, builds global search and "
+"notification center."
+msgstr ""
+"Vytváří nový panel pro správu, přidává uživatele mimo nabídku plátna, "
+"vytváří globální vyhledávací a oznamovací centrum."
+
+#: admin/classes/uipress-app.php:2670 admin/classes/uipress-app.php:2675
+msgid "Creates new admin menu."
+msgstr "Vytvoří nové admin menu."
+
+#: admin/classes/uipress-app.php:2774
+msgid "Creates new admin toolbar."
+msgstr "Vytvoří nový panel nástrojů pro správu."
+
+#: admin/apps/overview/analytics.php:665
+msgid "Creates the google analytics cards for the overview page."
+msgstr "Vytvoří analytické karty Google pro stránku přehledu."
+
+#: admin/apps/overview/overview.php:107
+msgid "Creates the overview page."
+msgstr "Vytvoří stránku přehledu."
+
+#: admin/apps/users/uip-users.php:54
+msgid "Creates user management page"
+msgstr "Vytvoří stránku správy uživatelů"
+
+#: admin/apps/overview/overview.php:586
+msgid "Critical"
+msgstr "Kritické"
+
+#: admin/classes/uipress-app.php:3032
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr ""
+"CSS přidané zde bude načteno na každé stránce správce a také na přihlašovací "
+"stránce"
+
+#: admin/apps/content/content.php:1579
+msgid "Current"
+msgstr "Proud"
+
+#: admin/apps/overview/overview.php:809
+msgid "Current Period"
+msgstr "Současné období"
+
+#: admin/apps/users/uip-users.php:571
+msgid "Custom"
+msgstr "Zvyk"
+
+#: admin/apps/menu-creator/menu-creator.php:1663
+msgid "Custom classes"
+msgstr "Vlastní třídy"
+
+#: admin/apps/overview/overview.php:766
+msgid "Custom Comparison Dates"
+msgstr "Vlastní data srovnání"
+
+#: admin/apps/overview/overview.php:818
+msgid "Custom CSS class"
+msgstr "Vlastní třída CSS"
+
+#: admin/apps/overview/overview.php:931
+msgid "Custom HTML"
+msgstr "Vlastní HTML"
+
+#: admin/apps/menu-creator/menu-creator.php:1351
+msgid "Custom Items"
+msgstr "Vlastní položky"
+
+#: admin/apps/overview/overview.php:769
+msgid "Custom Range"
+msgstr "Vlastní rozsah"
+
+#: admin/apps/overview/overview.php:164
+msgid "Custom welcome message"
+msgstr "Vlastní uvítací zpráva"
+
+#: admin/classes/styles.php:882
+msgid "Danger Button Background Colour"
+msgstr "Barva pozadí tlačítka nebezpečí"
+
+#: admin/classes/styles.php:870
+msgid "Danger Button Border Colour"
+msgstr "Barva ohraničení tlačítka nebezpečí"
+
+#: admin/classes/styles.php:894
+msgid "Danger Button Hover Background Colour"
+msgstr "Barva pozadí tlačítka Nebezpečí Hover"
+
+#: admin/classes/styles.php:906
+msgid "Danger Button Text Colour"
+msgstr "Barva textu tlačítka nebezpečí"
+
+#: admin/classes/uipress-app.php:2958
+msgid "Dark Mode"
+msgstr "Tmavý režim"
+
+#: admin/classes/uipress-app.php:1340
+msgid "Dark mode"
+msgstr "Tmavý režim"
+
+#: admin/classes/uipress-app.php:1333
+msgid "Dashboard"
+msgstr "Přístrojová deska"
+
+#: admin/apps/overview/overview.php:307
+msgid "Dashboard settings reset"
+msgstr "Nastavení řídicího panelu bylo resetováno"
+
+#: admin/apps/overview/overview.php:292
+msgid "Dashboard settings saved"
+msgstr "Nastavení řídicího panelu bylo uloženo"
+
+#: admin/apps/content/content.php:2335
+#: admin/apps/menu-creator/menu-creator.php:1159
+#: admin/apps/overview/overview.php:904 admin/apps/users/uip-users.php:1333
+msgid "Date"
+msgstr "datum"
+
+#: admin/apps/content/content.php:192 admin/apps/content/content.php:2033
+msgid "Date Created"
+msgstr "Datum vytvoření"
+
+#: admin/apps/users/uip-users.php:303
+msgid "Date created"
+msgstr "Datum vytvoření"
+
+#: admin/apps/users/uip-users.php:307 admin/apps/users/uip-users.php:308
+msgid "Date filters"
+msgstr "Datumové filtry"
+
+#: admin/apps/content/content.php:1542
+msgid "Date Format"
+msgstr "Formát data"
+
+#: admin/apps/overview/overview.php:765
+msgid "Date Range"
+msgstr "Časové období"
+
+#: admin/apps/overview/overview.php:700
+msgid "day range"
+msgstr "denní rozsah"
+
+#: admin/apps/overview/overview.php:730 admin/apps/overview/overview.php:829
+msgid "days"
+msgstr "dní"
+
+#: admin/apps/users/uip-users.php:1398
+msgid "Deelete comment"
+msgstr "Smazat komentář"
+
+#: admin/classes/uipress-app.php:1360
+msgid "Default"
+msgstr "Výchozí"
+
+#: admin/classes/styles.php:547
+msgid "Default Background"
+msgstr "Výchozí pozadí"
+
+#: admin/classes/styles.php:784
+msgid "Default Button Background Colour"
+msgstr "Výchozí barva pozadí tlačítka"
+
+#: admin/classes/styles.php:772
+msgid "Default Button Border Colour"
+msgstr "Výchozí barva ohraničení tlačítka"
+
+#: admin/classes/styles.php:796
+msgid "Default Button Hover Background Colour"
+msgstr "Výchozí barva pozadí při najetí myší"
+
+#: admin/classes/styles.php:808
+msgid "Default Button Text Colour"
+msgstr "Výchozí barva textu tlačítka"
+
+#: admin/apps/overview/overview.php:146
+msgid "Default report end date offset"
+msgstr "Výchozí posun data ukončení přehledu"
+
+#: admin/apps/overview/overview.php:137
+msgid "Default report start date"
+msgstr "Výchozí datum zahájení přehledu"
+
+#: admin/apps/users/uip-users.php:118
+msgid "Delay history entries?"
+msgstr "Zpozdit záznamy historie?"
+
+#: admin/apps/content/content.php:1679
+#: admin/apps/menu-creator/menu-creator.php:1225
+#: admin/apps/users/uip-users.php:541
+msgid "Delete"
+msgstr "Vymazat"
+
+#: admin/apps/overview/overview.php:698 admin/apps/overview/overview.php:799
+msgid "Delete Column"
+msgstr "Smazat sloupec"
+
+#: admin/apps/content/content.php:2540
+msgid "Delete Item"
+msgstr "Smazat položku"
+
+#: admin/apps/users/uip-users.php:356
+msgid "Delete role"
+msgstr "Smazat roli"
+
+#: admin/apps/content/content.php:2579
+msgid "Delete Selected"
+msgstr "Smazat vybrané"
+
+#: admin/apps/users/uip-users.php:371
+msgid "Delete selected"
+msgstr "Smazat vybrané"
+
+#: admin/apps/users/uip-users.php:335
+msgid "Delete user"
+msgstr "Smazat uživatele"
+
+#: admin/apps/users/uip-users.php:373
+msgid "Delete users"
+msgstr "Smazat uživatele"
+
+#: admin/apps/users/uip-users.php:912
+msgid "Deleted a comment"
+msgstr "Smazán komentář"
+
+#: admin/apps/users/uip-users.php:1029
+msgid "Deleted attachment"
+msgstr "Smazaná příloha"
+
+#: admin/apps/users/uip-users.php:822
+msgid "Deleted post"
+msgstr "Smazaný příspěvek"
+
+#: admin/apps/users/uip-users.php:299
+msgid "Descending"
+msgstr "Klesající"
+
+#: admin/apps/content/content.php:1788 admin/apps/content/content.php:1789
+#: admin/apps/users/uip-users.php:1353
+msgid "Description"
+msgstr "Popis"
+
+#: admin/apps/admin-pages/admin-pages.php:336
+#: admin/apps/menu-creator/menu-creator.php:667
+#: admin/apps/users/uip-history.php:161
+msgid "Description."
+msgstr "Popis."
+
+#: admin/apps/users/uip-users.php:372
+msgid "Deselect"
+msgstr "Zrušit výběr"
+
+#: admin/apps/content/content.php:1715 admin/apps/users/uip-users.php:309
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: admin/apps/overview/overview.php:787
+msgid "Device Category"
+msgstr "Kategorie zařízení"
+
+#: admin/apps/overview/overview.php:606
+msgid "Device Visits"
+msgstr "Návštěvy zařízení"
+
+#: admin/classes/uipress-app.php:2674
+msgid "Disable Admin Menu Module"
+msgstr "Zakázat modul nabídky správce"
+
+#: admin/classes/uipress-app.php:2919
+msgid "Disable Admin Theme Module"
+msgstr "Zakázat modul motivu správce"
+
+#: admin/apps/content/content.php:101
+msgid "Disable Content Page?"
+msgstr "Zakázat stránku s obsahem?"
+
+#: admin/classes/uipress-app.php:2819
+msgid "Disable Create Button"
+msgstr "Zakázat tlačítko Vytvořit"
+
+#: admin/apps/admin-pages/admin-pages.php:255
+msgid "Disable custom admin pages?"
+msgstr "Deaktivovat vlastní stránky správce?"
+
+#: admin/classes/uipress-app.php:2560
+msgid "Disable dark mode"
+msgstr "Zakázat tmavý režim"
+
+#: admin/classes/folders.php:117
+msgid "Disable Folders?"
+msgstr "Zakázat složky?"
+
+#: admin/classes/uipress-app.php:2966
+msgid "Disable Language Selector"
+msgstr "Zakázat Výběr jazyka"
+
+#: admin/classes/uipress-app.php:2949
+msgid "Disable Login Module"
+msgstr "Zakázat přihlašovací modul"
+
+#: admin/apps/menu-creator/menu-creator.php:410
+msgid "Disable Menu Creator?"
+msgstr "Zakázat Tvůrce nabídek?"
+
+#: admin/classes/uipress-app.php:2861
+msgid "Disable Notification Center"
+msgstr "Zakázat Centrum oznámení"
+
+#: admin/apps/overview/overview.php:111
+msgid "Disable Overview Page?"
+msgstr "Zakázat stránku s přehledem?"
+
+#: admin/apps/users/uip-users.php:84
+msgid "Disable page view logging"
+msgstr "Zakázat protokolování zobrazení stránky"
+
+#: admin/classes/uipress-app.php:2749 admin/classes/uipress-app.php:2811
+msgid "Disable Search"
+msgstr "Zakázat vyhledávání"
+
+#: admin/classes/uipress-app.php:2778
+msgid "Disable ToolBar Module?"
+msgstr "Zakázat modul ToolBar?"
+
+#: admin/apps/users/uip-users.php:58
+msgid "Disable Users Page?"
+msgstr "Zakázat stránku uživatelů?"
+
+#: admin/classes/uipress-app.php:2835
+msgid "Disable View Website Button"
+msgstr "Zakázat tlačítko Zobrazit web"
+
+#: admin/classes/uipress-app.php:2750
+msgid "Disables admin menu search."
+msgstr "Zakáže vyhledávání v nabídce správce."
+
+#: admin/classes/uipress-app.php:2796
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"Zakáže starší odkazy na levé straně administrátorského panelu pro všechny "
+"uživatele. Také skryje uživatelské preference."
+
+#: admin/classes/uipress-app.php:2812
+msgid "Disables search icon and global search function from admin bar."
+msgstr ""
+"Deaktivuje ikonu vyhledávání a funkci globálního vyhledávání na panelu "
+"administrátora."
+
+#: admin/classes/uipress-app.php:2820
+msgid "Disables the 'create' button in the admin bar."
+msgstr "Deaktivuje tlačítko 'vytvořit' na panelu administrátora."
+
+#: admin/classes/uipress-app.php:2836
+msgid "Disables the view website link button in the admin bar."
+msgstr "Deaktivuje tlačítko odkazu na webovou stránku na panelu správce."
+
+#: admin/apps/overview/overview.php:1265
+msgid "Disconnect Analytics"
+msgstr "Odpojit službu Analytics"
+
+#: admin/apps/overview/woocommerce.php:94
+msgid "Display average order value in your store within the date range."
+msgstr ""
+"Zobrazte průměrnou hodnotu objednávky ve vašem obchodě v daném časovém "
+"období."
+
+#: admin/apps/overview/analytics.php:783
+msgid "Display list of events within the date range."
+msgstr "Zobrazit seznam událostí v daném časovém období."
+
+#: admin/apps/overview/overview.php:870
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr "Zobrazte příspěvky, stránky a CPT publikované v daném časovém období."
+
+#: admin/apps/overview/woocommerce.php:103
+msgid "Display recent orders from your store within the date range."
+msgstr "Zobrazte poslední objednávky z vašeho obchodu v daném časovém období."
+
+#: admin/apps/overview/analytics.php:792
+msgid "Display sessions by channel grouping within the date range."
+msgstr "Zobrazit návštěvy podle seskupení kanálů v rámci časového období."
+
+#: admin/apps/overview/analytics.php:738
+msgid "Display site bounce rate within the date range."
+msgstr "Zobrazit míru okamžitého opuštění webu v daném časovém období."
+
+#: admin/apps/overview/analytics.php:747
+msgid "Display site session duration within the date range."
+msgstr "Zobrazit dobu trvání návštěvy webu v daném časovém období."
+
+#: admin/apps/overview/analytics.php:729
+msgid "Display site usage by device within the date range."
+msgstr "Zobrazení využití webu podle zařízení v daném časovém období."
+
+#: admin/apps/overview/woocommerce.php:112
+msgid "Display top selling products from your store within the date range."
+msgstr ""
+"Zobrazte nejprodávanější produkty z vašeho obchodu v daném časovém období."
+
+#: admin/apps/overview/woocommerce.php:85
+msgid "Display total orders in your store within the date range."
+msgstr ""
+"Zobrazte celkový počet objednávek ve vašem obchodě v daném časovém období."
+
+#: admin/apps/overview/woocommerce.php:76
+msgid "Display total sales revenue in your store within the date range."
+msgstr ""
+"Zobrazte celkové tržby z prodeje ve vašem obchodě v daném časovém období."
+
+#: admin/apps/overview/analytics.php:711
+msgid "Display website page speed within the date range."
+msgstr "Zobrazte rychlost webové stránky v daném časovém období."
+
+#: admin/apps/overview/analytics.php:702
+msgid "Display website page views within the date range."
+msgstr "Zobrazit zobrazení webové stránky v daném časovém období."
+
+#: admin/apps/overview/analytics.php:720
+msgid "Display website users within the date range."
+msgstr "Zobrazit uživatele webu v daném časovém období."
+
+#: admin/apps/overview/overview.php:915
+msgid "Displays a custom video"
+msgstr "Zobrazí vlastní video"
+
+#: admin/apps/overview/analytics.php:801
+msgid "Displays active users from the last 30 minutes."
+msgstr "Zobrazuje aktivní uživatele za posledních 30 minut."
+
+#: admin/apps/overview/analytics.php:846
+msgid "Displays add to cart, checkout and purchase data for the date range."
+msgstr ""
+"Zobrazuje údaje o přidání do košíku, pokladně a nákupu za dané časové období."
+
+#: admin/apps/overview/analytics.php:810
+msgid "Displays average angagement rate for date range"
+msgstr "Zobrazuje průměrnou míru zapojení za časové období"
+
+#: admin/apps/overview/analytics.php:756
+msgid "Displays country user data within the date range."
+msgstr "Zobrazuje údaje o uživatelích v dané zemi."
+
+#: admin/apps/overview/overview.php:906
+msgid "Displays current time and date"
+msgstr "Zobrazuje aktuální čas a datum"
+
+#: admin/apps/overview/overview.php:888
+msgid "Displays info our about your cms and server setup."
+msgstr "Zobrazuje naše informace o vašem cms a nastavení serveru."
+
+#: admin/apps/overview/overview.php:897
+msgid "Displays info our about your sites health."
+msgstr "Zobrazuje informace o zdraví vašich stránek."
+
+#: admin/apps/overview/analytics.php:828
+msgid "Displays new vs returning users for the date range."
+msgstr "Zobrazuje nové vs. vracející se uživatele pro časové období."
+
+#: admin/apps/overview/analytics.php:837
+msgid "Displays page views by city for the date range."
+msgstr "Zobrazuje zobrazení stránek podle města pro časové období."
+
+#: admin/apps/overview/analytics.php:819
+msgid ""
+"Displays site revenue for date range. The sum of revenue from purchases, "
+"subscriptions, and advertising."
+msgstr ""
+"Zobrazuje příjmy webu za časové období. Součet příjmů z nákupů, předplatného "
+"a reklamy."
+
+#: admin/apps/overview/overview.php:879
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr ""
+"Zobrazuje celkový počet komentářů a nedávné komentáře publikované v daném "
+"časovém období."
+
+#: admin/apps/overview/analytics.php:774
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr ""
+"Zobrazuje návštěvnost nejoblíbenějších stránek webu v daném časovém období."
+
+#: admin/apps/overview/analytics.php:765
+msgid "Displays traffic source info within the date range."
+msgstr "Zobrazuje informace o zdroji provozu v daném časovém období."
+
+#: admin/classes/update.php:71
+msgid "Don't show again"
+msgstr "Nezobrazovat znovu"
+
+#: admin/apps/overview/overview.php:815
+msgid "Done"
+msgstr "Hotovo"
+
+#: admin/apps/overview/overview.php:731
+msgid "Doughnut"
+msgstr "Kobliha"
+
+#: admin/apps/content/content.php:2532
+#: admin/apps/menu-creator/menu-creator.php:1210
+msgid "Duplicate"
+msgstr "Duplikát"
+
+#: admin/apps/users/uip-users.php:132
+msgid ""
+"Each history item logs the users IP address, enable this to anonymize the "
+"address."
+msgstr ""
+"Každá položka historie zaznamenává IP adresu uživatele, povolte toto pro "
+"anonymizaci adresy."
+
+#: admin/apps/overview/analytics.php:844 admin/apps/overview/overview.php:785
+msgid "Ecommerce Overview"
+msgstr "Přehled elektronického obchodu"
+
+#: admin/apps/content/content.php:2518
+#: admin/apps/menu-creator/menu-creator.php:1203
+#: admin/apps/users/uip-users.php:523 admin/classes/uipress-app.php:1328
+msgid "Edit"
+msgstr "Upravit"
+
+#: admin/apps/menu-creator/menu-creator.php:658
+msgid "Edit Admin Menu"
+msgstr "Upravit nabídku správce"
+
+#: admin/apps/admin-pages/admin-pages.php:327
+msgid "Edit Admin Page"
+msgstr "Upravit stránku správce"
+
+#: admin/apps/users/uip-users.php:872 admin/apps/users/uip-users.php:902
+msgid "Edit comment"
+msgstr "Upravit komentář"
+
+#: admin/classes/uipress-app.php:275 admin/classes/uipress-app.php:1372
+msgid "Edit Folder"
+msgstr "Upravit složku"
+
+#: admin/apps/users/uip-user-groups.php:48
+msgid "Edit Group"
+msgstr "Upravit skupinu"
+
+#: admin/apps/users/uip-users.php:393
+msgid "Edit group"
+msgstr "Upravit skupinu"
+
+#: admin/apps/users/uip-history.php:152
+msgid "Edit History"
+msgstr "Upravit historii"
+
+#: admin/apps/content/content.php:1684
+msgid "Edit Image"
+msgstr "Upravit obrázek"
+
+#: admin/apps/menu-creator/menu-creator.php:1642
+msgid "Edit Menu Item"
+msgstr "Upravit položku nabídky"
+
+#: admin/apps/users/uip-users.php:773 admin/apps/users/uip-users.php:794
+#: admin/apps/users/uip-users.php:811 admin/apps/users/uip-users.php:842
+msgid "Edit page"
+msgstr "Upravit stránku"
+
+#: admin/apps/users/uip-users.php:349
+msgid "Edit role"
+msgstr "Upravit roli"
+
+#: admin/apps/users/uip-users.php:323 admin/apps/users/uip-users.php:332
+msgid "Edit user"
+msgstr "Upravit uživatele"
+
+#: admin/apps/admin-pages/admin-pages.php:272
+msgid ""
+"Editing and creation of admin pages will be disabled for the users or roles "
+"you select"
+msgstr ""
+"Úpravy a vytváření stránek správce budou pro uživatele nebo role, které "
+"vyberete, zakázány"
+
+#: admin/apps/overview/overview.php:1253
+msgid "Editing Mode"
+msgstr "Režim úprav"
+
+#: admin/apps/users/uip-users.php:312 admin/apps/users/uip-users.php:326
+#: admin/apps/users/uip-users.php:1219
+msgid "Email"
+msgstr "E-mailem"
+
+#: admin/apps/users/uip-users-ajax.php:528
+#: admin/apps/users/uip-users-ajax.php:1016
+msgid "Email already exists"
+msgstr "Email již existuje"
+
+#: admin/apps/users/uip-users-ajax.php:517
+#: admin/apps/users/uip-users-ajax.php:1023
+msgid "Email is not valid"
+msgstr "E-mail není platný"
+
+#: admin/apps/overview/overview.php:718
+msgid "Embed Type"
+msgstr "Typ vložení"
+
+#: admin/classes/uipress-app.php:2803
+msgid "Enable floating flyout toolbar"
+msgstr "Povolit plovoucí plovoucí panel nástrojů"
+
+#: admin/classes/folders.php:134
+msgid "Enable folders for post types"
+msgstr "Povolit složky pro typy příspěvků"
+
+#: admin/apps/content/content.php:127
+msgid "Enable private library mode"
+msgstr "Povolit režim soukromé knihovny"
+
+#: admin/apps/users/uip-users.php:99
+msgid "Enable recent page view logging"
+msgstr "Povolit protokolování posledního zobrazení stránky"
+
+#: admin/apps/users/uip-users.php:75
+msgid "Enable user activity log?"
+msgstr "Povolit protokol aktivity uživatele?"
+
+#: admin/apps/overview/analytics.php:808
+msgid "Engagement Rate"
+msgstr "Míra zapojení"
+
+#: admin/classes/uipress-app.php:3013
+msgid "Enqueue scripts"
+msgstr "Zařaďte skripty do fronty"
+
+#: admin/classes/uipress-app.php:3022
+msgid "Enqueue styles"
+msgstr "Styly fronty"
+
+#: admin/apps/overview/overview.php:1375
+msgid "Enter edit mode"
+msgstr "Vstupte do režimu úprav"
+
+#: admin/apps/overview/overview.php:755
+msgid "Event Count"
+msgstr "Počet událostí"
+
+#: admin/apps/overview/analytics.php:781
+msgid "Event Count By Event Name"
+msgstr "Počet událostí podle názvu události"
+
+#: admin/apps/overview/overview.php:756
+msgid "Event Name"
+msgstr "Název události"
+
+#: admin/apps/menu-creator/menu-creator.php:1327
+msgid "Exclusive"
+msgstr "Výhradní"
+
+#: admin/apps/overview/overview.php:1240
+msgid "Exit edit mode"
+msgstr "Ukončete režim úprav"
+
+#: admin/apps/overview/overview.php:842
+msgid "Exit Rate"
+msgstr "Rychlost odchodu"
+
+#: admin/apps/menu-creator/menu-creator.php:1217
+#: admin/apps/menu-creator/menu-creator.php:1718
+#: admin/apps/users/uip-users.php:559 admin/classes/settings.php:248
+#: admin/classes/styles.php:447
+msgid "Export"
+msgstr "Export"
+
+#: admin/apps/overview/overview.php:1275
+msgid "Export Layout"
+msgstr "Exportovat rozložení"
+
+#: admin/classes/uipress-app.php:1407
+msgid "Failed to fetch folder content"
+msgstr "Nepodařilo se načíst obsah složky"
+
+#: admin/apps/content/content.php:370
+msgid "Failed to upload file"
+msgstr "Nahrání souboru se nezdařilo"
+
+#: admin/apps/users/uip-users.php:302
+msgid "Fields"
+msgstr "Pole"
+
+#: admin/apps/content/content.php:196
+msgid "File Extension (attachments only)"
+msgstr "Přípona souboru (pouze přílohy)"
+
+#: admin/apps/overview/overview.php:750 admin/classes/uipress-app.php:1381
+msgid "File is to big"
+msgstr "Soubor je příliš velký"
+
+#: admin/apps/content/content.php:1498
+msgid "Filename Structure"
+msgstr "Struktura názvu souboru"
+
+#: admin/classes/uipress-app.php:1375
+msgid "files"
+msgstr "soubory"
+
+#: admin/apps/users/uip-users.php:294
+msgid "Filter by role"
+msgstr "Filtrujte podle role"
+
+#: admin/apps/content/content.php:1927
+msgid "Filters"
+msgstr "Filtry"
+
+#: admin/apps/content/content.php:1548
+msgid "Find"
+msgstr "Nalézt"
+
+#: admin/apps/content/content.php:208
+msgid "Find and Replace"
+msgstr "Najít a nahradit"
+
+#: admin/apps/users/uip-users.php:1226
+msgid "First Name"
+msgstr "Jméno"
+
+#: admin/apps/users/uip-users.php:324
+msgid "First name"
+msgstr "Jméno"
+
+#: admin/classes/uipress-app.php:272
+msgctxt "folder"
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: admin/classes/folders.php:589
+msgid "Folder created"
+msgstr "Složka vytvořena"
+
+#: admin/classes/folders.php:372
+msgid "Folder deleted"
+msgstr "Složka byla smazána"
+
+#: admin/classes/folders.php:433
+msgid "Folder moved"
+msgstr "Složka přesunuta"
+
+#: admin/classes/uipress-app.php:1369
+msgid "Folder Name"
+msgstr "Název složky"
+
+#: admin/classes/folders.php:536
+msgid "Folder updated"
+msgstr "Složka aktualizována"
+
+#: admin/classes/folders.php:112 admin/classes/uipress-app.php:453
+#: admin/classes/uipress-app.php:1367
+msgid "Folders"
+msgstr "Složky"
+
+#: admin/classes/folders.php:125
+msgid "Folders Disabled For"
+msgstr "Složky zakázány pro"
+
+#: admin/classes/styles.php:635
+msgid "Font"
+msgstr "Písmo"
+
+#: admin/classes/uipress-app.php:2653
+msgid "Footer Text"
+msgstr "Text zápatí"
+
+#: admin/apps/overview/overview.php:764
+msgid "From"
+msgstr "Z"
+
+#: admin/apps/overview/overview.php:871 admin/apps/overview/overview.php:880
+#: admin/apps/overview/overview.php:889 admin/apps/overview/overview.php:898
+#: admin/apps/overview/overview.php:907 admin/apps/overview/overview.php:916
+#: admin/apps/overview/overview.php:925 admin/apps/overview/overview.php:934
+#: admin/apps/overview/overview.php:943 admin/apps/overview/overview.php:952
+#: admin/classes/uipress-app.php:2526
+msgid "General"
+msgstr "Všeobecné"
+
+#: admin/classes/uipress-app.php:2527
+msgid "General options"
+msgstr "Obecné možnosti"
+
+#: admin/classes/styles.php:533
+msgid "Global"
+msgstr "Globální"
+
+#: admin/apps/overview/analytics.php:681
+msgid "Google Analytics disabled for"
+msgstr "Služba Google Analytics zakázána pro"
+
+#: admin/apps/users/uip-user-groups.php:45
+msgctxt "Group"
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: admin/apps/users/uip-user-groups.php:372
+msgid "Group created"
+msgstr "Skupina vytvořena"
+
+#: admin/apps/users/uip-user-groups.php:147
+msgid "Group deleted"
+msgstr "Skupina smazána"
+
+#: admin/apps/users/uip-users.php:402
+msgid "Group icon"
+msgstr "Ikona skupiny"
+
+#: admin/apps/users/uip-user-groups.php:208
+msgid "Group moved"
+msgstr "Skupina se přesunula"
+
+#: admin/apps/users/uip-users.php:392
+msgid "Group name"
+msgstr "Skupinové jméno"
+
+#: admin/apps/users/uip-user-groups.php:318
+msgid "Group updated"
+msgstr "Skupina aktualizována"
+
+#: admin/apps/users/uip-users.php:383 admin/apps/users/uip-users.php:387
+#: admin/apps/users/uip-users.php:1250
+msgid "Groups"
+msgstr "Skupiny"
+
+#: admin/apps/overview/overview.php:1038
+msgid "Hello"
+msgstr "Ahoj"
+
+#: admin/classes/uipress-app.php:1347
+msgid "hidden notifications"
+msgstr "skrytá upozornění"
+
+#: admin/classes/uipress-app.php:2635
+#, php-format
+msgid "Hide %s from plugin table"
+msgstr "Skrýt %s z tabulky pluginů"
+
+#: admin/classes/uipress-app.php:2795
+msgid "Hide admin bar links (left side)"
+msgstr "Skrýt odkazy na administrátorské liště (levá strana)"
+
+#: admin/classes/uipress-app.php:1343
+msgid "Hide admin bar links (left)"
+msgstr "Skrýt odkazy na administrátorské liště (vlevo)"
+
+#: admin/classes/uipress-app.php:2852
+msgid "Hide admin bar on front end"
+msgstr "Skrýt administrátorskou lištu na přední straně"
+
+#: admin/apps/overview/overview.php:800
+msgid "Hide card title"
+msgstr "Skrýt název karty"
+
+#: admin/apps/overview/overview.php:742
+msgid "Hide Chart"
+msgstr "Skrýt graf"
+
+#: admin/classes/uipress-app.php:2644
+msgid "Hide Footer"
+msgstr "Skrýt zápatí"
+
+#: admin/classes/uipress-app.php:1322
+msgid "Hide Icons"
+msgstr "Skrýt ikony"
+
+#: admin/apps/overview/overview.php:739
+msgid "Hide Map"
+msgstr "Skrýt mapu"
+
+#: admin/classes/uipress-app.php:1346
+msgid "Hide notification"
+msgstr "Skrýt oznámení"
+
+#: admin/classes/uipress-app.php:1321
+msgid "Hide search bar"
+msgstr "Skrýt vyhledávací lištu"
+
+#: admin/apps/overview/overview.php:1427
+msgid "Hide section title"
+msgstr "Skrýt název sekce"
+
+#: admin/classes/uipress-app.php:2645
+msgid "Hide the footer text that shows at the bottom of every admin page"
+msgstr ""
+"Skryjte text zápatí, který se zobrazuje v dolní části každé stránky správce"
+
+#: admin/apps/users/uip-history.php:149
+msgctxt "history"
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: admin/apps/overview/overview.php:1321
+msgid "Home"
+msgstr "Domov"
+
+#: admin/apps/overview/overview.php:734 admin/apps/overview/overview.php:741
+msgid "Horizontal Bar"
+msgstr "Hrazda"
+
+#: admin/apps/users/uip-users.php:108
+msgid "How long to keep history?"
+msgstr "Jak dlouho uchovávat historii?"
+
+#: admin/apps/overview/overview.php:721
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/classes/uipress-app.php:3051
+msgid "HTML for document head"
+msgstr "HTML pro hlavičku dokumentu"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#: admin/apps/overview/overview.php:709
+msgid "I am an empty column. Drag cards into me."
+msgstr "Jsem prázdný sloupec. Vtáhněte do mě karty."
+
+#: admin/apps/menu-creator/menu-creator.php:1677
+msgid "Icon"
+msgstr "Ikona"
+
+#: admin/apps/users/uip-users.php:1315
+msgid "ID"
+msgstr "ID"
+
+#: admin/classes/uipress-app.php:2862
+msgid "If disabled, notifcations will show in the normal way"
+msgstr "Pokud je zakázáno, budou se upozornění zobrazovat normálním způsobem"
+
+#: admin/apps/admin-pages/admin-pages.php:256
+msgid "If disabled, the admin pages will not be available to any users."
+msgstr ""
+"Pokud je tato možnost zakázána, administrátorské stránky nebudou dostupné "
+"žádnému uživateli."
+
+#: admin/apps/content/content.php:102
+msgid "If disabled, the content page will not be available to any users."
+msgstr ""
+"Pokud je zakázáno, stránka s obsahem nebude dostupná pro žádné uživatele."
+
+#: admin/apps/menu-creator/menu-creator.php:411
+msgid "If disabled, the menu creator will not be available to any users."
+msgstr "Pokud je zakázáno, tvůrce menu nebude dostupný pro žádné uživatele."
+
+#: admin/apps/users/uip-users.php:59
+msgid ""
+"If disabled, the user management page will not be available to any users."
+msgstr ""
+"Pokud je tato možnost zakázána, stránka správy uživatelů nebude dostupná pro "
+"žádné uživatele."
+
+#: admin/classes/uipress-app.php:2708
+#, php-format
+msgid ""
+"If enabled, %s menu will load on the front end. Please note, this will not "
+"work on all themes and styling will vary"
+msgstr ""
+"Pokud je povoleno, načte se %s nabídka na frontendu. Upozorňujeme, že to "
+"nebude fungovat u všech témat a styl se bude lišit"
+
+#: admin/classes/uipress-app.php:2844
+#, php-format
+msgid ""
+"If enabled, %s toolbar will load on the front end. Please note, this will "
+"not work on all themes and styling will vary"
+msgstr ""
+"Pokud je povoleno, načte se %s panel nástrojů do frontendu. Upozorňujeme, že "
+"to nebude fungovat u všech témat a styl se bude lišit"
+
+#: admin/classes/uipress-app.php:2636
+#, php-format
+msgid "If enabled, %s will be hidden from the plugin table"
+msgstr "Pokud je povoleno, %s bude skryto v tabulce pluginů"
+
+#: admin/classes/uipress-app.php:2533
+msgid "If enabled, all settings applied here will be pushed to subsites."
+msgstr ""
+"Pokud je povoleno, všechna zde použitá nastavení budou přenesena na "
+"podřízené weby."
+
+#: admin/classes/uipress-app.php:2561
+msgid "If enabled, dark mode switch will not be available."
+msgstr "Pokud je povoleno, přepínač tmavého režimu nebude k dispozici."
+
+#: admin/classes/uipress-app.php:2543
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr ""
+"Je-li povoleno, tmavý režim bude ve výchozím nastavení nastaven na hodnotu "
+"true pro uživatele, kteří nenastavili předvolbu."
+
+#: admin/classes/uipress-app.php:2853
+msgid "If enabled, front end admin bar will not load."
+msgstr "Je-li povoleno, lišta pro správu frontend se nenačte."
+
+#: admin/classes/uipress-app.php:2758
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"Je-li tato možnost povolena, bude nabídka výchozím nastavením na zmenšenou "
+"nabídku pro uživatele, kteří nenastavili předvolbu."
+
+#: admin/classes/uipress-app.php:2570
+msgid ""
+"If enabled, the overview page will be the homepage when logging in and when "
+"accessing the admin area."
+msgstr ""
+"Pokud je tato možnost povolena, při přihlašování a při přístupu do oblasti "
+"pro správu bude hlavní stránkou přehledová stránka."
+
+#: admin/classes/uipress-app.php:2580
+msgid ""
+"If enabled, the page you choose will be the homepage when logging in and "
+"when accessing the admin area. For admin pages use a relative URL (path "
+"after /wp-admin/), for other pages use an absolute URL"
+msgstr ""
+"Pokud je povoleno, zvolená stránka bude domovskou stránkou při přihlašování "
+"a při přístupu do oblasti pro správu. Pro administrátorské stránky použijte "
+"relativní URL (cesta za /wp-admin/), pro ostatní stránky použijte absolutní "
+"URL"
+
+#: admin/classes/uipress-app.php:2742
+msgid ""
+"If enabled, the site title will be displayed in the menu next to the logo"
+msgstr "Je-li povoleno, název webu se zobrazí v nabídce vedle loga"
+
+#: admin/apps/users/uip-users.php:76
+msgid ""
+"If enabled, uipress will log actions taken by all users, including page "
+"views, comments, post creation etc."
+msgstr ""
+"Pokud je povoleno, uipress bude zaznamenávat akce provedené všemi uživateli, "
+"včetně zobrazení stránek, komentářů, vytváření příspěvků atd."
+
+#: admin/apps/overview/overview.php:156
+msgid ""
+"If you are using google analytics commerce reports, enter the currency "
+"symbol your reports are in here"
+msgstr ""
+"Pokud používáte obchodní přehledy služby Google Analytics, zadejte zde "
+"symbol měny, ve které jsou vaše přehledy"
+
+#: admin/apps/content/content.php:337
+msgid "Image Saved"
+msgstr "Obrázek uložen"
+
+#: admin/apps/users/uip-users.php:565 admin/classes/settings.php:242
+#: admin/classes/styles.php:442
+msgid "Import"
+msgstr "Import"
+
+#: admin/apps/overview/overview.php:1374
+msgid "Import default template"
+msgstr "Importovat výchozí šablonu"
+
+#: admin/apps/overview/overview.php:1284
+msgid "Import Layout"
+msgstr "Importovat rozložení"
+
+#: admin/apps/menu-creator/menu-creator.php:1727
+msgid "Import Menu"
+msgstr "Nabídka Import"
+
+#: admin/classes/update.php:72 admin/classes/update.php:103
+msgid "Import settings"
+msgstr "Importovat nastavení"
+
+#: admin/classes/uipress-app.php:1391
+msgid "Import started"
+msgstr "Import byl zahájen"
+
+#: admin/classes/uipress-app.php:1402
+msgid "Import Theme"
+msgstr "Import motivu"
+
+#: admin/apps/menu-creator/menu-creator.php:1334
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"V exkluzivním režimu se tato nabídka načte pro každého uživatele kromě níže "
+"vybraných uživatelských jmen a rolí."
+
+#: admin/apps/menu-creator/menu-creator.php:1331
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr ""
+"V inkluzivním režimu se tato nabídka načte pro všechna níže vybraná "
+"uživatelská jména a role."
+
+#: admin/apps/overview/overview.php:699
+msgid "In the"
+msgstr "V"
+
+#: admin/apps/overview/overview.php:828
+msgid "In the last"
+msgstr "V posledním"
+
+#: admin/classes/uipress-app.php:1171
+msgid "inactive"
+msgstr "neaktivní"
+
+#: admin/apps/overview/overview.php:492
+msgid "Inactive Plugins"
+msgstr "Neaktivní pluginy"
+
+#: admin/apps/menu-creator/menu-creator.php:1323
+msgid "Inclusive"
+msgstr "Včetně"
+
+#: admin/apps/overview/overview.php:497
+msgid "Installed Themes"
+msgstr "Nainstalované motivy"
+
+#: admin/apps/users/uip-users.php:1327
+msgid "IP Address"
+msgstr "IP adresa"
+
+#: admin/apps/overview/overview.php:1369
+msgid "It's a little quiet around here"
+msgstr "Je tady trochu ticho"
+
+#: admin/apps/users/uip-user-groups.php:241
+msgid "Item moved"
+msgstr "Položka přesunuta"
+
+#: admin/apps/content/content.php:968
+msgid "Item updated"
+msgstr "Položka aktualizována"
+
+#: admin/apps/content/content.php:1987
+msgid "items"
+msgstr "položky"
+
+#: admin/apps/content/content.php:774
+msgid "Items deleted successfully"
+msgstr "Položky byly úspěšně smazány"
+
+#: admin/apps/content/content.php:460
+msgid "Items duplicated successfully"
+msgstr "Položky byly úspěšně duplikovány"
+
+#: admin/apps/content/content.php:1954
+msgid "Items Per Page"
+msgstr "Položek na stránce"
+
+#: admin/apps/content/content.php:2560
+msgid "items selected"
+msgstr "vybrané položky"
+
+#: admin/apps/content/content.php:1007
+msgid "Items updated"
+msgstr "Položky aktualizovány"
+
+#: admin/apps/content/content.php:400
+msgid "Items uploaded"
+msgstr "Položky nahrané"
+
+#: admin/apps/content/content.php:777
+msgid "Itms couldn't be deleted"
+msgstr "Položky se nepodařilo smazat"
+
+#: admin/apps/content/content.php:463
+msgid "Itms couldn't be duplicated"
+msgstr "Itms nebylo možné duplikovat"
+
+#: admin/classes/uipress-app.php:3042
+msgid ""
+"JavaScript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr ""
+"JavaScript přidaný zde bude načten na každé stránce administrátora i na "
+"přihlašovací stránce"
+
+#: admin/apps/content/content.php:1424
+msgid "Keep existing categories"
+msgstr "Zachovat stávající kategorie"
+
+#: admin/apps/content/content.php:1439
+msgid "Keep existing tags"
+msgstr "Ponechat stávající značky"
+
+#: admin/apps/overview/overview.php:707
+msgid "large (3/4)"
+msgstr "velký (3/4)"
+
+#: admin/classes/uipress-app.php:1394
+msgid "Last 30 Days"
+msgstr "Posledních 30 dní"
+
+#: admin/apps/overview/overview.php:773
+msgid "Last 30 days"
+msgstr "Posledních 30 dní"
+
+#: admin/apps/overview/overview.php:774
+msgid "Last 60 days"
+msgstr "Posledních 60 dní"
+
+#: admin/classes/uipress-app.php:1393
+msgid "Last 7 Days"
+msgstr "Posledních 7 dní"
+
+#: admin/apps/overview/overview.php:772
+msgid "Last 7 days"
+msgstr "Posledních 7 dní"
+
+#: admin/apps/overview/overview.php:775
+msgid "Last 90 days"
+msgstr "Posledních 90 dní"
+
+#: admin/apps/users/uip-users.php:1238
+msgid "Last Login"
+msgstr "Poslední přihlášení"
+
+#: admin/apps/users/uip-users.php:317
+msgid "Last login"
+msgstr "Poslední přihlášení"
+
+#: admin/apps/overview/overview.php:777 admin/classes/uipress-app.php:1396
+msgid "Last Month"
+msgstr "Minulý měsíc"
+
+#: admin/apps/users/uip-users.php:1232
+msgid "Last Name"
+msgstr "Příjmení"
+
+#: admin/apps/users/uip-users.php:325
+msgid "Last name"
+msgstr "Příjmení"
+
+#: admin/apps/overview/overview.php:751
+msgid "Layout Imported"
+msgstr "Rozložení importováno"
+
+#: admin/classes/uipress-app.php:1401
+msgid "Library"
+msgstr "Knihovna"
+
+#: admin/classes/settings.php:445
+msgid "Licence removed"
+msgstr "Licence odebrána"
+
+#: admin/apps/overview/overview.php:727
+msgid "Line Chart"
+msgstr "Spojnicový graf"
+
+#: admin/apps/menu-creator/menu-creator.php:1656
+#: admin/apps/menu-creator/menu-creator.php:1657
+msgid "Link"
+msgstr "Odkaz"
+
+#: admin/classes/styles.php:1159
+msgid "Link Hover Text Color"
+msgstr "Barva textu po najetí myší"
+
+#: admin/classes/uipress-app.php:2843
+#, php-format
+msgid "Load %s admin bar on front end"
+msgstr "Načíst %s admin bar na frontendu"
+
+#: admin/classes/uipress-app.php:2707
+#, php-format
+msgid "Load %s Menu on front end"
+msgstr "Načíst %s Menu na frontendu"
+
+#: admin/apps/content/content.php:2483
+msgid "Load More"
+msgstr "Načíst další"
+
+#: admin/apps/users/uip-users.php:938
+#, php-format
+msgid "Logged in with ip address %s. Country: %s"
+msgstr "Přihlášen s IP adresou %s. Země: %s"
+
+#: admin/apps/users/uip-users.php:946
+#, php-format
+msgid "Logged out with ip address %s. Country: %s"
+msgstr "Odhlášen s IP adresou %s. Země: %s"
+
+#: admin/classes/styles.php:1267 admin/classes/uipress-app.php:2944
+msgid "Login"
+msgstr "Přihlásit se"
+
+#: admin/classes/uipress-app.php:2982
+msgid "Login Background"
+msgstr "Pozadí přihlášení"
+
+#: admin/apps/users/uip-users.php:318
+msgid "Login location"
+msgstr "Místo přihlášení"
+
+#: admin/classes/uipress-app.php:2974
+msgid "Login Logo"
+msgstr "Logo přihlášení"
+
+#: admin/classes/uipress-app.php:2699
+msgid "Logo Dark Mode"
+msgstr "Tmavý režim loga"
+
+#: admin/classes/styles.php:1120
+msgid "Logo Height"
+msgstr "Výška loga"
+
+#: admin/classes/uipress-app.php:2691
+msgid "Logo Light Mode"
+msgstr "Světelný režim loga"
+
+#: admin/classes/uipress-app.php:1344
+msgid "Logout"
+msgstr "Odhlásit se"
+
+#: admin/apps/users/uip-users.php:403
+msgid "Logout everywhere else"
+msgstr "Všude jinde se odhlaste"
+
+#: admin/apps/overview/overview.php:1371
+msgid ""
+"Looks like you haven't created a dashboard yet. Enter edit mode to get "
+"started or import a default template"
+msgstr ""
+"Zdá se, že jste ještě nevytvořili panel. Chcete-li začít, přejděte do režimu "
+"úprav nebo importujte výchozí šablonu"
+
+#: admin/apps/menu-creator/menu-creator.php:1142
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "Zdá se, že jste ještě nevytvořili žádné nabídky správce"
+
+#: admin/classes/uipress-app.php:1405
+msgid "Made by"
+msgstr "Vyrobeno"
+
+#: admin/apps/users/uip-users.php:553
+msgid "Manage"
+msgstr "Spravovat"
+
+#: admin/apps/admin-pages/admin-pages.php:131
+msgid "Manually add to menu?"
+msgstr "Přidat ručně do nabídky?"
+
+#: admin/apps/overview/overview.php:811
+msgid "Match Card Height"
+msgstr "Srovnat výšku karty"
+
+#: admin/apps/overview/overview.php:1419
+msgid "Match Column Height"
+msgstr "Porovnat výšku sloupce"
+
+#: admin/apps/overview/overview.php:835
+msgid "Matomo Site ID"
+msgstr "ID webu Matomo"
+
+#: admin/apps/overview/overview.php:834
+msgid "Matomo Url"
+msgstr "Adresa URL Matomo"
+
+#: admin/classes/folders.php:173
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "Menu"
+
+#: admin/classes/folders.php:171
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "Akce"
+
+#: admin/apps/content/content.php:2056 admin/apps/content/content.php:2059
+msgid "Media Types"
+msgstr "Typy médií"
+
+#: admin/apps/overview/overview.php:705
+msgid "medium (1/2)"
+msgstr "střední (1/2)"
+
+#: admin/apps/overview/overview.php:706
+msgid "medium large (2/3)"
+msgstr "středně velké (2/3)"
+
+#: admin/classes/styles.php:973 admin/classes/uipress-app.php:2669
+msgid "Menu"
+msgstr "Menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1319
+msgid "Menu Applies to"
+msgstr "Nabídka Platí pro"
+
+#: admin/apps/menu-creator/menu-creator.php:405
+#: admin/apps/menu-creator/menu-creator.php:1044
+#: admin/apps/menu-creator/menu-creator.php:1052
+#: admin/apps/menu-creator/menu-creator.php:1131
+#: admin/apps/menu-creator/menu-creator.php:1699
+msgid "Menu Creator"
+msgstr "Tvůrce menu"
+
+#: admin/apps/menu-creator/menu-creator.php:1264
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"Tvůrce menu není optimalizován pro mobilní zařízení. Nejlepších výsledků "
+"dosáhnete přepnutím na větší obrazovku"
+
+#: admin/apps/menu-creator/menu-creator.php:796
+msgid "Menu deleted"
+msgstr "Nabídka smazána"
+
+#: admin/classes/uipress-app.php:2682
+msgid "Menu Disabled for"
+msgstr "Nabídka zakázána pro"
+
+#: admin/apps/menu-creator/menu-creator.php:844
+msgid "Menu duplicated"
+msgstr "Nabídka duplikována"
+
+#: admin/apps/admin-pages/admin-pages.php:121
+msgid "Menu Icon"
+msgstr "Ikona nabídky"
+
+#: admin/apps/menu-creator/menu-creator.php:1279
+msgid "Menu Items"
+msgstr "Položky nabídky"
+
+#: admin/apps/menu-creator/menu-creator.php:1314
+#: admin/apps/menu-creator/menu-creator.php:1315
+msgid "Menu Name"
+msgstr "Název nabídky"
+
+#: admin/classes/uipress-app.php:1320
+msgid "Menu Preferences"
+msgstr "Předvolby nabídky"
+
+#: admin/apps/menu-creator/menu-creator.php:917
+msgid "Menu Saved"
+msgstr "Nabídka uložena"
+
+#: admin/apps/menu-creator/menu-creator.php:1283
+msgid "Menu Settings"
+msgstr "Nastavení nabídky"
+
+#: admin/apps/users/uip-users.php:341
+msgid "Message"
+msgstr "Zpráva"
+
+#: admin/classes/update.php:180
+msgid "Message dismissed"
+msgstr "Zpráva byla zamítnuta"
+
+#: admin/apps/users/uip-users-ajax.php:1185
+msgid "Message is required"
+msgstr "Zpráva je povinná"
+
+#: admin/apps/users/uip-users-ajax.php:1237
+msgid "Message sent"
+msgstr "Zpráva odeslána"
+
+#: admin/apps/content/content.php:1799
+msgid "Meta Data"
+msgstr "Metadata"
+
+#: admin/apps/content/content.php:1481
+msgid "Meta Key"
+msgstr "Meta klíč"
+
+#: admin/apps/content/content.php:1487
+msgid "Meta Key Name"
+msgstr "Název meta klíče"
+
+#: admin/apps/content/content.php:1546
+msgid "Meta key Name"
+msgstr "Název meta klíče"
+
+#: admin/apps/content/content.php:204
+msgid "Meta Value"
+msgstr "Meta hodnota"
+
+#: admin/apps/users/uip-users.php:787
+msgid "Modified post"
+msgstr "Upravený příspěvek"
+
+#: admin/apps/overview/overview.php:822
+msgid "Move Column Down"
+msgstr "Přesunout sloupec dolů"
+
+#: admin/apps/overview/overview.php:823
+msgid "Move Column Up"
+msgstr "Přesunout sloupec nahoru"
+
+#: admin/apps/users/uip-users.php:886
+msgid "Moved a comment to the trash"
+msgstr "Přesunul komentář do koše"
+
+#: admin/apps/users/uip-users.php:808
+msgid "Moved post to trash"
+msgstr "Příspěvek byl přesunut do koše"
+
+#: admin/classes/styles.php:558
+msgid "Muted Background"
+msgstr "Ztlumené pozadí"
+
+#: admin/classes/styles.php:569
+msgid "Muted Background Accent"
+msgstr "Ztlumený akcent na pozadí"
+
+#: admin/apps/content/content.php:1480 admin/apps/content/content.php:2323
+#: admin/apps/menu-creator/menu-creator.php:1151
+#: admin/apps/menu-creator/menu-creator.php:1651
+#: admin/apps/menu-creator/menu-creator.php:1652
+#: admin/apps/users/uip-users.php:311 admin/apps/users/uip-users.php:389
+#: admin/apps/users/uip-users.php:1213 admin/classes/uipress-app.php:1371
+msgid "Name"
+msgstr "název"
+
+#: admin/classes/uipress-app.php:2532
+msgid "Network Override"
+msgstr "Přepsání sítě"
+
+#: admin/apps/content/content.php:1580
+#: admin/apps/menu-creator/menu-creator.php:1136
+msgid "New"
+msgstr "Nový"
+
+#: admin/apps/menu-creator/menu-creator.php:657
+msgid "New Admin Menu"
+msgstr "Nové menu správce"
+
+#: admin/apps/admin-pages/admin-pages.php:326
+msgid "New Admin Page"
+msgstr "Nová stránka správce"
+
+#: admin/apps/menu-creator/menu-creator.php:1358
+msgid "New Custom Link"
+msgstr "Nový vlastní odkaz"
+
+#: admin/classes/uipress-app.php:274 admin/classes/uipress-app.php:1368
+msgid "New Folder"
+msgstr "Nová složka"
+
+#: admin/apps/users/uip-user-groups.php:47
+msgid "New Group"
+msgstr "Nová skupina"
+
+#: admin/apps/users/uip-users.php:388
+msgid "New group"
+msgstr "Nová skupina"
+
+#: admin/apps/users/uip-history.php:151
+msgid "New History"
+msgstr "Nová historie"
+
+#: admin/apps/users/uip-users.php:361
+msgid "New role"
+msgstr "Nová role"
+
+#: admin/apps/overview/overview.php:1191 admin/apps/overview/overview.php:1234
+msgid "New Section"
+msgstr "Nová sekce"
+
+#: admin/apps/menu-creator/menu-creator.php:1355
+msgid "New Separator"
+msgstr "Nový separátor"
+
+#: admin/apps/content/content.php:1540
+msgid "New Text"
+msgstr "Nový Text"
+
+#: admin/apps/users/uip-users.php:344
+msgid "New user"
+msgstr "Nový uživatel"
+
+#: admin/apps/users/uip-users.php:1039
+#, php-format
+msgid "New user created with username (%s) and email (%s)"
+msgstr "Byl vytvořen nový uživatel s uživatelským jménem (%s) a e-mailem (%s)"
+
+#: admin/apps/overview/analytics.php:826
+msgid "New vs Returning Users"
+msgstr "Noví vs. vracející se uživatelé"
+
+#: admin/apps/users/uip-users.php:292 admin/apps/users/uip-users.php:315
+msgid "Next"
+msgstr "další"
+
+#: admin/apps/menu-creator/menu-creator.php:663
+msgid "No Admin Menus found in Trash."
+msgstr "V koši nebyly nalezeny žádné nabídky správce."
+
+#: admin/apps/menu-creator/menu-creator.php:662
+msgid "No Admin Menus found."
+msgstr "Nebyly nalezeny žádné nabídky správce."
+
+#: admin/apps/admin-pages/admin-pages.php:332
+msgid "No Admin Pages found in Trash."
+msgstr "V koši nebyly nalezeny žádné stránky správce."
+
+#: admin/apps/admin-pages/admin-pages.php:331
+msgid "No Admin Pages found."
+msgstr "Nebyly nalezeny žádné stránky správce."
+
+#: admin/apps/overview/overview.php:738
+msgid "No Background"
+msgstr "Žádné pozadí"
+
+#: admin/apps/overview/overview.php:454
+msgid "No comments during the date range."
+msgstr "Žádné komentáře během časového období."
+
+#: admin/apps/content/content.php:2492
+msgid "No content found"
+msgstr "Nebyl nalezen žádný obsah"
+
+#: admin/apps/content/content.php:799 admin/classes/folders.php:452
+#: admin/classes/folders.php:484
+msgid "No content to move"
+msgstr "Žádný obsah k pohybu"
+
+#: admin/apps/users/uip-users-ajax.php:1200
+msgid "No email to send message to."
+msgstr "Žádný e-mail k odeslání zprávy."
+
+#: admin/classes/uipress-app.php:1366
+msgid "No folder"
+msgstr "Žádná složka"
+
+#: admin/classes/folders.php:311
+msgid "No folder to delete"
+msgstr "Žádná složka k odstranění"
+
+#: admin/classes/uipress-app.php:280
+msgid "No Folders found in Trash."
+msgstr "V koši nebyly nalezeny žádné složky."
+
+#: admin/classes/uipress-app.php:279
+msgid "No Folders found."
+msgstr "Nebyly nalezeny žádné složky."
+
+#: admin/apps/users/uip-users.php:385
+msgid "No group"
+msgstr "Žádná skupina"
+
+#: admin/apps/users/uip-user-groups.php:80
+msgid "No group to delete"
+msgstr "Žádná skupina ke smazání"
+
+#: admin/apps/users/uip-users.php:386
+msgid "No groups created yet."
+msgstr "Dosud nebyly vytvořeny žádné skupiny."
+
+#: admin/apps/users/uip-user-groups.php:53
+msgid "No Groups found in Trash."
+msgstr "V koši nebyly nalezeny žádné skupiny."
+
+#: admin/apps/users/uip-user-groups.php:52
+msgid "No Groups found."
+msgstr "Nebyly nalezeny žádné skupiny."
+
+#: admin/apps/users/uip-history.php:157
+msgid "No History found in Trash."
+msgstr "V koši nebyla nalezena žádná historie."
+
+#: admin/apps/users/uip-history.php:156
+msgid "No History found."
+msgstr "Nebyla nalezena žádná historie."
+
+#: admin/apps/users/uip-user-groups.php:227
+msgid "No item to move"
+msgstr "Žádná položka k přesunu"
+
+#: admin/classes/settings.php:413
+msgid "No licence key provided"
+msgstr "Nebyl poskytnut žádný licenční klíč"
+
+#: admin/classes/folders.php:118
+msgid "No media folders will be displayed when this option is activated."
+msgstr "Když je tato možnost aktivována, nebudou zobrazeny žádné složky médií."
+
+#: admin/apps/content/content.php:501 admin/apps/content/content.php:543
+msgid "No Meta Key provided"
+msgstr "Nebyl poskytnut žádný meta klíč"
+
+#: admin/apps/overview/woocommerce.php:191
+msgid "No orders during the date range."
+msgstr "Žádné objednávky v daném období."
+
+#: admin/apps/overview/overview.php:267
+msgid "No posts posted during the date range."
+msgstr "Během časového období nebyly přidány žádné příspěvky."
+
+#: admin/apps/content/content.php:266 admin/classes/uipress-app.php:1731
+#: admin/classes/uipress-app.php:2073
+msgid "No preferences supplied to save"
+msgstr "Nebyly zadány žádné předvolby k uložení"
+
+#: admin/apps/overview/woocommerce.php:272
+msgid "No products sold during the date range."
+msgstr "V daném časovém období nebyly prodány žádné produkty."
+
+#: admin/apps/users/uip-users.php:319
+msgid "No recent activity"
+msgstr "Žádná nedávná aktivita"
+
+#: admin/apps/users/uip-users-ajax.php:589
+msgid "No roles sent to update"
+msgstr "Nebyly odeslány žádné role k aktualizaci"
+
+#: admin/apps/users/uip-users-ajax.php:824
+msgid "No roles to delete"
+msgstr "Žádné role ke smazání"
+
+#: admin/classes/update.php:204
+msgid "No settings to import"
+msgstr "Žádná nastavení k importu"
+
+#: admin/classes/update.php:162
+msgid "No Updates available"
+msgstr "Nejsou k dispozici žádné aktualizace"
+
+#: admin/apps/users/uip-users-ajax.php:1299
+msgid "No users sent to delete!"
+msgstr "Žádní uživatelé nebyli odesláni ke smazání!"
+
+#: admin/apps/users/uip-users-ajax.php:1121
+msgid "No users sent to reset passwords!"
+msgstr "Žádní uživatelé nebyli odesláni k resetování hesel!"
+
+#: admin/apps/users/uip-users-ajax.php:583
+msgid "No users sent to update"
+msgstr "Žádní uživatelé nebyli odesláni k aktualizaci"
+
+#: admin/apps/users/uip-user-groups.php:259
+msgid "No users to move"
+msgstr "Žádní uživatelé k přesunu"
+
+#: admin/classes/uipress-app.php:1331 admin/classes/uipress-app.php:1359
+msgid "Nothing found"
+msgstr "Nic nalezeno"
+
+#: admin/apps/menu-creator/menu-creator.php:995 admin/classes/settings.php:361
+msgid "Nothing found for term:"
+msgstr "Nebylo nalezeno nic pro výraz:"
+
+#: admin/classes/styles.php:679
+msgid "Notification Background"
+msgstr "Pozadí oznámení"
+
+#: admin/classes/uipress-app.php:1345
+msgid "Notifications"
+msgstr "Oznámení"
+
+#: admin/classes/uipress-app.php:1349
+msgid "Notifiction Hidden"
+msgstr "Oznámení skryté"
+
+#: admin/apps/content/content.php:1984
+msgid "of"
+msgstr "z"
+
+#: admin/apps/users/uip-users.php:304
+msgid "On"
+msgstr "Na"
+
+#: admin/apps/users/uip-history.php:132
+msgid "Once every 1 minutes"
+msgstr "Jednou za 1 minutu"
+
+#: admin/classes/uipress-app.php:2716
+#, php-format
+msgid "Only Load %s Menu on front end for"
+msgstr "Načíst pouze %s Menu na frontendu pro"
+
+#: admin/classes/uipress-app.php:2717
+msgid "Only load front end menu for selected roles and usernames"
+msgstr "Načíst pouze frontendovou nabídku pro vybrané role a uživatelská jména"
+
+#: admin/classes/uipress-app.php:2888
+msgid "Only show notifications to"
+msgstr "Zobrazovat upozornění pouze pro"
+
+#: admin/classes/uipress-app.php:2897
+msgid "Only show updates to"
+msgstr "Zobrazovat aktualizace pouze pro"
+
+#: admin/apps/content/content.php:119
+msgid "Only the selected post types will be available in the content page."
+msgstr "Na stránce s obsahem budou dostupné pouze vybrané typy příspěvků."
+
+#: admin/classes/uipress-app.php:2880
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr ""
+"V rozevíracím seznamu pro vytvoření se zobrazí pouze vybrané typy příspěvků."
+
+#: admin/apps/users/uip-users.php:404
+msgid "Open profile"
+msgstr "Otevřít profil"
+
+#: admin/classes/uipress-app.php:2827
+msgid "Open View Website in new tab"
+msgstr "Otevřete Zobrazit web na nové kartě"
+
+#: admin/apps/menu-creator/menu-creator.php:1667
+msgid "Opens in new tab?"
+msgstr "Otevře se na nové kartě?"
+
+#: admin/apps/users/uip-users.php:1419
+msgid "Option change"
+msgstr "Změna možnosti"
+
+#: admin/classes/uipress-app.php:2700
+msgid "Optional dark mode logo for admin bar."
+msgstr "Volitelné logo tmavého režimu pro administrátorskou lištu."
+
+#: admin/classes/uipress-app.php:2734
+msgid "Optional dark nmode logo for when the menu is collapsed."
+msgstr "Volitelné tmavé logo nmode, když je nabídka sbalená."
+
+#: admin/classes/uipress-app.php:2726
+msgid "Optional logo for when the menu is collapsed."
+msgstr "Volitelné logo, když je nabídka sbalená."
+
+#: admin/apps/users/uip-users.php:297
+msgid "Order"
+msgstr "Objednat"
+
+#: admin/apps/overview/overview.php:805
+msgid "Orders"
+msgstr "Objednávky"
+
+#: admin/apps/overview/overview.php:806
+msgid "Orders (comparison period)."
+msgstr "Zakázky (srovnávací období)."
+
+#: admin/apps/users/uip-users-ajax.php:636
+msgid "Original role name required"
+msgstr "Je vyžadován původní název role"
+
+#: admin/apps/content/content.php:184
+msgid "Original Title / Value"
+msgstr "Původní název / hodnota"
+
+#: admin/classes/uipress-app.php:1330
+msgid "other matches"
+msgstr "další zápasy"
+
+#: admin/apps/overview/overview.php:924
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "Vyšle na kartu krátký kód WordPress"
+
+#: admin/apps/overview/overview.php:933
+msgid "Outputs custom HTML to the card"
+msgstr "Výstup vlastního HTML na kartu"
+
+#: admin/apps/overview/overview.php:106 admin/apps/overview/overview.php:1150
+msgid "Overview"
+msgstr "Přehled"
+
+#: admin/apps/overview/overview.php:119
+msgid "Overview Page Disabled For"
+msgstr "Stránka přehledu zakázána pro"
+
+#: admin/apps/overview/overview.php:120
+msgid "Overview Page will be disabled for any users or roles you select"
+msgstr ""
+"Stránka Přehled bude deaktivována pro všechny uživatele nebo role, které "
+"vyberete"
+
+#: admin/apps/overview/overview.php:112
+msgid "Overview page will be hidden when this option is activated."
+msgstr "Když je tato možnost aktivována, stránka přehledu se skryje."
+
+#: admin/classes/styles.php:1108
+msgid "Padding"
+msgstr "Vycpávka"
+
+#: admin/apps/overview/overview.php:744
+msgid "Page"
+msgstr "Strana"
+
+#: admin/classes/styles.php:931
+msgid "Page Action Button Background Colour"
+msgstr "Barva pozadí tlačítka akce stránky"
+
+#: admin/classes/styles.php:919
+msgid "Page Action Button Border Colour"
+msgstr "Barva ohraničení tlačítka akce stránky"
+
+#: admin/classes/styles.php:943
+msgid "Page Action Button Hover Background Colour"
+msgstr "Tlačítko Akce na stránce Barva pozadí po najetí kurzorem"
+
+#: admin/classes/styles.php:955
+msgid "Page Action Button Text Colour"
+msgstr "Barva textu tlačítka Akce stránky"
+
+#: admin/apps/overview/overview.php:827
+msgid "Page Settings"
+msgstr "Nastavení stránky"
+
+#: admin/apps/overview/analytics.php:608 admin/apps/overview/analytics.php:709
+msgid "Page Speed"
+msgstr "Rychlost stránky"
+
+#: admin/apps/overview/analytics.php:616
+msgid "Page Speed (comparison period)"
+msgstr "Rychlost stránky (srovnávací období)"
+
+#: admin/apps/users/uip-users.php:753 admin/apps/users/uip-users.php:1370
+msgid "Page view"
+msgstr "Zobrazení stránky"
+
+#: admin/apps/overview/analytics.php:383 admin/apps/overview/analytics.php:700
+#: admin/apps/overview/overview.php:759
+msgid "Page Views"
+msgstr "Zobrazení stránky"
+
+#: admin/apps/overview/overview.php:760
+msgid "Page Views  (comparison period)"
+msgstr "Zobrazení stránky (srovnávací období)"
+
+#: admin/apps/overview/analytics.php:391
+msgid "Page Views (comparison period)"
+msgstr "Zobrazení stránky (srovnávací období)"
+
+#: admin/apps/overview/analytics.php:880
+msgid "Page Views in the last 30 minutes"
+msgstr "Zobrazení stránky za posledních 30 minut"
+
+#: admin/apps/overview/analytics.php:882
+msgid "Page views in the last 30 minutes."
+msgstr "Zobrazení stránky za posledních 30 minut."
+
+#: admin/apps/overview/overview.php:570
+msgid "Passed Checks"
+msgstr "Prošel kontrolami"
+
+#: admin/apps/users/uip-users.php:346
+msgid "Password"
+msgstr "Heslo"
+
+#: admin/apps/users/uip-users-ajax.php:1029
+msgid "Password is required"
+msgstr "Je vyžadováno heslo"
+
+#: admin/apps/users/uip-users-ajax.php:1097
+msgid "Password reset link sent"
+msgstr "Odkaz pro resetování hesla byl odeslán"
+
+#: admin/apps/users/uip-users-ajax.php:1148
+msgid "Password reset links succesfully sent"
+msgstr "Odkazy na resetování hesla byly úspěšně odeslány"
+
+#: admin/apps/users/uip-users.php:301
+msgid "Per page"
+msgstr "Na stránku"
+
+#: admin/apps/users/uip-users.php:914
+msgid "Permanently deleted a comment"
+msgstr "Trvale smazal komentář"
+
+#: admin/apps/users/uip-users.php:1298
+msgid "Permissions granted"
+msgstr "Udělená oprávnění"
+
+#: admin/apps/overview/overview.php:482
+msgid "PHP version"
+msgstr "verze PHP"
+
+#: admin/apps/overview/overview.php:749 admin/classes/uipress-app.php:1380
+msgid "Please select a valid JSON file"
+msgstr "Vyberte prosím platný soubor JSON"
+
+#: admin/apps/users/uip-users.php:920 admin/apps/users/uip-users.php:1403
+msgid "Plugin activated"
+msgstr "Plugin aktivován"
+
+#: admin/apps/users/uip-users.php:928 admin/apps/users/uip-users.php:1407
+msgid "Plugin deactivated"
+msgstr "Plugin deaktivován"
+
+#: admin/classes/uipress-app.php:2003
+msgid "Plugins"
+msgstr "Pluginy"
+
+#: admin/apps/overview/overview.php:732
+msgid "Polar Area"
+msgstr "Polární oblast"
+
+#: admin/apps/overview/woocommerce.php:110
+msgid "Popular Products"
+msgstr "Oblíbené produkty"
+
+#: admin/apps/users/uip-users.php:764 admin/apps/users/uip-users.php:1374
+msgid "Post created"
+msgstr "Příspěvek vytvořen"
+
+#: admin/apps/users/uip-users.php:820 admin/apps/users/uip-users.php:1386
+msgid "Post deleted"
+msgstr "Příspěvek smazán"
+
+#: admin/apps/users/uip-users.php:785
+msgid "Post modified"
+msgstr "Příspěvek upraven"
+
+#: admin/apps/users/uip-users.php:806
+msgid "Post moved to trash"
+msgstr "Příspěvek přesunut do koše"
+
+#: admin/apps/content/content.php:2022 admin/apps/content/content.php:2025
+msgid "Post Status"
+msgstr "Stav příspěvku"
+
+#: admin/apps/users/uip-users.php:831 admin/apps/users/uip-users.php:1390
+msgid "Post status change"
+msgstr "Změna stavu příspěvku"
+
+#: admin/apps/users/uip-users.php:834
+#, php-format
+msgid "Post status changed from %s to %s"
+msgstr "Stav příspěvku se změnil z %s na %s"
+
+#: admin/apps/users/uip-users.php:1382
+msgid "Post trashed"
+msgstr "Příspěvek vyhozen do koše"
+
+#: admin/apps/menu-creator/menu-creator.php:651
+msgctxt "post type general name"
+msgid "Admin Menu"
+msgstr "Nabídka správce"
+
+#: admin/apps/admin-pages/admin-pages.php:320
+msgctxt "post type general name"
+msgid "Admin Page"
+msgstr "Stránka správce"
+
+#: admin/classes/uipress-app.php:268
+msgctxt "post type general name"
+msgid "Folder"
+msgstr "Složka"
+
+#: admin/apps/users/uip-user-groups.php:41
+msgctxt "post type general name"
+msgid "Group"
+msgstr "Skupina"
+
+#: admin/apps/users/uip-history.php:145
+msgctxt "post type general name"
+msgid "History"
+msgstr "Dějiny"
+
+#: admin/apps/menu-creator/menu-creator.php:652
+msgctxt "post type singular name"
+msgid "admin menu"
+msgstr "admin menu"
+
+#: admin/apps/admin-pages/admin-pages.php:321
+msgctxt "post type singular name"
+msgid "Admin Page"
+msgstr "Stránka správce"
+
+#: admin/classes/uipress-app.php:269
+msgctxt "post type singular name"
+msgid "folder"
+msgstr "složka"
+
+#: admin/apps/users/uip-user-groups.php:42
+msgctxt "post type singular name"
+msgid "Group"
+msgstr "Skupina"
+
+#: admin/apps/users/uip-history.php:146
+msgctxt "post type singular name"
+msgid "history"
+msgstr "Dějiny"
+
+#: admin/apps/content/content.php:2011 admin/apps/content/content.php:2014
+msgid "Post Types"
+msgstr "Typy příspěvků"
+
+#: admin/apps/content/content.php:118
+msgid "Post types available in content page"
+msgstr "Typy příspěvků dostupné na stránce s obsahem"
+
+#: admin/classes/uipress-app.php:2879
+msgid "Post Types available in create button (new)"
+msgstr "Typy příspěvků dostupné v tlačítku vytvořit (nové)"
+
+#: admin/classes/uipress-app.php:2870
+msgid "Post Types available in Search"
+msgstr "Typy příspěvků dostupné ve vyhledávání"
+
+#: admin/apps/users/uip-users.php:1378
+msgid "Post updated"
+msgstr "Příspěvek aktualizován"
+
+#: admin/apps/content/content.php:2136
+msgid "Posted"
+msgstr "Vyslán"
+
+#: admin/apps/users/uip-users.php:855
+msgid "Posted a comment"
+msgstr "Odeslal komentář"
+
+#: admin/apps/users/uip-users.php:857
+msgid "Posted a comment on post"
+msgstr "Přidal komentář k příspěvku"
+
+#: admin/apps/content/content.php:2040
+msgid "Posted After"
+msgstr "Posted After"
+
+#: admin/apps/content/content.php:2041
+msgid "Posted Before"
+msgstr "Publikováno dříve"
+
+#: admin/apps/content/content.php:2039
+msgid "Posted On"
+msgstr "Vloženo na"
+
+#: admin/apps/overview/overview.php:259 admin/apps/overview/overview.php:447
+#: admin/apps/overview/woocommerce.php:183
+#: admin/apps/overview/woocommerce.php:265
+msgid "Posts fetched"
+msgstr "Příspěvky byly načteny"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress admin extension with a streamlined dashboard, Google "
+"Analytics & WooCommerce Integration, intuitive media library, dark mode and "
+"much more."
+msgstr ""
+"Výkonné rozšíření pro správu WordPress s přehledným řídicím panelem, "
+"integrací Google Analytics a WooCommerce, intuitivní knihovnou médií, tmavým "
+"režimem a mnoha dalšími."
+
+#: admin/classes/uipress-app.php:1339
+msgid "Preferences"
+msgstr "Předvolby"
+
+#: admin/apps/content/content.php:288 admin/classes/uipress-app.php:1742
+#: admin/classes/uipress-app.php:2095
+msgid "Preferences saved"
+msgstr "Předvolby uloženy"
+
+#: admin/apps/content/content.php:1576 admin/apps/content/content.php:1593
+#: admin/apps/menu-creator/menu-creator.php:1464
+msgid "Preview"
+msgstr "Náhled"
+
+#: admin/apps/users/uip-users.php:291 admin/apps/users/uip-users.php:316
+msgid "Previous"
+msgstr "Předchozí"
+
+#: admin/classes/styles.php:833
+msgid "Primary Button Background Colour"
+msgstr "Barva pozadí primárního tlačítka"
+
+#: admin/classes/styles.php:821
+msgid "Primary Button Border Colour"
+msgstr "Barva ohraničení primárního tlačítka"
+
+#: admin/classes/styles.php:845
+msgid "Primary Button Hover Background Colour"
+msgstr "Barva pozadí primárního tlačítka při najetí myší"
+
+#: admin/classes/styles.php:857
+msgid "Primary Button Text Colour"
+msgstr "Barva textu primárního tlačítka"
+
+#: admin/classes/styles.php:580
+msgid "Primary Color"
+msgstr "Základní barva"
+
+#: admin/classes/styles.php:602
+msgid "Primary Color Hover"
+msgstr "Primární barva Vznášet se"
+
+#: admin/classes/styles.php:591
+msgid "Primary Color Wash"
+msgstr "Primární barva wash"
+
+#: admin/apps/overview/overview.php:714
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/apps/content/content.php:1362
+#: admin/apps/menu-creator/menu-creator.php:1096
+#: admin/classes/uipress-app.php:1325
+msgid "Pro Feature"
+msgstr "Profesionální funkce"
+
+#: admin/apps/users/uip-users.php:399
+msgid "Pro feature"
+msgstr "Pro funkce"
+
+#: admin/classes/uipress-app.php:1403
+msgid "Pro template"
+msgstr "Pro šablona"
+
+#: admin/apps/overview/overview.php:745
+msgid "Product"
+msgstr "Produkt"
+
+#: admin/apps/overview/overview.php:789 admin/apps/overview/overview.php:791
+msgid "Product Name"
+msgstr "jméno výrobku"
+
+#: admin/apps/overview/analytics.php:864
+msgid "Products with the most sales for for the date range."
+msgstr "Produkty s nejvyšším prodejem za dané časové období."
+
+#: admin/apps/users/uip-users.php:382
+msgid "Profile image"
+msgstr "Profilový obrázek"
+
+#: admin/apps/users/uip-users.php:529
+msgid "Publish"
+msgstr "Publikovat"
+
+#: admin/apps/overview/overview.php:778
+msgid "Purchases"
+msgstr "Nákupy"
+
+#: admin/classes/uipress-app.php:2959
+msgid "Puts the login page in dark mode for all users."
+msgstr "Přepne přihlašovací stránku do tmavého režimu pro všechny uživatele."
+
+#: admin/apps/overview/overview.php:792
+msgid "Quantity Sold"
+msgstr "Prodané množství"
+
+#: admin/apps/content/content.php:2525
+msgid "Quick Edit"
+msgstr "Rychlá úprava"
+
+#: admin/apps/overview/overview.php:940
+msgid "Quote of the day"
+msgstr "Citát dne"
+
+#: admin/apps/users/uip-users.php:517
+msgid "Read"
+msgstr "Číst"
+
+#: admin/apps/users/uip-users.php:314
+msgid "Recent activity"
+msgstr "Poslední aktivita"
+
+#: admin/apps/overview/overview.php:877
+msgid "Recent Comments"
+msgstr "Nedávné Komentáře"
+
+#: admin/apps/overview/woocommerce.php:101
+msgid "Recent Orders"
+msgstr "Nedávné objednávky"
+
+#: admin/apps/users/uip-users.php:313
+msgid "Recent page views"
+msgstr "Nedávná zobrazení stránek"
+
+#: admin/apps/overview/overview.php:868
+msgid "Recently Published"
+msgstr "Nedávno zveřejněno"
+
+#: admin/apps/users/uip-users.php:339
+msgid "Recipient"
+msgstr "Příjemce"
+
+#: admin/apps/users/uip-users.php:375
+msgid "recipients"
+msgstr "příjemců"
+
+#: admin/apps/overview/overview.php:578
+msgid "Recommended"
+msgstr "Doporučeno"
+
+#: admin/apps/overview/overview.php:844
+msgid "Referer"
+msgstr "Referent"
+
+#: admin/classes/uipress-app.php:1363
+msgid "Remove"
+msgstr "Odstranit"
+
+#: admin/apps/overview/overview.php:697
+msgid "Remove Card"
+msgstr "Vyjměte kartu"
+
+#: admin/classes/uipress-app.php:1377
+msgid "Remove from folder"
+msgstr "Odebrat ze složky"
+
+#: admin/apps/users/uip-users.php:395
+msgid "Remove from group"
+msgstr "Odebrat ze skupiny"
+
+#: admin/classes/uipress-app.php:1384
+msgid "Remove Licence"
+msgstr "Odebrat licenci"
+
+#: admin/apps/overview/overview.php:1452
+msgid "Remove Section"
+msgstr "Odebrat sekci"
+
+#: admin/classes/uipress-app.php:2967
+msgid "Removes the language selector added to the login page"
+msgstr "Odebere selektor jazyka přidaný na přihlašovací stránku"
+
+#: admin/apps/content/content.php:1594
+msgid "Rename"
+msgstr "Přejmenovat"
+
+#: admin/classes/uipress-app.php:2590
+#, php-format
+msgid "Rename %s"
+msgstr "Přejmenovat %s"
+
+#: admin/classes/uipress-app.php:2599
+#, php-format
+msgid "Rename %s plugin author"
+msgstr "Přejmenovat autora pluginu %s"
+
+#: admin/apps/content/content.php:1506
+msgid "Rename Item"
+msgstr "Přejmenovat položku"
+
+#: admin/apps/content/content.php:1552
+msgid "Replace"
+msgstr "Nahradit"
+
+#: admin/classes/uipress-app.php:2618
+#, php-format
+msgid "Replace %s plugin icon with your own"
+msgstr "Nahraďte %s ikonu pluginu svou vlastní"
+
+#: admin/apps/users/uip-users.php:378
+msgid "Replace existing roles"
+msgstr "Nahraďte stávající role"
+
+#: admin/apps/users/uip-users.php:343
+msgid "Reply to email"
+msgstr "Odpověď na email"
+
+#: admin/apps/users/uip-users-ajax.php:1179
+msgid "Reply to email is required"
+msgstr "Je vyžadována odpověď na e-mail"
+
+#: admin/apps/overview/overview.php:155
+msgid "Reporting Currency Symbol"
+msgstr "Symbol měny pro vykazování"
+
+#: admin/apps/menu-creator/menu-creator.php:1736 admin/classes/settings.php:265
+msgid "Reset Settings"
+msgstr "Resetovat nastavení"
+
+#: admin/apps/users/uip-users.php:290
+msgid "results"
+msgstr "Výsledek"
+
+#: admin/apps/overview/overview.php:793 admin/apps/overview/overview.php:807
+msgid "Revenue"
+msgstr "Příjmy"
+
+#: admin/apps/overview/overview.php:808
+msgid "Revenue (comparison period)."
+msgstr "Výnosy (srovnávací období)."
+
+#: admin/apps/menu-creator/menu-creator.php:977
+#: admin/apps/menu-creator/menu-creator.php:988
+#: admin/apps/users/uip-users.php:1285 admin/classes/settings.php:343
+#: admin/classes/settings.php:354
+msgid "Role"
+msgstr "Role"
+
+#: admin/apps/users/uip-users-ajax.php:758
+msgid "Role created"
+msgstr "Role vytvořena"
+
+#: admin/apps/users/uip-users-ajax.php:799
+msgid "Role deleted"
+msgstr "Role smazána"
+
+#: admin/apps/users/uip-users.php:362
+msgid "Role label"
+msgstr "Označení role"
+
+#: admin/apps/users/uip-users-ajax.php:728
+msgid "Role label cannot contain spaces"
+msgstr "Štítek role nesmí obsahovat mezery"
+
+#: admin/apps/users/uip-users-ajax.php:734
+msgid "Role label is required"
+msgstr "Štítek role je povinný"
+
+#: admin/apps/users/uip-users.php:348 admin/apps/users/uip-users.php:1279
+msgid "Role name"
+msgstr "Název role"
+
+#: admin/apps/users/uip-users-ajax.php:891
+#: admin/apps/users/uip-users-ajax.php:956
+msgid "Role name cannot contain spaces"
+msgstr "Název role nesmí obsahovat mezery"
+
+#: admin/apps/users/uip-users-ajax.php:642
+#: admin/apps/users/uip-users-ajax.php:722
+#: admin/apps/users/uip-users-ajax.php:783
+#: admin/apps/users/uip-users-ajax.php:836
+#: admin/apps/users/uip-users-ajax.php:879
+#: admin/apps/users/uip-users-ajax.php:885
+#: admin/apps/users/uip-users-ajax.php:944
+#: admin/apps/users/uip-users-ajax.php:950
+msgid "Role name is required"
+msgstr "Název role je povinný"
+
+#: admin/apps/users/uip-users.php:359
+msgid "Role options"
+msgstr "Možnosti rolí"
+
+#: admin/apps/users/uip-users-ajax.php:667
+msgid "Role saved"
+msgstr "Role uložena"
+
+#: admin/apps/users/uip-users.php:270 admin/apps/users/uip-users.php:328
+#: admin/apps/users/uip-users.php:1244
+msgid "Roles"
+msgstr "Role"
+
+#: admin/apps/users/uip-users-ajax.php:852
+msgid "Roles deleted"
+msgstr "Role smazány"
+
+#: admin/apps/users/uip-users.php:370
+msgid "roles selected"
+msgstr "vybrané role"
+
+#: admin/classes/uipress-app.php:3061
+msgid "Safe Mode Key"
+msgstr "Klíč nouzového režimu"
+
+#: admin/apps/overview/overview.php:790
+msgid "Sales"
+msgstr "Odbyt"
+
+#: admin/apps/content/content.php:2623
+#: admin/apps/menu-creator/menu-creator.php:1709
+#: admin/apps/overview/overview.php:836 admin/classes/styles.php:437
+msgid "Save"
+msgstr "Uložit"
+
+#: admin/apps/content/content.php:2090
+msgid "Save as view"
+msgstr "Uložit jako zobrazení"
+
+#: admin/apps/overview/overview.php:1196 admin/apps/overview/overview.php:1237
+msgid "Save changes"
+msgstr "Uložit změny"
+
+#: admin/apps/users/uip-users.php:350
+msgid "Save role"
+msgstr "Uložit roli"
+
+#: admin/classes/settings.php:230
+msgid "Save settings"
+msgstr "Uložit nastavení"
+
+#: admin/apps/users/uip-users.php:345
+msgid "Save user"
+msgstr "Uložit uživatele"
+
+#: admin/classes/uipress-app.php:1342
+msgid "Screen options"
+msgstr "Možnosti obrazovky"
+
+#: admin/classes/uipress-app.php:1355 admin/classes/uipress-app.php:1356
+msgid "Searach Post Types"
+msgstr "Hledat typy příspěvků"
+
+#: admin/classes/uipress-app.php:1326
+msgid "Search"
+msgstr "Vyhledávání"
+
+#: admin/apps/menu-creator/menu-creator.php:661
+msgid "Search Admin Menus"
+msgstr "Prohledejte nabídky správce"
+
+#: admin/apps/admin-pages/admin-pages.php:330
+msgid "Search Admin Pages"
+msgstr "Prohledejte stránky správce"
+
+#: admin/apps/overview/overview.php:713
+msgid "Search Cards"
+msgstr "Vyhledávací karty"
+
+#: admin/apps/content/content.php:1419 admin/apps/content/content.php:1837
+#: admin/apps/content/content.php:2072
+msgid "Search categories..."
+msgstr "Hledat kategorie..."
+
+#: admin/classes/uipress-app.php:278
+msgid "Search Folders"
+msgstr "Hledat složky"
+
+#: admin/apps/users/uip-user-groups.php:51
+msgid "Search Groups"
+msgstr "Hledat skupiny"
+
+#: admin/apps/users/uip-users.php:398
+msgid "Search groups"
+msgstr "Hledat skupiny"
+
+#: admin/apps/users/uip-history.php:155
+msgid "Search History"
+msgstr "Historie vyhledávání"
+
+#: admin/apps/users/uip-users.php:366
+msgid "Search history"
+msgstr "Historie vyhledávání"
+
+#: admin/classes/styles.php:1041
+msgid "Search Input background colour"
+msgstr "Barva pozadí zadání vyhledávání"
+
+#: admin/classes/styles.php:1052
+msgid "Search Input text colour"
+msgstr "Barva vstupního textu vyhledávání"
+
+#: admin/apps/content/content.php:2060
+msgid "Search Media Types..."
+msgstr "Hledat typy médií..."
+
+#: admin/classes/uipress-app.php:1324
+msgid "Search Menu"
+msgstr "Nabídka vyhledávání"
+
+#: admin/apps/menu-creator/menu-creator.php:1370
+msgid "Search menu items"
+msgstr "Hledat položky nabídky"
+
+#: admin/apps/content/content.php:2026
+msgid "Search Post Statuses..."
+msgstr "Hledat stavy příspěvků..."
+
+#: admin/apps/content/content.php:2015
+msgid "Search Post Types..."
+msgstr "Hledat typy příspěvků..."
+
+#: admin/apps/users/uip-users.php:295
+msgid "Search roles"
+msgstr "Hledat role"
+
+#: admin/apps/users/uip-users.php:365
+msgid "search roles"
+msgstr "vyhledávací role"
+
+#: admin/apps/menu-creator/menu-creator.php:1342
+msgid "Search roles and users..."
+msgstr "Hledat role a uživatele..."
+
+#: admin/classes/uipress-app.php:1334
+msgid "Search Site"
+msgstr "Hledat na webu"
+
+#: admin/apps/content/content.php:1825
+msgid "Search status..."
+msgstr "Stav hledání..."
+
+#: admin/apps/content/content.php:1434 admin/apps/content/content.php:1848
+#: admin/apps/content/content.php:2084
+msgid "Search tags..."
+msgstr "Hledat značky..."
+
+#: admin/apps/users/uip-users.php:293
+msgid "Search users"
+msgstr "Hledat uživatele"
+
+#: admin/classes/uipress-app.php:1352
+msgid "Search users and roles"
+msgstr "Vyhledejte uživatele a role"
+
+#: admin/apps/content/content.php:1976
+msgid "Search..."
+msgstr "Vyhledávání..."
+
+#: admin/classes/styles.php:986 admin/classes/styles.php:1170
+msgid "Secondary background Color"
+msgstr "Sekundární barva pozadí"
+
+#: admin/classes/styles.php:613
+msgid "Secondary Color"
+msgstr "Sekundární barva"
+
+#: admin/classes/styles.php:624
+msgid "Secondary Color Hover"
+msgstr "Sekundární barva přechodu"
+
+#: admin/apps/overview/overview.php:712
+msgid "Section added"
+msgstr "Sekce přidána"
+
+#: admin/apps/overview/overview.php:846
+msgid "Section description"
+msgstr "Popis sekce"
+
+#: admin/apps/overview/overview.php:845
+msgid "Section name"
+msgstr "Název sekce"
+
+#: admin/apps/overview/overview.php:795
+msgid "Section Removed"
+msgstr "Sekce odstraněna"
+
+#: admin/apps/overview/overview.php:825
+msgid "Section Settings"
+msgstr "Nastavení sekce"
+
+#: admin/apps/overview/overview.php:1435
+msgid "Section Width"
+msgstr "Šířka sekce"
+
+#: admin/apps/content/content.php:1367
+#: admin/apps/menu-creator/menu-creator.php:1101
+msgid "See UiPress Pro Plans"
+msgstr "Viz plány UiPress Pro"
+
+#: admin/classes/uipress-app.php:1399
+msgid "selected"
+msgstr "vybraný"
+
+#: admin/apps/users/uip-users.php:334 admin/apps/users/uip-users.php:342
+msgid "Send message"
+msgstr "Poslat zprávu"
+
+#: admin/apps/users/uip-users.php:333
+msgid "Send password reset"
+msgstr "Odeslat reset hesla"
+
+#: admin/apps/menu-creator/menu-creator.php:1537
+msgid "Separator"
+msgstr "Oddělovač"
+
+#: admin/apps/users/uip-users.php:100
+#, php-format
+msgid ""
+"Seperate to the main history log, %s will keep 5 recent page views in the "
+"user meta. This can have a small impact on the page load speed."
+msgstr ""
+"Odděleně od hlavního protokolu historie si %s uchová 5 nedávných zobrazení "
+"stránky v meta uživatele. To může mít malý dopad na rychlost načítání "
+"stránky."
+
+#: admin/apps/content/content.php:200
+msgid "Sequence Number"
+msgstr "pořadové číslo"
+
+#: admin/apps/overview/analytics.php:745
+msgid "Session Duration"
+msgstr "Délka relace"
+
+#: admin/apps/overview/overview.php:758
+msgid "Sessions"
+msgstr "Relace"
+
+#: admin/apps/overview/analytics.php:790
+msgid "Sessions by channel grouping"
+msgstr "Návštěvy podle seskupení kanálů"
+
+#: admin/classes/uipress-app.php:2757
+msgid "Set collapsed menu as default"
+msgstr "Nastavit sbalenou nabídku jako výchozí"
+
+#: admin/classes/uipress-app.php:2578
+msgid "Set custom page as homepage"
+msgstr "Nastavit vlastní stránku jako domovskou stránku"
+
+#: admin/classes/uipress-app.php:2551
+msgid "Set Dark Mode according to prefers color scheme"
+msgstr "Nastavte tmavý režim podle preferovaného barevného schématu"
+
+#: admin/classes/uipress-app.php:2542
+msgid "Set Dark Mode as Default"
+msgstr "Nastavte tmavý režim jako výchozí"
+
+#: admin/classes/uipress-app.php:2569
+msgid "Set overview page as homepage"
+msgstr "Nastavit stránku přehledu jako domovskou stránku"
+
+#: admin/classes/uipress-app.php:2983
+msgid "Sets an optional background image on the login page."
+msgstr "Nastaví volitelný obrázek na pozadí na přihlašovací stránce."
+
+#: admin/classes/uipress-app.php:2692
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "Nastaví logo pro administrátorskou lištu ve světlém režimu."
+
+#: admin/classes/uipress-app.php:2975
+msgid "Sets the logo for the login page"
+msgstr "Nastaví logo pro přihlašovací stránku"
+
+#: admin/apps/overview/overview.php:820 admin/apps/overview/overview.php:1249
+#: admin/classes/settings.php:78 admin/classes/settings.php:91
+#: admin/classes/settings.php:226 admin/classes/uipress-app.php:1406
+msgid "Settings"
+msgstr "Nastavení"
+
+#: admin/classes/uipress-app.php:1383
+msgid "Settings Imported"
+msgstr "Nastavení importováno"
+
+#: admin/classes/update.php:350
+msgid "Settings imported"
+msgstr "Nastavení byla importována"
+
+#: admin/classes/settings.php:164
+msgid "Settings reset"
+msgstr "Nastavení resetováno"
+
+#: admin/classes/settings.php:150 admin/classes/uipress-app.php:1358
+msgid "Settings saved"
+msgstr "Nastavení uloženo"
+
+#: admin/classes/styles.php:1234
+msgid "Shadow blur"
+msgstr "Rozostření stínů"
+
+#: admin/classes/styles.php:1246
+msgid "Shadow color"
+msgstr "Barva stínu"
+
+#: admin/classes/styles.php:1222
+msgid "Shadow spread"
+msgstr "Šíření stínů"
+
+#: admin/apps/overview/overview.php:716 admin/apps/overview/overview.php:922
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/apps/overview/overview.php:335
+msgid "Shortcode loaded"
+msgstr "Shortcode načten"
+
+#: admin/classes/uipress-app.php:1348
+msgid "show all"
+msgstr "ukázat vše"
+
+#: admin/classes/uipress-app.php:1329
+msgid "Show more"
+msgstr "Zobrazit více"
+
+#: admin/classes/uipress-app.php:1341
+msgid "Show screen options toggle"
+msgstr "Přepínač Zobrazit možnosti obrazovky"
+
+#: admin/classes/uipress-app.php:2741
+msgid "Show site title in menu"
+msgstr "Zobrazit název webu v nabídce"
+
+#: admin/classes/uipress-app.php:1323
+msgid "Show submenu on hover"
+msgstr "Zobrazit podnabídku při umístění kurzoru"
+
+#: admin/apps/overview/overview.php:942
+msgid "Shows a random quote of the day"
+msgstr "Zobrazuje náhodný citát dne"
+
+#: admin/apps/users/uip-users.php:363
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "Jediné slovo, bez mezer. Podtržítka a pomlčky povoleny"
+
+#: admin/apps/overview/overview.php:801 admin/apps/overview/overview.php:895
+msgid "Site Health"
+msgstr "Stav webu"
+
+#: admin/apps/overview/overview.php:598
+msgid "Site Health screen"
+msgstr "Obrazovka Stav webu"
+
+#: admin/apps/users/uip-users.php:1004
+#, php-format
+msgid "Site option (%s) was added with a value of (%s)"
+msgstr "Byla přidána možnost webu (%s) s hodnotou (%s)"
+
+#: admin/apps/users/uip-users.php:984
+#, php-format
+msgid "Site option (%s) was changed from %s to %s"
+msgstr "Možnost webu (%s) byla změněna z %s na %s"
+
+#: admin/apps/users/uip-users.php:1423
+msgid "Site option added"
+msgstr "Přidána možnost webu"
+
+#: admin/apps/users/uip-users.php:982 admin/apps/users/uip-users.php:988
+#: admin/apps/users/uip-users.php:1002
+msgid "Site option changed"
+msgstr "Možnost webu změněna"
+
+#: admin/apps/users/uip-users.php:990
+#, php-format
+msgid "Site option was changed. %s"
+msgstr "Možnost webu byla změněna. %s"
+
+#: admin/apps/overview/analytics.php:817 admin/apps/overview/overview.php:783
+msgid "Site Revenue"
+msgstr "Tržby webu"
+
+#: admin/apps/overview/overview.php:784
+msgid "Site Revenue (comparison)"
+msgstr "Tržby webu (srovnání)"
+
+#: admin/apps/overview/analytics.php:310 admin/apps/overview/analytics.php:718
+#: admin/apps/overview/overview.php:761
+msgid "Site Users"
+msgstr "Uživatelé webu"
+
+#: admin/apps/overview/analytics.php:318 admin/apps/overview/overview.php:762
+msgid "Site Users (comparison period)"
+msgstr "Uživatelé webu (srovnávací období)"
+
+#: admin/apps/overview/analytics.php:727
+msgid "Site visits by device"
+msgstr "Návštěvy webu podle zařízení"
+
+#: admin/apps/overview/overview.php:816
+msgid "Size"
+msgstr "Velikost"
+
+#: admin/apps/overview/overview.php:703
+msgid "small (1/4)"
+msgstr "malý (1/4)"
+
+#: admin/apps/overview/overview.php:704
+msgid "small medium (1/3)"
+msgstr "malý střední (1/3)"
+
+#: admin/apps/overview/overview.php:746
+msgid "Sold"
+msgstr "Prodáno"
+
+#: admin/apps/overview/overview.php:830 admin/apps/users/uip-users-ajax.php:662
+msgid "Something has gone wrong"
+msgstr "Něco se pokazilo"
+
+#: admin/apps/content/content.php:455 admin/apps/content/content.php:517
+#: admin/apps/content/content.php:579 admin/apps/content/content.php:769
+#: admin/apps/menu-creator/menu-creator.php:752
+#: admin/apps/menu-creator/menu-creator.php:777
+#: admin/apps/menu-creator/menu-creator.php:814
+#: admin/apps/menu-creator/menu-creator.php:867
+#: admin/apps/menu-creator/menu-creator.php:936
+#: admin/apps/users/uip-user-groups.php:309 admin/classes/folders.php:528
+#: admin/classes/settings.php:308 admin/classes/uipress-app.php:1357
+msgid "Something went wrong"
+msgstr "Něco se pokazilo"
+
+#: admin/apps/users/uip-users.php:300
+msgid "Sort By"
+msgstr "Seřazeno podle"
+
+#: admin/apps/overview/overview.php:743
+msgid "Source"
+msgstr "Zdroj"
+
+#: admin/apps/content/content.php:1544
+msgid "Start Number"
+msgstr "Startovní číslo"
+
+#: admin/apps/content/content.php:1819 admin/apps/content/content.php:1824
+#: admin/apps/content/content.php:2339
+#: admin/apps/menu-creator/menu-creator.php:1155
+#: admin/apps/menu-creator/menu-creator.php:1294
+#: admin/classes/uipress-app.php:1151
+msgid "Status"
+msgstr "Status"
+
+#: admin/apps/menu-creator/menu-creator.php:759
+msgid "Status Updated"
+msgstr "Stav aktualizován"
+
+#: admin/classes/styles.php:138 admin/classes/styles.php:151
+#: admin/classes/styles.php:430
+msgid "Styles"
+msgstr "Styly"
+
+#: admin/classes/uipress-app.php:1382
+msgid "Styles Imported"
+msgstr "Importované styly"
+
+#: admin/classes/uipress-app.php:2915 admin/classes/uipress-app.php:2945
+#: admin/classes/uipress-app.php:3000
+msgid "Styles page content."
+msgstr "Obsah stránky se styly."
+
+#: admin/classes/styles.php:292
+msgid "Styles saved"
+msgstr "Styly uloženy"
+
+#: admin/apps/users/uip-users.php:340
+msgid "Subject"
+msgstr "Předmět"
+
+#: admin/apps/users/uip-users-ajax.php:1173
+msgid "Subject is required"
+msgstr "Předmět je povinný"
+
+#: admin/classes/styles.php:1074
+msgid "Submenu Active Text Color"
+msgstr "Podnabídka Barva aktivního textu"
+
+#: admin/classes/styles.php:1085
+msgid "Submenu Hover Text Color"
+msgstr "Podnabídka Barva textu po najetí myší"
+
+#: admin/classes/styles.php:1063
+msgid "Submenu Text Color"
+msgstr "Barva textu podnabídky"
+
+#: admin/apps/overview/overview.php:886
+msgid "System Info"
+msgstr "Systémová informace"
+
+#: admin/apps/users/uip-users.php:296
+msgid "Table options"
+msgstr "Možnosti tabulky"
+
+#: admin/apps/content/content.php:1433 admin/apps/content/content.php:1843
+#: admin/apps/content/content.php:1847 admin/apps/content/content.php:2080
+#: admin/apps/content/content.php:2083
+msgid "Tags"
+msgstr "Tagy"
+
+#: admin/apps/overview/overview.php:597
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "Podívejte se na %d položek na"
+
+#: admin/apps/content/content.php:188 admin/classes/styles.php:693
+msgid "Text"
+msgstr "Text"
+
+#: admin/classes/styles.php:707 admin/classes/styles.php:1008
+#: admin/classes/styles.php:1148
+msgid "Text Color"
+msgstr "Barva textu"
+
+#: admin/classes/styles.php:718
+msgid "Text Emphasis Color"
+msgstr "Barva důrazu na text"
+
+#: admin/classes/uipress-app.php:2654
+msgid "Text entered here will be present at the bottom of admin pages"
+msgstr ""
+"Text zadaný zde bude přítomen ve spodní části administrátorských stránek"
+
+#: admin/classes/styles.php:729
+msgid "Text Muted Color"
+msgstr "Barva ztlumeného textu"
+
+#: admin/classes/uipress-app.php:2871
+msgid "The global search will only search the selected post types."
+msgstr "Globální vyhledávání prohledá pouze vybrané typy příspěvků."
+
+#: admin/apps/overview/analytics.php:855
+msgid ""
+"The percentage of active users who made their first purchase for the date "
+"range."
+msgstr ""
+"Procento aktivních uživatelů, kteří provedli svůj první nákup v daném "
+"časovém období."
+
+#: admin/classes/uipress-app.php:2914
+msgid "Theme"
+msgstr "Téma"
+
+#: admin/classes/uipress-app.php:2927
+msgid "Theme Disabled for"
+msgstr "Motiv zakázán pro"
+
+#: admin/classes/uipress-app.php:1404
+msgid "Theme Imported"
+msgstr "Motiv importován"
+
+#: admin/classes/uipress-app.php:1400
+msgid "Theme Library"
+msgstr "Knihovna témat"
+
+#: admin/classes/uipress-app.php:1997
+msgid "Themes"
+msgstr "Témata"
+
+#: admin/apps/overview/overview.php:803
+msgid "This card only works with google analytics 4 accounts"
+msgstr "Tato karta funguje pouze s účty Google Analytics 4"
+
+#: admin/apps/overview/overview.php:804
+msgid "This card only works with universal analytics propeties."
+msgstr "Tato karta funguje pouze s univerzálními analytickými vlastnostmi."
+
+#: admin/apps/admin-pages/admin-pages.php:264
+msgid ""
+"This defaults to admin-pages. Changes to this will need you to resave "
+"permalink structure."
+msgstr ""
+"Toto je výchozí nastavení pro stránky admin. Změny v tomto budou vyžadovat "
+"opětovné uložení struktury permalinku."
+
+#: admin/apps/overview/overview.php:776 admin/classes/uipress-app.php:1395
+msgid "This Month"
+msgstr "Tento měsíc"
+
+#: admin/apps/users/uip-users.php:1340
+msgid "Time"
+msgstr "Čas"
+
+#: admin/apps/content/content.php:1771 admin/apps/content/content.php:1772
+#: admin/apps/overview/overview.php:715
+msgid "Title"
+msgstr "Titul"
+
+#: admin/apps/users/uip-user-groups.php:339 admin/classes/folders.php:557
+msgid "Title is required"
+msgstr "Název je povinný"
+
+#: admin/apps/overview/overview.php:763
+msgid "To"
+msgstr "Na"
+
+#: admin/apps/overview/overview.php:814
+msgid "To do"
+msgstr "Dělat"
+
+#: admin/apps/overview/overview.php:949
+msgid "To do list"
+msgstr "Seznam úkolů"
+
+#: admin/apps/overview/overview.php:770 admin/classes/uipress-app.php:1397
+msgid "Today"
+msgstr "Dnes"
+
+#: admin/classes/uipress-app.php:1350
+msgid "Toggle Menu"
+msgstr "Přepnout nabídku"
+
+#: admin/apps/overview/overview.php:826
+msgid "Toggle section visibility"
+msgstr "Přepnout viditelnost sekce"
+
+#: admin/classes/styles.php:1134 admin/classes/uipress-app.php:2773
+msgid "Toolbar"
+msgstr "Panel nástrojů"
+
+#: admin/classes/styles.php:1137
+msgid "Toolbar Background Color"
+msgstr "Barva pozadí panelu nástrojů"
+
+#: admin/apps/overview/analytics.php:835
+msgid "Top Cities"
+msgstr "Nejlepší města"
+
+#: admin/apps/overview/analytics.php:862
+msgid "Top Products"
+msgstr "Top produkty"
+
+#: admin/apps/users/uip-users.php:321
+msgid "Total comments"
+msgstr "Celkový počet komentářů"
+
+#: admin/apps/overview/woocommerce.php:83
+msgid "Total Orders"
+msgstr "Celkový počet objednávek"
+
+#: admin/apps/users/uip-users.php:320
+msgid "Total posts"
+msgstr "Celkem příspěvků"
+
+#: admin/apps/overview/woocommerce.php:74
+msgid "Total Revenue"
+msgstr "Celkové příjmy"
+
+#: admin/apps/overview/analytics.php:763
+msgid "Traffic Sources"
+msgstr "Zdroje návštěvnosti"
+
+#: admin/apps/users/uip-users.php:884
+msgid "Trashed a comment"
+msgstr "Přehodil komentář do koše"
+
+#: admin/apps/users/uip-users.php:1394
+msgid "Trashed comment"
+msgstr "Vyhozený komentář"
+
+#: admin/apps/content/content.php:2327
+msgid "Type"
+msgstr "Typ"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress"
+msgstr "UiPress"
+
+#: admin/apps/overview/overview.php:719
+msgid "UiPress Pro feature"
+msgstr "Funkce UiPress Pro"
+
+#: admin/classes/styles.php:411
+msgid ""
+"Uipress styles isn't optimised for mobile devices. Switch to a larger screen "
+"to modify UiPress Styles"
+msgstr ""
+"Styly Uipress nejsou optimalizovány pro mobilní zařízení. Chcete-li upravit "
+"styly UiPress, přepněte na větší obrazovku"
+
+#: admin/classes/debug.php:152
+msgid "UiPress succesfully activated"
+msgstr "UiPress úspěšně aktivován"
+
+#: admin/classes/uipress-app.php:2552
+msgid "UiPress will detetct the OS color scheme and update accordingly"
+msgstr ""
+"UiPress detekuje barevné schéma operačního systému a podle toho aktualizuje"
+
+#: admin/apps/admin-pages/admin-pages.php:281
+msgid "UiPress will only show admin pages for the users or roles you select"
+msgstr ""
+"UiPress zobrazí pouze administrátorské stránky pro uživatele nebo role, "
+"které vyberete"
+
+#: admin/apps/users/uip-users-ajax.php:912
+msgid "Unable to add capability. Make sure role name is unique"
+msgstr "Nelze přidat funkci. Ujistěte se, že název role je jedinečný"
+
+#: admin/apps/users/uip-users-ajax.php:753
+msgid "Unable to add role. Make sure role name is unique"
+msgstr "Nelze přidat roli. Ujistěte se, že název role je jedinečný"
+
+#: admin/apps/overview/analytics.php:93
+msgid "Unable to connect account"
+msgstr "Účet nelze připojit"
+
+#: admin/classes/update.php:141
+msgid "Unable to contact update server"
+msgstr "Nelze kontaktovat aktualizační server"
+
+#: admin/classes/folders.php:578
+msgid "Unable to create folder"
+msgstr "Nelze vytvořit složku"
+
+#: admin/apps/users/uip-user-groups.php:360
+msgid "Unable to create group"
+msgstr "Nelze vytvořit skupinu"
+
+#: admin/apps/users/uip-users-ajax.php:971
+msgid "Unable to delete capability. Make sure role name is unique"
+msgstr "Schopnost nelze odstranit. Ujistěte se, že název role je jedinečný"
+
+#: admin/apps/menu-creator/menu-creator.php:791
+msgid "Unable to delete menu"
+msgstr "Nabídku nelze smazat"
+
+#: admin/classes/folders.php:321
+msgid "Unable to delete the folder"
+msgstr "Složku nelze smazat"
+
+#: admin/apps/users/uip-user-groups.php:90
+msgid "Unable to delete the group"
+msgstr "Skupinu nelze smazat"
+
+#: admin/apps/users/uip-users-ajax.php:1324
+msgid "Unable to delete this user"
+msgstr "Tohoto uživatele nelze smazat"
+
+#: admin/apps/menu-creator/menu-creator.php:834
+msgid "Unable to duplicate menu"
+msgstr "Nabídku nelze duplikovat"
+
+#: admin/apps/menu-creator/menu-creator.php:820
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "Nabídku nelze duplikovat, nabídka je poškozená"
+
+#: admin/apps/overview/analytics.php:1013
+msgid "Unable to fetch analytics data at this moment. Please try again later"
+msgstr ""
+"V tuto chvíli nelze načíst analytická data. Prosím zkuste to znovu později"
+
+#: admin/apps/overview/overview.php:797
+msgid "Unable to fetch analytics data, please try again later"
+msgstr "Nelze načíst analytická data, zkuste to znovu později"
+
+#: admin/apps/overview/overview.php:532
+msgid "Unable to fetch quote of the day"
+msgstr "Nelze načíst nabídku dne"
+
+#: admin/classes/styles.php:213
+msgid "Unable to fetch themes at this moment. Please try again later"
+msgstr "V tuto chvíli nelze motivy načíst. Prosím zkuste to znovu později"
+
+#: admin/apps/overview/overview.php:752
+msgid "Unable to import layout"
+msgstr "Rozvržení nelze importovat"
+
+#: admin/classes/styles.php:247
+msgid "Unable to like theme at this moment. Please try again later"
+msgstr "V tuto chvíli nelze téma oblíbit. Prosím zkuste to znovu později"
+
+#: admin/apps/overview/overview.php:320 admin/apps/overview/overview.php:328
+msgid "Unable to load shortcode at this time"
+msgstr "Momentálně nelze načíst krátký kód"
+
+#: admin/classes/folders.php:405
+msgid "Unable to move folder"
+msgstr "Složku nelze přesunout"
+
+#: admin/apps/users/uip-user-groups.php:166
+msgid "Unable to move folder group itself"
+msgstr "Samotnou skupinu složek nelze přesunout"
+
+#: admin/classes/folders.php:391
+msgid "Unable to move folder into itself"
+msgstr "Nelze přesunout složku do sebe"
+
+#: admin/apps/users/uip-user-groups.php:180
+msgid "Unable to move group"
+msgstr "Skupinu nelze přesunout"
+
+#: admin/classes/debug.php:133 admin/classes/debug.php:139
+#: admin/classes/debug.php:161
+msgid "Unable to register UiPress at this time"
+msgstr "V tuto chvíli nelze UiPress zaregistrovat"
+
+#: admin/apps/content/content.php:320 admin/apps/content/content.php:328
+#: admin/apps/content/content.php:957
+msgid "Unable to save attachment"
+msgstr "Přílohu nelze uložit"
+
+#: admin/apps/overview/overview.php:282
+msgid "Unable to save dash at this time"
+msgstr "V tuto chvíli nelze pomlčku uložit"
+
+#: admin/apps/menu-creator/menu-creator.php:894
+msgid "Unable to save menu"
+msgstr "Menu nelze uložit"
+
+#: admin/classes/styles.php:266
+msgid "Unable to save styles"
+msgstr "Styly nelze uložit"
+
+#: admin/apps/content/content.php:291 admin/classes/uipress-app.php:1746
+#: admin/classes/uipress-app.php:2098
+msgid "Unable to save user preferences"
+msgstr "Uživatelské předvolby nelze uložit"
+
+#: admin/classes/settings.php:144
+msgid "Unable to save user settings"
+msgstr "Uživatelská nastavení nelze uložit"
+
+#: admin/apps/menu-creator/menu-creator.php:873
+msgid "Unable to save, menu is corrupted"
+msgstr "Nelze uložit, nabídka je poškozená"
+
+#: admin/apps/users/uip-users-ajax.php:1232
+msgid "Unable to send mail at this time"
+msgstr "V tuto chvíli nelze odeslat poštu"
+
+#: admin/apps/users/uip-users-ajax.php:1141
+msgid "Unable to send password reset email"
+msgstr "Nelze odeslat e-mail pro obnovení hesla"
+
+#: admin/apps/users/uip-users-ajax.php:1101
+msgid "Unable to send password reset email at the moment"
+msgstr "Momentálně nelze odeslat e-mail pro obnovení hesla"
+
+#: admin/apps/content/content.php:938
+msgid "Unable to update item"
+msgstr "Položku nelze aktualizovat"
+
+#: admin/apps/users/uip-users-ajax.php:415
+msgid "Unknown"
+msgstr "Neznámý"
+
+#: admin/classes/uipress-app.php:1853
+msgid "Unkown"
+msgstr "Neznámý"
+
+#: admin/classes/uipress-app.php:1850
+msgid "Unkown Post Type"
+msgstr "Neznámý typ příspěvku"
+
+#: admin/apps/overview/overview.php:1298 admin/classes/settings.php:258
+#: admin/classes/styles.php:457
+msgid "Unlock Export and Import features with pro"
+msgstr "Odemkněte funkce exportu a importu s profesionálem"
+
+#: admin/apps/content/content.php:1448 admin/apps/content/content.php:1686
+#: admin/classes/uipress-app.php:1373
+msgid "Update"
+msgstr "Aktualizace"
+
+#: admin/classes/update.php:156
+msgid "Update available"
+msgstr "Aktualizace k dispozici"
+
+#: admin/apps/users/uip-users.php:394
+msgid "Update group"
+msgstr "Aktualizovat skupinu"
+
+#: admin/apps/users/uip-users.php:379
+msgid "Update roles"
+msgstr "Aktualizovat role"
+
+#: admin/apps/content/content.php:1411
+msgid "Update Tags and Categories"
+msgstr "Aktualizujte štítky a kategorie"
+
+#: admin/apps/users/uip-users.php:331
+msgid "Update user"
+msgstr "Aktualizovat uživatele"
+
+#: admin/classes/uipress-app.php:1338
+msgid "Updates"
+msgstr "aktualizace"
+
+#: admin/apps/overview/overview.php:720
+msgid "Upgrade to one of our premium plans to unlock this feature."
+msgstr ""
+"Chcete-li tuto funkci odemknout, upgradujte na jeden z našich prémiových "
+"plánů."
+
+#: admin/classes/uipress-app.php:1379
+msgid ""
+"Upgrade to pro to gain full control of search results and included post types"
+msgstr ""
+"Upgradujte na profesionální, abyste získali plnou kontrolu nad výsledky "
+"vyhledávání a zahrnutými typy příspěvků"
+
+#: admin/classes/uipress-app.php:1378
+msgid ""
+"Upgrade to pro to unlock the notification center. View, edit and organise "
+"all your plugin and theme notifications in one place"
+msgstr ""
+"Upgradujte na pro a odemkněte centrum oznámení. Prohlížejte, upravujte a "
+"organizujte všechna upozornění na pluginy a motivy na jednom místě"
+
+#: admin/apps/content/content.php:1365
+msgid "Upgrade to UiPress Pro to unlock the content page and content folders"
+msgstr ""
+"Upgradujte na UiPress Pro a odemkněte stránku s obsahem a složky s obsahem"
+
+#: admin/apps/menu-creator/menu-creator.php:1099
+msgid "Upgrade to UiPress Pro to unlock the menu creator"
+msgstr "Upgradujte na UiPress Pro, abyste odemkli tvůrce menu"
+
+#: admin/apps/users/uip-users.php:400
+msgid "Upgrade to UiPress Pro to unlock the user management and activity logs"
+msgstr ""
+"Upgradujte na UiPress Pro, abyste odemkli správu uživatelů a protokoly "
+"aktivit"
+
+#: admin/apps/content/content.php:1932
+msgid "Upload"
+msgstr "nahrát"
+
+#: admin/apps/users/uip-users.php:1010
+msgid "Uploaded attachment"
+msgstr "Nahraná příloha"
+
+#: admin/classes/uipress-app.php:1362
+msgid "URL to file"
+msgstr "URL k souboru"
+
+#: admin/apps/overview/overview.php:725
+msgid "Use light color for text"
+msgstr "Pro text použijte světlou barvu"
+
+#: admin/apps/users/uip-users.php:120
+msgid ""
+"Use scheduled tasks to insert the history actions to avoid any extra page "
+"load speed. By default entries are added as they happen, with this enabled "
+"there will be delay of about 10 seconds before actions appear."
+msgstr ""
+"Pomocí naplánovaných úloh vkládejte akce historie, abyste se vyhnuli extra "
+"rychlosti načítání stránky. Ve výchozím nastavení jsou položky přidávány tak,"
+" jak k nim dojde, s touto povolenou prodlevou asi 10 sekund, než se akce "
+"objeví."
+
+#: admin/apps/menu-creator/menu-creator.php:962
+#: admin/apps/users/uip-users.php:1321 admin/classes/settings.php:328
+msgid "User"
+msgstr "Uživatel"
+
+#: admin/classes/uipress-app.php:1408
+msgid "user"
+msgstr "uživatel"
+
+#: admin/apps/users/uip-users.php:1037 admin/apps/users/uip-users.php:1262
+#: admin/apps/users/uip-users.php:1435
+msgid "User created"
+msgstr "Uživatel vytvořen"
+
+#: admin/apps/users/uip-users.php:1045 admin/apps/users/uip-users.php:1439
+msgid "User deleted"
+msgstr "Uživatel byl smazán"
+
+#: admin/apps/users/uip-users.php:396
+msgid "User groups"
+msgstr "Skupiny uživatelů"
+
+#: admin/apps/users/uip-users.php:1256
+msgid "User ID"
+msgstr "uživatelské ID"
+
+#: admin/apps/users/uip-users-ajax.php:1142
+#: admin/apps/users/uip-users-ajax.php:1315
+#: admin/apps/users/uip-users-ajax.php:1325
+#, php-format
+msgid "User ID: %s"
+msgstr "ID uživatele: %s"
+
+#: admin/apps/overview/analytics.php:799
+msgid "User in the last 30 minutes"
+msgstr "Uživatel za posledních 30 minut"
+
+#: admin/apps/users/uip-users.php:936
+msgid "User logged in"
+msgstr "Uživatel přihlášen"
+
+#: admin/apps/users/uip-users.php:944
+msgid "User logged out"
+msgstr "Uživatel se odhlásil"
+
+#: admin/apps/users/uip-users-ajax.php:697
+msgid "User logged out everywhere"
+msgstr "Uživatel se všude odhlásil"
+
+#: admin/apps/users/uip-users.php:1411
+msgid "User login"
+msgstr "Uživatelské přihlášení"
+
+#: admin/apps/users/uip-users.php:1415
+msgid "User logout"
+msgstr "Odhlášení uživatele"
+
+#: admin/apps/users/uip-users.php:217 admin/apps/users/uip-users.php:218
+msgid "User Management"
+msgstr "správa uživatelů"
+
+#: admin/apps/users/uip-users.php:66
+msgid "User management page Disabled for"
+msgstr "Stránka správy uživatelů Zakázáno pro"
+
+#: admin/apps/users/uip-user-groups.php:277
+msgid "User moved"
+msgstr "Uživatel byl přesunut"
+
+#: admin/apps/users/uip-users.php:737
+msgid "User no longer exists"
+msgstr "Uživatel již neexistuje"
+
+#: admin/apps/users/uip-users.php:329
+msgid "User notes"
+msgstr "Uživatelské poznámky"
+
+#: admin/apps/users/uip-users.php:322
+msgid "User Options"
+msgstr "Možnosti uživatele"
+
+#: admin/apps/users/uip-users-ajax.php:610
+msgid "User roles updated"
+msgstr "Uživatelské role byly aktualizovány"
+
+#: admin/apps/users/uip-users-ajax.php:557
+#: admin/apps/users/uip-users-ajax.php:1069
+msgid "User saved"
+msgstr "Uživatel uložen"
+
+#: admin/apps/users/uip-users-ajax.php:1270
+msgid "User successfully deleted"
+msgstr "Uživatel byl úspěšně smazán"
+
+#: admin/apps/users/uip-users.php:1082 admin/apps/users/uip-users.php:1443
+msgid "User updated"
+msgstr "Uživatel aktualizován"
+
+#: admin/apps/users/uip-users.php:347 admin/apps/users/uip-users.php:1207
+msgid "Username"
+msgstr "uživatelské jméno"
+
+#: admin/apps/users/uip-users-ajax.php:1003
+msgid "Username already exists"
+msgstr "Uživatelské jméno již existuje"
+
+#: admin/apps/users/uip-users-ajax.php:1009
+msgid "Username is not valid"
+msgstr "Uživatelské jméno není platné"
+
+#: admin/apps/users/uip-users.php:53 admin/apps/users/uip-users.php:266
+#: admin/apps/users/uip-users.php:377 admin/apps/users/uip-users.php:1291
+msgid "Users"
+msgstr "Uživatelé"
+
+#: admin/apps/users/uip-users.php:376 admin/classes/uipress-app.php:1409
+msgid "users"
+msgstr "uživatelů"
+
+#: admin/apps/users/uip-users.php:380
+msgid "users selected"
+msgstr "vybraných uživatelů"
+
+#: admin/apps/users/uip-users-ajax.php:1331
+msgid "Users successfully deleted"
+msgstr "Uživatelé byli úspěšně smazáni"
+
+#: admin/apps/overview/overview.php:747
+msgid "Value"
+msgstr "Hodnota"
+
+#: admin/classes/settings.php:209 admin/classes/styles.php:432
+msgid "Version"
+msgstr "Verze"
+
+#: admin/apps/overview/overview.php:913
+msgid "Video"
+msgstr "Video"
+
+#: admin/apps/overview/overview.php:717
+msgid "Video URL"
+msgstr "URL videa"
+
+#: admin/apps/content/content.php:2511 admin/apps/users/uip-users.php:547
+#: admin/classes/uipress-app.php:1327
+msgid "View"
+msgstr "Pohled"
+
+#: admin/apps/menu-creator/menu-creator.php:659
+msgid "View Admin Menu"
+msgstr "Zobrazit nabídku správce"
+
+#: admin/apps/admin-pages/admin-pages.php:328
+msgid "View Admin Page"
+msgstr "Zobrazit stránku správce"
+
+#: admin/apps/users/uip-users.php:1021
+msgid "View attachment"
+msgstr "Zobrazit přílohu"
+
+#: admin/apps/users/uip-users.php:868 admin/apps/users/uip-users.php:898
+msgid "View comment"
+msgstr "Zobrazit komentář"
+
+#: admin/classes/uipress-app.php:276
+msgid "View Folder"
+msgstr "Zobrazit složku"
+
+#: admin/apps/users/uip-user-groups.php:49
+msgid "View Group"
+msgstr "Zobrazit skupinu"
+
+#: admin/apps/users/uip-history.php:153
+msgid "View History"
+msgstr "Zobrazit historii"
+
+#: admin/apps/content/content.php:2615
+msgid "View Name"
+msgstr "Zobrazit název"
+
+#: admin/apps/content/content.php:2612
+msgid "View name"
+msgstr "Zobrazit jméno"
+
+#: admin/apps/users/uip-users.php:769 admin/apps/users/uip-users.php:790
+#: admin/apps/users/uip-users.php:838
+msgid "View page"
+msgstr "Zobrazit stránku"
+
+#: admin/apps/overview/overview.php:796
+msgid "View Plans"
+msgstr "Zobrazit plány"
+
+#: admin/classes/uipress-app.php:1332 admin/classes/uipress-app.php:1337
+msgid "View Site"
+msgstr "Zobrazit web"
+
+#: admin/apps/users/uip-users.php:401
+msgid "View Uipress Pro plans"
+msgstr "Zobrazit plány Uipress Pro"
+
+#: admin/apps/users/uip-users.php:755
+msgid "Viewed page"
+msgstr "Zobrazená stránka"
+
+#: admin/apps/content/content.php:423
+msgid "Views updated"
+msgstr "Zobrazení byla aktualizována"
+
+#: admin/apps/overview/overview.php:736
+msgid "Visits"
+msgstr "Návštěvy"
+
+#: admin/apps/overview/analytics.php:754
+msgid "Visits by Country"
+msgstr "Návštěvy podle země"
+
+#: admin/apps/overview/overview.php:786
+msgid "Visits By Device"
+msgstr "Návštěvy podle zařízení"
+
+#: admin/apps/overview/analytics.php:772
+msgid "Visits By Page"
+msgstr "Návštěvy podle stránky"
+
+#: admin/apps/overview/overview.php:768
+msgid "vs"
+msgstr "vs"
+
+#: admin/apps/overview/overview.php:729
+msgid "vs previous"
+msgstr "vs předchozí"
+
+#: admin/classes/update.php:66
+msgid "Welcome to UiPress version "
+msgstr "Vítejte ve verzi UiPress"
+
+#: admin/apps/overview/overview.php:813
+msgid "What would you like to do?"
+msgstr "Co bys rád dělal?"
+
+#: admin/classes/uipress-app.php:2828
+msgid ""
+"When enabled, clicking on view website or the home button will open in a new "
+"browser tab"
+msgstr ""
+"Je-li povoleno, kliknutím na zobrazit webovou stránku nebo na tlačítko Domů "
+"se otevře nová karta prohlížeče"
+
+#: admin/apps/content/content.php:128
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This also includes folders"
+msgstr ""
+"Je-li povoleno, na stránce s obsahem se zobrazí pouze obsah vytvořený nebo "
+"nahraný aktuálně přihlášeným uživatelem. Patří sem také složky"
+
+#: admin/apps/content/content.php:110
+msgid ""
+"When the content page module is disabled, the content page will not be "
+"accesible for the users / roles"
+msgstr ""
+"Když je modul stránky s obsahem deaktivován, stránka s obsahem nebude pro "
+"uživatele/role přístupná"
+
+#: admin/classes/uipress-app.php:2950
+msgid ""
+"When the login module is disabled, the login page will be displayed in the "
+"original way."
+msgstr ""
+"Při deaktivaci přihlašovacího modulu se přihlašovací stránka zobrazí "
+"původním způsobem."
+
+#: admin/classes/uipress-app.php:2928
+msgid ""
+"When the theme is disabled, pages will be styles in the original way for "
+"selected users or roles."
+msgstr ""
+"Když je motiv deaktivován, stránky budou styly původním způsobem pro vybrané "
+"uživatele nebo role."
+
+#: admin/classes/uipress-app.php:2920
+msgid "When the theme is disabled, pages will be styles in the original way."
+msgstr "Když je motiv deaktivován, stránky budou styly původním způsobem."
+
+#: admin/apps/users/uip-users.php:67
+msgid ""
+"When the user management page module is disabled, the user management page "
+"will not be accesible for the users / roles"
+msgstr ""
+"Když je modul stránky správy uživatelů deaktivován, stránka správy uživatelů "
+"nebude pro uživatele/role přístupná"
+
+#: admin/classes/uipress-app.php:2600
+#, php-format
+msgid "White label %s by changing the author in the plugin table."
+msgstr "Bílý štítek %s změnou autora v tabulce pluginu."
+
+#: admin/classes/uipress-app.php:2591
+#, php-format
+msgid "White label %s by changing the name displayed."
+msgstr "Bílý štítek %s změnou zobrazeného názvu."
+
+#: admin/classes/uipress-app.php:2609
+#, php-format
+msgid "White label %s by changing the plugin URL in the plugin table."
+msgstr "Bílý štítek %s změnou adresy URL pluginu v tabulce pluginů."
+
+#: admin/apps/admin-pages/admin-pages.php:271
+msgid "Who can edit and create admin pages?"
+msgstr "Kdo může upravovat a vytvářet administrátorské stránky?"
+
+#: admin/apps/overview/overview.php:128
+msgid "Who can edit the overview page?"
+msgstr "Kdo může upravovat stránku s přehledem?"
+
+#: admin/apps/admin-pages/admin-pages.php:280
+msgid "Who can see admin pages?"
+msgstr "Kdo může vidět administrátorské stránky?"
+
+#: admin/classes/styles.php:1096
+msgid "Width"
+msgstr "Šířka"
+
+#: admin/apps/overview/woocommerce.php:46
+#: admin/apps/overview/woocommerce.php:125
+#: admin/apps/overview/woocommerce.php:203
+msgid "Woocommerce is required for this widget"
+msgstr "Pro tento widget je vyžadován Woocommerce"
+
+#: admin/apps/overview/overview.php:748
+msgid "WooCommerce is required to use this card"
+msgstr "Pro použití této karty je vyžadován WooCommerce"
+
+#: admin/classes/update.php:69 admin/classes/update.php:101
+msgid ""
+"Would you like to automatically import settings from your older version of "
+"uipress?"
+msgstr "Chcete automaticky importovat nastavení ze své starší verze uipress?"
+
+#: admin/apps/overview/overview.php:708
+msgid "xlarge (1/1)"
+msgstr "xlarge (1/1)"
+
+#: admin/apps/overview/overview.php:702
+msgid "xsmall (1/5)"
+msgstr "xsmall (1/5)"
+
+#: admin/apps/overview/overview.php:701
+msgid "xxsmall (1/6)"
+msgstr "xxsmall (1/6)"
+
+#: admin/apps/overview/overview.php:771 admin/classes/uipress-app.php:1398
+msgid "Yesterday"
+msgstr "Včera"
+
+#: admin/apps/users/uip-users.php:353
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"Aktuálně upravujete roli správce. Toto je obvykle nejdůležitější role na "
+"webu, takže se prosím ujistěte, že neodstraňujete nezbytné funkce."
+
+#: admin/apps/users/uip-users-ajax.php:792
+#: admin/apps/users/uip-users-ajax.php:843
+msgid "You can't delete a role that is currently assigned to yourself"
+msgstr "Nemůžete smazat roli, která je vám aktuálně přiřazena"
+
+#: admin/apps/users/uip-users-ajax.php:1314
+msgid "You can't delete yourself"
+msgstr "Nemůžete se smazat"
+
+#: admin/apps/users/uip-users-ajax.php:1261
+msgid "You can't delete yourself!"
+msgstr "Nemůžete se smazat!"
+
+#: admin/apps/menu-creator/menu-creator.php:783
+msgid "You don't have permission to delete this"
+msgstr "Nemáte oprávnění toto smazat"
+
+#: admin/apps/users/uip-users-ajax.php:873
+msgid "You don't have sufficent priviledges to add this capability"
+msgstr "K přidání této schopnosti nemáte dostatečná oprávnění"
+
+#: admin/apps/users/uip-users-ajax.php:996
+msgid "You don't have sufficent priviledges to create users"
+msgstr "Nemáte dostatečná oprávnění k vytváření uživatelů"
+
+#: admin/apps/users/uip-users-ajax.php:938
+msgid "You don't have sufficent priviledges to delete this capability"
+msgstr "K odstranění této funkce nemáte dostatečná oprávnění"
+
+#: admin/apps/users/uip-users-ajax.php:1274
+#: admin/apps/users/uip-users-ajax.php:1279
+#: admin/apps/users/uip-users-ajax.php:1305
+msgid "You don't have sufficent priviledges to delete this user"
+msgstr "Nemáte dostatečná oprávnění ke smazání tohoto uživatele"
+
+#: admin/apps/users/uip-users-ajax.php:686
+msgid "You don't have sufficent priviledges to do this"
+msgstr "Nemáte k tomu dostatečná oprávnění"
+
+#: admin/apps/users/uip-users-ajax.php:1088
+#: admin/apps/users/uip-users-ajax.php:1127
+msgid "You don't have sufficent priviledges to edit this user"
+msgstr "Nemáte dostatečná oprávnění k úpravě tohoto uživatele"
+
+#: admin/apps/users/uip-users-ajax.php:511
+#: admin/apps/users/uip-users-ajax.php:577
+msgid "You don't have sufficent priviledges to edit users"
+msgstr "Nemáte dostatečná oprávnění upravovat uživatele"
+
+#: admin/apps/users/uip-users-ajax.php:630
+#: admin/apps/users/uip-users-ajax.php:716
+#: admin/apps/users/uip-users-ajax.php:777
+#: admin/apps/users/uip-users-ajax.php:818
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr "Nemáte dostatečná oprávnění ke správě rolí"
+
+#: admin/classes/uipress-app.php:1376
+msgid "You haven't created a folder yet"
+msgstr "Ještě jste nevytvořili složku"

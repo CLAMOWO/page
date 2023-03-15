@@ -1,0 +1,4810 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress\n"
+"POT-Creation-Date: 2022-06-12 12:06+0200\n"
+"PO-Revision-Date: 2022-06-22 20:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Team: Rubyvio https://rubyvio.com"
+"X-Poedit-Basepath: ..\n"
+"X-Translate-Version: beta; wp-6.0"
+"X-Human revision: none;
+
+#: admin/apps/admin-pages/admin-pages.php:110
+#: admin/apps/menu-creator/menu-creator.php:1304
+msgid "Apply to subsites"
+msgstr "सबसाइट्स पर लागू करें"
+
+#: admin/apps/admin-pages/admin-pages.php:121
+msgid "Menu Icon"
+msgstr "मेनू आइकन"
+
+#: admin/apps/admin-pages/admin-pages.php:131
+msgid "Manually add to menu?"
+msgstr "मेनू में मैन्युअल रूप से जोड़ें?"
+
+#: admin/apps/admin-pages/admin-pages.php:250
+msgid "Admin Pages - Beta"
+msgstr "व्यवस्थापक पृष्ठ - बीटा"
+
+#: admin/apps/admin-pages/admin-pages.php:251
+msgid "Creates custom admin pages."
+msgstr "कस्टम व्यवस्थापक पृष्ठ बनाता है।"
+
+#: admin/apps/admin-pages/admin-pages.php:255
+msgid "Disable custom admin pages?"
+msgstr "कस्टम व्यवस्थापक पृष्ठ अक्षम करें?"
+
+#: admin/apps/admin-pages/admin-pages.php:256
+msgid "If disabled, the admin pages will not be available to any users."
+msgstr ""
+"अक्षम होने पर, व्यवस्थापक पृष्ठ किसी भी उपयोगकर्ता के लिए उपलब्ध नहीं होंगे।"
+
+#: admin/apps/admin-pages/admin-pages.php:263
+msgid "Admin Page Slug"
+msgstr "व्यवस्थापक पृष्ठ स्लग"
+
+#: admin/apps/admin-pages/admin-pages.php:264
+msgid ""
+"This defaults to admin-pages. Changes to this will need you to resave "
+"permalink structure."
+msgstr ""
+"यह व्यवस्थापक-पृष्ठों के लिए डिफ़ॉल्ट है। इसमें परिवर्तन करने के लिए आपको "
+"परमालिंक संरचना को फिर से सहेजना होगा।"
+
+#: admin/apps/admin-pages/admin-pages.php:271
+msgid "Who can edit and create admin pages?"
+msgstr "कौन संपादित कर सकता है और व्यवस्थापक पृष्ठ बना सकता है?"
+
+#: admin/apps/admin-pages/admin-pages.php:272
+msgid ""
+"Editing and creation of admin pages will be disabled for the users or roles "
+"you select"
+msgstr ""
+"आपके द्वारा चुने गए उपयोगकर्ताओं या भूमिकाओं के लिए व्यवस्थापक पृष्ठों का "
+"संपादन और निर्माण अक्षम कर दिया जाएगा"
+
+#: admin/apps/admin-pages/admin-pages.php:280
+msgid "Who can see admin pages?"
+msgstr "व्यवस्थापक पृष्ठ कौन देख सकता है?"
+
+#: admin/apps/admin-pages/admin-pages.php:281
+msgid "UiPress will only show admin pages for the users or roles you select"
+msgstr ""
+"UiPress केवल आपके द्वारा चुने गए उपयोगकर्ताओं या भूमिकाओं के लिए व्यवस्थापक "
+"पृष्ठ दिखाएगा"
+
+#: admin/apps/admin-pages/admin-pages.php:320
+msgctxt "post type general name"
+msgid "Admin Page"
+msgstr "व्यवस्थापक पृष्ठ"
+
+#: admin/apps/admin-pages/admin-pages.php:321
+msgctxt "post type singular name"
+msgid "Admin Page"
+msgstr "व्यवस्थापक पृष्ठ"
+
+#: admin/apps/admin-pages/admin-pages.php:322
+msgctxt "admin menu"
+msgid "Admin Pages"
+msgstr "व्यवस्थापक पृष्ठ"
+
+#: admin/apps/admin-pages/admin-pages.php:323
+msgctxt "add new on admin bar"
+msgid "Admin Page"
+msgstr "व्यवस्थापक पृष्ठ"
+
+#: admin/apps/admin-pages/admin-pages.php:324
+msgctxt "Admin Page"
+msgid "Add New"
+msgstr "नया जोड़ो"
+
+#: admin/apps/admin-pages/admin-pages.php:325
+msgid "Add New Admin Page"
+msgstr "नया व्यवस्थापक पृष्ठ जोड़ें"
+
+#: admin/apps/admin-pages/admin-pages.php:326
+msgid "New Admin Page"
+msgstr "नया व्यवस्थापक पृष्ठ"
+
+#: admin/apps/admin-pages/admin-pages.php:327
+msgid "Edit Admin Page"
+msgstr "व्यवस्थापक पृष्ठ संपादित करें"
+
+#: admin/apps/admin-pages/admin-pages.php:328
+msgid "View Admin Page"
+msgstr "व्यवस्थापक पृष्ठ देखें"
+
+#: admin/apps/admin-pages/admin-pages.php:329
+msgid "All Admin Pages"
+msgstr "सभी व्यवस्थापक पृष्ठ"
+
+#: admin/apps/admin-pages/admin-pages.php:330
+msgid "Search Admin Pages"
+msgstr "व्यवस्थापक पृष्ठ खोजें"
+
+#: admin/apps/admin-pages/admin-pages.php:331
+msgid "No Admin Pages found."
+msgstr "कोई व्यवस्थापक पृष्ठ नहीं मिला।"
+
+#: admin/apps/admin-pages/admin-pages.php:332
+msgid "No Admin Pages found in Trash."
+msgstr "ट्रैश में कोई व्यवस्थापक पृष्ठ नहीं मिला।"
+
+#: admin/apps/admin-pages/admin-pages.php:336
+#: admin/apps/menu-creator/menu-creator.php:667
+#: admin/apps/users/uip-history.php:161
+msgid "Description."
+msgstr "विवरण।"
+
+#: admin/apps/content/content.php:96
+msgid "Content Page"
+msgstr "सामग्री पृष्ठ"
+
+#: admin/apps/content/content.php:97
+msgid "Creates content page"
+msgstr "सामग्री पृष्ठ बनाता है"
+
+#: admin/apps/content/content.php:101
+msgid "Disable Content Page?"
+msgstr "सामग्री पृष्ठ अक्षम करें?"
+
+#: admin/apps/content/content.php:102
+msgid "If disabled, the content page will not be available to any users."
+msgstr ""
+"अक्षम होने पर, सामग्री पृष्ठ किसी भी उपयोगकर्ता के लिए उपलब्ध नहीं होगा।"
+
+#: admin/apps/content/content.php:109
+msgid "Content Page Disabled for"
+msgstr "सामग्री पृष्ठ के लिए अक्षम"
+
+#: admin/apps/content/content.php:110
+msgid ""
+"When the content page module is disabled, the content page will not be "
+"accesible for the users / roles"
+msgstr ""
+"जब सामग्री पृष्ठ मॉड्यूल अक्षम हो जाता है, तो सामग्री पृष्ठ उपयोगकर्ताओं / "
+"भूमिकाओं के लिए सुलभ नहीं होगा"
+
+#: admin/apps/content/content.php:118
+msgid "Post types available in content page"
+msgstr "सामग्री पृष्ठ में उपलब्ध पोस्ट प्रकार"
+
+#: admin/apps/content/content.php:119
+msgid "Only the selected post types will be available in the content page."
+msgstr "केवल चयनित पोस्ट प्रकार सामग्री पृष्ठ में उपलब्ध होंगे।"
+
+#: admin/apps/content/content.php:127
+msgid "Enable private library mode"
+msgstr "निजी लाइब्रेरी मोड सक्षम करें"
+
+#: admin/apps/content/content.php:128
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This also includes folders"
+msgstr ""
+"सक्षम होने पर, सामग्री पृष्ठ केवल वर्तमान में लॉग इन उपयोगकर्ता द्वारा बनाई "
+"गई या अपलोड की गई सामग्री दिखाएगा। इसमें फ़ोल्डर्स भी शामिल हैं"
+
+#: admin/apps/content/content.php:184
+msgid "Original Title / Value"
+msgstr "मूल शीर्षक / मूल्य"
+
+#: admin/apps/content/content.php:188 admin/classes/styles.php:693
+msgid "Text"
+msgstr "मूलपाठ"
+
+#: admin/apps/content/content.php:192 admin/apps/content/content.php:2033
+msgid "Date Created"
+msgstr "निर्माण की तिथि"
+
+#: admin/apps/content/content.php:196
+msgid "File Extension (attachments only)"
+msgstr "फ़ाइल एक्सटेंशन (केवल संलग्नक)"
+
+#: admin/apps/content/content.php:200
+msgid "Sequence Number"
+msgstr "क्रम संख्या"
+
+#: admin/apps/content/content.php:204
+msgid "Meta Value"
+msgstr "मेटा वैल्यू"
+
+#: admin/apps/content/content.php:208
+msgid "Find and Replace"
+msgstr "ढूँढें और बदलें"
+
+#: admin/apps/content/content.php:266 admin/classes/uipress-app.php:1731
+#: admin/classes/uipress-app.php:2073
+msgid "No preferences supplied to save"
+msgstr "सहेजने के लिए कोई प्राथमिकता नहीं दी गई"
+
+#: admin/apps/content/content.php:288 admin/classes/uipress-app.php:1742
+#: admin/classes/uipress-app.php:2095
+msgid "Preferences saved"
+msgstr "प्राथमिकताएं सहेजी गईं"
+
+#: admin/apps/content/content.php:291 admin/classes/uipress-app.php:1746
+#: admin/classes/uipress-app.php:2098
+msgid "Unable to save user preferences"
+msgstr "उपयोगकर्ता वरीयताएँ सहेजने में असमर्थ"
+
+#: admin/apps/content/content.php:320 admin/apps/content/content.php:328
+#: admin/apps/content/content.php:957
+msgid "Unable to save attachment"
+msgstr "अनुलग्नक सहेजने में असमर्थ"
+
+#: admin/apps/content/content.php:337
+msgid "Image Saved"
+msgstr "छवि सहेजी गई"
+
+#: admin/apps/content/content.php:370
+msgid "Failed to upload file"
+msgstr "फ़ाइल अपलोड करने में विफल"
+
+#: admin/apps/content/content.php:400
+msgid "Items uploaded"
+msgstr "अपलोड किए गए आइटम"
+
+#: admin/apps/content/content.php:423
+msgid "Views updated"
+msgstr "दृश्य अपडेट किए गए"
+
+#: admin/apps/content/content.php:455 admin/apps/content/content.php:517
+#: admin/apps/content/content.php:579 admin/apps/content/content.php:769
+#: admin/apps/menu-creator/menu-creator.php:752
+#: admin/apps/menu-creator/menu-creator.php:777
+#: admin/apps/menu-creator/menu-creator.php:814
+#: admin/apps/menu-creator/menu-creator.php:867
+#: admin/apps/menu-creator/menu-creator.php:936
+#: admin/apps/users/uip-user-groups.php:309 admin/classes/folders.php:528
+#: admin/classes/settings.php:308 admin/classes/uipress-app.php:1357
+msgid "Something went wrong"
+msgstr "कुछ गलत हो गया"
+
+#: admin/apps/content/content.php:460
+msgid "Items duplicated successfully"
+msgstr "आइटम सफलतापूर्वक डुप्लिकेट किए गए"
+
+#: admin/apps/content/content.php:463
+msgid "Itms couldn't be duplicated"
+msgstr "itms को दोहराया नहीं जा सका"
+
+#: admin/apps/content/content.php:501 admin/apps/content/content.php:543
+msgid "No Meta Key provided"
+msgstr "कोई मेटा कुंजी प्रदान नहीं की गई"
+
+#: admin/apps/content/content.php:583
+msgid "Attributes Updated"
+msgstr "विशेषताएँ अपडेट की गईं"
+
+#: admin/apps/content/content.php:774
+msgid "Items deleted successfully"
+msgstr "आइटम सफलतापूर्वक हटा दिए गए"
+
+#: admin/apps/content/content.php:777
+msgid "Itms couldn't be deleted"
+msgstr "इटम्स को हटाया नहीं जा सका"
+
+#: admin/apps/content/content.php:799 admin/classes/folders.php:452
+#: admin/classes/folders.php:484
+msgid "No content to move"
+msgstr "स्थानांतरित करने के लिए कोई सामग्री नहीं"
+
+#: admin/apps/content/content.php:812 admin/classes/folders.php:466
+#: admin/classes/folders.php:497
+msgid "Content moved"
+msgstr "सामग्री ले जाया गया"
+
+#: admin/apps/content/content.php:938
+msgid "Unable to update item"
+msgstr "आइटम अपडेट करने में असमर्थ"
+
+#: admin/apps/content/content.php:968
+msgid "Item updated"
+msgstr "आइटम अपडेट किया गया"
+
+#: admin/apps/content/content.php:1007
+msgid "Items updated"
+msgstr "आइटम अपडेट किए गए"
+
+#: admin/apps/content/content.php:1319 admin/apps/content/content.php:1611
+msgid "Content"
+msgstr "विषय"
+
+#: admin/apps/content/content.php:1362
+#: admin/apps/menu-creator/menu-creator.php:1096
+#: admin/classes/uipress-app.php:1325
+msgid "Pro Feature"
+msgstr "प्रो फ़ीचर"
+
+#: admin/apps/content/content.php:1365
+msgid "Upgrade to UiPress Pro to unlock the content page and content folders"
+msgstr ""
+"सामग्री पृष्ठ और सामग्री फ़ोल्डरों को अनलॉक करने के लिए UiPress Pro में "
+"अपग्रेड करें"
+
+#: admin/apps/content/content.php:1367
+#: admin/apps/menu-creator/menu-creator.php:1101
+msgid "See UiPress Pro Plans"
+msgstr "यूआईप्रेस प्रो प्लान देखें"
+
+#: admin/apps/content/content.php:1411
+msgid "Update Tags and Categories"
+msgstr "टैग और श्रेणियाँ अपडेट करें"
+
+#: admin/apps/content/content.php:1418 admin/apps/content/content.php:1831
+#: admin/apps/content/content.php:1836 admin/apps/content/content.php:2068
+#: admin/apps/content/content.php:2071
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+#: admin/apps/content/content.php:1419 admin/apps/content/content.php:1837
+#: admin/apps/content/content.php:2072
+msgid "Search categories..."
+msgstr "श्रेणियां खोजें..."
+
+#: admin/apps/content/content.php:1424
+msgid "Keep existing categories"
+msgstr "मौजूदा श्रेणियां रखें"
+
+#: admin/apps/content/content.php:1433 admin/apps/content/content.php:1843
+#: admin/apps/content/content.php:1847 admin/apps/content/content.php:2080
+#: admin/apps/content/content.php:2083
+msgid "Tags"
+msgstr "टैग"
+
+#: admin/apps/content/content.php:1434 admin/apps/content/content.php:1848
+#: admin/apps/content/content.php:2084
+msgid "Search tags..."
+msgstr "टैग खोजें..."
+
+#: admin/apps/content/content.php:1439
+msgid "Keep existing tags"
+msgstr "मौजूदा टैग रखें"
+
+#: admin/apps/content/content.php:1448 admin/apps/content/content.php:1686
+#: admin/classes/uipress-app.php:1373
+msgid "Update"
+msgstr "अद्यतन"
+
+#: admin/apps/content/content.php:1465 admin/apps/content/content.php:2567
+msgid "Batch Rename"
+msgstr "बैच का नाम बदलें"
+
+#: admin/apps/content/content.php:1473
+msgid "Attribute to rename"
+msgstr "नाम बदलने के लिए विशेषता"
+
+#: admin/apps/content/content.php:1480 admin/apps/content/content.php:2323
+#: admin/apps/menu-creator/menu-creator.php:1151
+#: admin/apps/menu-creator/menu-creator.php:1651
+#: admin/apps/menu-creator/menu-creator.php:1652
+#: admin/apps/users/uip-users.php:311 admin/apps/users/uip-users.php:389
+#: admin/apps/users/uip-users.php:1213 admin/classes/uipress-app.php:1371
+msgid "Name"
+msgstr "नाम"
+
+#: admin/apps/content/content.php:1481
+msgid "Meta Key"
+msgstr "मेटा कुंजी"
+
+#: admin/apps/content/content.php:1482
+msgid "Alt Tag (Attachments only)"
+msgstr "ऑल्ट टैग (केवल अटैचमेंट)"
+
+#: admin/apps/content/content.php:1487
+msgid "Meta Key Name"
+msgstr "मेटा कुंजी नाम"
+
+#: admin/apps/content/content.php:1498
+msgid "Filename Structure"
+msgstr "फ़ाइल नाम संरचना"
+
+#: admin/apps/content/content.php:1506
+msgid "Rename Item"
+msgstr "आइटम का नाम बदलें"
+
+#: admin/apps/content/content.php:1514 admin/apps/overview/overview.php:812
+msgid "Add"
+msgstr "जोड़ें"
+
+#: admin/apps/content/content.php:1540
+msgid "New Text"
+msgstr "नया पाठ"
+
+#: admin/apps/content/content.php:1542
+msgid "Date Format"
+msgstr "तारिख का प्रारूप"
+
+#: admin/apps/content/content.php:1544
+msgid "Start Number"
+msgstr "प्रारंभ संख्या"
+
+#: admin/apps/content/content.php:1546
+msgid "Meta key Name"
+msgstr "मेटा कुंजी नाम"
+
+#: admin/apps/content/content.php:1548
+msgid "Find"
+msgstr "पाना"
+
+#: admin/apps/content/content.php:1552
+msgid "Replace"
+msgstr "बदलने के"
+
+#: admin/apps/content/content.php:1576 admin/apps/content/content.php:1593
+#: admin/apps/menu-creator/menu-creator.php:1464
+msgid "Preview"
+msgstr "पूर्वावलोकन"
+
+#: admin/apps/content/content.php:1579
+msgid "Current"
+msgstr "मौजूदा"
+
+#: admin/apps/content/content.php:1580
+#: admin/apps/menu-creator/menu-creator.php:1136
+msgid "New"
+msgstr "नया"
+
+#: admin/apps/content/content.php:1594
+msgid "Rename"
+msgstr "नाम बदलें"
+
+#: admin/apps/content/content.php:1618 admin/classes/uipress-app.php:1365
+msgid "All Content"
+msgstr "सभी सामग्री"
+
+#: admin/apps/content/content.php:1679
+#: admin/apps/menu-creator/menu-creator.php:1225
+#: admin/apps/users/uip-users.php:541
+msgid "Delete"
+msgstr "मिटाना"
+
+#: admin/apps/content/content.php:1684
+msgid "Edit Image"
+msgstr "संपादित छवि"
+
+#: admin/apps/content/content.php:1715 admin/apps/users/uip-users.php:309
+msgid "Details"
+msgstr "विवरण"
+
+#: admin/apps/content/content.php:1771 admin/apps/content/content.php:1772
+#: admin/apps/overview/overview.php:715
+msgid "Title"
+msgstr "शीर्षक"
+
+#: admin/apps/content/content.php:1778
+msgid "Alt Text"
+msgstr "वैकल्पिक शब्द"
+
+#: admin/apps/content/content.php:1779
+msgid "Alt"
+msgstr "Alt"
+
+#: admin/apps/content/content.php:1783 admin/apps/content/content.php:1784
+msgid "Caption"
+msgstr "कैप्शन"
+
+#: admin/apps/content/content.php:1788 admin/apps/content/content.php:1789
+#: admin/apps/users/uip-users.php:1353
+msgid "Description"
+msgstr "विवरण"
+
+#: admin/apps/content/content.php:1799
+msgid "Meta Data"
+msgstr "मेटा डेटा"
+
+#: admin/apps/content/content.php:1819 admin/apps/content/content.php:1824
+#: admin/apps/content/content.php:2339
+#: admin/apps/menu-creator/menu-creator.php:1155
+#: admin/apps/menu-creator/menu-creator.php:1294
+#: admin/classes/uipress-app.php:1151
+msgid "Status"
+msgstr "दर्जा"
+
+#: admin/apps/content/content.php:1825
+msgid "Search status..."
+msgstr "स्थिति खोजें..."
+
+#: admin/apps/content/content.php:1927
+msgid "Filters"
+msgstr "फिल्टर"
+
+#: admin/apps/content/content.php:1932
+msgid "Upload"
+msgstr "डालना"
+
+#: admin/apps/content/content.php:1954
+msgid "Items Per Page"
+msgstr "आइटम प्रति पेज"
+
+#: admin/apps/content/content.php:1964
+msgid "Columns"
+msgstr "कॉलम"
+
+#: admin/apps/content/content.php:1976
+msgid "Search..."
+msgstr "खोज..."
+
+#: admin/apps/content/content.php:1984
+msgid "of"
+msgstr "का"
+
+#: admin/apps/content/content.php:1987
+msgid "items"
+msgstr "सामान"
+
+#: admin/apps/content/content.php:2011 admin/apps/content/content.php:2014
+msgid "Post Types"
+msgstr "पोस्ट प्रकार"
+
+#: admin/apps/content/content.php:2015
+msgid "Search Post Types..."
+msgstr "पोस्ट प्रकार खोजें..."
+
+#: admin/apps/content/content.php:2022 admin/apps/content/content.php:2025
+msgid "Post Status"
+msgstr "पोस्ट स्थिति"
+
+#: admin/apps/content/content.php:2026
+msgid "Search Post Statuses..."
+msgstr "पोस्ट स्थितियां खोजें..."
+
+#: admin/apps/content/content.php:2039
+msgid "Posted On"
+msgstr "प्रकाशित किया गया"
+
+#: admin/apps/content/content.php:2040
+msgid "Posted After"
+msgstr "के बाद पोस्ट किया गया"
+
+#: admin/apps/content/content.php:2041
+msgid "Posted Before"
+msgstr "पहले पोस्ट किया गया"
+
+#: admin/apps/content/content.php:2056 admin/apps/content/content.php:2059
+msgid "Media Types"
+msgstr "मीडिया प्रकार"
+
+#: admin/apps/content/content.php:2060
+msgid "Search Media Types..."
+msgstr "मीडिया प्रकार खोजें..."
+
+#: admin/apps/content/content.php:2089
+msgid "Clear Filters"
+msgstr "फ़िल्टर साफ़ करें"
+
+#: admin/apps/content/content.php:2090
+msgid "Save as view"
+msgstr "दृश्य के रूप में सहेजें"
+
+#: admin/apps/content/content.php:2136
+msgid "Posted"
+msgstr "की तैनाती"
+
+#: admin/apps/content/content.php:2327
+msgid "Type"
+msgstr "टाइप"
+
+#: admin/apps/content/content.php:2331
+msgid "Author"
+msgstr "लेखक"
+
+#: admin/apps/content/content.php:2335
+#: admin/apps/menu-creator/menu-creator.php:1159
+#: admin/apps/overview/overview.php:904 admin/apps/users/uip-users.php:1333
+msgid "Date"
+msgstr "दिनांक"
+
+#: admin/apps/content/content.php:2483
+msgid "Load More"
+msgstr "और लोड करें"
+
+#: admin/apps/content/content.php:2492
+msgid "No content found"
+msgstr "कोई सामग्री नहीं मिली"
+
+#: admin/apps/content/content.php:2511 admin/apps/users/uip-users.php:547
+#: admin/classes/uipress-app.php:1327
+msgid "View"
+msgstr "राय"
+
+#: admin/apps/content/content.php:2518
+#: admin/apps/menu-creator/menu-creator.php:1203
+#: admin/apps/users/uip-users.php:523 admin/classes/uipress-app.php:1328
+msgid "Edit"
+msgstr "संपादन करना"
+
+#: admin/apps/content/content.php:2525
+msgid "Quick Edit"
+msgstr "शीघ्र संपादित"
+
+#: admin/apps/content/content.php:2532
+#: admin/apps/menu-creator/menu-creator.php:1210
+msgid "Duplicate"
+msgstr "डुप्लिकेट"
+
+#: admin/apps/content/content.php:2540
+msgid "Delete Item"
+msgstr "चीज़ें हटाएं"
+
+#: admin/apps/content/content.php:2560
+msgid "items selected"
+msgstr "आइटम चयनित"
+
+#: admin/apps/content/content.php:2573
+msgid "Categories & Tags"
+msgstr "श्रेणियाँ और टैग"
+
+#: admin/apps/content/content.php:2579
+msgid "Delete Selected"
+msgstr "चयनित मिटाएं"
+
+#: admin/apps/content/content.php:2585
+msgid "Clear Selection"
+msgstr "चयन साफ़ करें"
+
+#: admin/apps/content/content.php:2607
+msgid "Create New View"
+msgstr "नया दृश्य बनाएं"
+
+#: admin/apps/content/content.php:2612
+msgid "View name"
+msgstr "नाम देखें"
+
+#: admin/apps/content/content.php:2615
+msgid "View Name"
+msgstr "नाम देखें"
+
+#: admin/apps/content/content.php:2623
+#: admin/apps/menu-creator/menu-creator.php:1709
+#: admin/apps/overview/overview.php:836 admin/classes/styles.php:437
+msgid "Save"
+msgstr "बचाना"
+
+#: admin/apps/menu-creator/menu-creator.php:405
+#: admin/apps/menu-creator/menu-creator.php:1044
+#: admin/apps/menu-creator/menu-creator.php:1052
+#: admin/apps/menu-creator/menu-creator.php:1131
+#: admin/apps/menu-creator/menu-creator.php:1699
+msgid "Menu Creator"
+msgstr "मेनू निर्माता"
+
+#: admin/apps/menu-creator/menu-creator.php:406
+msgid "Creates custom admin menus."
+msgstr "कस्टम व्यवस्थापक मेनू बनाता है।"
+
+#: admin/apps/menu-creator/menu-creator.php:410
+msgid "Disable Menu Creator?"
+msgstr "मेनू निर्माता अक्षम करें?"
+
+#: admin/apps/menu-creator/menu-creator.php:411
+msgid "If disabled, the menu creator will not be available to any users."
+msgstr ""
+"अक्षम होने पर, मेनू निर्माता किसी भी उपयोगकर्ता के लिए उपलब्ध नहीं होगा।"
+
+#: admin/apps/menu-creator/menu-creator.php:651
+msgctxt "post type general name"
+msgid "Admin Menu"
+msgstr "व्यवस्थापक मेनू"
+
+#: admin/apps/menu-creator/menu-creator.php:652
+msgctxt "post type singular name"
+msgid "admin menu"
+msgstr "व्यवस्थापक मेनू"
+
+#: admin/apps/menu-creator/menu-creator.php:653
+msgctxt "admin menu"
+msgid "Admin Menus"
+msgstr "व्यवस्थापक मेनू"
+
+#: admin/apps/menu-creator/menu-creator.php:654
+msgctxt "add new on admin bar"
+msgid "Admin Menu"
+msgstr "व्यवस्थापक मेनू"
+
+#: admin/apps/menu-creator/menu-creator.php:655
+msgctxt "Admin Menu"
+msgid "Add New"
+msgstr "नया जोड़ो"
+
+#: admin/apps/menu-creator/menu-creator.php:656
+msgid "Add New Admin Menu"
+msgstr "नया व्यवस्थापक मेनू जोड़ें"
+
+#: admin/apps/menu-creator/menu-creator.php:657
+msgid "New Admin Menu"
+msgstr "नया व्यवस्थापक मेनू"
+
+#: admin/apps/menu-creator/menu-creator.php:658
+msgid "Edit Admin Menu"
+msgstr "व्यवस्थापक मेनू संपादित करें"
+
+#: admin/apps/menu-creator/menu-creator.php:659
+msgid "View Admin Menu"
+msgstr "व्यवस्थापक मेनू देखें"
+
+#: admin/apps/menu-creator/menu-creator.php:660
+msgid "All Admin Menus"
+msgstr "सभी व्यवस्थापक मेनू"
+
+#: admin/apps/menu-creator/menu-creator.php:661
+msgid "Search Admin Menus"
+msgstr "खोज व्यवस्थापक मेनू"
+
+#: admin/apps/menu-creator/menu-creator.php:662
+msgid "No Admin Menus found."
+msgstr "कोई व्यवस्थापक मेनू नहीं मिला।"
+
+#: admin/apps/menu-creator/menu-creator.php:663
+msgid "No Admin Menus found in Trash."
+msgstr "ट्रैश में कोई व्यवस्थापक मेनू नहीं मिला।"
+
+#: admin/apps/menu-creator/menu-creator.php:759
+msgid "Status Updated"
+msgstr "स्थिति अपडेट"
+
+#: admin/apps/menu-creator/menu-creator.php:783
+msgid "You don't have permission to delete this"
+msgstr "आपको इसे हटाने की अनुमति नहीं है"
+
+#: admin/apps/menu-creator/menu-creator.php:791
+msgid "Unable to delete menu"
+msgstr "मेनू हटाने में असमर्थ"
+
+#: admin/apps/menu-creator/menu-creator.php:796
+msgid "Menu deleted"
+msgstr "मेनू हटाया गया"
+
+#: admin/apps/menu-creator/menu-creator.php:820
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "मेनू डुप्लिकेट करने में असमर्थ, मेनू दूषित है"
+
+#: admin/apps/menu-creator/menu-creator.php:826
+msgid "(copy)"
+msgstr "(प्रतिलिपि)"
+
+#: admin/apps/menu-creator/menu-creator.php:834
+msgid "Unable to duplicate menu"
+msgstr "मेनू की नकल करने में असमर्थ"
+
+#: admin/apps/menu-creator/menu-creator.php:844
+msgid "Menu duplicated"
+msgstr "मेनू दोहराया गया"
+
+#: admin/apps/menu-creator/menu-creator.php:873
+msgid "Unable to save, menu is corrupted"
+msgstr "सहेजने में असमर्थ, मेनू दूषित है"
+
+#: admin/apps/menu-creator/menu-creator.php:894
+msgid "Unable to save menu"
+msgstr "मेनू सहेजने में असमर्थ"
+
+#: admin/apps/menu-creator/menu-creator.php:917
+msgid "Menu Saved"
+msgstr "मेनू सहेजा गया"
+
+#: admin/apps/menu-creator/menu-creator.php:962
+#: admin/apps/users/uip-users.php:1321 admin/classes/settings.php:328
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+#: admin/apps/menu-creator/menu-creator.php:977
+#: admin/apps/menu-creator/menu-creator.php:988
+#: admin/apps/users/uip-users.php:1285 admin/classes/settings.php:343
+#: admin/classes/settings.php:354
+msgid "Role"
+msgstr "भूमिका"
+
+#: admin/apps/menu-creator/menu-creator.php:995 admin/classes/settings.php:361
+msgid "Nothing found for term:"
+msgstr "अवधि के लिए कुछ नहीं मिला:"
+
+#: admin/apps/menu-creator/menu-creator.php:1044
+#, php-format
+msgid "%s Menu Creator"
+msgstr "%s मेनू निर्माता"
+
+#: admin/apps/menu-creator/menu-creator.php:1099
+msgid "Upgrade to UiPress Pro to unlock the menu creator"
+msgstr "मेनू निर्माता को अनलॉक करने के लिए UiPress Pro में अपग्रेड करें"
+
+#: admin/apps/menu-creator/menu-creator.php:1142
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "ऐसा लगता है कि आपने अभी तक कोई व्यवस्थापक मेनू नहीं बनाया है"
+
+#: admin/apps/menu-creator/menu-creator.php:1143
+msgid "Create your first admin menu"
+msgstr "अपना पहला व्यवस्थापक मेनू बनाएं"
+
+#: admin/apps/menu-creator/menu-creator.php:1217
+#: admin/apps/menu-creator/menu-creator.php:1718
+#: admin/apps/users/uip-users.php:559 admin/classes/settings.php:248
+#: admin/classes/styles.php:447
+msgid "Export"
+msgstr "निर्यात करना"
+
+#: admin/apps/menu-creator/menu-creator.php:1264
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"मेनू निर्माता मोबाइल उपकरणों के लिए अनुकूलित नहीं है। सर्वोत्तम परिणामों के "
+"लिए बड़ी स्क्रीन पर स्विच करें"
+
+#: admin/apps/menu-creator/menu-creator.php:1279
+msgid "Menu Items"
+msgstr "विकल्प सूची की चीज़ें"
+
+#: admin/apps/menu-creator/menu-creator.php:1283
+msgid "Menu Settings"
+msgstr "मेनू सेटिंग्स"
+
+#: admin/apps/menu-creator/menu-creator.php:1314
+#: admin/apps/menu-creator/menu-creator.php:1315
+msgid "Menu Name"
+msgstr "मेनू का नाम"
+
+#: admin/apps/menu-creator/menu-creator.php:1319
+msgid "Menu Applies to"
+msgstr "मेनू पर लागू होता है"
+
+#: admin/apps/menu-creator/menu-creator.php:1323
+msgid "Inclusive"
+msgstr "सहित"
+
+#: admin/apps/menu-creator/menu-creator.php:1327
+msgid "Exclusive"
+msgstr "विशिष्ट"
+
+#: admin/apps/menu-creator/menu-creator.php:1331
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr ""
+"समावेशी मोड में, यह मेनू नीचे चयनित सभी उपयोगकर्ता नामों और भूमिकाओं के लिए "
+"लोड होगा।"
+
+#: admin/apps/menu-creator/menu-creator.php:1334
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"विशिष्ट मोड में, यह मेनू नीचे चयनित उपयोगकर्ता नाम और भूमिकाओं को छोड़कर "
+"प्रत्येक उपयोगकर्ता के लिए लोड होगा।"
+
+#: admin/apps/menu-creator/menu-creator.php:1340
+msgid "Choose users or roles..."
+msgstr "उपयोगकर्ता या भूमिकाएं चुनें..."
+
+#: admin/apps/menu-creator/menu-creator.php:1342
+msgid "Search roles and users..."
+msgstr "भूमिकाएं और उपयोगकर्ता खोजें..."
+
+#: admin/apps/menu-creator/menu-creator.php:1351
+msgid "Custom Items"
+msgstr "कस्टम आइटम"
+
+#: admin/apps/menu-creator/menu-creator.php:1355
+msgid "New Separator"
+msgstr "नया विभाजक"
+
+#: admin/apps/menu-creator/menu-creator.php:1358
+msgid "New Custom Link"
+msgstr "नया कस्टम लिंक"
+
+#: admin/apps/menu-creator/menu-creator.php:1363
+msgid "Available Menu Items"
+msgstr "उपलब्ध मेनू आइटम"
+
+#: admin/apps/menu-creator/menu-creator.php:1370
+msgid "Search menu items"
+msgstr "मेनू आइटम खोजें"
+
+#: admin/apps/menu-creator/menu-creator.php:1518
+msgid "Add some menu items from the left toolbar to get started"
+msgstr "आरंभ करने के लिए बाएं टूलबार से कुछ मेनू आइटम जोड़ें"
+
+#: admin/apps/menu-creator/menu-creator.php:1537
+msgid "Separator"
+msgstr "सेपरेटर"
+
+#: admin/apps/menu-creator/menu-creator.php:1642
+msgid "Edit Menu Item"
+msgstr "मेनू आइटम संपादित करें"
+
+#: admin/apps/menu-creator/menu-creator.php:1656
+#: admin/apps/menu-creator/menu-creator.php:1657
+msgid "Link"
+msgstr "संपर्क"
+
+#: admin/apps/menu-creator/menu-creator.php:1661
+msgid "Classes"
+msgstr "कक्षाओं"
+
+#: admin/apps/menu-creator/menu-creator.php:1663
+msgid "Custom classes"
+msgstr "कस्टम कक्षाएं"
+
+#: admin/apps/menu-creator/menu-creator.php:1667
+msgid "Opens in new tab?"
+msgstr "नए टैब में खुलता है?"
+
+#: admin/apps/menu-creator/menu-creator.php:1677
+msgid "Icon"
+msgstr "आइकन"
+
+#: admin/apps/menu-creator/menu-creator.php:1702
+msgid "Back to all menus"
+msgstr "सभी मेनू पर वापस जाएं"
+
+#: admin/apps/menu-creator/menu-creator.php:1727
+msgid "Import Menu"
+msgstr "आयात मेनू"
+
+#: admin/apps/menu-creator/menu-creator.php:1736 admin/classes/settings.php:265
+msgid "Reset Settings"
+msgstr "सेटिंग्स फिर से करिए"
+
+#: admin/apps/overview/analytics.php:74
+msgid "Analytics account removed"
+msgstr "एनालिटिक्स खाता हटा दिया गया"
+
+#: admin/apps/overview/analytics.php:93
+msgid "Unable to connect account"
+msgstr "खाता कनेक्ट करने में असमर्थ"
+
+#: admin/apps/overview/analytics.php:106
+msgid "Analytics account connected"
+msgstr "विश्लेषिकी खाता जुड़ा हुआ है"
+
+#: admin/apps/overview/analytics.php:310 admin/apps/overview/analytics.php:718
+#: admin/apps/overview/overview.php:761
+msgid "Site Users"
+msgstr "साइट उपयोगकर्ता"
+
+#: admin/apps/overview/analytics.php:318 admin/apps/overview/overview.php:762
+msgid "Site Users (comparison period)"
+msgstr "साइट उपयोगकर्ता (तुलना अवधि)"
+
+#: admin/apps/overview/analytics.php:383 admin/apps/overview/analytics.php:700
+#: admin/apps/overview/overview.php:759
+msgid "Page Views"
+msgstr "पृष्ठ दृश्य"
+
+#: admin/apps/overview/analytics.php:391
+msgid "Page Views (comparison period)"
+msgstr "पृष्ठ दृश्य (तुलना अवधि)"
+
+#: admin/apps/overview/analytics.php:608 admin/apps/overview/analytics.php:709
+msgid "Page Speed"
+msgstr "पृष्ठ गति"
+
+#: admin/apps/overview/analytics.php:616
+msgid "Page Speed (comparison period)"
+msgstr "पृष्ठ गति (तुलना अवधि)"
+
+#: admin/apps/overview/analytics.php:663 admin/apps/overview/analytics.php:703
+#: admin/apps/overview/analytics.php:712 admin/apps/overview/analytics.php:721
+#: admin/apps/overview/analytics.php:730 admin/apps/overview/analytics.php:739
+#: admin/apps/overview/analytics.php:748 admin/apps/overview/analytics.php:757
+#: admin/apps/overview/analytics.php:766 admin/apps/overview/analytics.php:775
+#: admin/apps/overview/analytics.php:784 admin/apps/overview/analytics.php:793
+#: admin/apps/overview/analytics.php:802 admin/apps/overview/analytics.php:811
+#: admin/apps/overview/analytics.php:820 admin/apps/overview/analytics.php:829
+#: admin/apps/overview/analytics.php:838 admin/apps/overview/analytics.php:847
+#: admin/apps/overview/analytics.php:856 admin/apps/overview/analytics.php:865
+#: admin/apps/overview/analytics.php:874 admin/apps/overview/analytics.php:883
+msgid "Analytics"
+msgstr "एनालिटिक्स"
+
+#: admin/apps/overview/analytics.php:665
+msgid "Creates the google analytics cards for the overview page."
+msgstr "अवलोकन पृष्ठ के लिए Google विश्लेषिकी कार्ड बनाता है।"
+
+#: admin/apps/overview/analytics.php:681
+msgid "Google Analytics disabled for"
+msgstr "Google Analytics अक्षम किया गया"
+
+#: admin/apps/overview/analytics.php:682
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr ""
+"आपके द्वारा चुने गए किसी भी उपयोगकर्ता या भूमिकाओं के लिए सिंहावलोकन पृष्ठ "
+"पर विश्लेषण अक्षम कर दिया जाएगा"
+
+#: admin/apps/overview/analytics.php:702
+msgid "Display website page views within the date range."
+msgstr "दिनांक सीमा के भीतर वेबसाइट पृष्ठ दृश्य प्रदर्शित करें।"
+
+#: admin/apps/overview/analytics.php:711
+msgid "Display website page speed within the date range."
+msgstr "दिनांक सीमा के भीतर वेबसाइट पृष्ठ गति प्रदर्शित करें।"
+
+#: admin/apps/overview/analytics.php:720
+msgid "Display website users within the date range."
+msgstr "वेबसाइट उपयोगकर्ताओं को दिनांक सीमा के भीतर प्रदर्शित करें।"
+
+#: admin/apps/overview/analytics.php:727
+msgid "Site visits by device"
+msgstr "डिवाइस द्वारा साइट का दौरा"
+
+#: admin/apps/overview/analytics.php:729
+msgid "Display site usage by device within the date range."
+msgstr "दिनांक सीमा के भीतर डिवाइस द्वारा साइट उपयोग प्रदर्शित करें।"
+
+#: admin/apps/overview/analytics.php:736 admin/apps/overview/overview.php:841
+msgid "Bounce Rate"
+msgstr "बाउंस दर"
+
+#: admin/apps/overview/analytics.php:738
+msgid "Display site bounce rate within the date range."
+msgstr "दिनांक सीमा के भीतर साइट बाउंस दर प्रदर्शित करें।"
+
+#: admin/apps/overview/analytics.php:745
+msgid "Session Duration"
+msgstr "सत्र अवधि"
+
+#: admin/apps/overview/analytics.php:747
+msgid "Display site session duration within the date range."
+msgstr "दिनांक सीमा के भीतर साइट सत्र अवधि प्रदर्शित करें।"
+
+#: admin/apps/overview/analytics.php:754
+msgid "Visits by Country"
+msgstr "देश द्वारा दौरा"
+
+#: admin/apps/overview/analytics.php:756
+msgid "Displays country user data within the date range."
+msgstr "दिनांक सीमा के भीतर देश का उपयोगकर्ता डेटा प्रदर्शित करता है।"
+
+#: admin/apps/overview/analytics.php:763
+msgid "Traffic Sources"
+msgstr "यातायात स्रोत"
+
+#: admin/apps/overview/analytics.php:765
+msgid "Displays traffic source info within the date range."
+msgstr "दिनांक सीमा के भीतर ट्रैफ़िक स्रोत जानकारी प्रदर्शित करता है।"
+
+#: admin/apps/overview/analytics.php:772
+msgid "Visits By Page"
+msgstr "पृष्ठ द्वारा विज़िट"
+
+#: admin/apps/overview/analytics.php:774
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr ""
+"दिनांक सीमा के अंतर्गत सर्वाधिक लोकप्रिय साइट पृष्ठों का ट्रैफ़िक प्रदर्शित "
+"करता है."
+
+#: admin/apps/overview/analytics.php:781
+msgid "Event Count By Event Name"
+msgstr "घटना के नाम से घटना की गणना"
+
+#: admin/apps/overview/analytics.php:783
+msgid "Display list of events within the date range."
+msgstr "दिनांक सीमा के भीतर घटनाओं की सूची प्रदर्शित करें।"
+
+#: admin/apps/overview/analytics.php:790
+msgid "Sessions by channel grouping"
+msgstr "चैनल ग्रुपिंग के अनुसार सत्र"
+
+#: admin/apps/overview/analytics.php:792
+msgid "Display sessions by channel grouping within the date range."
+msgstr "दिनांक सीमा के भीतर चैनल ग्रुपिंग के आधार पर सत्र प्रदर्शित करें।"
+
+#: admin/apps/overview/analytics.php:799
+msgid "User in the last 30 minutes"
+msgstr "पिछले 30 मिनट में उपयोगकर्ता"
+
+#: admin/apps/overview/analytics.php:801
+msgid "Displays active users from the last 30 minutes."
+msgstr "पिछले 30 मिनट के सक्रिय उपयोगकर्ताओं को प्रदर्शित करता है।"
+
+#: admin/apps/overview/analytics.php:808
+msgid "Engagement Rate"
+msgstr "भर्ती दर"
+
+#: admin/apps/overview/analytics.php:810
+msgid "Displays average angagement rate for date range"
+msgstr "दिनांक सीमा के लिए औसत जुड़ाव दर प्रदर्शित करता है"
+
+#: admin/apps/overview/analytics.php:817 admin/apps/overview/overview.php:783
+msgid "Site Revenue"
+msgstr "साइट राजस्व"
+
+#: admin/apps/overview/analytics.php:819
+msgid ""
+"Displays site revenue for date range. The sum of revenue from purchases, "
+"subscriptions, and advertising."
+msgstr ""
+"दिनांक सीमा के लिए साइट आय प्रदर्शित करता है। खरीदारी, सदस्यता और विज्ञापन "
+"से होने वाली आय का योग."
+
+#: admin/apps/overview/analytics.php:826
+msgid "New vs Returning Users"
+msgstr "नए बनाम लौटने वाले उपयोगकर्ता"
+
+#: admin/apps/overview/analytics.php:828
+msgid "Displays new vs returning users for the date range."
+msgstr ""
+"दिनांक सीमा के लिए नए बनाम लौटने वाले उपयोगकर्ताओं को प्रदर्शित करता है।"
+
+#: admin/apps/overview/analytics.php:835
+msgid "Top Cities"
+msgstr "शीर्ष शहर"
+
+#: admin/apps/overview/analytics.php:837
+msgid "Displays page views by city for the date range."
+msgstr "दिनांक सीमा के लिए शहर के अनुसार पृष्ठ दृश्य प्रदर्शित करता है।"
+
+#: admin/apps/overview/analytics.php:844 admin/apps/overview/overview.php:785
+msgid "Ecommerce Overview"
+msgstr "ईकॉमर्स अवलोकन"
+
+#: admin/apps/overview/analytics.php:846
+msgid "Displays add to cart, checkout and purchase data for the date range."
+msgstr ""
+"दिनांक सीमा के लिए कार्ट में जोड़ें, चेकआउट और खरीद डेटा प्रदर्शित करता है।"
+
+#: admin/apps/overview/analytics.php:853 admin/apps/overview/overview.php:781
+#: admin/apps/overview/overview.php:782
+msgid "Conversion Rate"
+msgstr "रूपांतरण दर"
+
+#: admin/apps/overview/analytics.php:855
+msgid ""
+"The percentage of active users who made their first purchase for the date "
+"range."
+msgstr ""
+"सक्रिय उपयोगकर्ताओं का प्रतिशत जिन्होंने दिनांक सीमा के लिए अपनी पहली "
+"खरीदारी की."
+
+#: admin/apps/overview/analytics.php:862
+msgid "Top Products"
+msgstr "शीर्ष उत्पाद"
+
+#: admin/apps/overview/analytics.php:864
+msgid "Products with the most sales for for the date range."
+msgstr "दिनांक सीमा के लिए सबसे अधिक बिक्री वाले उत्पाद।"
+
+#: admin/apps/overview/analytics.php:871
+msgid "Conversions in the last 30 minutes"
+msgstr "पिछले 30 मिनट में रूपांतरण"
+
+#: admin/apps/overview/analytics.php:873
+msgid "Conversions logged in the last 30 minutes."
+msgstr "पिछले 30 मिनट में रूपांतरण दर्ज किए गए।"
+
+#: admin/apps/overview/analytics.php:880
+msgid "Page Views in the last 30 minutes"
+msgstr "पिछले 30 मिनट में पेज देखे जाने की संख्या"
+
+#: admin/apps/overview/analytics.php:882
+msgid "Page views in the last 30 minutes."
+msgstr "पिछले 30 मिनट में पेज देखे जाने की संख्या."
+
+#: admin/apps/overview/analytics.php:1013
+msgid "Unable to fetch analytics data at this moment. Please try again later"
+msgstr "इस समय एनालिटिक्स डेटा लाने में असमर्थ। बाद में पुन: प्रयास करें"
+
+#: admin/apps/overview/overview.php:106 admin/apps/overview/overview.php:1150
+msgid "Overview"
+msgstr "अवलोकन"
+
+#: admin/apps/overview/overview.php:107
+msgid "Creates the overview page."
+msgstr "अवलोकन पृष्ठ बनाता है।"
+
+#: admin/apps/overview/overview.php:111
+msgid "Disable Overview Page?"
+msgstr "अवलोकन पृष्ठ अक्षम करें?"
+
+#: admin/apps/overview/overview.php:112
+msgid "Overview page will be hidden when this option is activated."
+msgstr "इस विकल्प के सक्रिय होने पर अवलोकन पृष्ठ छिपा दिया जाएगा।"
+
+#: admin/apps/overview/overview.php:119
+msgid "Overview Page Disabled For"
+msgstr "अवलोकन पृष्ठ के लिए अक्षम किया गया"
+
+#: admin/apps/overview/overview.php:120
+msgid "Overview Page will be disabled for any users or roles you select"
+msgstr ""
+"आपके द्वारा चुने गए किसी भी उपयोगकर्ता या भूमिकाओं के लिए अवलोकन पृष्ठ अक्षम "
+"कर दिया जाएगा"
+
+#: admin/apps/overview/overview.php:128
+msgid "Who can edit the overview page?"
+msgstr "अवलोकन पृष्ठ को कौन संपादित कर सकता है?"
+
+#: admin/apps/overview/overview.php:129
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If none "
+"are chosen it will fall back to administrators only"
+msgstr ""
+"यहां चुनी गई कोई भी भूमिका या उपयोगकर्ता अवलोकन पृष्ठ को संपादित करने में "
+"सक्षम होगा। यदि कोई नहीं चुना जाता है तो यह केवल प्रशासकों के पास वापस आ "
+"जाएगा"
+
+#: admin/apps/overview/overview.php:137
+msgid "Default report start date"
+msgstr "डिफ़ॉल्ट रिपोर्ट प्रारंभ तिथि"
+
+#: admin/apps/overview/overview.php:138
+msgid ""
+"By default the overview date range will start 7 days before current date. "
+"Add a number of days between 1 and 90 to change length of date range"
+msgstr ""
+"डिफ़ॉल्ट रूप से अवलोकन तिथि सीमा वर्तमान तिथि से 7 दिन पहले शुरू होगी। "
+"दिनांक सीमा की लंबाई बदलने के लिए 1 और 90 के बीच कई दिन जोड़ें"
+
+#: admin/apps/overview/overview.php:146
+msgid "Default report end date offset"
+msgstr "डिफ़ॉल्ट रिपोर्ट समाप्ति तिथि ऑफ़सेट"
+
+#: admin/apps/overview/overview.php:147
+msgid ""
+"By default the overview date range will end on the current day (0). To end "
+"the report on yesterday for example, enter 1"
+msgstr ""
+"डिफ़ॉल्ट रूप से अवलोकन दिनांक सीमा वर्तमान दिन (0) पर समाप्त हो जाएगी। "
+"उदाहरण के लिए कल को रिपोर्ट समाप्त करने के लिए, 1 दर्ज करें"
+
+#: admin/apps/overview/overview.php:155
+msgid "Reporting Currency Symbol"
+msgstr "रिपोर्टिंग मुद्रा प्रतीक"
+
+#: admin/apps/overview/overview.php:156
+msgid ""
+"If you are using google analytics commerce reports, enter the currency "
+"symbol your reports are in here"
+msgstr ""
+"यदि आप Google विश्लेषिकी वाणिज्य रिपोर्ट का उपयोग कर रहे हैं, तो वह मुद्रा "
+"चिह्न दर्ज करें जो आपकी रिपोर्ट में है"
+
+#: admin/apps/overview/overview.php:164
+msgid "Custom welcome message"
+msgstr "कस्टम स्वागत संदेश"
+
+#: admin/apps/overview/overview.php:165
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr ""
+"अवलोकन पृष्ठ पर प्रदर्शित करने के लिए यहां एक कस्टम स्वागत संदेश जोड़ें"
+
+#: admin/apps/overview/overview.php:243 admin/apps/overview/overview.php:384
+#: admin/apps/overview/woocommerce.php:158
+msgid "ago"
+msgstr "पहले"
+
+#: admin/apps/overview/overview.php:259 admin/apps/overview/overview.php:447
+#: admin/apps/overview/woocommerce.php:183
+#: admin/apps/overview/woocommerce.php:265
+msgid "Posts fetched"
+msgstr "पोस्ट लाई गईं"
+
+#: admin/apps/overview/overview.php:267
+msgid "No posts posted during the date range."
+msgstr "दिनांक सीमा के दौरान कोई पोस्ट पोस्ट नहीं की गई।"
+
+#: admin/apps/overview/overview.php:282
+msgid "Unable to save dash at this time"
+msgstr "इस समय डैश सहेजने में असमर्थ"
+
+#: admin/apps/overview/overview.php:292
+msgid "Dashboard settings saved"
+msgstr "डैशबोर्ड सेटिंग सहेजी गईं"
+
+#: admin/apps/overview/overview.php:307
+msgid "Dashboard settings reset"
+msgstr "डैशबोर्ड सेटिंग्स रीसेट"
+
+#: admin/apps/overview/overview.php:320 admin/apps/overview/overview.php:328
+msgid "Unable to load shortcode at this time"
+msgstr "इस समय शोर्ट लोड करने में असमर्थ"
+
+#: admin/apps/overview/overview.php:335
+msgid "Shortcode loaded"
+msgstr "शोर्ट लोड"
+
+#: admin/apps/overview/overview.php:454
+msgid "No comments during the date range."
+msgstr "दिनांक सीमा के दौरान कोई टिप्पणी नहीं।"
+
+#: admin/apps/overview/overview.php:477
+msgid "Core version"
+msgstr "मूल संस्करण"
+
+#: admin/apps/overview/overview.php:482
+msgid "PHP version"
+msgstr "पीएचपी संस्करण"
+
+#: admin/apps/overview/overview.php:487
+msgid "Active Plugins"
+msgstr "सक्रिय प्लगइन्स"
+
+#: admin/apps/overview/overview.php:492
+msgid "Inactive Plugins"
+msgstr "निष्क्रिय प्लगइन्स"
+
+#: admin/apps/overview/overview.php:497
+msgid "Installed Themes"
+msgstr "स्थापित थीम"
+
+#: admin/apps/overview/overview.php:532
+msgid "Unable to fetch quote of the day"
+msgstr "दिन का भाव लाने में असमर्थ"
+
+#: admin/apps/overview/overview.php:570
+msgid "Passed Checks"
+msgstr "उत्तीर्ण चेक"
+
+#: admin/apps/overview/overview.php:578
+msgid "Recommended"
+msgstr "अनुशंसित"
+
+#: admin/apps/overview/overview.php:586
+msgid "Critical"
+msgstr "नाजुक"
+
+#: admin/apps/overview/overview.php:597
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "%d आइटम पर एक नज़र डालें"
+
+#: admin/apps/overview/overview.php:598
+msgid "Site Health screen"
+msgstr "साइट स्वास्थ्य स्क्रीन"
+
+#: admin/apps/overview/overview.php:606
+msgid "Device Visits"
+msgstr "डिवाइस का दौरा"
+
+#: admin/apps/overview/overview.php:693
+msgid "Card width"
+msgstr "कार्ड की चौड़ाई"
+
+#: admin/apps/overview/overview.php:694
+msgid "Column width"
+msgstr "स्तंभ की चौड़ाई"
+
+#: admin/apps/overview/overview.php:695
+msgid "Column settings"
+msgstr "कॉलम सेटिंग्स"
+
+#: admin/apps/overview/overview.php:696
+msgid "Column Size"
+msgstr "कॉलम का आकार"
+
+#: admin/apps/overview/overview.php:697
+msgid "Remove Card"
+msgstr "कार्ड निकालें"
+
+#: admin/apps/overview/overview.php:698 admin/apps/overview/overview.php:799
+msgid "Delete Column"
+msgstr "कॉलम हटाएं"
+
+#: admin/apps/overview/overview.php:699
+msgid "In the"
+msgstr "में"
+
+#: admin/apps/overview/overview.php:700
+msgid "day range"
+msgstr "दिन सीमा"
+
+#: admin/apps/overview/overview.php:701
+msgid "xxsmall (1/6)"
+msgstr "xxछोटे (1/6)"
+
+#: admin/apps/overview/overview.php:702
+msgid "xsmall (1/5)"
+msgstr "एक्सस्मॉल (1/5)"
+
+#: admin/apps/overview/overview.php:703
+msgid "small (1/4)"
+msgstr "छोटा (1/4)"
+
+#: admin/apps/overview/overview.php:704
+msgid "small medium (1/3)"
+msgstr "छोटा माध्यम (1/3)"
+
+#: admin/apps/overview/overview.php:705
+msgid "medium (1/2)"
+msgstr "मध्यम (1/2)"
+
+#: admin/apps/overview/overview.php:706
+msgid "medium large (2/3)"
+msgstr "मध्यम बड़ा (2/3)"
+
+#: admin/apps/overview/overview.php:707
+msgid "large (3/4)"
+msgstr "बड़ा (3/4)"
+
+#: admin/apps/overview/overview.php:708
+msgid "xlarge (1/1)"
+msgstr "बड़ा (1/1)"
+
+#: admin/apps/overview/overview.php:709
+msgid "I am an empty column. Drag cards into me."
+msgstr "मैं एक खाली कॉलम हूं। मेरे अंदर कार्ड खींचें।"
+
+#: admin/apps/overview/overview.php:710
+msgid "Column Added"
+msgstr "कॉलम जोड़ा गया"
+
+#: admin/apps/overview/overview.php:711
+msgid "Add card"
+msgstr "कार्ड जोड़ें"
+
+#: admin/apps/overview/overview.php:712
+msgid "Section added"
+msgstr "अनुभाग जोड़ा गया"
+
+#: admin/apps/overview/overview.php:713
+msgid "Search Cards"
+msgstr "कार्ड खोजें"
+
+#: admin/apps/overview/overview.php:714
+msgid "Pro"
+msgstr "समर्थक"
+
+#: admin/apps/overview/overview.php:716 admin/apps/overview/overview.php:922
+msgid "Shortcode"
+msgstr "लघु कूट संख्या"
+
+#: admin/apps/overview/overview.php:717
+msgid "Video URL"
+msgstr "वीडियो यूआरएल"
+
+#: admin/apps/overview/overview.php:718
+msgid "Embed Type"
+msgstr "एम्बेड प्रकार"
+
+#: admin/apps/overview/overview.php:719
+msgid "UiPress Pro feature"
+msgstr "यूआईप्रेस प्रो फीचर"
+
+#: admin/apps/overview/overview.php:720
+msgid "Upgrade to one of our premium plans to unlock this feature."
+msgstr ""
+"इस सुविधा को अनलॉक करने के लिए हमारी एक प्रीमियम योजना में अपग्रेड करें।"
+
+#: admin/apps/overview/overview.php:721
+msgid "HTML"
+msgstr "एचटीएमएल"
+
+#: admin/apps/overview/overview.php:722
+msgid "Card Added"
+msgstr "कार्ड जोड़ा गया"
+
+#: admin/apps/overview/overview.php:723
+msgid "Card Background colour"
+msgstr "कार्ड पृष्ठभूमि रंग"
+
+#: admin/apps/overview/overview.php:724
+msgid "# Hex code only (#fff)"
+msgstr "# केवल हेक्स कोड (#fff)"
+
+#: admin/apps/overview/overview.php:725
+msgid "Use light color for text"
+msgstr "पाठ के लिए हल्के रंग का प्रयोग करें"
+
+#: admin/apps/overview/overview.php:726
+msgid "Chart Type"
+msgstr "चार्ट प्रकार"
+
+#: admin/apps/overview/overview.php:727
+msgid "Line Chart"
+msgstr "पंक्ति चार्ट"
+
+#: admin/apps/overview/overview.php:728
+msgid "Bar Chart"
+msgstr "बार चार्ट"
+
+#: admin/apps/overview/overview.php:729
+msgid "vs previous"
+msgstr "बनाम पिछला"
+
+#: admin/apps/overview/overview.php:730 admin/apps/overview/overview.php:829
+msgid "days"
+msgstr "दिन"
+
+#: admin/apps/overview/overview.php:731
+msgid "Doughnut"
+msgstr "डोनट"
+
+#: admin/apps/overview/overview.php:732
+msgid "Polar Area"
+msgstr "ध्रुवीय क्षेत्र"
+
+#: admin/apps/overview/overview.php:733
+msgid "Bar"
+msgstr "छड़"
+
+#: admin/apps/overview/overview.php:734 admin/apps/overview/overview.php:741
+msgid "Horizontal Bar"
+msgstr "क्षैतिज पट्टी"
+
+#: admin/apps/overview/overview.php:735
+msgid "Country"
+msgstr "देश"
+
+#: admin/apps/overview/overview.php:736
+msgid "Visits"
+msgstr "दौरा"
+
+#: admin/apps/overview/overview.php:737
+msgid "Change"
+msgstr "परिवर्तन"
+
+#: admin/apps/overview/overview.php:738
+msgid "No Background"
+msgstr "कोई पृष्ठभूमि नहीं"
+
+#: admin/apps/overview/overview.php:739
+msgid "Hide Map"
+msgstr "नक्शा छुपाएं"
+
+#: admin/apps/overview/overview.php:740
+msgid "Connect your account to use this card"
+msgstr "इस कार्ड का उपयोग करने के लिए अपना खाता कनेक्ट करें"
+
+#: admin/apps/overview/overview.php:742
+msgid "Hide Chart"
+msgstr "चार्ट छुपाएं"
+
+#: admin/apps/overview/overview.php:743
+msgid "Source"
+msgstr "स्रोत"
+
+#: admin/apps/overview/overview.php:744
+msgid "Page"
+msgstr "पृष्ठ"
+
+#: admin/apps/overview/overview.php:745
+msgid "Product"
+msgstr "उत्पाद"
+
+#: admin/apps/overview/overview.php:746
+msgid "Sold"
+msgstr "बेचा"
+
+#: admin/apps/overview/overview.php:747
+msgid "Value"
+msgstr "मूल्य"
+
+#: admin/apps/overview/overview.php:748
+msgid "WooCommerce is required to use this card"
+msgstr "इस कार्ड का उपयोग करने के लिए WooCommerce की आवश्यकता है"
+
+#: admin/apps/overview/overview.php:749 admin/classes/uipress-app.php:1380
+msgid "Please select a valid JSON file"
+msgstr "कृपया एक मान्य JSON फ़ाइल चुनें"
+
+#: admin/apps/overview/overview.php:750 admin/classes/uipress-app.php:1381
+msgid "File is to big"
+msgstr "फ़ाइल बड़ी है"
+
+#: admin/apps/overview/overview.php:751
+msgid "Layout Imported"
+msgstr "लेआउट आयातित"
+
+#: admin/apps/overview/overview.php:752
+msgid "Unable to import layout"
+msgstr "लेआउट आयात करने में असमर्थ"
+
+#: admin/apps/overview/overview.php:753
+msgid "Are you sure you want to clear the current layout? There is no undo."
+msgstr ""
+"क्या आप वाकई वर्तमान लेआउट को साफ़ करना चाहते हैं? कोई पूर्ववत नहीं है।"
+
+#: admin/apps/overview/overview.php:754
+msgid "Available Cards"
+msgstr "उपलब्ध कार्ड"
+
+#: admin/apps/overview/overview.php:755
+msgid "Event Count"
+msgstr "घटना गणना"
+
+#: admin/apps/overview/overview.php:756
+msgid "Event Name"
+msgstr "कार्यक्रम नाम"
+
+#: admin/apps/overview/overview.php:757
+msgid "Channel"
+msgstr "चैनल"
+
+#: admin/apps/overview/overview.php:758
+msgid "Sessions"
+msgstr "सत्र"
+
+#: admin/apps/overview/overview.php:760
+msgid "Page Views  (comparison period)"
+msgstr "पृष्ठ दृश्य (तुलना अवधि)"
+
+#: admin/apps/overview/overview.php:763
+msgid "To"
+msgstr "प्रति"
+
+#: admin/apps/overview/overview.php:764
+msgid "From"
+msgstr "से"
+
+#: admin/apps/overview/overview.php:765
+msgid "Date Range"
+msgstr "तिथि सीमा"
+
+#: admin/apps/overview/overview.php:766
+msgid "Custom Comparison Dates"
+msgstr "कस्टम तुलना तिथियां"
+
+#: admin/apps/overview/overview.php:767
+msgid "Apply"
+msgstr "आवेदन करना"
+
+#: admin/apps/overview/overview.php:768
+msgid "vs"
+msgstr "बनाम"
+
+#: admin/apps/overview/overview.php:769
+msgid "Custom Range"
+msgstr "कस्टम रेंज"
+
+#: admin/apps/overview/overview.php:770 admin/classes/uipress-app.php:1397
+msgid "Today"
+msgstr "आज"
+
+#: admin/apps/overview/overview.php:771 admin/classes/uipress-app.php:1398
+msgid "Yesterday"
+msgstr "कल"
+
+#: admin/apps/overview/overview.php:772
+msgid "Last 7 days"
+msgstr "पिछले 7 दिन"
+
+#: admin/apps/overview/overview.php:773
+msgid "Last 30 days"
+msgstr "पिछले 30 दिनों में"
+
+#: admin/apps/overview/overview.php:774
+msgid "Last 60 days"
+msgstr "पिछले 60 दिन"
+
+#: admin/apps/overview/overview.php:775
+msgid "Last 90 days"
+msgstr "पिछले 90 दिन"
+
+#: admin/apps/overview/overview.php:776 admin/classes/uipress-app.php:1395
+msgid "This Month"
+msgstr "इस महीने"
+
+#: admin/apps/overview/overview.php:777 admin/classes/uipress-app.php:1396
+msgid "Last Month"
+msgstr "पिछले महीने"
+
+#: admin/apps/overview/overview.php:778
+msgid "Purchases"
+msgstr "खरीद"
+
+#: admin/apps/overview/overview.php:779
+msgid "Added to cart"
+msgstr "कार्ट में जोड़ा गया"
+
+#: admin/apps/overview/overview.php:780
+msgid "Checkout started"
+msgstr "चेकआउट शुरू हुआ"
+
+#: admin/apps/overview/overview.php:784
+msgid "Site Revenue (comparison)"
+msgstr "साइट राजस्व (तुलना)"
+
+#: admin/apps/overview/overview.php:786
+msgid "Visits By Device"
+msgstr "डिवाइस द्वारा विज़िट"
+
+#: admin/apps/overview/overview.php:787
+msgid "Device Category"
+msgstr "डिवाइस श्रेणी"
+
+#: admin/apps/overview/overview.php:788
+msgid "Active Users"
+msgstr "सक्रिय उपयोगकर्ता"
+
+#: admin/apps/overview/overview.php:789 admin/apps/overview/overview.php:791
+msgid "Product Name"
+msgstr "प्रोडक्ट का नाम"
+
+#: admin/apps/overview/overview.php:790
+msgid "Sales"
+msgstr "बिक्री"
+
+#: admin/apps/overview/overview.php:792
+msgid "Quantity Sold"
+msgstr "बेचा गया सामान"
+
+#: admin/apps/overview/overview.php:793 admin/apps/overview/overview.php:807
+msgid "Revenue"
+msgstr "आय"
+
+#: admin/apps/overview/overview.php:794
+msgid "Column Removed"
+msgstr "कॉलम हटाया गया"
+
+#: admin/apps/overview/overview.php:795
+msgid "Section Removed"
+msgstr "धारा हटाई गई"
+
+#: admin/apps/overview/overview.php:796
+msgid "View Plans"
+msgstr "योजनाएं देखें"
+
+#: admin/apps/overview/overview.php:797
+msgid "Unable to fetch analytics data, please try again later"
+msgstr "विश्लेषण डेटा लाने में असमर्थ, कृपया बाद में पुन: प्रयास करें"
+
+#: admin/apps/overview/overview.php:798
+msgid "Column background colour"
+msgstr "स्तंभ पृष्ठभूमि रंग"
+
+#: admin/apps/overview/overview.php:800
+msgid "Hide card title"
+msgstr "कार्ड का शीर्षक छुपाएं"
+
+#: admin/apps/overview/overview.php:801 admin/apps/overview/overview.php:895
+msgid "Site Health"
+msgstr "साइट स्वास्थ्य"
+
+#: admin/apps/overview/overview.php:802
+msgid "Conversions"
+msgstr "रूपांतरण"
+
+#: admin/apps/overview/overview.php:803
+msgid "This card only works with google analytics 4 accounts"
+msgstr "यह कार्ड केवल Google विश्लेषिकी 4 खातों के साथ काम करता है"
+
+#: admin/apps/overview/overview.php:804
+msgid "This card only works with universal analytics propeties."
+msgstr "यह कार्ड केवल युनिवर्सल एनालिटिक्स गुणों के साथ काम करता है।"
+
+#: admin/apps/overview/overview.php:805
+msgid "Orders"
+msgstr "आदेश"
+
+#: admin/apps/overview/overview.php:806
+msgid "Orders (comparison period)."
+msgstr "आदेश (तुलना अवधि)।"
+
+#: admin/apps/overview/overview.php:808
+msgid "Revenue (comparison period)."
+msgstr "राजस्व (तुलना अवधि)।"
+
+#: admin/apps/overview/overview.php:809
+msgid "Current Period"
+msgstr "वर्तमान अवधि"
+
+#: admin/apps/overview/overview.php:810
+msgid "Comparison Period"
+msgstr "तुलना अवधि"
+
+#: admin/apps/overview/overview.php:811
+msgid "Match Card Height"
+msgstr "मैच कार्ड की ऊँचाई"
+
+#: admin/apps/overview/overview.php:813
+msgid "What would you like to do?"
+msgstr "आप क्या करना पसंद करेंगे?"
+
+#: admin/apps/overview/overview.php:814
+msgid "To do"
+msgstr "करने के लिए"
+
+#: admin/apps/overview/overview.php:815
+msgid "Done"
+msgstr "पूर्ण"
+
+#: admin/apps/overview/overview.php:816
+msgid "Size"
+msgstr "आकार"
+
+#: admin/apps/overview/overview.php:817
+msgid "Background Colour"
+msgstr "पृष्ठभूमि का रंग"
+
+#: admin/apps/overview/overview.php:818
+msgid "Custom CSS class"
+msgstr "कस्टम सीएसएस वर्ग"
+
+#: admin/apps/overview/overview.php:819
+msgid "Add New Card"
+msgstr "नया कार्ड जोड़ें"
+
+#: admin/apps/overview/overview.php:820 admin/apps/overview/overview.php:1249
+#: admin/classes/settings.php:78 admin/classes/settings.php:91
+#: admin/classes/settings.php:226 admin/classes/uipress-app.php:1406
+msgid "Settings"
+msgstr "समायोजन"
+
+#: admin/apps/overview/overview.php:821
+msgid "Card Settings"
+msgstr "कार्ड सेटिंग्स"
+
+#: admin/apps/overview/overview.php:822
+msgid "Move Column Down"
+msgstr "कॉलम नीचे ले जाएँ"
+
+#: admin/apps/overview/overview.php:823
+msgid "Move Column Up"
+msgstr "कॉलम ऊपर ले जाएँ"
+
+#: admin/apps/overview/overview.php:824
+msgid "Add new column"
+msgstr "नया कॉलम जोड़ें"
+
+#: admin/apps/overview/overview.php:825
+msgid "Section Settings"
+msgstr "अनुभाग सेटिंग्स"
+
+#: admin/apps/overview/overview.php:826
+msgid "Toggle section visibility"
+msgstr "अनुभाग दृश्यता टॉगल करें"
+
+#: admin/apps/overview/overview.php:827
+msgid "Page Settings"
+msgstr "पेज सेटिंग्स"
+
+#: admin/apps/overview/overview.php:828
+msgid "In the last"
+msgstr "आखिर में"
+
+#: admin/apps/overview/overview.php:830 admin/apps/users/uip-users-ajax.php:662
+msgid "Something has gone wrong"
+msgstr "कुछ गलत हो गया है"
+
+#: admin/apps/overview/overview.php:831
+msgid "Connect your matomo site to use this card"
+msgstr "इस कार्ड का उपयोग करने के लिए अपनी मैटोमो साइट को कनेक्ट करें"
+
+#: admin/apps/overview/overview.php:832
+msgid "Connect Matomo Analytics"
+msgstr "कनेक्ट मैटोमो एनालिटिक्स"
+
+#: admin/apps/overview/overview.php:833
+msgid "Auth Token"
+msgstr "प्रामाणिक टोकन"
+
+#: admin/apps/overview/overview.php:834
+msgid "Matomo Url"
+msgstr "माटोमो उरली"
+
+#: admin/apps/overview/overview.php:835
+msgid "Matomo Site ID"
+msgstr "माटोमो साइट आईडी"
+
+#: admin/apps/overview/overview.php:837
+msgid "Click below to change matomo account"
+msgstr "मातोमो खाता बदलने के लिए नीचे क्लिक करें"
+
+#: admin/apps/overview/overview.php:838
+msgid "Change account"
+msgstr "खाता परिवर्तन करें"
+
+#: admin/apps/overview/overview.php:839
+msgid "City"
+msgstr "शहर"
+
+#: admin/apps/overview/overview.php:840
+msgid "Average Page Load"
+msgstr "औसत पृष्ठ लोड"
+
+#: admin/apps/overview/overview.php:842
+msgid "Exit Rate"
+msgstr "निकास दर"
+
+#: admin/apps/overview/overview.php:843
+msgid "Average Time On Page"
+msgstr "पृष्ठ पर औसत समय"
+
+#: admin/apps/overview/overview.php:844
+msgid "Referer"
+msgstr "संदर्भित"
+
+#: admin/apps/overview/overview.php:845
+msgid "Section name"
+msgstr "अनुभाग का नाम"
+
+#: admin/apps/overview/overview.php:846
+msgid "Section description"
+msgstr "अनुभाग विवरण"
+
+#: admin/apps/overview/overview.php:868
+msgid "Recently Published"
+msgstr "हाल ही में प्रकाशित"
+
+#: admin/apps/overview/overview.php:870
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr "दिनांक सीमा के भीतर प्रकाशित पोस्ट, पेज और सीपीटी प्रदर्शित करें।"
+
+#: admin/apps/overview/overview.php:871 admin/apps/overview/overview.php:880
+#: admin/apps/overview/overview.php:889 admin/apps/overview/overview.php:898
+#: admin/apps/overview/overview.php:907 admin/apps/overview/overview.php:916
+#: admin/apps/overview/overview.php:925 admin/apps/overview/overview.php:934
+#: admin/apps/overview/overview.php:943 admin/apps/overview/overview.php:952
+#: admin/classes/uipress-app.php:2526
+msgid "General"
+msgstr "सामान्य"
+
+#: admin/apps/overview/overview.php:877
+msgid "Recent Comments"
+msgstr "हाल की टिप्पणियां"
+
+#: admin/apps/overview/overview.php:879
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr ""
+"दिनांक सीमा के भीतर प्रकाशित कुल टिप्पणियों और हाल की टिप्पणियों को "
+"प्रदर्शित करता है।"
+
+#: admin/apps/overview/overview.php:886
+msgid "System Info"
+msgstr "व्यवस्था की सूचना"
+
+#: admin/apps/overview/overview.php:888
+msgid "Displays info our about your cms and server setup."
+msgstr ""
+"आपके सीएमएस और सर्वर सेटअप के बारे में हमारी जानकारी प्रदर्शित करता है।"
+
+#: admin/apps/overview/overview.php:897
+msgid "Displays info our about your sites health."
+msgstr "आपकी साइट के स्वास्थ्य के बारे में हमारी जानकारी प्रदर्शित करता है।"
+
+#: admin/apps/overview/overview.php:906
+msgid "Displays current time and date"
+msgstr "वर्तमान समय और दिनांक प्रदर्शित करता है"
+
+#: admin/apps/overview/overview.php:913
+msgid "Video"
+msgstr "वीडियो"
+
+#: admin/apps/overview/overview.php:915
+msgid "Displays a custom video"
+msgstr "एक कस्टम वीडियो प्रदर्शित करता है"
+
+#: admin/apps/overview/overview.php:924
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "कार्ड के लिए एक वर्डप्रेस शोर्ट आउटपुट करता है"
+
+#: admin/apps/overview/overview.php:931
+msgid "Custom HTML"
+msgstr "कस्टम एचटीएमएल"
+
+#: admin/apps/overview/overview.php:933
+msgid "Outputs custom HTML to the card"
+msgstr "कार्ड के लिए कस्टम HTML आउटपुट करता है"
+
+#: admin/apps/overview/overview.php:940
+msgid "Quote of the day"
+msgstr "आज का विचार"
+
+#: admin/apps/overview/overview.php:942
+msgid "Shows a random quote of the day"
+msgstr "दिन का एक यादृच्छिक उद्धरण दिखाता है"
+
+#: admin/apps/overview/overview.php:949
+msgid "To do list"
+msgstr "करने के लिए सूची"
+
+#: admin/apps/overview/overview.php:951
+msgid "A simple todo list card"
+msgstr "एक साधारण टूडू सूची कार्ड"
+
+#: admin/apps/overview/overview.php:1038
+msgid "Hello"
+msgstr "नमस्ते"
+
+#: admin/apps/overview/overview.php:1187
+msgid "Clear Layout"
+msgstr "लेआउट साफ़ करें"
+
+#: admin/apps/overview/overview.php:1191 admin/apps/overview/overview.php:1234
+msgid "New Section"
+msgstr "नया खंड"
+
+#: admin/apps/overview/overview.php:1196 admin/apps/overview/overview.php:1237
+msgid "Save changes"
+msgstr "परिवर्तनों को सुरक्षित करें"
+
+#: admin/apps/overview/overview.php:1240
+msgid "Exit edit mode"
+msgstr "संपादन मोड से बाहर निकलें"
+
+#: admin/apps/overview/overview.php:1253
+msgid "Editing Mode"
+msgstr "संपादन मोड"
+
+#: admin/apps/overview/overview.php:1265
+msgid "Disconnect Analytics"
+msgstr "विश्लेषिकी को डिस्कनेक्ट करें"
+
+#: admin/apps/overview/overview.php:1275
+msgid "Export Layout"
+msgstr "निर्यात लेआउट"
+
+#: admin/apps/overview/overview.php:1284
+msgid "Import Layout"
+msgstr "आयात लेआउट"
+
+#: admin/apps/overview/overview.php:1298 admin/classes/settings.php:258
+#: admin/classes/styles.php:457
+msgid "Unlock Export and Import features with pro"
+msgstr "समर्थक के साथ निर्यात और आयात सुविधाओं को अनलॉक करें"
+
+#: admin/apps/overview/overview.php:1321
+msgid "Home"
+msgstr "घर"
+
+#: admin/apps/overview/overview.php:1369
+msgid "It's a little quiet around here"
+msgstr "यहाँ थोड़ा शांत है"
+
+#: admin/apps/overview/overview.php:1371
+msgid ""
+"Looks like you haven't created a dashboard yet. Enter edit mode to get "
+"started or import a default template"
+msgstr ""
+"ऐसा लगता है कि आपने अभी तक कोई डैशबोर्ड नहीं बनाया है. आरंभ करने के लिए "
+"संपादन मोड दर्ज करें या डिफ़ॉल्ट टेम्पलेट आयात करें"
+
+#: admin/apps/overview/overview.php:1374
+msgid "Import default template"
+msgstr "डिफ़ॉल्ट टेम्पलेट आयात करें"
+
+#: admin/apps/overview/overview.php:1375
+msgid "Enter edit mode"
+msgstr "संपादन मोड दर्ज करें"
+
+#: admin/apps/overview/overview.php:1419
+msgid "Match Column Height"
+msgstr "मैच कॉलम ऊंचाई"
+
+#: admin/apps/overview/overview.php:1427
+msgid "Hide section title"
+msgstr "अनुभाग शीर्षक छुपाएं"
+
+#: admin/apps/overview/overview.php:1435
+msgid "Section Width"
+msgstr "खंड की चौथाई"
+
+#: admin/apps/overview/overview.php:1452
+msgid "Remove Section"
+msgstr "अनुभाग निकालें"
+
+#: admin/apps/overview/woocommerce.php:46
+#: admin/apps/overview/woocommerce.php:125
+#: admin/apps/overview/woocommerce.php:203
+msgid "Woocommerce is required for this widget"
+msgstr "इस विजेट के लिए Woocommerce आवश्यक है"
+
+#: admin/apps/overview/woocommerce.php:74
+msgid "Total Revenue"
+msgstr "कुल मुनाफा"
+
+#: admin/apps/overview/woocommerce.php:76
+msgid "Display total sales revenue in your store within the date range."
+msgstr "दिनांक सीमा के भीतर अपने स्टोर में कुल बिक्री राजस्व प्रदर्शित करें।"
+
+#: admin/apps/overview/woocommerce.php:77
+#: admin/apps/overview/woocommerce.php:86
+#: admin/apps/overview/woocommerce.php:95
+#: admin/apps/overview/woocommerce.php:104
+#: admin/apps/overview/woocommerce.php:113
+msgid "Commerce"
+msgstr "व्यापार"
+
+#: admin/apps/overview/woocommerce.php:83
+msgid "Total Orders"
+msgstr "कुल आदेश"
+
+#: admin/apps/overview/woocommerce.php:85
+msgid "Display total orders in your store within the date range."
+msgstr "दिनांक सीमा के भीतर अपने स्टोर में कुल ऑर्डर प्रदर्शित करें।"
+
+#: admin/apps/overview/woocommerce.php:92
+msgid "Average Order Value"
+msgstr "औसत आदेश मूल्य"
+
+#: admin/apps/overview/woocommerce.php:94
+msgid "Display average order value in your store within the date range."
+msgstr "दिनांक सीमा के भीतर अपने स्टोर में औसत ऑर्डर मूल्य प्रदर्शित करें।"
+
+#: admin/apps/overview/woocommerce.php:101
+msgid "Recent Orders"
+msgstr "हाल के आदेश"
+
+#: admin/apps/overview/woocommerce.php:103
+msgid "Display recent orders from your store within the date range."
+msgstr "दिनांक सीमा के भीतर अपने स्टोर से हाल के आदेश प्रदर्शित करें।"
+
+#: admin/apps/overview/woocommerce.php:110
+msgid "Popular Products"
+msgstr "लोकप्रिय उत्पाद"
+
+#: admin/apps/overview/woocommerce.php:112
+msgid "Display top selling products from your store within the date range."
+msgstr ""
+"दिनांक सीमा के भीतर अपने स्टोर से सर्वाधिक बिकने वाले उत्पादों को प्रदर्शित "
+"करें।"
+
+#: admin/apps/overview/woocommerce.php:191
+msgid "No orders during the date range."
+msgstr "दिनांक सीमा के दौरान कोई आदेश नहीं।"
+
+#: admin/apps/overview/woocommerce.php:272
+msgid "No products sold during the date range."
+msgstr "दिनांक सीमा के दौरान कोई उत्पाद नहीं बेचा गया।"
+
+#: admin/apps/users/uip-history.php:132
+msgid "Once every 1 minutes"
+msgstr "हर 1 मिनट में एक बार"
+
+#: admin/apps/users/uip-history.php:145
+msgctxt "post type general name"
+msgid "History"
+msgstr "इतिहास"
+
+#: admin/apps/users/uip-history.php:146
+msgctxt "post type singular name"
+msgid "history"
+msgstr "इतिहास"
+
+#: admin/apps/users/uip-history.php:147
+msgctxt "admin menu"
+msgid "History"
+msgstr "इतिहास"
+
+#: admin/apps/users/uip-history.php:148
+msgctxt "add new on admin bar"
+msgid "History"
+msgstr "इतिहास"
+
+#: admin/apps/users/uip-history.php:149
+msgctxt "history"
+msgid "Add New"
+msgstr "नया जोड़ो"
+
+#: admin/apps/users/uip-history.php:150
+msgid "Add New History"
+msgstr "नया इतिहास जोड़ें"
+
+#: admin/apps/users/uip-history.php:151
+msgid "New History"
+msgstr "नया इतिहास"
+
+#: admin/apps/users/uip-history.php:152
+msgid "Edit History"
+msgstr "इतिहास संपादित करें"
+
+#: admin/apps/users/uip-history.php:153
+msgid "View History"
+msgstr "इतिहास देखें"
+
+#: admin/apps/users/uip-history.php:154
+msgid "All History"
+msgstr "सारा इतिहास"
+
+#: admin/apps/users/uip-history.php:155
+msgid "Search History"
+msgstr "इतिहास खोजें"
+
+#: admin/apps/users/uip-history.php:156
+msgid "No History found."
+msgstr "कोई इतिहास नहीं मिला।"
+
+#: admin/apps/users/uip-history.php:157
+msgid "No History found in Trash."
+msgstr "ट्रैश में कोई इतिहास नहीं मिला."
+
+#: admin/apps/users/uip-user-groups.php:41
+msgctxt "post type general name"
+msgid "Group"
+msgstr "समूह"
+
+#: admin/apps/users/uip-user-groups.php:42
+msgctxt "post type singular name"
+msgid "Group"
+msgstr "समूह"
+
+#: admin/apps/users/uip-user-groups.php:43
+msgctxt "admin menu"
+msgid "Groups"
+msgstr "समूहों"
+
+#: admin/apps/users/uip-user-groups.php:44
+msgctxt "add new on admin bar"
+msgid "Group"
+msgstr "समूह"
+
+#: admin/apps/users/uip-user-groups.php:45
+msgctxt "Group"
+msgid "Add New"
+msgstr "नया जोड़ो"
+
+#: admin/apps/users/uip-user-groups.php:46
+#: admin/apps/users/uip-user-groups.php:57
+msgid "Add New Group"
+msgstr "नया समूह जोड़ें"
+
+#: admin/apps/users/uip-user-groups.php:47
+msgid "New Group"
+msgstr "नया समूह"
+
+#: admin/apps/users/uip-user-groups.php:48
+msgid "Edit Group"
+msgstr "समूह संपादित करें"
+
+#: admin/apps/users/uip-user-groups.php:49
+msgid "View Group"
+msgstr "समूह देखें"
+
+#: admin/apps/users/uip-user-groups.php:50
+msgid "All Groups"
+msgstr "सभी समूह"
+
+#: admin/apps/users/uip-user-groups.php:51
+msgid "Search Groups"
+msgstr "समूह खोजें"
+
+#: admin/apps/users/uip-user-groups.php:52
+msgid "No Groups found."
+msgstr "कोई समूह नहीं मिला."
+
+#: admin/apps/users/uip-user-groups.php:53
+msgid "No Groups found in Trash."
+msgstr "ट्रैश में कोई समूह नहीं मिला."
+
+#: admin/apps/users/uip-user-groups.php:80
+msgid "No group to delete"
+msgstr "हटाने के लिए कोई समूह नहीं"
+
+#: admin/apps/users/uip-user-groups.php:90
+msgid "Unable to delete the group"
+msgstr "समूह को हटाने में असमर्थ"
+
+#: admin/apps/users/uip-user-groups.php:147
+msgid "Group deleted"
+msgstr "समूह हटाया गया"
+
+#: admin/apps/users/uip-user-groups.php:166
+msgid "Unable to move folder group itself"
+msgstr "फ़ोल्डर समूह को स्वयं स्थानांतरित करने में असमर्थ"
+
+#: admin/apps/users/uip-user-groups.php:180
+msgid "Unable to move group"
+msgstr "समूह को स्थानांतरित करने में असमर्थ"
+
+#: admin/apps/users/uip-user-groups.php:208
+msgid "Group moved"
+msgstr "समूह ले जाया गया"
+
+#: admin/apps/users/uip-user-groups.php:227
+msgid "No item to move"
+msgstr "स्थानांतरित करने के लिए कोई वस्तु नहीं"
+
+#: admin/apps/users/uip-user-groups.php:241
+msgid "Item moved"
+msgstr "आइटम ले जाया गया"
+
+#: admin/apps/users/uip-user-groups.php:259
+msgid "No users to move"
+msgstr "स्थानांतरित करने के लिए कोई उपयोगकर्ता नहीं"
+
+#: admin/apps/users/uip-user-groups.php:277
+msgid "User moved"
+msgstr "उपयोगकर्ता ले जाया गया"
+
+#: admin/apps/users/uip-user-groups.php:318
+msgid "Group updated"
+msgstr "समूह अपडेट किया गया"
+
+#: admin/apps/users/uip-user-groups.php:339 admin/classes/folders.php:557
+msgid "Title is required"
+msgstr "शीर्षक आवश्यक है"
+
+#: admin/apps/users/uip-user-groups.php:345 admin/classes/folders.php:563
+msgid "Colour is required"
+msgstr "रंग की आवश्यकता है"
+
+#: admin/apps/users/uip-user-groups.php:360
+msgid "Unable to create group"
+msgstr "समूह बनाने में असमर्थ"
+
+#: admin/apps/users/uip-user-groups.php:372
+msgid "Group created"
+msgstr "समूह बनाया"
+
+#: admin/apps/users/uip-users-ajax.php:415
+msgid "Unknown"
+msgstr "अनजान"
+
+#: admin/apps/users/uip-users-ajax.php:511
+#: admin/apps/users/uip-users-ajax.php:577
+msgid "You don't have sufficent priviledges to edit users"
+msgstr ""
+"आपके पास उपयोगकर्ताओं को संपादित करने के लिए पर्याप्त विशेषाधिकार नहीं हैं"
+
+#: admin/apps/users/uip-users-ajax.php:517
+#: admin/apps/users/uip-users-ajax.php:1023
+msgid "Email is not valid"
+msgstr "विद्युतडाक मान्य नहीं है"
+
+#: admin/apps/users/uip-users-ajax.php:528
+#: admin/apps/users/uip-users-ajax.php:1016
+msgid "Email already exists"
+msgstr "ईमेल पहले से मौजूद है"
+
+#: admin/apps/users/uip-users-ajax.php:557
+#: admin/apps/users/uip-users-ajax.php:1069
+msgid "User saved"
+msgstr "उपयोगकर्ता सहेजा गया"
+
+#: admin/apps/users/uip-users-ajax.php:583
+msgid "No users sent to update"
+msgstr "अपडेट के लिए कोई उपयोगकर्ता नहीं भेजा गया"
+
+#: admin/apps/users/uip-users-ajax.php:589
+msgid "No roles sent to update"
+msgstr "अद्यतन करने के लिए कोई भूमिका नहीं भेजी गई"
+
+#: admin/apps/users/uip-users-ajax.php:610
+msgid "User roles updated"
+msgstr "उपयोगकर्ता भूमिकाएं अपडेट की गईं"
+
+#: admin/apps/users/uip-users-ajax.php:630
+#: admin/apps/users/uip-users-ajax.php:716
+#: admin/apps/users/uip-users-ajax.php:777
+#: admin/apps/users/uip-users-ajax.php:818
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr ""
+"भूमिकाओं को प्रबंधित करने के लिए आपके पास पर्याप्त विशेषाधिकार नहीं हैं"
+
+#: admin/apps/users/uip-users-ajax.php:636
+msgid "Original role name required"
+msgstr "मूल भूमिका का नाम आवश्यक है"
+
+#: admin/apps/users/uip-users-ajax.php:642
+#: admin/apps/users/uip-users-ajax.php:722
+#: admin/apps/users/uip-users-ajax.php:783
+#: admin/apps/users/uip-users-ajax.php:836
+#: admin/apps/users/uip-users-ajax.php:879
+#: admin/apps/users/uip-users-ajax.php:885
+#: admin/apps/users/uip-users-ajax.php:944
+#: admin/apps/users/uip-users-ajax.php:950
+msgid "Role name is required"
+msgstr "भूमिका का नाम आवश्यक है"
+
+#: admin/apps/users/uip-users-ajax.php:667
+msgid "Role saved"
+msgstr "भूमिका सहेजी गई"
+
+#: admin/apps/users/uip-users-ajax.php:686
+msgid "You don't have sufficent priviledges to do this"
+msgstr "ऐसा करने के लिए आपके पास पर्याप्त विशेषाधिकार नहीं हैं"
+
+#: admin/apps/users/uip-users-ajax.php:697
+msgid "User logged out everywhere"
+msgstr "उपयोगकर्ता हर जगह लॉग आउट हो गया"
+
+#: admin/apps/users/uip-users-ajax.php:728
+msgid "Role label cannot contain spaces"
+msgstr "भूमिका लेबल में रिक्त स्थान नहीं हो सकते"
+
+#: admin/apps/users/uip-users-ajax.php:734
+msgid "Role label is required"
+msgstr "भूमिका लेबल आवश्यक है"
+
+#: admin/apps/users/uip-users-ajax.php:753
+msgid "Unable to add role. Make sure role name is unique"
+msgstr "भूमिका जोड़ने में असमर्थ. सुनिश्चित करें कि भूमिका का नाम अद्वितीय है"
+
+#: admin/apps/users/uip-users-ajax.php:758
+msgid "Role created"
+msgstr "भूमिका सृजित"
+
+#: admin/apps/users/uip-users-ajax.php:792
+#: admin/apps/users/uip-users-ajax.php:843
+msgid "You can't delete a role that is currently assigned to yourself"
+msgstr "आप उस भूमिका को नहीं हटा सकते जो वर्तमान में स्वयं को सौंपी गई है"
+
+#: admin/apps/users/uip-users-ajax.php:799
+msgid "Role deleted"
+msgstr "भूमिका हटाई गई"
+
+#: admin/apps/users/uip-users-ajax.php:824
+msgid "No roles to delete"
+msgstr "हटाने के लिए कोई भूमिका नहीं"
+
+#: admin/apps/users/uip-users-ajax.php:852
+msgid "Roles deleted"
+msgstr "भूमिकाएं हटाई गईं"
+
+#: admin/apps/users/uip-users-ajax.php:873
+msgid "You don't have sufficent priviledges to add this capability"
+msgstr "इस क्षमता को जोड़ने के लिए आपके पास पर्याप्त विशेषाधिकार नहीं हैं"
+
+#: admin/apps/users/uip-users-ajax.php:891
+#: admin/apps/users/uip-users-ajax.php:956
+msgid "Role name cannot contain spaces"
+msgstr "भूमिका नाम में रिक्त स्थान नहीं हो सकते"
+
+#: admin/apps/users/uip-users-ajax.php:897
+msgid "Capability name cannot contain spaces"
+msgstr "क्षमता नाम में रिक्त स्थान नहीं हो सकते"
+
+#: admin/apps/users/uip-users-ajax.php:912
+msgid "Unable to add capability. Make sure role name is unique"
+msgstr "क्षमता जोड़ने में असमर्थ। सुनिश्चित करें कि भूमिका का नाम अद्वितीय है"
+
+#: admin/apps/users/uip-users-ajax.php:917
+msgid "Capability added"
+msgstr "क्षमता जोड़ी गई"
+
+#: admin/apps/users/uip-users-ajax.php:938
+msgid "You don't have sufficent priviledges to delete this capability"
+msgstr "इस क्षमता को हटाने के लिए आपके पास पर्याप्त विशेषाधिकार नहीं हैं"
+
+#: admin/apps/users/uip-users-ajax.php:971
+msgid "Unable to delete capability. Make sure role name is unique"
+msgstr ""
+"क्षमता को हटाने में असमर्थ। सुनिश्चित करें कि भूमिका का नाम अद्वितीय है"
+
+#: admin/apps/users/uip-users-ajax.php:976
+msgid "Capability deleted"
+msgstr "क्षमता हटाई गई"
+
+#: admin/apps/users/uip-users-ajax.php:996
+msgid "You don't have sufficent priviledges to create users"
+msgstr "आपके पास उपयोगकर्ता बनाने के लिए पर्याप्त विशेषाधिकार नहीं हैं"
+
+#: admin/apps/users/uip-users-ajax.php:1003
+msgid "Username already exists"
+msgstr "उपयोगकर्ता का नाम पहले से मौजूद है"
+
+#: admin/apps/users/uip-users-ajax.php:1009
+msgid "Username is not valid"
+msgstr "आपका यूसरनेम गलत है"
+
+#: admin/apps/users/uip-users-ajax.php:1029
+msgid "Password is required"
+msgstr "पासवर्ड की आवश्यकता है"
+
+#: admin/apps/users/uip-users-ajax.php:1088
+#: admin/apps/users/uip-users-ajax.php:1127
+msgid "You don't have sufficent priviledges to edit this user"
+msgstr ""
+"इस उपयोगकर्ता को संपादित करने के लिए आपके पास पर्याप्त विशेषाधिकार नहीं हैं"
+
+#: admin/apps/users/uip-users-ajax.php:1097
+msgid "Password reset link sent"
+msgstr "पासवर्ड रीसेट लिंक भेजा गया"
+
+#: admin/apps/users/uip-users-ajax.php:1101
+msgid "Unable to send password reset email at the moment"
+msgstr "इस समय पासवर्ड रीसेट ईमेल भेजने में असमर्थ"
+
+#: admin/apps/users/uip-users-ajax.php:1121
+msgid "No users sent to reset passwords!"
+msgstr "पासवर्ड रीसेट करने के लिए कोई उपयोगकर्ता नहीं भेजा गया!"
+
+#: admin/apps/users/uip-users-ajax.php:1141
+msgid "Unable to send password reset email"
+msgstr "पासवर्ड रीसेट ईमेल भेजने में असमर्थ"
+
+#: admin/apps/users/uip-users-ajax.php:1142
+#: admin/apps/users/uip-users-ajax.php:1315
+#: admin/apps/users/uip-users-ajax.php:1325
+#, php-format
+msgid "User ID: %s"
+msgstr "उपयोगकर्ता आईडी: %s"
+
+#: admin/apps/users/uip-users-ajax.php:1148
+msgid "Password reset links succesfully sent"
+msgstr "पासवर्ड रीसेट लिंक सफलतापूर्वक भेजे गए"
+
+#: admin/apps/users/uip-users-ajax.php:1173
+msgid "Subject is required"
+msgstr "विषय आवश्यक है"
+
+#: admin/apps/users/uip-users-ajax.php:1179
+msgid "Reply to email is required"
+msgstr "ईमेल का जवाब आवश्यक है"
+
+#: admin/apps/users/uip-users-ajax.php:1185
+msgid "Message is required"
+msgstr "संदेश की आवश्यकता है"
+
+#: admin/apps/users/uip-users-ajax.php:1200
+msgid "No email to send message to."
+msgstr "संदेश भेजने के लिए कोई ईमेल नहीं।"
+
+#: admin/apps/users/uip-users-ajax.php:1232
+msgid "Unable to send mail at this time"
+msgstr "इस समय मेल भेजने में असमर्थ"
+
+#: admin/apps/users/uip-users-ajax.php:1237
+msgid "Message sent"
+msgstr "मैसेज बेजा गया"
+
+#: admin/apps/users/uip-users-ajax.php:1261
+msgid "You can't delete yourself!"
+msgstr "आप अपने आप को मिटा नहीं सकते!"
+
+#: admin/apps/users/uip-users-ajax.php:1270
+msgid "User successfully deleted"
+msgstr "उपयोगकर्ता को सफलतापूर्वक हटा दिया गया"
+
+#: admin/apps/users/uip-users-ajax.php:1274
+#: admin/apps/users/uip-users-ajax.php:1279
+#: admin/apps/users/uip-users-ajax.php:1305
+msgid "You don't have sufficent priviledges to delete this user"
+msgstr "इस उपयोगकर्ता को हटाने के लिए आपके पास पर्याप्त विशेषाधिकार नहीं हैं"
+
+#: admin/apps/users/uip-users-ajax.php:1299
+msgid "No users sent to delete!"
+msgstr "हटाने के लिए कोई उपयोगकर्ता नहीं भेजा गया!"
+
+#: admin/apps/users/uip-users-ajax.php:1314
+msgid "You can't delete yourself"
+msgstr "आप अपने आप को मिटा नहीं सकते"
+
+#: admin/apps/users/uip-users-ajax.php:1324
+msgid "Unable to delete this user"
+msgstr "इस उपयोगकर्ता को हटाने में असमर्थ"
+
+#: admin/apps/users/uip-users-ajax.php:1331
+msgid "Users successfully deleted"
+msgstr "उपयोगकर्ता सफलतापूर्वक हटा दिए गए"
+
+#: admin/apps/users/uip-users.php:53 admin/apps/users/uip-users.php:266
+#: admin/apps/users/uip-users.php:377 admin/apps/users/uip-users.php:1291
+msgid "Users"
+msgstr "उपयोगकर्ताओं"
+
+#: admin/apps/users/uip-users.php:54
+msgid "Creates user management page"
+msgstr "उपयोगकर्ता प्रबंधन पृष्ठ बनाता है"
+
+#: admin/apps/users/uip-users.php:58
+msgid "Disable Users Page?"
+msgstr "उपयोगकर्ता पृष्ठ अक्षम करें?"
+
+#: admin/apps/users/uip-users.php:59
+msgid ""
+"If disabled, the user management page will not be available to any users."
+msgstr ""
+"अक्षम होने पर, उपयोगकर्ता प्रबंधन पृष्ठ किसी भी उपयोगकर्ता के लिए उपलब्ध "
+"नहीं होगा।"
+
+#: admin/apps/users/uip-users.php:66
+msgid "User management page Disabled for"
+msgstr "उपयोगकर्ता प्रबंधन पृष्ठ के लिए अक्षम"
+
+#: admin/apps/users/uip-users.php:67
+msgid ""
+"When the user management page module is disabled, the user management page "
+"will not be accesible for the users / roles"
+msgstr ""
+"जब उपयोगकर्ता प्रबंधन पृष्ठ मॉड्यूल अक्षम हो जाता है, तो उपयोगकर्ता प्रबंधन "
+"पृष्ठ उपयोगकर्ताओं / भूमिकाओं के लिए सुलभ नहीं होगा"
+
+#: admin/apps/users/uip-users.php:75
+msgid "Enable user activity log?"
+msgstr "उपयोगकर्ता गतिविधि लॉग सक्षम करें?"
+
+#: admin/apps/users/uip-users.php:76
+msgid ""
+"If enabled, uipress will log actions taken by all users, including page "
+"views, comments, post creation etc."
+msgstr ""
+"सक्षम होने पर, uipress सभी उपयोगकर्ताओं द्वारा की गई कार्रवाइयों को लॉग "
+"करेगा, जिसमें पृष्ठ दृश्य, टिप्पणियाँ, पोस्ट निर्माण आदि शामिल हैं।"
+
+#: admin/apps/users/uip-users.php:84
+msgid "Disable page view logging"
+msgstr "पेज व्यू लॉगिंग अक्षम करें"
+
+#: admin/apps/users/uip-users.php:87
+#, php-format
+msgid ""
+"By Default, %s will track page views for logged in users as part of the "
+"activity log. While sometimes useful, this will have the biggest impact on "
+"the log size in the database. Disabling this feature will keep the log "
+"smaller."
+msgstr ""
+"डिफ़ॉल्ट रूप से, %s गतिविधि लॉग के हिस्से के रूप में लॉग इन किए गए "
+"उपयोगकर्ताओं के लिए पृष्ठ दृश्यों को ट्रैक करेगा। कभी-कभी उपयोगी होते हुए भी,"
+" इसका डेटाबेस में लॉग आकार पर सबसे अधिक प्रभाव पड़ेगा। इस सुविधा को अक्षम "
+"करने से लॉग छोटा रहेगा।"
+
+#: admin/apps/users/uip-users.php:99
+msgid "Enable recent page view logging"
+msgstr "हाल ही में पृष्ठ दृश्य लॉगिंग सक्षम करें"
+
+#: admin/apps/users/uip-users.php:100
+#, php-format
+msgid ""
+"Seperate to the main history log, %s will keep 5 recent page views in the "
+"user meta. This can have a small impact on the page load speed."
+msgstr ""
+"मुख्य इतिहास लॉग से अलग, %s उपयोगकर्ता मेटा में 5 हाल के पृष्ठ दृश्य रखेगा। "
+"यह पृष्ठ लोड गति पर एक छोटा सा प्रभाव डाल सकता है।"
+
+#: admin/apps/users/uip-users.php:108
+msgid "How long to keep history?"
+msgstr "इतिहास कब तक रखना है?"
+
+#: admin/apps/users/uip-users.php:109
+msgid ""
+"By default, activity items will be deleted after 60 days, enter the amount "
+"of days to keep items to change this"
+msgstr ""
+"डिफ़ॉल्ट रूप से, गतिविधि आइटम 60 दिनों के बाद हटा दिए जाएंगे, इसे बदलने के "
+"लिए आइटम रखने के लिए दिनों की मात्रा दर्ज करें"
+
+#: admin/apps/users/uip-users.php:118
+msgid "Delay history entries?"
+msgstr "देरी इतिहास प्रविष्टियां?"
+
+#: admin/apps/users/uip-users.php:120
+msgid ""
+"Use scheduled tasks to insert the history actions to avoid any extra page "
+"load speed. By default entries are added as they happen, with this enabled "
+"there will be delay of about 10 seconds before actions appear."
+msgstr ""
+"किसी भी अतिरिक्त पृष्ठ लोड गति से बचने के लिए इतिहास क्रियाओं को सम्मिलित "
+"करने के लिए निर्धारित कार्यों का उपयोग करें। डिफ़ॉल्ट रूप से प्रविष्टियाँ "
+"जैसे ही होती हैं, जोड़ दी जाती हैं, इसके सक्षम होने से क्रियाओं के प्रकट "
+"होने में लगभग 10 सेकंड की देरी होगी।"
+
+#: admin/apps/users/uip-users.php:131
+msgid "Anonymize user IP addresses?"
+msgstr "उपयोगकर्ता के आईपी पते को अनामित करें?"
+
+#: admin/apps/users/uip-users.php:132
+msgid ""
+"Each history item logs the users IP address, enable this to anonymize the "
+"address."
+msgstr ""
+"प्रत्येक इतिहास आइटम उपयोगकर्ता के आईपी पते को लॉग करता है, पते को गुमनाम "
+"करने के लिए इसे सक्षम करता है।"
+
+#: admin/apps/users/uip-users.php:217 admin/apps/users/uip-users.php:218
+msgid "User Management"
+msgstr "उपयोगकर्ता प्रबंधन"
+
+#: admin/apps/users/uip-users.php:270 admin/apps/users/uip-users.php:328
+#: admin/apps/users/uip-users.php:1244
+msgid "Roles"
+msgstr "भूमिकाएँ"
+
+#: admin/apps/users/uip-users.php:274
+msgid "Activity"
+msgstr "गतिविधि"
+
+#: admin/apps/users/uip-users.php:290
+msgid "results"
+msgstr "परिणाम"
+
+#: admin/apps/users/uip-users.php:291 admin/apps/users/uip-users.php:316
+msgid "Previous"
+msgstr "पिछला"
+
+#: admin/apps/users/uip-users.php:292 admin/apps/users/uip-users.php:315
+msgid "Next"
+msgstr "अगला"
+
+#: admin/apps/users/uip-users.php:293
+msgid "Search users"
+msgstr "उपयोगकर्ता खोजें"
+
+#: admin/apps/users/uip-users.php:294
+msgid "Filter by role"
+msgstr "भूमिका के अनुसार फ़िल्टर करें"
+
+#: admin/apps/users/uip-users.php:295
+msgid "Search roles"
+msgstr "भूमिका खोजें"
+
+#: admin/apps/users/uip-users.php:296
+msgid "Table options"
+msgstr "टेबल विकल्प"
+
+#: admin/apps/users/uip-users.php:297
+msgid "Order"
+msgstr "आदेश"
+
+#: admin/apps/users/uip-users.php:298
+msgid "Ascending"
+msgstr "आरोही"
+
+#: admin/apps/users/uip-users.php:299
+msgid "Descending"
+msgstr "अवरोही"
+
+#: admin/apps/users/uip-users.php:300
+msgid "Sort By"
+msgstr "इसके अनुसार क्रमबद्ध करें"
+
+#: admin/apps/users/uip-users.php:301
+msgid "Per page"
+msgstr "प्रति पृष्ठ"
+
+#: admin/apps/users/uip-users.php:302
+msgid "Fields"
+msgstr "खेत"
+
+#: admin/apps/users/uip-users.php:303
+msgid "Date created"
+msgstr "निर्माण की तिथि"
+
+#: admin/apps/users/uip-users.php:304
+msgid "On"
+msgstr "पर"
+
+#: admin/apps/users/uip-users.php:305
+msgid "After"
+msgstr "बाद में"
+
+#: admin/apps/users/uip-users.php:306
+msgid "Before"
+msgstr "पहले"
+
+#: admin/apps/users/uip-users.php:307 admin/apps/users/uip-users.php:308
+msgid "Date filters"
+msgstr "दिनांक फ़िल्टर"
+
+#: admin/apps/users/uip-users.php:310
+msgid "Account created"
+msgstr "खाता बन गया"
+
+#: admin/apps/users/uip-users.php:312 admin/apps/users/uip-users.php:326
+#: admin/apps/users/uip-users.php:1219
+msgid "Email"
+msgstr "ईमेल"
+
+#: admin/apps/users/uip-users.php:313
+msgid "Recent page views"
+msgstr "हाल के पृष्ठ दृश्य"
+
+#: admin/apps/users/uip-users.php:314
+msgid "Recent activity"
+msgstr "हाल की गतिविधि"
+
+#: admin/apps/users/uip-users.php:317
+msgid "Last login"
+msgstr "आखरी लॉगइन"
+
+#: admin/apps/users/uip-users.php:318
+msgid "Login location"
+msgstr "लॉगिन स्थान"
+
+#: admin/apps/users/uip-users.php:319
+msgid "No recent activity"
+msgstr "कोई हालिया गतिविधि नहीं"
+
+#: admin/apps/users/uip-users.php:320
+msgid "Total posts"
+msgstr "कुल पद"
+
+#: admin/apps/users/uip-users.php:321
+msgid "Total comments"
+msgstr "कुल टिप्पणियाँ"
+
+#: admin/apps/users/uip-users.php:322
+msgid "User Options"
+msgstr "उपयोगकर्ता विकल्प"
+
+#: admin/apps/users/uip-users.php:323 admin/apps/users/uip-users.php:332
+msgid "Edit user"
+msgstr "यूजर को संपादित करो"
+
+#: admin/apps/users/uip-users.php:324
+msgid "First name"
+msgstr "संतोष"
+
+#: admin/apps/users/uip-users.php:325
+msgid "Last name"
+msgstr "उपनाम"
+
+#: admin/apps/users/uip-users.php:327
+msgid "Assign roles"
+msgstr "भूमिकाएँ सौंपें"
+
+#: admin/apps/users/uip-users.php:329
+msgid "User notes"
+msgstr "उपयोगकर्ता नोट"
+
+#: admin/apps/users/uip-users.php:330
+msgid "Cancel"
+msgstr "रद्द करना"
+
+#: admin/apps/users/uip-users.php:331
+msgid "Update user"
+msgstr "उपयोगकर्ता अपडेट करें"
+
+#: admin/apps/users/uip-users.php:333
+msgid "Send password reset"
+msgstr "पासवर्ड रीसेट भेजें"
+
+#: admin/apps/users/uip-users.php:334 admin/apps/users/uip-users.php:342
+msgid "Send message"
+msgstr "मेसेज भेजें"
+
+#: admin/apps/users/uip-users.php:335
+msgid "Delete user"
+msgstr "उपभोक्ता मिटायें"
+
+#: admin/apps/users/uip-users.php:336
+msgid "Are you sure you want to delete this user?"
+msgstr "क्या आप वाकई इस उपयोगकर्ता को हटाना चाहते हैं?"
+
+#: admin/apps/users/uip-users.php:337
+msgid "Are you sure you want to the selected users?"
+msgstr "क्या आप वाकई चयनित उपयोगकर्ताओं को चाहते हैं?"
+
+#: admin/apps/users/uip-users.php:338
+msgid ""
+"Are you sure you want to send password reset links to the selected users?"
+msgstr "क्या आप वाकई चयनित उपयोगकर्ताओं को पासवर्ड रीसेट लिंक भेजना चाहते हैं?"
+
+#: admin/apps/users/uip-users.php:339
+msgid "Recipient"
+msgstr "प्राप्तकर्ता"
+
+#: admin/apps/users/uip-users.php:340
+msgid "Subject"
+msgstr "विषय"
+
+#: admin/apps/users/uip-users.php:341
+msgid "Message"
+msgstr "संदेश"
+
+#: admin/apps/users/uip-users.php:343
+msgid "Reply to email"
+msgstr "ईमेल का जवाब"
+
+#: admin/apps/users/uip-users.php:344
+msgid "New user"
+msgstr "नया उपयोगकर्ता"
+
+#: admin/apps/users/uip-users.php:345
+msgid "Save user"
+msgstr "उपयोगकर्ता सहेजें"
+
+#: admin/apps/users/uip-users.php:346
+msgid "Password"
+msgstr "पासवर्ड"
+
+#: admin/apps/users/uip-users.php:347 admin/apps/users/uip-users.php:1207
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+#: admin/apps/users/uip-users.php:348 admin/apps/users/uip-users.php:1279
+msgid "Role name"
+msgstr "भूमिका का नाम"
+
+#: admin/apps/users/uip-users.php:349
+msgid "Edit role"
+msgstr "भूमिका संपादित करें"
+
+#: admin/apps/users/uip-users.php:350
+msgid "Save role"
+msgstr "भूमिका सहेजें"
+
+#: admin/apps/users/uip-users.php:351
+msgid "Capabilities"
+msgstr "क्षमताओं"
+
+#: admin/apps/users/uip-users.php:353
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"आप वर्तमान में व्यवस्थापक भूमिका संपादित कर रहे हैं। यह आमतौर पर साइट पर "
+"सबसे महत्वपूर्ण भूमिका होती है, इसलिए कृपया सुनिश्चित करें कि नैसिकरी "
+"क्षमताओं को न हटाया जाए।"
+
+#: admin/apps/users/uip-users.php:356
+msgid "Delete role"
+msgstr "भूमिका हटाएं"
+
+#: admin/apps/users/uip-users.php:357
+msgid "Are you sure you want to delete this role?"
+msgstr "क्या आप वाकई इस भूमिका को हटाना चाहते हैं?"
+
+#: admin/apps/users/uip-users.php:358
+msgid "Are you sure you want to delete these roles?"
+msgstr "क्या आप वाकई इन भूमिकाओं को हटाना चाहते हैं?"
+
+#: admin/apps/users/uip-users.php:359
+msgid "Role options"
+msgstr "भूमिका विकल्प"
+
+#: admin/apps/users/uip-users.php:360
+msgid "Clone"
+msgstr "क्लोन"
+
+#: admin/apps/users/uip-users.php:361
+msgid "New role"
+msgstr "नयी भूमिका"
+
+#: admin/apps/users/uip-users.php:362
+msgid "Role label"
+msgstr "भूमिका लेबल"
+
+#: admin/apps/users/uip-users.php:363
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "एकल शब्द, कोई रिक्त स्थान नहीं। अंडरस्कोर और डैश की अनुमति है"
+
+#: admin/apps/users/uip-users.php:364
+msgid "copy"
+msgstr "प्रतिलिपि"
+
+#: admin/apps/users/uip-users.php:365
+msgid "search roles"
+msgstr "भूमिका खोजें"
+
+#: admin/apps/users/uip-users.php:366
+msgid "Search history"
+msgstr "इतिहास खोजें"
+
+#: admin/apps/users/uip-users.php:367
+msgid "All actions"
+msgstr "सभी क्रियाएं"
+
+#: admin/apps/users/uip-users.php:368
+msgid "Add custom capability (Single word, no spaces)"
+msgstr "कस्टम क्षमता जोड़ें (एकल शब्द, कोई स्थान नहीं)"
+
+#: admin/apps/users/uip-users.php:369
+msgid "Add capability"
+msgstr "क्षमता जोड़ें"
+
+#: admin/apps/users/uip-users.php:370
+msgid "roles selected"
+msgstr "भूमिकाएं चुनी गईं"
+
+#: admin/apps/users/uip-users.php:371
+msgid "Delete selected"
+msgstr "चयनित मिटाएं"
+
+#: admin/apps/users/uip-users.php:372
+msgid "Deselect"
+msgstr "अचयनित"
+
+#: admin/apps/users/uip-users.php:373
+msgid "Delete users"
+msgstr "उपयोगकर्ताओं को हटाएं"
+
+#: admin/apps/users/uip-users.php:374
+msgid "Clear selection"
+msgstr "चयन साफ़ करें"
+
+#: admin/apps/users/uip-users.php:375
+msgid "recipients"
+msgstr "प्राप्तकर्ताओं"
+
+#: admin/apps/users/uip-users.php:376 admin/classes/uipress-app.php:1409
+msgid "users"
+msgstr "उपयोगकर्ताओं"
+
+#: admin/apps/users/uip-users.php:378
+msgid "Replace existing roles"
+msgstr "मौजूदा भूमिकाओं को बदलें"
+
+#: admin/apps/users/uip-users.php:379
+msgid "Update roles"
+msgstr "भूमिकाएं अपडेट करें"
+
+#: admin/apps/users/uip-users.php:380
+msgid "users selected"
+msgstr "उपयोगकर्ता चयनित"
+
+#: admin/apps/users/uip-users.php:381
+msgid "Choose image"
+msgstr "छवि चुनें"
+
+#: admin/apps/users/uip-users.php:382
+msgid "Profile image"
+msgstr "प्रोफ़ाइल छवि"
+
+#: admin/apps/users/uip-users.php:383 admin/apps/users/uip-users.php:387
+#: admin/apps/users/uip-users.php:1250
+msgid "Groups"
+msgstr "समूहों"
+
+#: admin/apps/users/uip-users.php:384
+msgid "All users"
+msgstr "सभी उपयोगकर्ता"
+
+#: admin/apps/users/uip-users.php:385
+msgid "No group"
+msgstr "कोई समूह नहीं"
+
+#: admin/apps/users/uip-users.php:386
+msgid "No groups created yet."
+msgstr "अभी तक कोई समूह नहीं बनाया गया है."
+
+#: admin/apps/users/uip-users.php:388
+msgid "New group"
+msgstr "नया समूह"
+
+#: admin/apps/users/uip-users.php:390
+msgid "Color"
+msgstr "रंग"
+
+#: admin/apps/users/uip-users.php:391
+msgid "Create group"
+msgstr "समूह बनाना"
+
+#: admin/apps/users/uip-users.php:392
+msgid "Group name"
+msgstr "समूह नाम"
+
+#: admin/apps/users/uip-users.php:393
+msgid "Edit group"
+msgstr "समूह संपादित करें"
+
+#: admin/apps/users/uip-users.php:394
+msgid "Update group"
+msgstr "समूह अपडेट करें"
+
+#: admin/apps/users/uip-users.php:395
+msgid "Remove from group"
+msgstr "समूह से हटा दें"
+
+#: admin/apps/users/uip-users.php:396
+msgid "User groups"
+msgstr "यूसर समूह"
+
+#: admin/apps/users/uip-users.php:397
+msgid "Assign groups"
+msgstr "समूह असाइन करें"
+
+#: admin/apps/users/uip-users.php:398
+msgid "Search groups"
+msgstr "समूह खोजें"
+
+#: admin/apps/users/uip-users.php:399
+msgid "Pro feature"
+msgstr "प्रो सुविधा"
+
+#: admin/apps/users/uip-users.php:400
+msgid "Upgrade to UiPress Pro to unlock the user management and activity logs"
+msgstr ""
+"उपयोगकर्ता प्रबंधन और गतिविधि लॉग अनलॉक करने के लिए UiPress Pro में अपग्रेड "
+"करें"
+
+#: admin/apps/users/uip-users.php:401
+msgid "View Uipress Pro plans"
+msgstr "यूप्रेस प्रो प्लान देखें"
+
+#: admin/apps/users/uip-users.php:402
+msgid "Group icon"
+msgstr "समूह आइकन"
+
+#: admin/apps/users/uip-users.php:403
+msgid "Logout everywhere else"
+msgstr "हर जगह लॉगआउट करें"
+
+#: admin/apps/users/uip-users.php:404
+msgid "Open profile"
+msgstr "प्रोफ़ाइल खोलें"
+
+#: admin/apps/users/uip-users.php:405
+msgid ""
+"Are you sure you want to delete this capability? This will remove the "
+"capability sitewide. Please note not all capabilities can be deleted."
+msgstr ""
+"क्या आप वाकई इस क्षमता को हटाना चाहते हैं? यह क्षमता को साइटवाइड हटा देगा। "
+"कृपया ध्यान दें कि सभी क्षमताओं को हटाया नहीं जा सकता है।"
+
+#: admin/apps/users/uip-users.php:517
+msgid "Read"
+msgstr "पढ़ना"
+
+#: admin/apps/users/uip-users.php:529
+msgid "Publish"
+msgstr "प्रकाशित करना"
+
+#: admin/apps/users/uip-users.php:535 admin/classes/uipress-app.php:1335
+msgid "Create"
+msgstr "सृजन करना"
+
+#: admin/apps/users/uip-users.php:553
+msgid "Manage"
+msgstr "प्रबंधित करना"
+
+#: admin/apps/users/uip-users.php:565 admin/classes/settings.php:242
+#: admin/classes/styles.php:442
+msgid "Import"
+msgstr "आयात"
+
+#: admin/apps/users/uip-users.php:571
+msgid "Custom"
+msgstr "रीति"
+
+#: admin/apps/users/uip-users.php:737
+msgid "User no longer exists"
+msgstr "उपयोगकर्ता अब मौजूद नहीं है"
+
+#: admin/apps/users/uip-users.php:742 admin/apps/users/uip-users.php:1106
+#, php-format
+msgid "%s ago"
+msgstr "%s पहले"
+
+#: admin/apps/users/uip-users.php:753 admin/apps/users/uip-users.php:1370
+msgid "Page view"
+msgstr "पृष्ठ का दृश्य"
+
+#: admin/apps/users/uip-users.php:755
+msgid "Viewed page"
+msgstr "देखा गया पृष्ठ"
+
+#: admin/apps/users/uip-users.php:764 admin/apps/users/uip-users.php:1374
+msgid "Post created"
+msgstr "पोस्ट बनाया गया"
+
+#: admin/apps/users/uip-users.php:766
+msgid "Created post"
+msgstr "बनाई गई पोस्ट"
+
+#: admin/apps/users/uip-users.php:769 admin/apps/users/uip-users.php:790
+#: admin/apps/users/uip-users.php:838
+msgid "View page"
+msgstr "पृष्ठ देखें"
+
+#: admin/apps/users/uip-users.php:773 admin/apps/users/uip-users.php:794
+#: admin/apps/users/uip-users.php:811 admin/apps/users/uip-users.php:842
+msgid "Edit page"
+msgstr "संपादित पेज"
+
+#: admin/apps/users/uip-users.php:785
+msgid "Post modified"
+msgstr "पोस्ट संशोधित"
+
+#: admin/apps/users/uip-users.php:787
+msgid "Modified post"
+msgstr "संशोधित पोस्ट"
+
+#: admin/apps/users/uip-users.php:806
+msgid "Post moved to trash"
+msgstr "पोस्ट ट्रैश में ले जाया गया"
+
+#: admin/apps/users/uip-users.php:808
+msgid "Moved post to trash"
+msgstr "पोस्ट को ट्रैश में ले जाया गया"
+
+#: admin/apps/users/uip-users.php:820 admin/apps/users/uip-users.php:1386
+msgid "Post deleted"
+msgstr "पोस्ट हटाई गई"
+
+#: admin/apps/users/uip-users.php:822
+msgid "Deleted post"
+msgstr "हटाई गई पोस्ट"
+
+#: admin/apps/users/uip-users.php:831 admin/apps/users/uip-users.php:1390
+msgid "Post status change"
+msgstr "स्थिति परिवर्तन पोस्ट करें"
+
+#: admin/apps/users/uip-users.php:834
+#, php-format
+msgid "Post status changed from %s to %s"
+msgstr "पोस्ट की स्थिति %s से %s . में बदली गई"
+
+#: admin/apps/users/uip-users.php:855
+msgid "Posted a comment"
+msgstr "एक टिप्पणी पोस्ट की"
+
+#: admin/apps/users/uip-users.php:857
+msgid "Posted a comment on post"
+msgstr "पोस्ट पर एक टिप्पणी पोस्ट की"
+
+#: admin/apps/users/uip-users.php:868 admin/apps/users/uip-users.php:898
+msgid "View comment"
+msgstr "टिप्पणी देखें"
+
+#: admin/apps/users/uip-users.php:872 admin/apps/users/uip-users.php:902
+msgid "Edit comment"
+msgstr "टिप्पणी संपादित करें"
+
+#: admin/apps/users/uip-users.php:884
+msgid "Trashed a comment"
+msgstr "एक टिप्पणी ट्रैश की गई"
+
+#: admin/apps/users/uip-users.php:886
+msgid "Moved a comment to the trash"
+msgstr "एक टिप्पणी को कूड़ेदान में ले जाया गया"
+
+#: admin/apps/users/uip-users.php:912
+msgid "Deleted a comment"
+msgstr "एक टिप्पणी हटाई गई"
+
+#: admin/apps/users/uip-users.php:914
+msgid "Permanently deleted a comment"
+msgstr "एक टिप्पणी स्थायी रूप से हटा दी गई"
+
+#: admin/apps/users/uip-users.php:920 admin/apps/users/uip-users.php:1403
+msgid "Plugin activated"
+msgstr "प्लगइन सक्रिय"
+
+#: admin/apps/users/uip-users.php:922
+#, php-format
+msgid "A plugin called %s was activated"
+msgstr "%s नामक एक प्लगइन सक्रिय किया गया था"
+
+#: admin/apps/users/uip-users.php:928 admin/apps/users/uip-users.php:1407
+msgid "Plugin deactivated"
+msgstr "प्लगइन निष्क्रिय"
+
+#: admin/apps/users/uip-users.php:930
+#, php-format
+msgid "A plugin called %s was deactivated"
+msgstr "%s नामक एक प्लगइन निष्क्रिय किया गया था"
+
+#: admin/apps/users/uip-users.php:936
+msgid "User logged in"
+msgstr "उपयोगकर्ता ने लॉग इन किया"
+
+#: admin/apps/users/uip-users.php:938
+#, php-format
+msgid "Logged in with ip address %s. Country: %s"
+msgstr "आईपी पते %s के साथ लॉग इन किया। देश: %s"
+
+#: admin/apps/users/uip-users.php:944
+msgid "User logged out"
+msgstr "उपयोगकर्ता लॉग आउट"
+
+#: admin/apps/users/uip-users.php:946
+#, php-format
+msgid "Logged out with ip address %s. Country: %s"
+msgstr "आईपी पते %s के साथ लॉग आउट। देश: %s"
+
+#: admin/apps/users/uip-users.php:982 admin/apps/users/uip-users.php:988
+#: admin/apps/users/uip-users.php:1002
+msgid "Site option changed"
+msgstr "साइट विकल्प बदल गया"
+
+#: admin/apps/users/uip-users.php:984
+#, php-format
+msgid "Site option (%s) was changed from %s to %s"
+msgstr "साइट विकल्प (%s) को %s से %s . में बदला गया"
+
+#: admin/apps/users/uip-users.php:990
+#, php-format
+msgid "Site option was changed. %s"
+msgstr "साइट विकल्प बदल दिया गया था। %एस"
+
+#: admin/apps/users/uip-users.php:1004
+#, php-format
+msgid "Site option (%s) was added with a value of (%s)"
+msgstr "साइट विकल्प (%s) को (%s) के मान के साथ जोड़ा गया था"
+
+#: admin/apps/users/uip-users.php:1010
+msgid "Uploaded attachment"
+msgstr "अपलोड किया गया अटैचमेंट"
+
+#: admin/apps/users/uip-users.php:1012
+#, php-format
+msgid "Attachment called (%s) was uploaded to (%s). Attachment ID: %s"
+msgstr "(%s) नामक अनुलग्नक (%s) पर अपलोड किया गया था। अटैचमेंट आईडी: %s"
+
+#: admin/apps/users/uip-users.php:1021
+msgid "View attachment"
+msgstr "अटैचमेंट देखें"
+
+#: admin/apps/users/uip-users.php:1029
+msgid "Deleted attachment"
+msgstr "हटाए गए अटैचमेंट"
+
+#: admin/apps/users/uip-users.php:1031
+#, php-format
+msgid "Attachment called (%s) was deleted. Attachment ID: %s"
+msgstr "(%s) नाम का अटैचमेंट मिटाया गया। अटैचमेंट आईडी: %s"
+
+#: admin/apps/users/uip-users.php:1037 admin/apps/users/uip-users.php:1262
+#: admin/apps/users/uip-users.php:1435
+msgid "User created"
+msgstr "उपयोगकर्ता बनाया"
+
+#: admin/apps/users/uip-users.php:1039
+#, php-format
+msgid "New user created with username (%s) and email (%s)"
+msgstr "नया उपयोगकर्ता उपयोगकर्ता नाम (%s) और ईमेल (%s) के साथ बनाया गया"
+
+#: admin/apps/users/uip-users.php:1045 admin/apps/users/uip-users.php:1439
+msgid "User deleted"
+msgstr "उपयोगकर्ता हटा दिया गया"
+
+#: admin/apps/users/uip-users.php:1047
+#, php-format
+msgid "A user with username (%s) and email (%s) was deleted"
+msgstr "उपयोगकर्ता नाम (%s) और ईमेल (%s) वाला एक उपयोगकर्ता हटा दिया गया था"
+
+#: admin/apps/users/uip-users.php:1082 admin/apps/users/uip-users.php:1443
+msgid "User updated"
+msgstr "उपयोगकर्ता अपडेट किया गया"
+
+#: admin/apps/users/uip-users.php:1084
+#, php-format
+msgid "A user with username (%s) and email (%s) was updated from (%s) to (%s)"
+msgstr ""
+"उपयोगकर्ता नाम (%s) और ईमेल (%s) के साथ एक उपयोगकर्ता (%s) से (%s) में "
+"अद्यतन किया गया था"
+
+#: admin/apps/users/uip-users.php:1226
+msgid "First Name"
+msgstr "पहला नाम"
+
+#: admin/apps/users/uip-users.php:1232
+msgid "Last Name"
+msgstr "उपनाम"
+
+#: admin/apps/users/uip-users.php:1238
+msgid "Last Login"
+msgstr "आखरी लॉगइन"
+
+#: admin/apps/users/uip-users.php:1256
+msgid "User ID"
+msgstr "यूज़र आईडी"
+
+#: admin/apps/users/uip-users.php:1298
+msgid "Permissions granted"
+msgstr "अनुमतियां दी गई"
+
+#: admin/apps/users/uip-users.php:1315
+msgid "ID"
+msgstr "पहचान"
+
+#: admin/apps/users/uip-users.php:1327
+msgid "IP Address"
+msgstr "आईपी पता"
+
+#: admin/apps/users/uip-users.php:1340
+msgid "Time"
+msgstr "समय"
+
+#: admin/apps/users/uip-users.php:1347
+msgid "Action"
+msgstr "गतिविधि"
+
+#: admin/apps/users/uip-users.php:1378
+msgid "Post updated"
+msgstr "पोस्ट अपडेट किया गया"
+
+#: admin/apps/users/uip-users.php:1382
+msgid "Post trashed"
+msgstr "पोस्ट ट्रैश किया गया"
+
+#: admin/apps/users/uip-users.php:1394
+msgid "Trashed comment"
+msgstr "ट्रैश की गई टिप्पणी"
+
+#: admin/apps/users/uip-users.php:1398
+msgid "Deelete comment"
+msgstr "टिप्पणी हटाएं"
+
+#: admin/apps/users/uip-users.php:1411
+msgid "User login"
+msgstr "उपयोगकर्ता लॉगिन"
+
+#: admin/apps/users/uip-users.php:1415
+msgid "User logout"
+msgstr "उपयोगकर्ता लॉगआउट"
+
+#: admin/apps/users/uip-users.php:1419
+msgid "Option change"
+msgstr "विकल्प परिवर्तन"
+
+#: admin/apps/users/uip-users.php:1423
+msgid "Site option added"
+msgstr "साइट विकल्प जोड़ा गया"
+
+#: admin/apps/users/uip-users.php:1427
+msgid "Attachmnet uploaded"
+msgstr "अटैचमनेट अपलोड किया गया"
+
+#: admin/apps/users/uip-users.php:1431
+msgid "Attachmnet deleted"
+msgstr "अटैचमेंट हटा दिया गया"
+
+#: admin/classes/debug.php:133 admin/classes/debug.php:139
+#: admin/classes/debug.php:161
+msgid "Unable to register UiPress at this time"
+msgstr "इस समय UiPress को पंजीकृत करने में असमर्थ"
+
+#: admin/classes/debug.php:152
+msgid "UiPress succesfully activated"
+msgstr "UiPress सफलतापूर्वक सक्रिय हो गया"
+
+#: admin/classes/folders.php:112 admin/classes/uipress-app.php:453
+#: admin/classes/uipress-app.php:1367
+msgid "Folders"
+msgstr "फ़ोल्डर"
+
+#: admin/classes/folders.php:113
+msgid "Creates media folder system."
+msgstr "मीडिया फोल्डर सिस्टम बनाता है।"
+
+#: admin/classes/folders.php:117
+msgid "Disable Folders?"
+msgstr "फ़ोल्डर अक्षम करें?"
+
+#: admin/classes/folders.php:118
+msgid "No media folders will be displayed when this option is activated."
+msgstr "यह विकल्प सक्रिय होने पर कोई मीडिया फ़ोल्डर प्रदर्शित नहीं होगा।"
+
+#: admin/classes/folders.php:125
+msgid "Folders Disabled For"
+msgstr "फोल्डर अक्षम के लिए"
+
+#: admin/classes/folders.php:126
+#, php-format
+msgid "%s folders will be disabled for any users or roles you select"
+msgstr ""
+"आपके द्वारा चुने गए किसी भी उपयोगकर्ता या भूमिकाओं के लिए %s फ़ोल्डर अक्षम "
+"कर दिए जाएंगे"
+
+#: admin/classes/folders.php:134
+msgid "Enable folders for post types"
+msgstr "पोस्ट प्रकारों के लिए फ़ोल्डर सक्षम करें"
+
+#: admin/classes/folders.php:135
+#, php-format
+msgid "%s folders will be enabled post, page and custom post types you choose"
+msgstr ""
+"%s फ़ोल्डर आपके द्वारा चुने गए पोस्ट, पेज और कस्टम पोस्ट प्रकारों को सक्षम "
+"कर देंगे"
+
+#: admin/classes/folders.php:171
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "कार्रवाई"
+
+#: admin/classes/folders.php:173
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "मेन्यू"
+
+#: admin/classes/folders.php:311
+msgid "No folder to delete"
+msgstr "हटाने के लिए कोई फ़ोल्डर नहीं"
+
+#: admin/classes/folders.php:321
+msgid "Unable to delete the folder"
+msgstr "फ़ोल्डर को हटाने में असमर्थ"
+
+#: admin/classes/folders.php:372
+msgid "Folder deleted"
+msgstr "फ़ोल्डर हटाया गया"
+
+#: admin/classes/folders.php:391
+msgid "Unable to move folder into itself"
+msgstr "फ़ोल्डर को अपने आप में स्थानांतरित करने में असमर्थ"
+
+#: admin/classes/folders.php:405
+msgid "Unable to move folder"
+msgstr "फ़ोल्डर ले जाने में असमर्थ"
+
+#: admin/classes/folders.php:433
+msgid "Folder moved"
+msgstr "फ़ोल्डर ले जाया गया"
+
+#: admin/classes/folders.php:536
+msgid "Folder updated"
+msgstr "फ़ोल्डर अपडेट किया गया"
+
+#: admin/classes/folders.php:578
+msgid "Unable to create folder"
+msgstr "फोल्डर बनाने में असमर्थ"
+
+#: admin/classes/folders.php:589
+msgid "Folder created"
+msgstr "फोल्डर बनाया"
+
+#: admin/classes/settings.php:144
+msgid "Unable to save user settings"
+msgstr "उपयोगकर्ता सेटिंग सहेजने में असमर्थ"
+
+#: admin/classes/settings.php:150 admin/classes/uipress-app.php:1358
+msgid "Settings saved"
+msgstr "सेटिंग्स को सहेजा गया"
+
+#: admin/classes/settings.php:164
+msgid "Settings reset"
+msgstr "सेटिंग्स रीसेट"
+
+#: admin/classes/settings.php:209 admin/classes/styles.php:432
+msgid "Version"
+msgstr "संस्करण"
+
+#: admin/classes/settings.php:230
+msgid "Save settings"
+msgstr "समायोजन बचाओ"
+
+#: admin/classes/settings.php:413
+msgid "No licence key provided"
+msgstr "कोई लाइसेंस कुंजी प्रदान नहीं की गई"
+
+#: admin/classes/settings.php:445
+msgid "Licence removed"
+msgstr "लाइसेंस हटाया गया"
+
+#: admin/classes/styles.php:138 admin/classes/styles.php:151
+#: admin/classes/styles.php:430
+msgid "Styles"
+msgstr "शैलियों"
+
+#: admin/classes/styles.php:213
+msgid "Unable to fetch themes at this moment. Please try again later"
+msgstr "इस समय थीम लाने में असमर्थ. बाद में पुन: प्रयास करें"
+
+#: admin/classes/styles.php:247
+msgid "Unable to like theme at this moment. Please try again later"
+msgstr "इस समय थीम पसंद करने में असमर्थ. बाद में पुन: प्रयास करें"
+
+#: admin/classes/styles.php:266
+msgid "Unable to save styles"
+msgstr "शैलियों को सहेजने में असमर्थ"
+
+#: admin/classes/styles.php:292
+msgid "Styles saved"
+msgstr "शैलियाँ सहेजी गईं"
+
+#: admin/classes/styles.php:411
+msgid ""
+"Uipress styles isn't optimised for mobile devices. Switch to a larger screen "
+"to modify UiPress Styles"
+msgstr ""
+"Uipress शैलियों को मोबाइल उपकरणों के लिए अनुकूलित नहीं किया गया है। UiPress "
+"Styles को संशोधित करने के लिए बड़ी स्क्रीन पर स्विच करें"
+
+#: admin/classes/styles.php:469
+msgid "Clear All"
+msgstr "सभी साफ करें"
+
+#: admin/classes/styles.php:533
+msgid "Global"
+msgstr "वैश्विक"
+
+#: admin/classes/styles.php:536
+msgid "Body Background"
+msgstr "शारीरिक पृष्ठभूमि"
+
+#: admin/classes/styles.php:547
+msgid "Default Background"
+msgstr "डिफ़ॉल्ट पृष्ठभूमि"
+
+#: admin/classes/styles.php:558
+msgid "Muted Background"
+msgstr "मौन पृष्ठभूमि"
+
+#: admin/classes/styles.php:569
+msgid "Muted Background Accent"
+msgstr "म्यूट बैकग्राउंड एक्सेंट"
+
+#: admin/classes/styles.php:580
+msgid "Primary Color"
+msgstr "प्राथमिक रंग"
+
+#: admin/classes/styles.php:591
+msgid "Primary Color Wash"
+msgstr "प्राथमिक रंग धो"
+
+#: admin/classes/styles.php:602
+msgid "Primary Color Hover"
+msgstr "प्राथमिक रंग होवर"
+
+#: admin/classes/styles.php:613
+msgid "Secondary Color"
+msgstr "माध्यमिक रंग"
+
+#: admin/classes/styles.php:624
+msgid "Secondary Color Hover"
+msgstr "माध्यमिक रंग होवर"
+
+#: admin/classes/styles.php:635
+msgid "Font"
+msgstr "फ़ॉन्ट"
+
+#: admin/classes/styles.php:646
+msgid "Border Width"
+msgstr "सीमा चौड़ाई"
+
+#: admin/classes/styles.php:657
+msgid "Border Radius"
+msgstr "सीमा त्रिज्या"
+
+#: admin/classes/styles.php:668
+msgid "Border Colour"
+msgstr "सीमा रंग"
+
+#: admin/classes/styles.php:679
+msgid "Notification Background"
+msgstr "अधिसूचना पृष्ठभूमि"
+
+#: admin/classes/styles.php:696
+msgid "Base font size"
+msgstr "आधार फ़ॉन्ट आकार"
+
+#: admin/classes/styles.php:707 admin/classes/styles.php:1008
+#: admin/classes/styles.php:1148
+msgid "Text Color"
+msgstr "लिखावट का रंग"
+
+#: admin/classes/styles.php:718
+msgid "Text Emphasis Color"
+msgstr "पाठ जोर रंग"
+
+#: admin/classes/styles.php:729
+msgid "Text Muted Color"
+msgstr "पाठ मौन रंग"
+
+#: admin/classes/styles.php:745
+msgid "Buttons"
+msgstr "बटन"
+
+#: admin/classes/styles.php:748
+msgid "Button Border Radius"
+msgstr "बटन बॉर्डर त्रिज्या"
+
+#: admin/classes/styles.php:760
+msgid "Button Border Width"
+msgstr "बटन सीमा चौड़ाई"
+
+#: admin/classes/styles.php:772
+msgid "Default Button Border Colour"
+msgstr "डिफ़ॉल्ट बटन बॉर्डर रंग"
+
+#: admin/classes/styles.php:784
+msgid "Default Button Background Colour"
+msgstr "डिफ़ॉल्ट बटन पृष्ठभूमि रंग"
+
+#: admin/classes/styles.php:796
+msgid "Default Button Hover Background Colour"
+msgstr "डिफ़ॉल्ट बटन होवर पृष्ठभूमि रंग"
+
+#: admin/classes/styles.php:808
+msgid "Default Button Text Colour"
+msgstr "डिफ़ॉल्ट बटन टेक्स्ट रंग"
+
+#: admin/classes/styles.php:821
+msgid "Primary Button Border Colour"
+msgstr "प्राथमिक बटन बॉर्डर रंग"
+
+#: admin/classes/styles.php:833
+msgid "Primary Button Background Colour"
+msgstr "प्राथमिक बटन पृष्ठभूमि रंग"
+
+#: admin/classes/styles.php:845
+msgid "Primary Button Hover Background Colour"
+msgstr "प्राथमिक बटन होवर पृष्ठभूमि रंग"
+
+#: admin/classes/styles.php:857
+msgid "Primary Button Text Colour"
+msgstr "प्राथमिक बटन टेक्स्ट रंग"
+
+#: admin/classes/styles.php:870
+msgid "Danger Button Border Colour"
+msgstr "डेंजर बटन बॉर्डर कलर"
+
+#: admin/classes/styles.php:882
+msgid "Danger Button Background Colour"
+msgstr "डेंजर बटन बैकग्राउंड कलर"
+
+#: admin/classes/styles.php:894
+msgid "Danger Button Hover Background Colour"
+msgstr "डेंजर बटन होवर बैकग्राउंड कलर"
+
+#: admin/classes/styles.php:906
+msgid "Danger Button Text Colour"
+msgstr "डेंजर बटन टेक्स्ट कलर"
+
+#: admin/classes/styles.php:919
+msgid "Page Action Button Border Colour"
+msgstr "पेज एक्शन बटन बॉर्डर कलर"
+
+#: admin/classes/styles.php:931
+msgid "Page Action Button Background Colour"
+msgstr "पेज एक्शन बटन बैकग्राउंड कलर"
+
+#: admin/classes/styles.php:943
+msgid "Page Action Button Hover Background Colour"
+msgstr "पेज एक्शन बटन होवर बैकग्राउंड कलर"
+
+#: admin/classes/styles.php:955
+msgid "Page Action Button Text Colour"
+msgstr "पेज एक्शन बटन टेक्स्ट कलर"
+
+#: admin/classes/styles.php:973 admin/classes/uipress-app.php:2669
+msgid "Menu"
+msgstr "मेन्यू"
+
+#: admin/classes/styles.php:975
+msgid "Background Color"
+msgstr "पीछे का रंग"
+
+#: admin/classes/styles.php:986 admin/classes/styles.php:1170
+msgid "Secondary background Color"
+msgstr "माध्यमिक पृष्ठभूमि रंग"
+
+#: admin/classes/styles.php:997
+msgid "Button Hover background Color"
+msgstr "बटन होवर पृष्ठभूमि रंग"
+
+#: admin/classes/styles.php:1019
+msgid "Active Text Color"
+msgstr "सक्रिय पाठ रंग"
+
+#: admin/classes/styles.php:1030
+msgid "Active Top Level Item background colour"
+msgstr "सक्रिय शीर्ष स्तर आइटम पृष्ठभूमि रंग"
+
+#: admin/classes/styles.php:1041
+msgid "Search Input background colour"
+msgstr "खोज इनपुट पृष्ठभूमि रंग"
+
+#: admin/classes/styles.php:1052
+msgid "Search Input text colour"
+msgstr "खोज इनपुट टेक्स्ट का रंग"
+
+#: admin/classes/styles.php:1063
+msgid "Submenu Text Color"
+msgstr "सबमेनू टेक्स्ट कलर"
+
+#: admin/classes/styles.php:1074
+msgid "Submenu Active Text Color"
+msgstr "सबमेनू सक्रिय टेक्स्ट रंग"
+
+#: admin/classes/styles.php:1085
+msgid "Submenu Hover Text Color"
+msgstr "सबमेनू होवर टेक्स्ट कलर"
+
+#: admin/classes/styles.php:1096
+msgid "Width"
+msgstr "चौड़ाई"
+
+#: admin/classes/styles.php:1108
+msgid "Padding"
+msgstr "गद्दी"
+
+#: admin/classes/styles.php:1120
+msgid "Logo Height"
+msgstr "लोगो ऊंचाई"
+
+#: admin/classes/styles.php:1134 admin/classes/uipress-app.php:2773
+msgid "Toolbar"
+msgstr "उपकरण पट्टी"
+
+#: admin/classes/styles.php:1137
+msgid "Toolbar Background Color"
+msgstr "टूलबार पृष्ठभूमि रंग"
+
+#: admin/classes/styles.php:1159
+msgid "Link Hover Text Color"
+msgstr "लिंक होवर टेक्स्ट कलर"
+
+#: admin/classes/styles.php:1183
+msgid "Cards"
+msgstr "पत्ते"
+
+#: admin/classes/styles.php:1186 admin/classes/styles.php:1270
+msgid "Background color"
+msgstr "पीछे का रंग"
+
+#: admin/classes/styles.php:1198
+msgid "Border color"
+msgstr "सीमा रंग"
+
+#: admin/classes/styles.php:1210
+msgid "Border radius"
+msgstr "सीमा त्रिज्या"
+
+#: admin/classes/styles.php:1222
+msgid "Shadow spread"
+msgstr "छाया फैलाना"
+
+#: admin/classes/styles.php:1234
+msgid "Shadow blur"
+msgstr "छाया धुंधला"
+
+#: admin/classes/styles.php:1246
+msgid "Shadow color"
+msgstr "छाया रंग"
+
+#: admin/classes/styles.php:1267 admin/classes/uipress-app.php:2944
+msgid "Login"
+msgstr "लॉग इन करें"
+
+#: admin/classes/uipress-app.php:268
+msgctxt "post type general name"
+msgid "Folder"
+msgstr "फ़ोल्डर"
+
+#: admin/classes/uipress-app.php:269
+msgctxt "post type singular name"
+msgid "folder"
+msgstr "फ़ोल्डर"
+
+#: admin/classes/uipress-app.php:270
+msgctxt "admin menu"
+msgid "Folders"
+msgstr "फ़ोल्डर"
+
+#: admin/classes/uipress-app.php:271
+msgctxt "add new on admin bar"
+msgid "Folder"
+msgstr "फ़ोल्डर"
+
+#: admin/classes/uipress-app.php:272
+msgctxt "folder"
+msgid "Add New"
+msgstr "नया जोड़ो"
+
+#: admin/classes/uipress-app.php:273 admin/classes/uipress-app.php:284
+msgid "Add New Folder"
+msgstr "नया फ़ोल्डर जोड़ें"
+
+#: admin/classes/uipress-app.php:274 admin/classes/uipress-app.php:1368
+msgid "New Folder"
+msgstr "नया फोल्डर"
+
+#: admin/classes/uipress-app.php:275 admin/classes/uipress-app.php:1372
+msgid "Edit Folder"
+msgstr "फ़ोल्डर संपादित करें"
+
+#: admin/classes/uipress-app.php:276
+msgid "View Folder"
+msgstr "देखें फ़ोल्डर"
+
+#: admin/classes/uipress-app.php:277
+msgid "All Folders"
+msgstr "सभी फ़ोल्डर"
+
+#: admin/classes/uipress-app.php:278
+msgid "Search Folders"
+msgstr "फ़ोल्डर खोजें"
+
+#: admin/classes/uipress-app.php:279
+msgid "No Folders found."
+msgstr "कोई फ़ोल्डर नहीं मिला।"
+
+#: admin/classes/uipress-app.php:280
+msgid "No Folders found in Trash."
+msgstr "ट्रैश में कोई फ़ोल्डर नहीं मिला."
+
+#: admin/classes/uipress-app.php:1167
+msgid "active"
+msgstr "सक्रिय"
+
+#: admin/classes/uipress-app.php:1171
+msgid "inactive"
+msgstr "निष्क्रिय"
+
+#: admin/classes/uipress-app.php:1320
+msgid "Menu Preferences"
+msgstr "मेनू वरीयताएँ"
+
+#: admin/classes/uipress-app.php:1321
+msgid "Hide search bar"
+msgstr "खोज बार छुपाएं"
+
+#: admin/classes/uipress-app.php:1322
+msgid "Hide Icons"
+msgstr "चिह्न छुपाएं"
+
+#: admin/classes/uipress-app.php:1323
+msgid "Show submenu on hover"
+msgstr "होवर पर सबमेनू दिखाएं"
+
+#: admin/classes/uipress-app.php:1324
+msgid "Search Menu"
+msgstr "खोज मेनू"
+
+#: admin/classes/uipress-app.php:1326
+msgid "Search"
+msgstr "खोज"
+
+#: admin/classes/uipress-app.php:1329
+msgid "Show more"
+msgstr "और दिखाओ"
+
+#: admin/classes/uipress-app.php:1330
+msgid "other matches"
+msgstr "अन्य मैच"
+
+#: admin/classes/uipress-app.php:1331 admin/classes/uipress-app.php:1359
+msgid "Nothing found"
+msgstr "कुछ नहीं मिला"
+
+#: admin/classes/uipress-app.php:1332 admin/classes/uipress-app.php:1337
+msgid "View Site"
+msgstr "साइट देखें"
+
+#: admin/classes/uipress-app.php:1333
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+#: admin/classes/uipress-app.php:1334
+msgid "Search Site"
+msgstr "अनुसंधान क्षेत्र"
+
+#: admin/classes/uipress-app.php:1336
+msgid "Create New"
+msgstr "नया बनाओ"
+
+#: admin/classes/uipress-app.php:1338
+msgid "Updates"
+msgstr "अपडेट"
+
+#: admin/classes/uipress-app.php:1339
+msgid "Preferences"
+msgstr "पसंद"
+
+#: admin/classes/uipress-app.php:1340
+msgid "Dark mode"
+msgstr "डार्क मोड"
+
+#: admin/classes/uipress-app.php:1341
+msgid "Show screen options toggle"
+msgstr "स्क्रीन विकल्प दिखाएं टॉगल"
+
+#: admin/classes/uipress-app.php:1342
+msgid "Screen options"
+msgstr "स्क्रीन विकल्प"
+
+#: admin/classes/uipress-app.php:1343
+msgid "Hide admin bar links (left)"
+msgstr "व्यवस्थापक बार लिंक छुपाएं (बाएं)"
+
+#: admin/classes/uipress-app.php:1344
+msgid "Logout"
+msgstr "लॉग आउट"
+
+#: admin/classes/uipress-app.php:1345
+msgid "Notifications"
+msgstr "सूचनाएं"
+
+#: admin/classes/uipress-app.php:1346
+msgid "Hide notification"
+msgstr "अधिसूचना छुपाएं"
+
+#: admin/classes/uipress-app.php:1347
+msgid "hidden notifications"
+msgstr "छिपी सूचनाएं"
+
+#: admin/classes/uipress-app.php:1348
+msgid "show all"
+msgstr "सब दिखाएं"
+
+#: admin/classes/uipress-app.php:1349
+msgid "Notifiction Hidden"
+msgstr "अधिसूचना छिपी"
+
+#: admin/classes/uipress-app.php:1350
+msgid "Toggle Menu"
+msgstr "टॉगल मेनू"
+
+#: admin/classes/uipress-app.php:1351
+msgid "Choose users or roles"
+msgstr "उपयोगकर्ता या भूमिकाएं चुनें"
+
+#: admin/classes/uipress-app.php:1352
+msgid "Search users and roles"
+msgstr "उपयोगकर्ता और भूमिकाएं खोजें"
+
+#: admin/classes/uipress-app.php:1353
+msgid "Choose Image"
+msgstr "छवि चुनें"
+
+#: admin/classes/uipress-app.php:1354
+msgid "Choose Post Types"
+msgstr "पोस्ट प्रकार चुनें"
+
+#: admin/classes/uipress-app.php:1355 admin/classes/uipress-app.php:1356
+msgid "Searach Post Types"
+msgstr "पोस्ट प्रकार खोजें"
+
+#: admin/classes/uipress-app.php:1360
+msgid "Default"
+msgstr "चूक"
+
+#: admin/classes/uipress-app.php:1361
+msgid "Add File"
+msgstr "फ़ाइल जोड़ें"
+
+#: admin/classes/uipress-app.php:1362
+msgid "URL to file"
+msgstr "फाइल करने के लिए यूआरएल"
+
+#: admin/classes/uipress-app.php:1363
+msgid "Remove"
+msgstr "हटाना"
+
+#: admin/classes/uipress-app.php:1364
+msgid "All media"
+msgstr "सभी मीडिया"
+
+#: admin/classes/uipress-app.php:1366
+msgid "No folder"
+msgstr "कोई फ़ोल्डर नहीं"
+
+#: admin/classes/uipress-app.php:1369
+msgid "Folder Name"
+msgstr "फोल्डर का नाम"
+
+#: admin/classes/uipress-app.php:1370
+msgid "Colour"
+msgstr "रंग"
+
+#: admin/classes/uipress-app.php:1374
+msgid "1 File"
+msgstr "1 फ़ाइल"
+
+#: admin/classes/uipress-app.php:1375
+msgid "files"
+msgstr "फ़ाइलें"
+
+#: admin/classes/uipress-app.php:1376
+msgid "You haven't created a folder yet"
+msgstr "आपने अभी तक कोई फोल्डर नहीं बनाया है"
+
+#: admin/classes/uipress-app.php:1377
+msgid "Remove from folder"
+msgstr "फ़ोल्डर से निकालें"
+
+#: admin/classes/uipress-app.php:1378
+msgid ""
+"Upgrade to pro to unlock the notification center. View, edit and organise "
+"all your plugin and theme notifications in one place"
+msgstr ""
+"अधिसूचना केंद्र को अनलॉक करने के लिए प्रो में अपग्रेड करें। अपने सभी प्लगइन "
+"और थीम नोटिफिकेशन को एक ही स्थान पर देखें, संपादित करें और व्यवस्थित करें"
+
+#: admin/classes/uipress-app.php:1379
+msgid ""
+"Upgrade to pro to gain full control of search results and included post types"
+msgstr ""
+"खोज परिणामों पर पूर्ण नियंत्रण प्राप्त करने के लिए प्रो में अपग्रेड करें और "
+"पोस्ट प्रकार शामिल करें"
+
+#: admin/classes/uipress-app.php:1382
+msgid "Styles Imported"
+msgstr "शैलियाँ आयातित"
+
+#: admin/classes/uipress-app.php:1383
+msgid "Settings Imported"
+msgstr "सेटिंग्स आयातित"
+
+#: admin/classes/uipress-app.php:1384
+msgid "Remove Licence"
+msgstr "लाइसेंस हटाएं"
+
+#: admin/classes/uipress-app.php:1385
+#, php-format
+msgid "%s Pro is active"
+msgstr "%s प्रो सक्रिय है"
+
+#: admin/classes/uipress-app.php:1386
+#, php-format
+msgid "%s Pro"
+msgstr "%s प्रो"
+
+#: admin/classes/uipress-app.php:1387
+msgid "Activate"
+msgstr "सक्रिय"
+
+#: admin/classes/uipress-app.php:1388
+msgid "Add a pro licence to unlock pro features."
+msgstr "प्रो सुविधाओं को अनलॉक करने के लिए प्रो लाइसेंस जोड़ें।"
+
+#: admin/classes/uipress-app.php:1389
+msgid "Choose Icon"
+msgstr "आइकन चुनें"
+
+#: admin/classes/uipress-app.php:1390
+msgid "Are you sure you want to delete this?"
+msgstr "क्या आप वाकई इसे हटाना चाहते हैं?"
+
+#: admin/classes/uipress-app.php:1391
+msgid "Import started"
+msgstr "आयात शुरू हुआ"
+
+#: admin/classes/uipress-app.php:1392
+msgid "Are you sure you want to reset the settings?"
+msgstr "क्या आप वाकई सेटिंग रीसेट करना चाहते हैं?"
+
+#: admin/classes/uipress-app.php:1393
+msgid "Last 7 Days"
+msgstr "पिछले 7 दिन"
+
+#: admin/classes/uipress-app.php:1394
+msgid "Last 30 Days"
+msgstr "पिछले 30 दिनों में"
+
+#: admin/classes/uipress-app.php:1399
+msgid "selected"
+msgstr "चयनित"
+
+#: admin/classes/uipress-app.php:1400
+msgid "Theme Library"
+msgstr "थीम लाइब्रेरी"
+
+#: admin/classes/uipress-app.php:1401
+msgid "Library"
+msgstr "पुस्तकालय"
+
+#: admin/classes/uipress-app.php:1402
+msgid "Import Theme"
+msgstr "आयात थीम"
+
+#: admin/classes/uipress-app.php:1403
+msgid "Pro template"
+msgstr "प्रो टेम्पलेट"
+
+#: admin/classes/uipress-app.php:1404
+msgid "Theme Imported"
+msgstr "थीम आयातित"
+
+#: admin/classes/uipress-app.php:1405
+msgid "Made by"
+msgstr "द्वारा निर्मित"
+
+#: admin/classes/uipress-app.php:1407
+msgid "Failed to fetch folder content"
+msgstr "फ़ोल्डर सामग्री लाने में विफल"
+
+#: admin/classes/uipress-app.php:1408
+msgid "user"
+msgstr "उपयोगकर्ता"
+
+#: admin/classes/uipress-app.php:1850
+msgid "Unkown Post Type"
+msgstr "अज्ञात पोस्ट प्रकार"
+
+#: admin/classes/uipress-app.php:1853
+msgid "Unkown"
+msgstr "अज्ञात"
+
+#: admin/classes/uipress-app.php:1991
+msgid "Core"
+msgstr "सार"
+
+#: admin/classes/uipress-app.php:1997
+msgid "Themes"
+msgstr "विषयों"
+
+#: admin/classes/uipress-app.php:2003
+msgid "Plugins"
+msgstr "प्लग-इन"
+
+#: admin/classes/uipress-app.php:2527
+msgid "General options"
+msgstr "आम विकल्प"
+
+#: admin/classes/uipress-app.php:2532
+msgid "Network Override"
+msgstr "नेटवर्क ओवरराइड"
+
+#: admin/classes/uipress-app.php:2533
+msgid "If enabled, all settings applied here will be pushed to subsites."
+msgstr ""
+"यदि सक्षम किया गया है, तो यहां लागू की गई सभी सेटिंग्स सबसाइट्स पर धकेल दी "
+"जाएंगी।"
+
+#: admin/classes/uipress-app.php:2542
+msgid "Set Dark Mode as Default"
+msgstr "डार्क मोड को डिफ़ॉल्ट के रूप में सेट करें"
+
+#: admin/classes/uipress-app.php:2543
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr ""
+"यदि सक्षम किया गया है, तो उन उपयोगकर्ताओं के लिए डार्क मोड डिफ़ॉल्ट रूप से "
+"सही हो जाएगा जिन्होंने वरीयता निर्धारित नहीं की है।"
+
+#: admin/classes/uipress-app.php:2551
+msgid "Set Dark Mode according to prefers color scheme"
+msgstr "पसंदीदा रंग योजना के अनुसार डार्क मोड सेट करें"
+
+#: admin/classes/uipress-app.php:2552
+msgid "UiPress will detetct the OS color scheme and update accordingly"
+msgstr "UiPress OS रंग योजना का पता लगाएगा और तदनुसार अपडेट करेगा"
+
+#: admin/classes/uipress-app.php:2560
+msgid "Disable dark mode"
+msgstr "डार्क मोड अक्षम करें"
+
+#: admin/classes/uipress-app.php:2561
+msgid "If enabled, dark mode switch will not be available."
+msgstr "सक्षम होने पर, डार्क मोड स्विच उपलब्ध नहीं होगा।"
+
+#: admin/classes/uipress-app.php:2569
+msgid "Set overview page as homepage"
+msgstr "अवलोकन पृष्ठ को मुखपृष्ठ के रूप में सेट करें"
+
+#: admin/classes/uipress-app.php:2570
+msgid ""
+"If enabled, the overview page will be the homepage when logging in and when "
+"accessing the admin area."
+msgstr ""
+"यदि सक्षम किया गया है, तो लॉग इन करते समय और व्यवस्थापक क्षेत्र में प्रवेश "
+"करते समय सिंहावलोकन पृष्ठ मुखपृष्ठ होगा।"
+
+#: admin/classes/uipress-app.php:2578
+msgid "Set custom page as homepage"
+msgstr "कस्टम पेज को होमपेज के रूप में सेट करें"
+
+#: admin/classes/uipress-app.php:2580
+msgid ""
+"If enabled, the page you choose will be the homepage when logging in and "
+"when accessing the admin area. For admin pages use a relative URL (path "
+"after /wp-admin/), for other pages use an absolute URL"
+msgstr ""
+"यदि सक्षम किया गया है, तो आपके द्वारा चुना गया पृष्ठ लॉग इन करते समय और "
+"व्यवस्थापक क्षेत्र में प्रवेश करते समय मुखपृष्ठ होगा। व्यवस्थापक पृष्ठों के "
+"लिए एक सापेक्ष URL (/wp-admin/ के बाद पथ) का उपयोग करें, अन्य पृष्ठों के लिए "
+"एक पूर्ण URL का उपयोग करें"
+
+#: admin/classes/uipress-app.php:2590
+#, php-format
+msgid "Rename %s"
+msgstr "%s . का नाम बदलें"
+
+#: admin/classes/uipress-app.php:2591
+#, php-format
+msgid "White label %s by changing the name displayed."
+msgstr "सफेद लेबल %s प्रदर्शित नाम बदलकर।"
+
+#: admin/classes/uipress-app.php:2599
+#, php-format
+msgid "Rename %s plugin author"
+msgstr "%s प्लगइन लेखक का नाम बदलें"
+
+#: admin/classes/uipress-app.php:2600
+#, php-format
+msgid "White label %s by changing the author in the plugin table."
+msgstr "प्लगइन तालिका में लेखक को बदलकर सफेद लेबल% s।"
+
+#: admin/classes/uipress-app.php:2608
+#, php-format
+msgid "Change %s plugin URL"
+msgstr "%s प्लगइन यूआरएल बदलें"
+
+#: admin/classes/uipress-app.php:2609
+#, php-format
+msgid "White label %s by changing the plugin URL in the plugin table."
+msgstr "व्हाइट लेबल %s प्लगइन तालिका में प्लगइन URL को बदलकर।"
+
+#: admin/classes/uipress-app.php:2617
+msgid "App Icon"
+msgstr "ऐप आइकन"
+
+#: admin/classes/uipress-app.php:2618
+#, php-format
+msgid "Replace %s plugin icon with your own"
+msgstr "%s प्लगइन आइकन को अपने से बदलें"
+
+#: admin/classes/uipress-app.php:2626
+msgid "Admin Favicon"
+msgstr "व्यवस्थापक फ़ेविकॉन"
+
+#: admin/classes/uipress-app.php:2627
+msgid "Add an image to be used as the site favicon for admin pages."
+msgstr ""
+"व्यवस्थापक पृष्ठों के लिए साइट फ़ेविकॉन के रूप में उपयोग करने के लिए एक छवि "
+"जोड़ें।"
+
+#: admin/classes/uipress-app.php:2635
+#, php-format
+msgid "Hide %s from plugin table"
+msgstr "प्लगइन तालिका से %s छुपाएं"
+
+#: admin/classes/uipress-app.php:2636
+#, php-format
+msgid "If enabled, %s will be hidden from the plugin table"
+msgstr "यदि सक्षम किया गया है, %s प्लगइन तालिका से छुपाया जाएगा"
+
+#: admin/classes/uipress-app.php:2644
+msgid "Hide Footer"
+msgstr "पाद लेख छुपाएं"
+
+#: admin/classes/uipress-app.php:2645
+msgid "Hide the footer text that shows at the bottom of every admin page"
+msgstr ""
+"प्रत्येक व्यवस्थापक पृष्ठ के नीचे दिखाई देने वाले पाद लेख पाठ को छुपाएं"
+
+#: admin/classes/uipress-app.php:2653
+msgid "Footer Text"
+msgstr "फूटर टेक्स्ट"
+
+#: admin/classes/uipress-app.php:2654
+msgid "Text entered here will be present at the bottom of admin pages"
+msgstr "यहां दर्ज किया गया पाठ व्यवस्थापक पृष्ठों के नीचे मौजूद होगा"
+
+#: admin/classes/uipress-app.php:2670 admin/classes/uipress-app.php:2675
+msgid "Creates new admin menu."
+msgstr "नया व्यवस्थापक मेनू बनाता है।"
+
+#: admin/classes/uipress-app.php:2674
+msgid "Disable Admin Menu Module"
+msgstr "व्यवस्थापक मेनू मॉड्यूल अक्षम करें"
+
+#: admin/classes/uipress-app.php:2682
+msgid "Menu Disabled for"
+msgstr "के लिए मेनू अक्षम"
+
+#: admin/classes/uipress-app.php:2683
+#, php-format
+msgid "%s menu will be disabled for any users or roles you select"
+msgstr ""
+"आपके द्वारा चुने गए किसी भी उपयोगकर्ता या भूमिकाओं के लिए %s मेनू अक्षम कर "
+"दिया जाएगा"
+
+#: admin/classes/uipress-app.php:2691
+msgid "Logo Light Mode"
+msgstr "लोगो लाइट मोड"
+
+#: admin/classes/uipress-app.php:2692
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "व्यवस्थापक बार के लिए लोगो को लाइट मोड में सेट करता है।"
+
+#: admin/classes/uipress-app.php:2699
+msgid "Logo Dark Mode"
+msgstr "लोगो डार्क मोड"
+
+#: admin/classes/uipress-app.php:2700
+msgid "Optional dark mode logo for admin bar."
+msgstr "एडमिन बार के लिए वैकल्पिक डार्क मोड लोगो।"
+
+#: admin/classes/uipress-app.php:2707
+#, php-format
+msgid "Load %s Menu on front end"
+msgstr "%s मेन्यू को फ़्रंट एंड पर लोड करें"
+
+#: admin/classes/uipress-app.php:2708
+#, php-format
+msgid ""
+"If enabled, %s menu will load on the front end. Please note, this will not "
+"work on all themes and styling will vary"
+msgstr ""
+"यदि सक्षम किया गया है, तो %s मेनू सामने के छोर पर लोड होगा। कृपया ध्यान दें, "
+"यह सभी थीम पर काम नहीं करेगा और स्टाइल अलग-अलग होगा"
+
+#: admin/classes/uipress-app.php:2716
+#, php-format
+msgid "Only Load %s Menu on front end for"
+msgstr "केवल %s मेनू को फ़्रंट एंड पर . के लिए लोड करें"
+
+#: admin/classes/uipress-app.php:2717
+msgid "Only load front end menu for selected roles and usernames"
+msgstr "केवल चयनित भूमिकाओं और उपयोगकर्ता नामों के लिए फ्रंट एंड मेनू लोड करें"
+
+#: admin/classes/uipress-app.php:2725
+msgid "Collapsed Menu Logo Light Mode"
+msgstr "संक्षिप्त मेनू लोगो लाइट मोड"
+
+#: admin/classes/uipress-app.php:2726
+msgid "Optional logo for when the menu is collapsed."
+msgstr "मेनू के संक्षिप्त होने पर वैकल्पिक लोगो।"
+
+#: admin/classes/uipress-app.php:2733
+msgid "Collapsed Menu Logo Dark Mode"
+msgstr "संक्षिप्त मेनू लोगो डार्क मोड"
+
+#: admin/classes/uipress-app.php:2734
+msgid "Optional dark nmode logo for when the menu is collapsed."
+msgstr "मेनू के संक्षिप्त होने पर वैकल्पिक डार्क nmode लोगो।"
+
+#: admin/classes/uipress-app.php:2741
+msgid "Show site title in menu"
+msgstr "मेनू में साइट का शीर्षक दिखाएं"
+
+#: admin/classes/uipress-app.php:2742
+msgid ""
+"If enabled, the site title will be displayed in the menu next to the logo"
+msgstr ""
+"यदि सक्षम किया गया है, तो साइट का शीर्षक लोगो के बगल में मेनू में प्रदर्शित "
+"किया जाएगा"
+
+#: admin/classes/uipress-app.php:2749 admin/classes/uipress-app.php:2811
+msgid "Disable Search"
+msgstr "खोज अक्षम करें"
+
+#: admin/classes/uipress-app.php:2750
+msgid "Disables admin menu search."
+msgstr "व्यवस्थापक मेनू खोज अक्षम करता है।"
+
+#: admin/classes/uipress-app.php:2757
+msgid "Set collapsed menu as default"
+msgstr "संक्षिप्त मेनू को डिफ़ॉल्ट के रूप में सेट करें"
+
+#: admin/classes/uipress-app.php:2758
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"यदि सक्षम किया गया है, तो मेनू उन उपयोगकर्ताओं के लिए डिफ़ॉल्ट रूप से "
+"सिकुड़ा हुआ मेनू होगा, जिन्होंने वरीयता निर्धारित नहीं की है.."
+
+#: admin/classes/uipress-app.php:2774
+msgid "Creates new admin toolbar."
+msgstr "नया व्यवस्थापक टूलबार बनाता है।"
+
+#: admin/classes/uipress-app.php:2778
+msgid "Disable ToolBar Module?"
+msgstr "टूलबार मॉड्यूल अक्षम करें?"
+
+#: admin/classes/uipress-app.php:2779
+msgid ""
+"Creates new admin bar, adds user off canvas menu, builds global search and "
+"notification center."
+msgstr ""
+"नया व्यवस्थापक बार बनाता है, उपयोगकर्ता को कैनवास मेनू से जोड़ता है, वैश्विक "
+"खोज और अधिसूचना केंद्र बनाता है।"
+
+#: admin/classes/uipress-app.php:2786
+msgid "Admin Bar Disabled For"
+msgstr "व्यवस्थापक बार अक्षम के लिए"
+
+#: admin/classes/uipress-app.php:2787
+#, php-format
+msgid "%s toolbar module will be disabled for any users or roles you select"
+msgstr ""
+"आपके द्वारा चुने गए किसी भी उपयोगकर्ता या भूमिकाओं के लिए %s टूलबार मॉड्यूल "
+"अक्षम कर दिया जाएगा"
+
+#: admin/classes/uipress-app.php:2795
+msgid "Hide admin bar links (left side)"
+msgstr "व्यवस्थापक बार लिंक छुपाएं (बाईं ओर)"
+
+#: admin/classes/uipress-app.php:2796
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"सभी उपयोगकर्ताओं के लिए व्यवस्थापक बार के बाईं ओर लीगेसी लिंक अक्षम करता है। "
+"उपयोगकर्ता वरीयता को भी छुपाता है।"
+
+#: admin/classes/uipress-app.php:2803
+msgid "Enable floating flyout toolbar"
+msgstr "फ़्लोटिंग फ़्लायआउट टूलबार सक्षम करें"
+
+#: admin/classes/uipress-app.php:2804
+msgid "Changes the toolbar to a floating flyout toolbar"
+msgstr "टूलबार को फ़्लोटिंग फ़्लायआउट टूलबार में बदलता है"
+
+#: admin/classes/uipress-app.php:2812
+msgid "Disables search icon and global search function from admin bar."
+msgstr "एडमिन बार से सर्च आइकॉन और ग्लोबल सर्च फंक्शन को डिसेबल करता है।"
+
+#: admin/classes/uipress-app.php:2819
+msgid "Disable Create Button"
+msgstr "बनाएँ बटन अक्षम करें"
+
+#: admin/classes/uipress-app.php:2820
+msgid "Disables the 'create' button in the admin bar."
+msgstr "व्यवस्थापक बार में 'बनाएं' बटन को अक्षम करता है।"
+
+#: admin/classes/uipress-app.php:2827
+msgid "Open View Website in new tab"
+msgstr "वेबसाइट को नए टैब में खोलें"
+
+#: admin/classes/uipress-app.php:2828
+msgid ""
+"When enabled, clicking on view website or the home button will open in a new "
+"browser tab"
+msgstr ""
+"सक्षम होने पर, वेबसाइट देखें या होम बटन पर क्लिक करने पर एक नए ब्राउज़र टैब "
+"में खुल जाएगा"
+
+#: admin/classes/uipress-app.php:2835
+msgid "Disable View Website Button"
+msgstr "वेबसाइट देखें बटन अक्षम करें"
+
+#: admin/classes/uipress-app.php:2836
+msgid "Disables the view website link button in the admin bar."
+msgstr "व्यवस्थापक बार में वेबसाइट देखें लिंक बटन को अक्षम करता है।"
+
+#: admin/classes/uipress-app.php:2843
+#, php-format
+msgid "Load %s admin bar on front end"
+msgstr "%s एडमिन बार को फ्रंट एंड पर लोड करें"
+
+#: admin/classes/uipress-app.php:2844
+#, php-format
+msgid ""
+"If enabled, %s toolbar will load on the front end. Please note, this will "
+"not work on all themes and styling will vary"
+msgstr ""
+"यदि सक्षम किया गया है, तो %s टूलबार सामने के छोर पर लोड होगा। कृपया ध्यान "
+"दें, यह सभी थीम पर काम नहीं करेगा और स्टाइल अलग-अलग होगा"
+
+#: admin/classes/uipress-app.php:2852
+msgid "Hide admin bar on front end"
+msgstr "फ्रंट एंड पर एडमिन बार छुपाएं"
+
+#: admin/classes/uipress-app.php:2853
+msgid "If enabled, front end admin bar will not load."
+msgstr "सक्षम होने पर, फ्रंट एंड एडमिन बार लोड नहीं होगा।"
+
+#: admin/classes/uipress-app.php:2861
+msgid "Disable Notification Center"
+msgstr "अधिसूचना केंद्र अक्षम करें"
+
+#: admin/classes/uipress-app.php:2862
+msgid "If disabled, notifcations will show in the normal way"
+msgstr "अक्षम होने पर, सूचनाएं सामान्य तरीके से दिखाई देंगी"
+
+#: admin/classes/uipress-app.php:2870
+msgid "Post Types available in Search"
+msgstr "खोज में उपलब्ध पोस्ट प्रकार"
+
+#: admin/classes/uipress-app.php:2871
+msgid "The global search will only search the selected post types."
+msgstr "वैश्विक खोज केवल चयनित पोस्ट प्रकारों की खोज करेगी।"
+
+#: admin/classes/uipress-app.php:2879
+msgid "Post Types available in create button (new)"
+msgstr "क्रिएट बटन में उपलब्ध पोस्ट प्रकार (नया)"
+
+#: admin/classes/uipress-app.php:2880
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr "क्रिएट ड्रॉपडाउन में केवल चयनित पोस्ट प्रकार दिखाई देंगे।"
+
+#: admin/classes/uipress-app.php:2888
+msgid "Only show notifications to"
+msgstr "केवल इन्हें सूचनाएं दिखाएं"
+
+#: admin/classes/uipress-app.php:2889
+#, php-format
+msgid ""
+"%s will hide all notifications from all users except those selected below"
+msgstr ""
+"%s नीचे चयनित उपयोगकर्ताओं को छोड़कर सभी उपयोगकर्ताओं से सभी सूचनाएं छुपाएगा"
+
+#: admin/classes/uipress-app.php:2897
+msgid "Only show updates to"
+msgstr "केवल इन्हें अपडेट दिखाएं"
+
+#: admin/classes/uipress-app.php:2898
+#, php-format
+msgid "%s will hide all updates from all users except those selected below"
+msgstr ""
+"%s नीचे चुने गए उपयोगकर्ताओं को छोड़कर सभी उपयोगकर्ताओं से सभी अपडेट छुपाएगा"
+
+#: admin/classes/uipress-app.php:2914
+msgid "Theme"
+msgstr "थीम"
+
+#: admin/classes/uipress-app.php:2915 admin/classes/uipress-app.php:2945
+#: admin/classes/uipress-app.php:3000
+msgid "Styles page content."
+msgstr "शैलियाँ पृष्ठ सामग्री।"
+
+#: admin/classes/uipress-app.php:2919
+msgid "Disable Admin Theme Module"
+msgstr "व्यवस्थापक थीम मॉड्यूल अक्षम करें"
+
+#: admin/classes/uipress-app.php:2920
+msgid "When the theme is disabled, pages will be styles in the original way."
+msgstr "जब विषयवस्तु अक्षम हो जाती है, तो पृष्ठ मूल शैली में शैली बन जाएंगे।"
+
+#: admin/classes/uipress-app.php:2927
+msgid "Theme Disabled for"
+msgstr "थीम अक्षम"
+
+#: admin/classes/uipress-app.php:2928
+msgid ""
+"When the theme is disabled, pages will be styles in the original way for "
+"selected users or roles."
+msgstr ""
+"जब थीम अक्षम की जाती है, तो पृष्ठ चयनित उपयोगकर्ताओं या भूमिकाओं के लिए मूल "
+"रूप में शैली होंगे।"
+
+#: admin/classes/uipress-app.php:2949
+msgid "Disable Login Module"
+msgstr "लॉगिन मॉड्यूल अक्षम करें"
+
+#: admin/classes/uipress-app.php:2950
+msgid ""
+"When the login module is disabled, the login page will be displayed in the "
+"original way."
+msgstr ""
+"जब लॉगिन मॉड्यूल अक्षम हो जाता है, तो लॉगिन पृष्ठ मूल तरीके से प्रदर्शित "
+"होगा।"
+
+#: admin/classes/uipress-app.php:2958
+msgid "Dark Mode"
+msgstr "डार्क मोड"
+
+#: admin/classes/uipress-app.php:2959
+msgid "Puts the login page in dark mode for all users."
+msgstr "सभी उपयोगकर्ताओं के लिए लॉगिन पेज को डार्क मोड में डालता है।"
+
+#: admin/classes/uipress-app.php:2966
+msgid "Disable Language Selector"
+msgstr "भाषा चयनकर्ता अक्षम करें"
+
+#: admin/classes/uipress-app.php:2967
+msgid "Removes the language selector added to the login page"
+msgstr "लॉगिन पेज में जोड़े गए भाषा चयनकर्ता को हटाता है"
+
+#: admin/classes/uipress-app.php:2974
+msgid "Login Logo"
+msgstr "लॉग इन लोगो"
+
+#: admin/classes/uipress-app.php:2975
+msgid "Sets the logo for the login page"
+msgstr "लॉगिन पेज के लिए लोगो सेट करता है"
+
+#: admin/classes/uipress-app.php:2982
+msgid "Login Background"
+msgstr "लॉगिन पृष्ठभूमि"
+
+#: admin/classes/uipress-app.php:2983
+msgid "Sets an optional background image on the login page."
+msgstr "लॉगिन पृष्ठ पर एक वैकल्पिक पृष्ठभूमि छवि सेट करता है।"
+
+#: admin/classes/uipress-app.php:2999
+msgid "Advanced"
+msgstr "विकसित"
+
+#: admin/classes/uipress-app.php:3004
+msgid "Advanced Disabled For"
+msgstr "उन्नत अक्षम के लिए"
+
+#: admin/classes/uipress-app.php:3005
+msgid "Code added here will not load for any users or roles you select"
+msgstr ""
+"यहां जोड़ा गया कोड आपके द्वारा चुने गए किसी भी उपयोगकर्ता या भूमिकाओं के लिए "
+"लोड नहीं होगा"
+
+#: admin/classes/uipress-app.php:3013
+msgid "Enqueue scripts"
+msgstr "कतारबद्ध स्क्रिप्ट"
+
+#: admin/classes/uipress-app.php:3014
+msgid "Add scripts to the head of every admin page and login page"
+msgstr "प्रत्येक व्यवस्थापक पृष्ठ और लॉगिन पृष्ठ के शीर्ष पर स्क्रिप्ट जोड़ें"
+
+#: admin/classes/uipress-app.php:3022
+msgid "Enqueue styles"
+msgstr "कतार शैली"
+
+#: admin/classes/uipress-app.php:3023
+msgid "Add stylesheets to the head of every admin page and login page"
+msgstr "प्रत्येक व्यवस्थापक पृष्ठ और लॉगिन पृष्ठ के शीर्ष पर स्टाइलशीट जोड़ें"
+
+#: admin/classes/uipress-app.php:3031
+msgid "Admin CSS"
+msgstr "व्यवस्थापक सीएसएस"
+
+#: admin/classes/uipress-app.php:3032
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr ""
+"यहां जोड़ा गया CSS प्रत्येक व्यवस्थापक पृष्ठ के साथ-साथ लॉगिन पृष्ठ पर भी "
+"लोड किया जाएगा"
+
+#: admin/classes/uipress-app.php:3041
+msgid "Admin JavaScript"
+msgstr "व्यवस्थापक जावास्क्रिप्ट"
+
+#: admin/classes/uipress-app.php:3042
+msgid ""
+"JavaScript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr ""
+"यहां जोड़ा गया जावास्क्रिप्ट प्रत्येक व्यवस्थापक पृष्ठ के साथ-साथ लॉगिन "
+"पृष्ठ पर भी लोड किया जाएगा"
+
+#: admin/classes/uipress-app.php:3051
+msgid "HTML for document head"
+msgstr "दस्तावेज़ शीर्ष के लिए HTML"
+
+#: admin/classes/uipress-app.php:3052
+msgid ""
+"Add HTML here to be added to every admin page and login page head section"
+msgstr ""
+"प्रत्येक व्यवस्थापक पृष्ठ और लॉगिन पृष्ठ शीर्ष अनुभाग में जोड़े जाने के लिए "
+"यहां HTML जोड़ें"
+
+#: admin/classes/uipress-app.php:3061
+msgid "Safe Mode Key"
+msgstr "सुरक्षित मोड कुंजी"
+
+#: admin/classes/uipress-app.php:3063
+msgid ""
+"Add a private key to allow you to disable uipress on specific pages with "
+"query paramaters. For example, add '?no_uip=your_key' to a URL and it wil "
+"stop uipress from loading on that page."
+msgstr ""
+"क्वेरी पैरामीटर के साथ विशिष्ट पृष्ठों पर uipress को अक्षम करने की अनुमति "
+"देने के लिए एक निजी कुंजी जोड़ें। उदाहरण के लिए, किसी URL में '?"
+"no_uip=your_key' जोड़ें और यह uipress को उस पेज पर लोड होने से रोक देगा।"
+
+#: admin/classes/update.php:66
+msgid "Welcome to UiPress version "
+msgstr "यूआईप्रेस संस्करण में आपका स्वागत है"
+
+#: admin/classes/update.php:69 admin/classes/update.php:101
+msgid ""
+"Would you like to automatically import settings from your older version of "
+"uipress?"
+msgstr ""
+"क्या आप uipress के अपने पुराने संस्करण से स्वचालित रूप से सेटिंग्स आयात करना "
+"चाहेंगे?"
+
+#: admin/classes/update.php:71
+msgid "Don't show again"
+msgstr "दोबारा मत दिखाओ"
+
+#: admin/classes/update.php:72 admin/classes/update.php:103
+msgid "Import settings"
+msgstr "सेटिंग आयात करना"
+
+#: admin/classes/update.php:115
+msgid "Check for updates"
+msgstr "अद्यतन के लिए जाँच"
+
+#: admin/classes/update.php:141
+msgid "Unable to contact update server"
+msgstr "अद्यतन सर्वर से संपर्क करने में असमर्थ"
+
+#: admin/classes/update.php:156
+msgid "Update available"
+msgstr "उपलब्ध अद्यतन"
+
+#: admin/classes/update.php:162
+msgid "No Updates available"
+msgstr "कोई अपडेट उपलब्ध नहीं"
+
+#: admin/classes/update.php:180
+msgid "Message dismissed"
+msgstr "संदेश खारिज"
+
+#: admin/classes/update.php:204
+msgid "No settings to import"
+msgstr "आयात करने के लिए कोई सेटिंग नहीं"
+
+#: admin/classes/update.php:350
+msgid "Settings imported"
+msgstr "सेटिंग्स आयातित"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress"
+msgstr "यूआईप्रेस"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress admin extension with a streamlined dashboard, Google "
+"Analytics & WooCommerce Integration, intuitive media library, dark mode and "
+"much more."
+msgstr ""
+"एक सुव्यवस्थित डैशबोर्ड, Google Analytics और WooCommerce एकीकरण, सहज मीडिया "
+"लाइब्रेरी, डार्क मोड और बहुत कुछ के साथ शक्तिशाली वर्डप्रेस एडमिन एक्सटेंशन।"
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "व्यवस्थापक 2020"

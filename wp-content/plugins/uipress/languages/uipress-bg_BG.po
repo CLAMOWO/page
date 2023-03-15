@@ -1,0 +1,4860 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress\n"
+"POT-Creation-Date: 2022-06-12 12:06+0200\n"
+"PO-Revision-Date: 2022-06-22 20:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian\n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Team: Rubyvio https://rubyvio.com"
+"X-Poedit-Basepath: ..\n"
+"X-Translate-Version: beta; wp-6.0"
+"X-Human revision: none;
+
+#: admin/apps/admin-pages/admin-pages.php:110
+#: admin/apps/menu-creator/menu-creator.php:1304
+msgid "Apply to subsites"
+msgstr "Кандидатствайте за подсайтове"
+
+#: admin/apps/admin-pages/admin-pages.php:121
+msgid "Menu Icon"
+msgstr "Икона на менюто"
+
+#: admin/apps/admin-pages/admin-pages.php:131
+msgid "Manually add to menu?"
+msgstr "Ръчно добавяне към менюто?"
+
+#: admin/apps/admin-pages/admin-pages.php:250
+msgid "Admin Pages - Beta"
+msgstr "Административни страници - Бета"
+
+#: admin/apps/admin-pages/admin-pages.php:251
+msgid "Creates custom admin pages."
+msgstr "Създава персонализирани администраторски страници."
+
+#: admin/apps/admin-pages/admin-pages.php:255
+msgid "Disable custom admin pages?"
+msgstr "Деактивиране на персонализирани администраторски страници?"
+
+#: admin/apps/admin-pages/admin-pages.php:256
+msgid "If disabled, the admin pages will not be available to any users."
+msgstr ""
+"Ако е деактивирано, администраторските страници няма да бъдат достъпни за "
+"никой потребител."
+
+#: admin/apps/admin-pages/admin-pages.php:263
+msgid "Admin Page Slug"
+msgstr "Admin Page Slug"
+
+#: admin/apps/admin-pages/admin-pages.php:264
+msgid ""
+"This defaults to admin-pages. Changes to this will need you to resave "
+"permalink structure."
+msgstr ""
+"Това е по подразбиране за администраторски страници. Промените в това ще "
+"изискват да запазите отново структурата на постоянните връзки."
+
+#: admin/apps/admin-pages/admin-pages.php:271
+msgid "Who can edit and create admin pages?"
+msgstr "Кой може да редактира и създава администраторски страници?"
+
+#: admin/apps/admin-pages/admin-pages.php:272
+msgid ""
+"Editing and creation of admin pages will be disabled for the users or roles "
+"you select"
+msgstr ""
+"Редактирането и създаването на администраторски страници ще бъдат "
+"деактивирани за избраните от вас потребители или роли"
+
+#: admin/apps/admin-pages/admin-pages.php:280
+msgid "Who can see admin pages?"
+msgstr "Кой може да вижда администраторските страници?"
+
+#: admin/apps/admin-pages/admin-pages.php:281
+msgid "UiPress will only show admin pages for the users or roles you select"
+msgstr ""
+"UiPress ще показва само администраторски страници за избраните от вас "
+"потребители или роли"
+
+#: admin/apps/admin-pages/admin-pages.php:320
+msgctxt "post type general name"
+msgid "Admin Page"
+msgstr "Административна страница"
+
+#: admin/apps/admin-pages/admin-pages.php:321
+msgctxt "post type singular name"
+msgid "Admin Page"
+msgstr "Административна страница"
+
+#: admin/apps/admin-pages/admin-pages.php:322
+msgctxt "admin menu"
+msgid "Admin Pages"
+msgstr "Административни страници"
+
+#: admin/apps/admin-pages/admin-pages.php:323
+msgctxt "add new on admin bar"
+msgid "Admin Page"
+msgstr "Административна страница"
+
+#: admin/apps/admin-pages/admin-pages.php:324
+msgctxt "Admin Page"
+msgid "Add New"
+msgstr "Добави нов"
+
+#: admin/apps/admin-pages/admin-pages.php:325
+msgid "Add New Admin Page"
+msgstr "Добавяне на нова страница за администратор"
+
+#: admin/apps/admin-pages/admin-pages.php:326
+msgid "New Admin Page"
+msgstr "Нова страница за администратор"
+
+#: admin/apps/admin-pages/admin-pages.php:327
+msgid "Edit Admin Page"
+msgstr "Редактиране на страницата на администратора"
+
+#: admin/apps/admin-pages/admin-pages.php:328
+msgid "View Admin Page"
+msgstr "Вижте страницата на администратора"
+
+#: admin/apps/admin-pages/admin-pages.php:329
+msgid "All Admin Pages"
+msgstr "Всички администраторски страници"
+
+#: admin/apps/admin-pages/admin-pages.php:330
+msgid "Search Admin Pages"
+msgstr "Търсене в администраторски страници"
+
+#: admin/apps/admin-pages/admin-pages.php:331
+msgid "No Admin Pages found."
+msgstr "Няма намерени административни страници."
+
+#: admin/apps/admin-pages/admin-pages.php:332
+msgid "No Admin Pages found in Trash."
+msgstr "В кошчето няма намерени администраторски страници."
+
+#: admin/apps/admin-pages/admin-pages.php:336
+#: admin/apps/menu-creator/menu-creator.php:667
+#: admin/apps/users/uip-history.php:161
+msgid "Description."
+msgstr "Описание."
+
+#: admin/apps/content/content.php:96
+msgid "Content Page"
+msgstr "Страница със съдържание"
+
+#: admin/apps/content/content.php:97
+msgid "Creates content page"
+msgstr "Създава страница със съдържание"
+
+#: admin/apps/content/content.php:101
+msgid "Disable Content Page?"
+msgstr "Деактивиране на страницата със съдържание?"
+
+#: admin/apps/content/content.php:102
+msgid "If disabled, the content page will not be available to any users."
+msgstr ""
+"Ако е деактивирана, страницата със съдържание няма да бъде достъпна за никой "
+"потребител."
+
+#: admin/apps/content/content.php:109
+msgid "Content Page Disabled for"
+msgstr "Страницата със съдържание е деактивирана за"
+
+#: admin/apps/content/content.php:110
+msgid ""
+"When the content page module is disabled, the content page will not be "
+"accesible for the users / roles"
+msgstr ""
+"Когато модулът на страницата със съдържание е деактивиран, страницата със "
+"съдържание няма да бъде достъпна за потребителите/ролите"
+
+#: admin/apps/content/content.php:118
+msgid "Post types available in content page"
+msgstr "Типове публикации, налични в страницата със съдържание"
+
+#: admin/apps/content/content.php:119
+msgid "Only the selected post types will be available in the content page."
+msgstr ""
+"Само избраните типове публикации ще бъдат налични на страницата със "
+"съдържание."
+
+#: admin/apps/content/content.php:127
+msgid "Enable private library mode"
+msgstr "Активирайте режима на частна библиотека"
+
+#: admin/apps/content/content.php:128
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This also includes folders"
+msgstr ""
+"Когато е активирана, страницата със съдържание ще показва само съдържание, "
+"създадено от или качено от влезлия в момента потребител. Това включва и папки"
+
+#: admin/apps/content/content.php:184
+msgid "Original Title / Value"
+msgstr "Оригинално заглавие/стойност"
+
+#: admin/apps/content/content.php:188 admin/classes/styles.php:693
+msgid "Text"
+msgstr "Текст"
+
+#: admin/apps/content/content.php:192 admin/apps/content/content.php:2033
+msgid "Date Created"
+msgstr "дата на създаване"
+
+#: admin/apps/content/content.php:196
+msgid "File Extension (attachments only)"
+msgstr "Файлово разширение (само прикачени файлове)"
+
+#: admin/apps/content/content.php:200
+msgid "Sequence Number"
+msgstr "Пореден номер"
+
+#: admin/apps/content/content.php:204
+msgid "Meta Value"
+msgstr "Мета стойност"
+
+#: admin/apps/content/content.php:208
+msgid "Find and Replace"
+msgstr "Намерете и заменете"
+
+#: admin/apps/content/content.php:266 admin/classes/uipress-app.php:1731
+#: admin/classes/uipress-app.php:2073
+msgid "No preferences supplied to save"
+msgstr "Не са предоставени предпочитания за запазване"
+
+#: admin/apps/content/content.php:288 admin/classes/uipress-app.php:1742
+#: admin/classes/uipress-app.php:2095
+msgid "Preferences saved"
+msgstr "Предпочитанията са запазени"
+
+#: admin/apps/content/content.php:291 admin/classes/uipress-app.php:1746
+#: admin/classes/uipress-app.php:2098
+msgid "Unable to save user preferences"
+msgstr "Не може да се запишат потребителските предпочитания"
+
+#: admin/apps/content/content.php:320 admin/apps/content/content.php:328
+#: admin/apps/content/content.php:957
+msgid "Unable to save attachment"
+msgstr "Прикаченият файл не може да се запази"
+
+#: admin/apps/content/content.php:337
+msgid "Image Saved"
+msgstr "Изображението е запазено"
+
+#: admin/apps/content/content.php:370
+msgid "Failed to upload file"
+msgstr "Качването на файл не бе успешно"
+
+#: admin/apps/content/content.php:400
+msgid "Items uploaded"
+msgstr "Качени елементи"
+
+#: admin/apps/content/content.php:423
+msgid "Views updated"
+msgstr "Изгледите са актуализирани"
+
+#: admin/apps/content/content.php:455 admin/apps/content/content.php:517
+#: admin/apps/content/content.php:579 admin/apps/content/content.php:769
+#: admin/apps/menu-creator/menu-creator.php:752
+#: admin/apps/menu-creator/menu-creator.php:777
+#: admin/apps/menu-creator/menu-creator.php:814
+#: admin/apps/menu-creator/menu-creator.php:867
+#: admin/apps/menu-creator/menu-creator.php:936
+#: admin/apps/users/uip-user-groups.php:309 admin/classes/folders.php:528
+#: admin/classes/settings.php:308 admin/classes/uipress-app.php:1357
+msgid "Something went wrong"
+msgstr "Нещо се обърка"
+
+#: admin/apps/content/content.php:460
+msgid "Items duplicated successfully"
+msgstr "Елементите са дублирани успешно"
+
+#: admin/apps/content/content.php:463
+msgid "Itms couldn't be duplicated"
+msgstr "Не може да се дублира"
+
+#: admin/apps/content/content.php:501 admin/apps/content/content.php:543
+msgid "No Meta Key provided"
+msgstr "Не е предоставен мета ключ"
+
+#: admin/apps/content/content.php:583
+msgid "Attributes Updated"
+msgstr "Актуализирани атрибути"
+
+#: admin/apps/content/content.php:774
+msgid "Items deleted successfully"
+msgstr "Елементите са изтрити успешно"
+
+#: admin/apps/content/content.php:777
+msgid "Itms couldn't be deleted"
+msgstr "Елементите не можаха да бъдат изтрити"
+
+#: admin/apps/content/content.php:799 admin/classes/folders.php:452
+#: admin/classes/folders.php:484
+msgid "No content to move"
+msgstr "Няма съдържание за преместване"
+
+#: admin/apps/content/content.php:812 admin/classes/folders.php:466
+#: admin/classes/folders.php:497
+msgid "Content moved"
+msgstr "Съдържанието е преместено"
+
+#: admin/apps/content/content.php:938
+msgid "Unable to update item"
+msgstr "Не може да се актуализира елемент"
+
+#: admin/apps/content/content.php:968
+msgid "Item updated"
+msgstr "Артикулът е актуализиран"
+
+#: admin/apps/content/content.php:1007
+msgid "Items updated"
+msgstr "Артикулите са актуализирани"
+
+#: admin/apps/content/content.php:1319 admin/apps/content/content.php:1611
+msgid "Content"
+msgstr "Съдържание"
+
+#: admin/apps/content/content.php:1362
+#: admin/apps/menu-creator/menu-creator.php:1096
+#: admin/classes/uipress-app.php:1325
+msgid "Pro Feature"
+msgstr "Професионална функция"
+
+#: admin/apps/content/content.php:1365
+msgid "Upgrade to UiPress Pro to unlock the content page and content folders"
+msgstr ""
+"Надстройте до UiPress Pro, за да отключите страницата със съдържание и "
+"папките със съдържание"
+
+#: admin/apps/content/content.php:1367
+#: admin/apps/menu-creator/menu-creator.php:1101
+msgid "See UiPress Pro Plans"
+msgstr "Вижте плановете за UiPress Pro"
+
+#: admin/apps/content/content.php:1411
+msgid "Update Tags and Categories"
+msgstr "Актуализиране на етикети и категории"
+
+#: admin/apps/content/content.php:1418 admin/apps/content/content.php:1831
+#: admin/apps/content/content.php:1836 admin/apps/content/content.php:2068
+#: admin/apps/content/content.php:2071
+msgid "Categories"
+msgstr "Категории"
+
+#: admin/apps/content/content.php:1419 admin/apps/content/content.php:1837
+#: admin/apps/content/content.php:2072
+msgid "Search categories..."
+msgstr "Търсене в категории..."
+
+#: admin/apps/content/content.php:1424
+msgid "Keep existing categories"
+msgstr "Запазете съществуващите категории"
+
+#: admin/apps/content/content.php:1433 admin/apps/content/content.php:1843
+#: admin/apps/content/content.php:1847 admin/apps/content/content.php:2080
+#: admin/apps/content/content.php:2083
+msgid "Tags"
+msgstr "Етикети"
+
+#: admin/apps/content/content.php:1434 admin/apps/content/content.php:1848
+#: admin/apps/content/content.php:2084
+msgid "Search tags..."
+msgstr "Търсене на етикети..."
+
+#: admin/apps/content/content.php:1439
+msgid "Keep existing tags"
+msgstr "Запазете съществуващите тагове"
+
+#: admin/apps/content/content.php:1448 admin/apps/content/content.php:1686
+#: admin/classes/uipress-app.php:1373
+msgid "Update"
+msgstr "Актуализация"
+
+#: admin/apps/content/content.php:1465 admin/apps/content/content.php:2567
+msgid "Batch Rename"
+msgstr "Пакетно преименуване"
+
+#: admin/apps/content/content.php:1473
+msgid "Attribute to rename"
+msgstr "Атрибут за преименуване"
+
+#: admin/apps/content/content.php:1480 admin/apps/content/content.php:2323
+#: admin/apps/menu-creator/menu-creator.php:1151
+#: admin/apps/menu-creator/menu-creator.php:1651
+#: admin/apps/menu-creator/menu-creator.php:1652
+#: admin/apps/users/uip-users.php:311 admin/apps/users/uip-users.php:389
+#: admin/apps/users/uip-users.php:1213 admin/classes/uipress-app.php:1371
+msgid "Name"
+msgstr "име"
+
+#: admin/apps/content/content.php:1481
+msgid "Meta Key"
+msgstr "Мета ключ"
+
+#: admin/apps/content/content.php:1482
+msgid "Alt Tag (Attachments only)"
+msgstr "Alt Tag (само прикачени файлове)"
+
+#: admin/apps/content/content.php:1487
+msgid "Meta Key Name"
+msgstr "Име на мета ключ"
+
+#: admin/apps/content/content.php:1498
+msgid "Filename Structure"
+msgstr "Структура на името на файла"
+
+#: admin/apps/content/content.php:1506
+msgid "Rename Item"
+msgstr "Преименувайте елемент"
+
+#: admin/apps/content/content.php:1514 admin/apps/overview/overview.php:812
+msgid "Add"
+msgstr "Добавете"
+
+#: admin/apps/content/content.php:1540
+msgid "New Text"
+msgstr "Нов текст"
+
+#: admin/apps/content/content.php:1542
+msgid "Date Format"
+msgstr "Формат на датата"
+
+#: admin/apps/content/content.php:1544
+msgid "Start Number"
+msgstr "Начален номер"
+
+#: admin/apps/content/content.php:1546
+msgid "Meta key Name"
+msgstr "Име на мета ключ"
+
+#: admin/apps/content/content.php:1548
+msgid "Find"
+msgstr "намирам"
+
+#: admin/apps/content/content.php:1552
+msgid "Replace"
+msgstr "Сменете"
+
+#: admin/apps/content/content.php:1576 admin/apps/content/content.php:1593
+#: admin/apps/menu-creator/menu-creator.php:1464
+msgid "Preview"
+msgstr "Визуализация"
+
+#: admin/apps/content/content.php:1579
+msgid "Current"
+msgstr "Текущ"
+
+#: admin/apps/content/content.php:1580
+#: admin/apps/menu-creator/menu-creator.php:1136
+msgid "New"
+msgstr "Нов"
+
+#: admin/apps/content/content.php:1594
+msgid "Rename"
+msgstr "Преименувайте"
+
+#: admin/apps/content/content.php:1618 admin/classes/uipress-app.php:1365
+msgid "All Content"
+msgstr "Цялото съдържание"
+
+#: admin/apps/content/content.php:1679
+#: admin/apps/menu-creator/menu-creator.php:1225
+#: admin/apps/users/uip-users.php:541
+msgid "Delete"
+msgstr "Изтрий"
+
+#: admin/apps/content/content.php:1684
+msgid "Edit Image"
+msgstr "Редактиране на изображението"
+
+#: admin/apps/content/content.php:1715 admin/apps/users/uip-users.php:309
+msgid "Details"
+msgstr "Подробности"
+
+#: admin/apps/content/content.php:1771 admin/apps/content/content.php:1772
+#: admin/apps/overview/overview.php:715
+msgid "Title"
+msgstr "Заглавие"
+
+#: admin/apps/content/content.php:1778
+msgid "Alt Text"
+msgstr "Алтернативен текст"
+
+#: admin/apps/content/content.php:1779
+msgid "Alt"
+msgstr "Alt"
+
+#: admin/apps/content/content.php:1783 admin/apps/content/content.php:1784
+msgid "Caption"
+msgstr "Надпис"
+
+#: admin/apps/content/content.php:1788 admin/apps/content/content.php:1789
+#: admin/apps/users/uip-users.php:1353
+msgid "Description"
+msgstr "Описание"
+
+#: admin/apps/content/content.php:1799
+msgid "Meta Data"
+msgstr "Мета данни"
+
+#: admin/apps/content/content.php:1819 admin/apps/content/content.php:1824
+#: admin/apps/content/content.php:2339
+#: admin/apps/menu-creator/menu-creator.php:1155
+#: admin/apps/menu-creator/menu-creator.php:1294
+#: admin/classes/uipress-app.php:1151
+msgid "Status"
+msgstr "Състояние"
+
+#: admin/apps/content/content.php:1825
+msgid "Search status..."
+msgstr "Състояние на търсене..."
+
+#: admin/apps/content/content.php:1927
+msgid "Filters"
+msgstr "Филтри"
+
+#: admin/apps/content/content.php:1932
+msgid "Upload"
+msgstr "Качване"
+
+#: admin/apps/content/content.php:1954
+msgid "Items Per Page"
+msgstr "Елементи на страница"
+
+#: admin/apps/content/content.php:1964
+msgid "Columns"
+msgstr "колони"
+
+#: admin/apps/content/content.php:1976
+msgid "Search..."
+msgstr "Търсене..."
+
+#: admin/apps/content/content.php:1984
+msgid "of"
+msgstr "на"
+
+#: admin/apps/content/content.php:1987
+msgid "items"
+msgstr "артикули"
+
+#: admin/apps/content/content.php:2011 admin/apps/content/content.php:2014
+msgid "Post Types"
+msgstr "Видове публикации"
+
+#: admin/apps/content/content.php:2015
+msgid "Search Post Types..."
+msgstr "Търсете типове публикации..."
+
+#: admin/apps/content/content.php:2022 admin/apps/content/content.php:2025
+msgid "Post Status"
+msgstr "Състояние на публикацията"
+
+#: admin/apps/content/content.php:2026
+msgid "Search Post Statuses..."
+msgstr "Търсене на статуси на публикации..."
+
+#: admin/apps/content/content.php:2039
+msgid "Posted On"
+msgstr "Публикувано на"
+
+#: admin/apps/content/content.php:2040
+msgid "Posted After"
+msgstr "Публикувано след"
+
+#: admin/apps/content/content.php:2041
+msgid "Posted Before"
+msgstr "Публикувано преди"
+
+#: admin/apps/content/content.php:2056 admin/apps/content/content.php:2059
+msgid "Media Types"
+msgstr "Типове медии"
+
+#: admin/apps/content/content.php:2060
+msgid "Search Media Types..."
+msgstr "Търсене на типове медии..."
+
+#: admin/apps/content/content.php:2089
+msgid "Clear Filters"
+msgstr "Изчистване на филтрите"
+
+#: admin/apps/content/content.php:2090
+msgid "Save as view"
+msgstr "Запазване като изглед"
+
+#: admin/apps/content/content.php:2136
+msgid "Posted"
+msgstr "Публикувано"
+
+#: admin/apps/content/content.php:2327
+msgid "Type"
+msgstr "Тип"
+
+#: admin/apps/content/content.php:2331
+msgid "Author"
+msgstr "Автор"
+
+#: admin/apps/content/content.php:2335
+#: admin/apps/menu-creator/menu-creator.php:1159
+#: admin/apps/overview/overview.php:904 admin/apps/users/uip-users.php:1333
+msgid "Date"
+msgstr "Дата"
+
+#: admin/apps/content/content.php:2483
+msgid "Load More"
+msgstr "Зареди още"
+
+#: admin/apps/content/content.php:2492
+msgid "No content found"
+msgstr "Няма намерено съдържание"
+
+#: admin/apps/content/content.php:2511 admin/apps/users/uip-users.php:547
+#: admin/classes/uipress-app.php:1327
+msgid "View"
+msgstr "Преглед"
+
+#: admin/apps/content/content.php:2518
+#: admin/apps/menu-creator/menu-creator.php:1203
+#: admin/apps/users/uip-users.php:523 admin/classes/uipress-app.php:1328
+msgid "Edit"
+msgstr "редактиране"
+
+#: admin/apps/content/content.php:2525
+msgid "Quick Edit"
+msgstr "Бързо редактиране"
+
+#: admin/apps/content/content.php:2532
+#: admin/apps/menu-creator/menu-creator.php:1210
+msgid "Duplicate"
+msgstr "Дублиране"
+
+#: admin/apps/content/content.php:2540
+msgid "Delete Item"
+msgstr "Изтриване на елемент"
+
+#: admin/apps/content/content.php:2560
+msgid "items selected"
+msgstr "избрани елементи"
+
+#: admin/apps/content/content.php:2573
+msgid "Categories & Tags"
+msgstr "Категории и етикети"
+
+#: admin/apps/content/content.php:2579
+msgid "Delete Selected"
+msgstr "Изтрий избраното"
+
+#: admin/apps/content/content.php:2585
+msgid "Clear Selection"
+msgstr "Изчистване на селекцията"
+
+#: admin/apps/content/content.php:2607
+msgid "Create New View"
+msgstr "Създаване на нов изглед"
+
+#: admin/apps/content/content.php:2612
+msgid "View name"
+msgstr "Вижте име"
+
+#: admin/apps/content/content.php:2615
+msgid "View Name"
+msgstr "Вижте име"
+
+#: admin/apps/content/content.php:2623
+#: admin/apps/menu-creator/menu-creator.php:1709
+#: admin/apps/overview/overview.php:836 admin/classes/styles.php:437
+msgid "Save"
+msgstr "Запазете"
+
+#: admin/apps/menu-creator/menu-creator.php:405
+#: admin/apps/menu-creator/menu-creator.php:1044
+#: admin/apps/menu-creator/menu-creator.php:1052
+#: admin/apps/menu-creator/menu-creator.php:1131
+#: admin/apps/menu-creator/menu-creator.php:1699
+msgid "Menu Creator"
+msgstr "Създател на менюта"
+
+#: admin/apps/menu-creator/menu-creator.php:406
+msgid "Creates custom admin menus."
+msgstr "Създава персонализирани администраторски менюта."
+
+#: admin/apps/menu-creator/menu-creator.php:410
+msgid "Disable Menu Creator?"
+msgstr "Деактивиране на създателя на менюта?"
+
+#: admin/apps/menu-creator/menu-creator.php:411
+msgid "If disabled, the menu creator will not be available to any users."
+msgstr ""
+"Ако е деактивиран, създателят на менюто няма да бъде достъпен за никой "
+"потребител."
+
+#: admin/apps/menu-creator/menu-creator.php:651
+msgctxt "post type general name"
+msgid "Admin Menu"
+msgstr "Административно меню"
+
+#: admin/apps/menu-creator/menu-creator.php:652
+msgctxt "post type singular name"
+msgid "admin menu"
+msgstr "администраторско меню"
+
+#: admin/apps/menu-creator/menu-creator.php:653
+msgctxt "admin menu"
+msgid "Admin Menus"
+msgstr "Административни менюта"
+
+#: admin/apps/menu-creator/menu-creator.php:654
+msgctxt "add new on admin bar"
+msgid "Admin Menu"
+msgstr "Административно меню"
+
+#: admin/apps/menu-creator/menu-creator.php:655
+msgctxt "Admin Menu"
+msgid "Add New"
+msgstr "Добави нов"
+
+#: admin/apps/menu-creator/menu-creator.php:656
+msgid "Add New Admin Menu"
+msgstr "Добавяне на ново администраторско меню"
+
+#: admin/apps/menu-creator/menu-creator.php:657
+msgid "New Admin Menu"
+msgstr "Ново администраторско меню"
+
+#: admin/apps/menu-creator/menu-creator.php:658
+msgid "Edit Admin Menu"
+msgstr "Редактиране на администраторското меню"
+
+#: admin/apps/menu-creator/menu-creator.php:659
+msgid "View Admin Menu"
+msgstr "Вижте Административно меню"
+
+#: admin/apps/menu-creator/menu-creator.php:660
+msgid "All Admin Menus"
+msgstr "Всички администраторски менюта"
+
+#: admin/apps/menu-creator/menu-creator.php:661
+msgid "Search Admin Menus"
+msgstr "Търсене в администраторски менюта"
+
+#: admin/apps/menu-creator/menu-creator.php:662
+msgid "No Admin Menus found."
+msgstr "Няма намерени администраторски менюта."
+
+#: admin/apps/menu-creator/menu-creator.php:663
+msgid "No Admin Menus found in Trash."
+msgstr "Няма намерени менюта на администратора в кошчето."
+
+#: admin/apps/menu-creator/menu-creator.php:759
+msgid "Status Updated"
+msgstr "Състоянието е актуализирано"
+
+#: admin/apps/menu-creator/menu-creator.php:783
+msgid "You don't have permission to delete this"
+msgstr "Нямате разрешение да изтриете това"
+
+#: admin/apps/menu-creator/menu-creator.php:791
+msgid "Unable to delete menu"
+msgstr "Менюто не може да се изтрие"
+
+#: admin/apps/menu-creator/menu-creator.php:796
+msgid "Menu deleted"
+msgstr "Менюто е изтрито"
+
+#: admin/apps/menu-creator/menu-creator.php:820
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "Не може да се дублира менюто, менюто е повредено"
+
+#: admin/apps/menu-creator/menu-creator.php:826
+msgid "(copy)"
+msgstr "(копие)"
+
+#: admin/apps/menu-creator/menu-creator.php:834
+msgid "Unable to duplicate menu"
+msgstr "Не може да се дублира менюто"
+
+#: admin/apps/menu-creator/menu-creator.php:844
+msgid "Menu duplicated"
+msgstr "Менюто е дублирано"
+
+#: admin/apps/menu-creator/menu-creator.php:873
+msgid "Unable to save, menu is corrupted"
+msgstr "Не може да се запази, менюто е повредено"
+
+#: admin/apps/menu-creator/menu-creator.php:894
+msgid "Unable to save menu"
+msgstr "Не може да се запази менюто"
+
+#: admin/apps/menu-creator/menu-creator.php:917
+msgid "Menu Saved"
+msgstr "Менюто е запазено"
+
+#: admin/apps/menu-creator/menu-creator.php:962
+#: admin/apps/users/uip-users.php:1321 admin/classes/settings.php:328
+msgid "User"
+msgstr "потребител"
+
+#: admin/apps/menu-creator/menu-creator.php:977
+#: admin/apps/menu-creator/menu-creator.php:988
+#: admin/apps/users/uip-users.php:1285 admin/classes/settings.php:343
+#: admin/classes/settings.php:354
+msgid "Role"
+msgstr "Роля"
+
+#: admin/apps/menu-creator/menu-creator.php:995 admin/classes/settings.php:361
+msgid "Nothing found for term:"
+msgstr "Нищо не е намерено за термин:"
+
+#: admin/apps/menu-creator/menu-creator.php:1044
+#, php-format
+msgid "%s Menu Creator"
+msgstr "%s Създател на меню"
+
+#: admin/apps/menu-creator/menu-creator.php:1099
+msgid "Upgrade to UiPress Pro to unlock the menu creator"
+msgstr "Надстройте до UiPress Pro, за да отключите създателя на менюта"
+
+#: admin/apps/menu-creator/menu-creator.php:1142
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "Изглежда, че все още не сте създали никакви администраторски менюта"
+
+#: admin/apps/menu-creator/menu-creator.php:1143
+msgid "Create your first admin menu"
+msgstr "Създайте своето първо администраторско меню"
+
+#: admin/apps/menu-creator/menu-creator.php:1217
+#: admin/apps/menu-creator/menu-creator.php:1718
+#: admin/apps/users/uip-users.php:559 admin/classes/settings.php:248
+#: admin/classes/styles.php:447
+msgid "Export"
+msgstr "Експортиране"
+
+#: admin/apps/menu-creator/menu-creator.php:1264
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"Създателят на менюта не е оптимизиран за мобилни устройства. За най-добри "
+"резултати превключете към по-голям екран"
+
+#: admin/apps/menu-creator/menu-creator.php:1279
+msgid "Menu Items"
+msgstr "Елементи от менюто"
+
+#: admin/apps/menu-creator/menu-creator.php:1283
+msgid "Menu Settings"
+msgstr "Настройки на менюто"
+
+#: admin/apps/menu-creator/menu-creator.php:1314
+#: admin/apps/menu-creator/menu-creator.php:1315
+msgid "Menu Name"
+msgstr "Име на менюто"
+
+#: admin/apps/menu-creator/menu-creator.php:1319
+msgid "Menu Applies to"
+msgstr "Менюто се отнася за"
+
+#: admin/apps/menu-creator/menu-creator.php:1323
+msgid "Inclusive"
+msgstr "Включително"
+
+#: admin/apps/menu-creator/menu-creator.php:1327
+msgid "Exclusive"
+msgstr "Изключителен"
+
+#: admin/apps/menu-creator/menu-creator.php:1331
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr ""
+"В включен режим това меню ще се зареди за всички потребителски имена и роли, "
+"избрани по-долу."
+
+#: admin/apps/menu-creator/menu-creator.php:1334
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"В изключителен режим това меню ще се зареди за всеки потребител с изключение "
+"на потребителските имена и роли, избрани по-долу."
+
+#: admin/apps/menu-creator/menu-creator.php:1340
+msgid "Choose users or roles..."
+msgstr "Изберете потребители или роли..."
+
+#: admin/apps/menu-creator/menu-creator.php:1342
+msgid "Search roles and users..."
+msgstr "Търсете роли и потребители..."
+
+#: admin/apps/menu-creator/menu-creator.php:1351
+msgid "Custom Items"
+msgstr "Персонализирани артикули"
+
+#: admin/apps/menu-creator/menu-creator.php:1355
+msgid "New Separator"
+msgstr "Нов разделител"
+
+#: admin/apps/menu-creator/menu-creator.php:1358
+msgid "New Custom Link"
+msgstr "Нова персонализирана връзка"
+
+#: admin/apps/menu-creator/menu-creator.php:1363
+msgid "Available Menu Items"
+msgstr "Налични елементи от менюто"
+
+#: admin/apps/menu-creator/menu-creator.php:1370
+msgid "Search menu items"
+msgstr "Търсене на елементи от менюто"
+
+#: admin/apps/menu-creator/menu-creator.php:1518
+msgid "Add some menu items from the left toolbar to get started"
+msgstr ""
+"Добавете някои елементи от менюто от лявата лента с инструменти, за да "
+"започнете"
+
+#: admin/apps/menu-creator/menu-creator.php:1537
+msgid "Separator"
+msgstr "Сепаратор"
+
+#: admin/apps/menu-creator/menu-creator.php:1642
+msgid "Edit Menu Item"
+msgstr "Редактиране на елемент от менюто"
+
+#: admin/apps/menu-creator/menu-creator.php:1656
+#: admin/apps/menu-creator/menu-creator.php:1657
+msgid "Link"
+msgstr "Връзка"
+
+#: admin/apps/menu-creator/menu-creator.php:1661
+msgid "Classes"
+msgstr "Класове"
+
+#: admin/apps/menu-creator/menu-creator.php:1663
+msgid "Custom classes"
+msgstr "Персонализирани класове"
+
+#: admin/apps/menu-creator/menu-creator.php:1667
+msgid "Opens in new tab?"
+msgstr "Отваря ли се в нов раздел?"
+
+#: admin/apps/menu-creator/menu-creator.php:1677
+msgid "Icon"
+msgstr "икона"
+
+#: admin/apps/menu-creator/menu-creator.php:1702
+msgid "Back to all menus"
+msgstr "Обратно към всички менюта"
+
+#: admin/apps/menu-creator/menu-creator.php:1727
+msgid "Import Menu"
+msgstr "Меню за импортиране"
+
+#: admin/apps/menu-creator/menu-creator.php:1736 admin/classes/settings.php:265
+msgid "Reset Settings"
+msgstr "Нулиране на настройките"
+
+#: admin/apps/overview/analytics.php:74
+msgid "Analytics account removed"
+msgstr "Профилът в Google Анализ е премахнат"
+
+#: admin/apps/overview/analytics.php:93
+msgid "Unable to connect account"
+msgstr "Не може да се свърже акаунт"
+
+#: admin/apps/overview/analytics.php:106
+msgid "Analytics account connected"
+msgstr "Свързан акаунт в Google Анализ"
+
+#: admin/apps/overview/analytics.php:310 admin/apps/overview/analytics.php:718
+#: admin/apps/overview/overview.php:761
+msgid "Site Users"
+msgstr "Потребители на сайта"
+
+#: admin/apps/overview/analytics.php:318 admin/apps/overview/overview.php:762
+msgid "Site Users (comparison period)"
+msgstr "Потребители на сайта (период за сравнение)"
+
+#: admin/apps/overview/analytics.php:383 admin/apps/overview/analytics.php:700
+#: admin/apps/overview/overview.php:759
+msgid "Page Views"
+msgstr "Преглеждания на страници"
+
+#: admin/apps/overview/analytics.php:391
+msgid "Page Views (comparison period)"
+msgstr "Показвания на страници (период за сравнение)"
+
+#: admin/apps/overview/analytics.php:608 admin/apps/overview/analytics.php:709
+msgid "Page Speed"
+msgstr "Скорост на страницата"
+
+#: admin/apps/overview/analytics.php:616
+msgid "Page Speed (comparison period)"
+msgstr "Скорост на страницата (период за сравнение)"
+
+#: admin/apps/overview/analytics.php:663 admin/apps/overview/analytics.php:703
+#: admin/apps/overview/analytics.php:712 admin/apps/overview/analytics.php:721
+#: admin/apps/overview/analytics.php:730 admin/apps/overview/analytics.php:739
+#: admin/apps/overview/analytics.php:748 admin/apps/overview/analytics.php:757
+#: admin/apps/overview/analytics.php:766 admin/apps/overview/analytics.php:775
+#: admin/apps/overview/analytics.php:784 admin/apps/overview/analytics.php:793
+#: admin/apps/overview/analytics.php:802 admin/apps/overview/analytics.php:811
+#: admin/apps/overview/analytics.php:820 admin/apps/overview/analytics.php:829
+#: admin/apps/overview/analytics.php:838 admin/apps/overview/analytics.php:847
+#: admin/apps/overview/analytics.php:856 admin/apps/overview/analytics.php:865
+#: admin/apps/overview/analytics.php:874 admin/apps/overview/analytics.php:883
+msgid "Analytics"
+msgstr "Анализ"
+
+#: admin/apps/overview/analytics.php:665
+msgid "Creates the google analytics cards for the overview page."
+msgstr "Създава картите за анализ на Google за страницата за преглед."
+
+#: admin/apps/overview/analytics.php:681
+msgid "Google Analytics disabled for"
+msgstr "Google Analytics е деактивиран за"
+
+#: admin/apps/overview/analytics.php:682
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr ""
+"Анализът ще бъде деактивиран на страницата за преглед за всички потребители "
+"или роли, които изберете"
+
+#: admin/apps/overview/analytics.php:702
+msgid "Display website page views within the date range."
+msgstr ""
+"Показване на показвания на страници на уебсайт в рамките на периода от време."
+
+#: admin/apps/overview/analytics.php:711
+msgid "Display website page speed within the date range."
+msgstr ""
+"Показва скоростта на страницата на уебсайта в рамките на диапазона от време."
+
+#: admin/apps/overview/analytics.php:720
+msgid "Display website users within the date range."
+msgstr "Показване на потребителите на уебсайта в рамките на периода от време."
+
+#: admin/apps/overview/analytics.php:727
+msgid "Site visits by device"
+msgstr "Посещения на сайта по устройство"
+
+#: admin/apps/overview/analytics.php:729
+msgid "Display site usage by device within the date range."
+msgstr ""
+"Показване на използването на сайта по устройство в рамките на периода от "
+"време."
+
+#: admin/apps/overview/analytics.php:736 admin/apps/overview/overview.php:841
+msgid "Bounce Rate"
+msgstr "Степен на отпадане"
+
+#: admin/apps/overview/analytics.php:738
+msgid "Display site bounce rate within the date range."
+msgstr ""
+"Показване на степента на отпадане на сайта в рамките на диапазона от време."
+
+#: admin/apps/overview/analytics.php:745
+msgid "Session Duration"
+msgstr "Продължителност на сесията"
+
+#: admin/apps/overview/analytics.php:747
+msgid "Display site session duration within the date range."
+msgstr ""
+"Показване на продължителността на сесията на сайта в рамките на периода от "
+"време."
+
+#: admin/apps/overview/analytics.php:754
+msgid "Visits by Country"
+msgstr "Посещения по държави"
+
+#: admin/apps/overview/analytics.php:756
+msgid "Displays country user data within the date range."
+msgstr ""
+"Показва потребителски данни за държавата в рамките на периода от време."
+
+#: admin/apps/overview/analytics.php:763
+msgid "Traffic Sources"
+msgstr "Източници на трафик"
+
+#: admin/apps/overview/analytics.php:765
+msgid "Displays traffic source info within the date range."
+msgstr ""
+"Показва информация за източника на трафик в рамките на периода от време."
+
+#: admin/apps/overview/analytics.php:772
+msgid "Visits By Page"
+msgstr "Посещения по страница"
+
+#: admin/apps/overview/analytics.php:774
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr ""
+"Показва трафик за най-популярните страници на сайтове в рамките на периода "
+"от време."
+
+#: admin/apps/overview/analytics.php:781
+msgid "Event Count By Event Name"
+msgstr "Брой събития по име на събитие"
+
+#: admin/apps/overview/analytics.php:783
+msgid "Display list of events within the date range."
+msgstr "Показване на списък със събития в рамките на периода от време."
+
+#: admin/apps/overview/analytics.php:790
+msgid "Sessions by channel grouping"
+msgstr "Сесии по групиране по канали"
+
+#: admin/apps/overview/analytics.php:792
+msgid "Display sessions by channel grouping within the date range."
+msgstr ""
+"Показване на сесиите по групиране по канали в рамките на периода от време."
+
+#: admin/apps/overview/analytics.php:799
+msgid "User in the last 30 minutes"
+msgstr "Потребител през последните 30 минути"
+
+#: admin/apps/overview/analytics.php:801
+msgid "Displays active users from the last 30 minutes."
+msgstr "Показва активни потребители от последните 30 минути."
+
+#: admin/apps/overview/analytics.php:808
+msgid "Engagement Rate"
+msgstr "Степен на ангажираност"
+
+#: admin/apps/overview/analytics.php:810
+msgid "Displays average angagement rate for date range"
+msgstr "Показва средния процент на ангажираност за период от време"
+
+#: admin/apps/overview/analytics.php:817 admin/apps/overview/overview.php:783
+msgid "Site Revenue"
+msgstr "Приходи на сайта"
+
+#: admin/apps/overview/analytics.php:819
+msgid ""
+"Displays site revenue for date range. The sum of revenue from purchases, "
+"subscriptions, and advertising."
+msgstr ""
+"Показва приходите на сайта за период от време. Сумата на приходите от "
+"покупки, абонаменти и реклама."
+
+#: admin/apps/overview/analytics.php:826
+msgid "New vs Returning Users"
+msgstr "Нови срещу завърнали се потребители"
+
+#: admin/apps/overview/analytics.php:828
+msgid "Displays new vs returning users for the date range."
+msgstr "Показва нови спрямо завърнали се потребители за периода от време."
+
+#: admin/apps/overview/analytics.php:835
+msgid "Top Cities"
+msgstr "Топ градове"
+
+#: admin/apps/overview/analytics.php:837
+msgid "Displays page views by city for the date range."
+msgstr "Показва показвания на страници по град за периода от време."
+
+#: admin/apps/overview/analytics.php:844 admin/apps/overview/overview.php:785
+msgid "Ecommerce Overview"
+msgstr "Общ преглед на електронната търговия"
+
+#: admin/apps/overview/analytics.php:846
+msgid "Displays add to cart, checkout and purchase data for the date range."
+msgstr ""
+"Показва данни за добавяне в количката, плащане и покупка за периода от време."
+
+#: admin/apps/overview/analytics.php:853 admin/apps/overview/overview.php:781
+#: admin/apps/overview/overview.php:782
+msgid "Conversion Rate"
+msgstr "Процент на конверсия"
+
+#: admin/apps/overview/analytics.php:855
+msgid ""
+"The percentage of active users who made their first purchase for the date "
+"range."
+msgstr ""
+"Процентът на активните потребители, които са направили първата си покупка за "
+"периода от време."
+
+#: admin/apps/overview/analytics.php:862
+msgid "Top Products"
+msgstr "Топ продукти"
+
+#: admin/apps/overview/analytics.php:864
+msgid "Products with the most sales for for the date range."
+msgstr "Продукти с най-много продажби за периода от време."
+
+#: admin/apps/overview/analytics.php:871
+msgid "Conversions in the last 30 minutes"
+msgstr "Реализации през последните 30 минути"
+
+#: admin/apps/overview/analytics.php:873
+msgid "Conversions logged in the last 30 minutes."
+msgstr "Реализациите, регистрирани през последните 30 минути."
+
+#: admin/apps/overview/analytics.php:880
+msgid "Page Views in the last 30 minutes"
+msgstr "Преглеждания на страници през последните 30 минути"
+
+#: admin/apps/overview/analytics.php:882
+msgid "Page views in the last 30 minutes."
+msgstr "Преглеждания на страници през последните 30 минути."
+
+#: admin/apps/overview/analytics.php:1013
+msgid "Unable to fetch analytics data at this moment. Please try again later"
+msgstr ""
+"В момента не могат да бъдат извлечени аналитични данни. Моля, опитайте "
+"отново по-късно"
+
+#: admin/apps/overview/overview.php:106 admin/apps/overview/overview.php:1150
+msgid "Overview"
+msgstr "Общ преглед"
+
+#: admin/apps/overview/overview.php:107
+msgid "Creates the overview page."
+msgstr "Създава страницата за преглед."
+
+#: admin/apps/overview/overview.php:111
+msgid "Disable Overview Page?"
+msgstr "Деактивиране на страницата с общ преглед?"
+
+#: admin/apps/overview/overview.php:112
+msgid "Overview page will be hidden when this option is activated."
+msgstr ""
+"Страницата с общ преглед ще бъде скрита, когато тази опция е активирана."
+
+#: admin/apps/overview/overview.php:119
+msgid "Overview Page Disabled For"
+msgstr "Страницата за преглед е деактивирана за"
+
+#: admin/apps/overview/overview.php:120
+msgid "Overview Page will be disabled for any users or roles you select"
+msgstr ""
+"Страницата за общ преглед ще бъде деактивирана за всички потребители или "
+"роли, които изберете"
+
+#: admin/apps/overview/overview.php:128
+msgid "Who can edit the overview page?"
+msgstr "Кой може да редактира страницата за преглед?"
+
+#: admin/apps/overview/overview.php:129
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If none "
+"are chosen it will fall back to administrators only"
+msgstr ""
+"Всяка избрана тук роля или потребител ще може да редактира страницата за "
+"преглед. Ако не бъде избран нито един, той ще бъде върнат само на "
+"администраторите"
+
+#: admin/apps/overview/overview.php:137
+msgid "Default report start date"
+msgstr "Начална дата на отчета по подразбиране"
+
+#: admin/apps/overview/overview.php:138
+msgid ""
+"By default the overview date range will start 7 days before current date. "
+"Add a number of days between 1 and 90 to change length of date range"
+msgstr ""
+"По подразбиране периодът от време за преглед ще започне 7 дни преди текущата "
+"дата. Добавете брой дни между 1 и 90, за да промените дължината на периода "
+"от време"
+
+#: admin/apps/overview/overview.php:146
+msgid "Default report end date offset"
+msgstr "Изместване на крайната дата на отчета по подразбиране"
+
+#: admin/apps/overview/overview.php:147
+msgid ""
+"By default the overview date range will end on the current day (0). To end "
+"the report on yesterday for example, enter 1"
+msgstr ""
+"По подразбиране периодът от време за преглед ще приключи на текущия ден (0). "
+"За да завършите отчета за вчера, например, въведете 1"
+
+#: admin/apps/overview/overview.php:155
+msgid "Reporting Currency Symbol"
+msgstr "Символ на отчетна валута"
+
+#: admin/apps/overview/overview.php:156
+msgid ""
+"If you are using google analytics commerce reports, enter the currency "
+"symbol your reports are in here"
+msgstr ""
+"Ако използвате търговски отчети на Google Analytics, въведете символа на "
+"валутата, в който се намират отчетите ви"
+
+#: admin/apps/overview/overview.php:164
+msgid "Custom welcome message"
+msgstr "Персонализирано приветствено съобщение"
+
+#: admin/apps/overview/overview.php:165
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr ""
+"Добавете персонализирано приветствено съобщение тук, за да се покаже на "
+"страницата за преглед"
+
+#: admin/apps/overview/overview.php:243 admin/apps/overview/overview.php:384
+#: admin/apps/overview/woocommerce.php:158
+msgid "ago"
+msgstr "преди"
+
+#: admin/apps/overview/overview.php:259 admin/apps/overview/overview.php:447
+#: admin/apps/overview/woocommerce.php:183
+#: admin/apps/overview/woocommerce.php:265
+msgid "Posts fetched"
+msgstr "Публикациите са извлечени"
+
+#: admin/apps/overview/overview.php:267
+msgid "No posts posted during the date range."
+msgstr "Няма публикувани публикации през периода от време."
+
+#: admin/apps/overview/overview.php:282
+msgid "Unable to save dash at this time"
+msgstr "В момента не може да се запази тире"
+
+#: admin/apps/overview/overview.php:292
+msgid "Dashboard settings saved"
+msgstr "Настройките на таблото са запазени"
+
+#: admin/apps/overview/overview.php:307
+msgid "Dashboard settings reset"
+msgstr "Нулиране на настройките на таблото"
+
+#: admin/apps/overview/overview.php:320 admin/apps/overview/overview.php:328
+msgid "Unable to load shortcode at this time"
+msgstr "В момента не може да се зареди кратък код"
+
+#: admin/apps/overview/overview.php:335
+msgid "Shortcode loaded"
+msgstr "Кратък код е зареден"
+
+#: admin/apps/overview/overview.php:454
+msgid "No comments during the date range."
+msgstr "Няма коментари през периода от време."
+
+#: admin/apps/overview/overview.php:477
+msgid "Core version"
+msgstr "Основна версия"
+
+#: admin/apps/overview/overview.php:482
+msgid "PHP version"
+msgstr "PHP версия"
+
+#: admin/apps/overview/overview.php:487
+msgid "Active Plugins"
+msgstr "Активни плъгини"
+
+#: admin/apps/overview/overview.php:492
+msgid "Inactive Plugins"
+msgstr "Неактивни плъгини"
+
+#: admin/apps/overview/overview.php:497
+msgid "Installed Themes"
+msgstr "Инсталирани теми"
+
+#: admin/apps/overview/overview.php:532
+msgid "Unable to fetch quote of the day"
+msgstr "Не може да се извлече цитат за деня"
+
+#: admin/apps/overview/overview.php:570
+msgid "Passed Checks"
+msgstr "Издържани проверки"
+
+#: admin/apps/overview/overview.php:578
+msgid "Recommended"
+msgstr "Препоръчва се"
+
+#: admin/apps/overview/overview.php:586
+msgid "Critical"
+msgstr "Критичен"
+
+#: admin/apps/overview/overview.php:597
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "Разгледайте %d артикула на"
+
+#: admin/apps/overview/overview.php:598
+msgid "Site Health screen"
+msgstr "Екран за здравето на сайта"
+
+#: admin/apps/overview/overview.php:606
+msgid "Device Visits"
+msgstr "Посещения на устройството"
+
+#: admin/apps/overview/overview.php:693
+msgid "Card width"
+msgstr "Ширина на картата"
+
+#: admin/apps/overview/overview.php:694
+msgid "Column width"
+msgstr "Ширина на колоната"
+
+#: admin/apps/overview/overview.php:695
+msgid "Column settings"
+msgstr "Настройки на колоната"
+
+#: admin/apps/overview/overview.php:696
+msgid "Column Size"
+msgstr "Размер на колоната"
+
+#: admin/apps/overview/overview.php:697
+msgid "Remove Card"
+msgstr "Премахнете картата"
+
+#: admin/apps/overview/overview.php:698 admin/apps/overview/overview.php:799
+msgid "Delete Column"
+msgstr "Изтриване на колона"
+
+#: admin/apps/overview/overview.php:699
+msgid "In the"
+msgstr "В"
+
+#: admin/apps/overview/overview.php:700
+msgid "day range"
+msgstr "дневен диапазон"
+
+#: admin/apps/overview/overview.php:701
+msgid "xxsmall (1/6)"
+msgstr "xxsmall (1/6)"
+
+#: admin/apps/overview/overview.php:702
+msgid "xsmall (1/5)"
+msgstr "xsmall (1/5)"
+
+#: admin/apps/overview/overview.php:703
+msgid "small (1/4)"
+msgstr "малък (1/4)"
+
+#: admin/apps/overview/overview.php:704
+msgid "small medium (1/3)"
+msgstr "малък среден (1/3)"
+
+#: admin/apps/overview/overview.php:705
+msgid "medium (1/2)"
+msgstr "среден (1/2)"
+
+#: admin/apps/overview/overview.php:706
+msgid "medium large (2/3)"
+msgstr "средно голям (2/3)"
+
+#: admin/apps/overview/overview.php:707
+msgid "large (3/4)"
+msgstr "голям (3/4)"
+
+#: admin/apps/overview/overview.php:708
+msgid "xlarge (1/1)"
+msgstr "xlarge (1/1)"
+
+#: admin/apps/overview/overview.php:709
+msgid "I am an empty column. Drag cards into me."
+msgstr "Аз съм празна колона. Плъзнете карти в мен."
+
+#: admin/apps/overview/overview.php:710
+msgid "Column Added"
+msgstr "Добавена е колона"
+
+#: admin/apps/overview/overview.php:711
+msgid "Add card"
+msgstr "Добавете карта"
+
+#: admin/apps/overview/overview.php:712
+msgid "Section added"
+msgstr "Разделът е добавен"
+
+#: admin/apps/overview/overview.php:713
+msgid "Search Cards"
+msgstr "Карти за търсене"
+
+#: admin/apps/overview/overview.php:714
+msgid "Pro"
+msgstr "професионалист"
+
+#: admin/apps/overview/overview.php:716 admin/apps/overview/overview.php:922
+msgid "Shortcode"
+msgstr "Кратък код"
+
+#: admin/apps/overview/overview.php:717
+msgid "Video URL"
+msgstr "URL на видеоклипа"
+
+#: admin/apps/overview/overview.php:718
+msgid "Embed Type"
+msgstr "Тип вграждане"
+
+#: admin/apps/overview/overview.php:719
+msgid "UiPress Pro feature"
+msgstr "Функция UiPress Pro"
+
+#: admin/apps/overview/overview.php:720
+msgid "Upgrade to one of our premium plans to unlock this feature."
+msgstr ""
+"Надстройте до един от нашите първокласни планове, за да отключите тази "
+"функция."
+
+#: admin/apps/overview/overview.php:721
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/apps/overview/overview.php:722
+msgid "Card Added"
+msgstr "Картата е добавена"
+
+#: admin/apps/overview/overview.php:723
+msgid "Card Background colour"
+msgstr "Цвят на фона на картата"
+
+#: admin/apps/overview/overview.php:724
+msgid "# Hex code only (#fff)"
+msgstr "# Само шестнадесетичен код (#fff)"
+
+#: admin/apps/overview/overview.php:725
+msgid "Use light color for text"
+msgstr "Използвайте светъл цвят за текст"
+
+#: admin/apps/overview/overview.php:726
+msgid "Chart Type"
+msgstr "Тип диаграма"
+
+#: admin/apps/overview/overview.php:727
+msgid "Line Chart"
+msgstr "Линейна диаграма"
+
+#: admin/apps/overview/overview.php:728
+msgid "Bar Chart"
+msgstr "Бар диаграма"
+
+#: admin/apps/overview/overview.php:729
+msgid "vs previous"
+msgstr "спрямо предишния"
+
+#: admin/apps/overview/overview.php:730 admin/apps/overview/overview.php:829
+msgid "days"
+msgstr "дни"
+
+#: admin/apps/overview/overview.php:731
+msgid "Doughnut"
+msgstr "Поничка"
+
+#: admin/apps/overview/overview.php:732
+msgid "Polar Area"
+msgstr "Полярна област"
+
+#: admin/apps/overview/overview.php:733
+msgid "Bar"
+msgstr "Бар"
+
+#: admin/apps/overview/overview.php:734 admin/apps/overview/overview.php:741
+msgid "Horizontal Bar"
+msgstr "Хоризонтална лента"
+
+#: admin/apps/overview/overview.php:735
+msgid "Country"
+msgstr "Държава"
+
+#: admin/apps/overview/overview.php:736
+msgid "Visits"
+msgstr "Посещения"
+
+#: admin/apps/overview/overview.php:737
+msgid "Change"
+msgstr "Промяна"
+
+#: admin/apps/overview/overview.php:738
+msgid "No Background"
+msgstr "Без фон"
+
+#: admin/apps/overview/overview.php:739
+msgid "Hide Map"
+msgstr "Скриване на картата"
+
+#: admin/apps/overview/overview.php:740
+msgid "Connect your account to use this card"
+msgstr "Свържете акаунта си, за да използвате тази карта"
+
+#: admin/apps/overview/overview.php:742
+msgid "Hide Chart"
+msgstr "Скриване на диаграмата"
+
+#: admin/apps/overview/overview.php:743
+msgid "Source"
+msgstr "Източник"
+
+#: admin/apps/overview/overview.php:744
+msgid "Page"
+msgstr "Страница"
+
+#: admin/apps/overview/overview.php:745
+msgid "Product"
+msgstr "Продукт"
+
+#: admin/apps/overview/overview.php:746
+msgid "Sold"
+msgstr "продадено"
+
+#: admin/apps/overview/overview.php:747
+msgid "Value"
+msgstr "Стойност"
+
+#: admin/apps/overview/overview.php:748
+msgid "WooCommerce is required to use this card"
+msgstr "WooCommerce се изисква, за да използвате тази карта"
+
+#: admin/apps/overview/overview.php:749 admin/classes/uipress-app.php:1380
+msgid "Please select a valid JSON file"
+msgstr "Моля, изберете валиден JSON файл"
+
+#: admin/apps/overview/overview.php:750 admin/classes/uipress-app.php:1381
+msgid "File is to big"
+msgstr "Файлът е твърде голям"
+
+#: admin/apps/overview/overview.php:751
+msgid "Layout Imported"
+msgstr "Оформлението е импортирано"
+
+#: admin/apps/overview/overview.php:752
+msgid "Unable to import layout"
+msgstr "Не може да се импортира оформление"
+
+#: admin/apps/overview/overview.php:753
+msgid "Are you sure you want to clear the current layout? There is no undo."
+msgstr "Наистина ли искате да изчистите текущото оформление? Няма отмяна."
+
+#: admin/apps/overview/overview.php:754
+msgid "Available Cards"
+msgstr "Налични карти"
+
+#: admin/apps/overview/overview.php:755
+msgid "Event Count"
+msgstr "Брой на събитията"
+
+#: admin/apps/overview/overview.php:756
+msgid "Event Name"
+msgstr "Име на събитието"
+
+#: admin/apps/overview/overview.php:757
+msgid "Channel"
+msgstr "канал"
+
+#: admin/apps/overview/overview.php:758
+msgid "Sessions"
+msgstr "Сесии"
+
+#: admin/apps/overview/overview.php:760
+msgid "Page Views  (comparison period)"
+msgstr "Показвания на страници (период за сравнение)"
+
+#: admin/apps/overview/overview.php:763
+msgid "To"
+msgstr "Да се"
+
+#: admin/apps/overview/overview.php:764
+msgid "From"
+msgstr "От"
+
+#: admin/apps/overview/overview.php:765
+msgid "Date Range"
+msgstr "Период от време"
+
+#: admin/apps/overview/overview.php:766
+msgid "Custom Comparison Dates"
+msgstr "Персонализирани дати за сравнение"
+
+#: admin/apps/overview/overview.php:767
+msgid "Apply"
+msgstr "Приложи"
+
+#: admin/apps/overview/overview.php:768
+msgid "vs"
+msgstr "срещу"
+
+#: admin/apps/overview/overview.php:769
+msgid "Custom Range"
+msgstr "Персонализиран диапазон"
+
+#: admin/apps/overview/overview.php:770 admin/classes/uipress-app.php:1397
+msgid "Today"
+msgstr "днес"
+
+#: admin/apps/overview/overview.php:771 admin/classes/uipress-app.php:1398
+msgid "Yesterday"
+msgstr "Вчера"
+
+#: admin/apps/overview/overview.php:772
+msgid "Last 7 days"
+msgstr "Последните 7 дни"
+
+#: admin/apps/overview/overview.php:773
+msgid "Last 30 days"
+msgstr "Последните 30 дни"
+
+#: admin/apps/overview/overview.php:774
+msgid "Last 60 days"
+msgstr "Последните 60 дни"
+
+#: admin/apps/overview/overview.php:775
+msgid "Last 90 days"
+msgstr "Последните 90 дни"
+
+#: admin/apps/overview/overview.php:776 admin/classes/uipress-app.php:1395
+msgid "This Month"
+msgstr "Този месец"
+
+#: admin/apps/overview/overview.php:777 admin/classes/uipress-app.php:1396
+msgid "Last Month"
+msgstr "Миналия месец"
+
+#: admin/apps/overview/overview.php:778
+msgid "Purchases"
+msgstr "Покупки"
+
+#: admin/apps/overview/overview.php:779
+msgid "Added to cart"
+msgstr "Добавено в количката"
+
+#: admin/apps/overview/overview.php:780
+msgid "Checkout started"
+msgstr "Разплащането започна"
+
+#: admin/apps/overview/overview.php:784
+msgid "Site Revenue (comparison)"
+msgstr "Приходи на сайта (сравнение)"
+
+#: admin/apps/overview/overview.php:786
+msgid "Visits By Device"
+msgstr "Посещения по устройство"
+
+#: admin/apps/overview/overview.php:787
+msgid "Device Category"
+msgstr "Категория на устройството"
+
+#: admin/apps/overview/overview.php:788
+msgid "Active Users"
+msgstr "Активни потребители"
+
+#: admin/apps/overview/overview.php:789 admin/apps/overview/overview.php:791
+msgid "Product Name"
+msgstr "Име на продукта"
+
+#: admin/apps/overview/overview.php:790
+msgid "Sales"
+msgstr "продажби"
+
+#: admin/apps/overview/overview.php:792
+msgid "Quantity Sold"
+msgstr "Продадено количество"
+
+#: admin/apps/overview/overview.php:793 admin/apps/overview/overview.php:807
+msgid "Revenue"
+msgstr "Приходи"
+
+#: admin/apps/overview/overview.php:794
+msgid "Column Removed"
+msgstr "Колоната е премахната"
+
+#: admin/apps/overview/overview.php:795
+msgid "Section Removed"
+msgstr "Разделът е премахнат"
+
+#: admin/apps/overview/overview.php:796
+msgid "View Plans"
+msgstr "Преглед на планове"
+
+#: admin/apps/overview/overview.php:797
+msgid "Unable to fetch analytics data, please try again later"
+msgstr "Не можем да извлечем данни за анализ, моля, опитайте отново по-късно"
+
+#: admin/apps/overview/overview.php:798
+msgid "Column background colour"
+msgstr "Цвят на фона на колоната"
+
+#: admin/apps/overview/overview.php:800
+msgid "Hide card title"
+msgstr "Скриване на заглавието на картата"
+
+#: admin/apps/overview/overview.php:801 admin/apps/overview/overview.php:895
+msgid "Site Health"
+msgstr "Здраве на сайта"
+
+#: admin/apps/overview/overview.php:802
+msgid "Conversions"
+msgstr "Преобразувания"
+
+#: admin/apps/overview/overview.php:803
+msgid "This card only works with google analytics 4 accounts"
+msgstr "Тази карта работи само с акаунти в Google Analytics 4"
+
+#: admin/apps/overview/overview.php:804
+msgid "This card only works with universal analytics propeties."
+msgstr "Тази карта работи само с универсални аналитични свойства."
+
+#: admin/apps/overview/overview.php:805
+msgid "Orders"
+msgstr "Поръчки"
+
+#: admin/apps/overview/overview.php:806
+msgid "Orders (comparison period)."
+msgstr "Поръчки (период за сравнение)."
+
+#: admin/apps/overview/overview.php:808
+msgid "Revenue (comparison period)."
+msgstr "Приходи (период за сравнение)."
+
+#: admin/apps/overview/overview.php:809
+msgid "Current Period"
+msgstr "Текущ период"
+
+#: admin/apps/overview/overview.php:810
+msgid "Comparison Period"
+msgstr "Период за сравнение"
+
+#: admin/apps/overview/overview.php:811
+msgid "Match Card Height"
+msgstr "Височина на картата за мач"
+
+#: admin/apps/overview/overview.php:813
+msgid "What would you like to do?"
+msgstr "Какво искаш да правиш?"
+
+#: admin/apps/overview/overview.php:814
+msgid "To do"
+msgstr "Да направя"
+
+#: admin/apps/overview/overview.php:815
+msgid "Done"
+msgstr "Свършен"
+
+#: admin/apps/overview/overview.php:816
+msgid "Size"
+msgstr "размер"
+
+#: admin/apps/overview/overview.php:817
+msgid "Background Colour"
+msgstr "Цвят на фона"
+
+#: admin/apps/overview/overview.php:818
+msgid "Custom CSS class"
+msgstr "Персонализиран CSS клас"
+
+#: admin/apps/overview/overview.php:819
+msgid "Add New Card"
+msgstr "Добавяне на нова карта"
+
+#: admin/apps/overview/overview.php:820 admin/apps/overview/overview.php:1249
+#: admin/classes/settings.php:78 admin/classes/settings.php:91
+#: admin/classes/settings.php:226 admin/classes/uipress-app.php:1406
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/apps/overview/overview.php:821
+msgid "Card Settings"
+msgstr "Настройки на картата"
+
+#: admin/apps/overview/overview.php:822
+msgid "Move Column Down"
+msgstr "Преместване на колона надолу"
+
+#: admin/apps/overview/overview.php:823
+msgid "Move Column Up"
+msgstr "Преместване на колона нагоре"
+
+#: admin/apps/overview/overview.php:824
+msgid "Add new column"
+msgstr "Добавете нова колона"
+
+#: admin/apps/overview/overview.php:825
+msgid "Section Settings"
+msgstr "Настройки на раздела"
+
+#: admin/apps/overview/overview.php:826
+msgid "Toggle section visibility"
+msgstr "Превключване на видимостта на раздела"
+
+#: admin/apps/overview/overview.php:827
+msgid "Page Settings"
+msgstr "Настройки на страницата"
+
+#: admin/apps/overview/overview.php:828
+msgid "In the last"
+msgstr "В последния"
+
+#: admin/apps/overview/overview.php:830 admin/apps/users/uip-users-ajax.php:662
+msgid "Something has gone wrong"
+msgstr "Нещо се е объркало"
+
+#: admin/apps/overview/overview.php:831
+msgid "Connect your matomo site to use this card"
+msgstr "Свържете вашия сайт matomo, за да използвате тази карта"
+
+#: admin/apps/overview/overview.php:832
+msgid "Connect Matomo Analytics"
+msgstr "Свържете Matomo Analytics"
+
+#: admin/apps/overview/overview.php:833
+msgid "Auth Token"
+msgstr "Токен за удостоверяване"
+
+#: admin/apps/overview/overview.php:834
+msgid "Matomo Url"
+msgstr "Matomo Url"
+
+#: admin/apps/overview/overview.php:835
+msgid "Matomo Site ID"
+msgstr "Идентификатор на сайта на Matomo"
+
+#: admin/apps/overview/overview.php:837
+msgid "Click below to change matomo account"
+msgstr "Щракнете по-долу, за да промените акаунта в matomo"
+
+#: admin/apps/overview/overview.php:838
+msgid "Change account"
+msgstr "Промяна на акаунта"
+
+#: admin/apps/overview/overview.php:839
+msgid "City"
+msgstr "град"
+
+#: admin/apps/overview/overview.php:840
+msgid "Average Page Load"
+msgstr "Средно натоварване на страницата"
+
+#: admin/apps/overview/overview.php:842
+msgid "Exit Rate"
+msgstr "Скорост на излизане"
+
+#: admin/apps/overview/overview.php:843
+msgid "Average Time On Page"
+msgstr "Средно време на страница"
+
+#: admin/apps/overview/overview.php:844
+msgid "Referer"
+msgstr "Рефер"
+
+#: admin/apps/overview/overview.php:845
+msgid "Section name"
+msgstr "Име на раздел"
+
+#: admin/apps/overview/overview.php:846
+msgid "Section description"
+msgstr "Описание на раздела"
+
+#: admin/apps/overview/overview.php:868
+msgid "Recently Published"
+msgstr "Наскоро публикуван"
+
+#: admin/apps/overview/overview.php:870
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr ""
+"Показване на публикации, страници и CPT, публикувани в рамките на периода от "
+"време."
+
+#: admin/apps/overview/overview.php:871 admin/apps/overview/overview.php:880
+#: admin/apps/overview/overview.php:889 admin/apps/overview/overview.php:898
+#: admin/apps/overview/overview.php:907 admin/apps/overview/overview.php:916
+#: admin/apps/overview/overview.php:925 admin/apps/overview/overview.php:934
+#: admin/apps/overview/overview.php:943 admin/apps/overview/overview.php:952
+#: admin/classes/uipress-app.php:2526
+msgid "General"
+msgstr "Общ"
+
+#: admin/apps/overview/overview.php:877
+msgid "Recent Comments"
+msgstr "последни коментари"
+
+#: admin/apps/overview/overview.php:879
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr ""
+"Показва общия брой коментари и последните коментари, публикувани в рамките "
+"на периода от време."
+
+#: admin/apps/overview/overview.php:886
+msgid "System Info"
+msgstr "Информация за системата"
+
+#: admin/apps/overview/overview.php:888
+msgid "Displays info our about your cms and server setup."
+msgstr "Показва информация за вашите cms и настройка на сървъра."
+
+#: admin/apps/overview/overview.php:897
+msgid "Displays info our about your sites health."
+msgstr "Показва информация за здравето на вашите сайтове."
+
+#: admin/apps/overview/overview.php:906
+msgid "Displays current time and date"
+msgstr "Показва текущия час и дата"
+
+#: admin/apps/overview/overview.php:913
+msgid "Video"
+msgstr "Видео"
+
+#: admin/apps/overview/overview.php:915
+msgid "Displays a custom video"
+msgstr "Показва персонализирано видео"
+
+#: admin/apps/overview/overview.php:924
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "Извежда кратък код на WordPress към картата"
+
+#: admin/apps/overview/overview.php:931
+msgid "Custom HTML"
+msgstr "Персонализиран HTML"
+
+#: admin/apps/overview/overview.php:933
+msgid "Outputs custom HTML to the card"
+msgstr "Извежда персонализиран HTML на картата"
+
+#: admin/apps/overview/overview.php:940
+msgid "Quote of the day"
+msgstr "Цитат на деня"
+
+#: admin/apps/overview/overview.php:942
+msgid "Shows a random quote of the day"
+msgstr "Показва произволен цитат за деня"
+
+#: admin/apps/overview/overview.php:949
+msgid "To do list"
+msgstr "Списък със задачи"
+
+#: admin/apps/overview/overview.php:951
+msgid "A simple todo list card"
+msgstr "Проста карта със списък със задачи"
+
+#: admin/apps/overview/overview.php:1038
+msgid "Hello"
+msgstr "Здравейте"
+
+#: admin/apps/overview/overview.php:1187
+msgid "Clear Layout"
+msgstr "Изчистване на оформлението"
+
+#: admin/apps/overview/overview.php:1191 admin/apps/overview/overview.php:1234
+msgid "New Section"
+msgstr "Нов раздел"
+
+#: admin/apps/overview/overview.php:1196 admin/apps/overview/overview.php:1237
+msgid "Save changes"
+msgstr "Запазите промените"
+
+#: admin/apps/overview/overview.php:1240
+msgid "Exit edit mode"
+msgstr "Излезте от режима на редактиране"
+
+#: admin/apps/overview/overview.php:1253
+msgid "Editing Mode"
+msgstr "Режим на редактиране"
+
+#: admin/apps/overview/overview.php:1265
+msgid "Disconnect Analytics"
+msgstr "Прекъснете връзката с Анализ"
+
+#: admin/apps/overview/overview.php:1275
+msgid "Export Layout"
+msgstr "Оформление за експортиране"
+
+#: admin/apps/overview/overview.php:1284
+msgid "Import Layout"
+msgstr "Оформление за импортиране"
+
+#: admin/apps/overview/overview.php:1298 admin/classes/settings.php:258
+#: admin/classes/styles.php:457
+msgid "Unlock Export and Import features with pro"
+msgstr "Отключете функциите за експортиране и импортиране с професионалист"
+
+#: admin/apps/overview/overview.php:1321
+msgid "Home"
+msgstr "У дома"
+
+#: admin/apps/overview/overview.php:1369
+msgid "It's a little quiet around here"
+msgstr "Тук е малко тихо"
+
+#: admin/apps/overview/overview.php:1371
+msgid ""
+"Looks like you haven't created a dashboard yet. Enter edit mode to get "
+"started or import a default template"
+msgstr ""
+"Изглежда, че все още не сте създали табло за управление. Влезте в режим на "
+"редактиране, за да започнете, или импортирайте шаблон по подразбиране"
+
+#: admin/apps/overview/overview.php:1374
+msgid "Import default template"
+msgstr "Импортиране на шаблон по подразбиране"
+
+#: admin/apps/overview/overview.php:1375
+msgid "Enter edit mode"
+msgstr "Влезте в режим на редактиране"
+
+#: admin/apps/overview/overview.php:1419
+msgid "Match Column Height"
+msgstr "Съответствие на височината на колоната"
+
+#: admin/apps/overview/overview.php:1427
+msgid "Hide section title"
+msgstr "Скриване на заглавието на раздела"
+
+#: admin/apps/overview/overview.php:1435
+msgid "Section Width"
+msgstr "Ширина на секцията"
+
+#: admin/apps/overview/overview.php:1452
+msgid "Remove Section"
+msgstr "Премахване на раздел"
+
+#: admin/apps/overview/woocommerce.php:46
+#: admin/apps/overview/woocommerce.php:125
+#: admin/apps/overview/woocommerce.php:203
+msgid "Woocommerce is required for this widget"
+msgstr "Woocommerce се изисква за тази джаджа"
+
+#: admin/apps/overview/woocommerce.php:74
+msgid "Total Revenue"
+msgstr "Общи приходи"
+
+#: admin/apps/overview/woocommerce.php:76
+msgid "Display total sales revenue in your store within the date range."
+msgstr ""
+"Покажете общите приходи от продажби във вашия магазин в рамките на периода "
+"от време."
+
+#: admin/apps/overview/woocommerce.php:77
+#: admin/apps/overview/woocommerce.php:86
+#: admin/apps/overview/woocommerce.php:95
+#: admin/apps/overview/woocommerce.php:104
+#: admin/apps/overview/woocommerce.php:113
+msgid "Commerce"
+msgstr "търговия"
+
+#: admin/apps/overview/woocommerce.php:83
+msgid "Total Orders"
+msgstr "Общо поръчки"
+
+#: admin/apps/overview/woocommerce.php:85
+msgid "Display total orders in your store within the date range."
+msgstr ""
+"Покажете общите поръчки във вашия магазин в рамките на периода от време."
+
+#: admin/apps/overview/woocommerce.php:92
+msgid "Average Order Value"
+msgstr "Средна стойност на поръчката"
+
+#: admin/apps/overview/woocommerce.php:94
+msgid "Display average order value in your store within the date range."
+msgstr ""
+"Показване на средната стойност на поръчката във вашия магазин в рамките на "
+"периода от време."
+
+#: admin/apps/overview/woocommerce.php:101
+msgid "Recent Orders"
+msgstr "Скорошни поръчки"
+
+#: admin/apps/overview/woocommerce.php:103
+msgid "Display recent orders from your store within the date range."
+msgstr ""
+"Показване на последните поръчки от вашия магазин в рамките на периода от "
+"време."
+
+#: admin/apps/overview/woocommerce.php:110
+msgid "Popular Products"
+msgstr "Популярни продукти"
+
+#: admin/apps/overview/woocommerce.php:112
+msgid "Display top selling products from your store within the date range."
+msgstr ""
+"Показвайте най-продаваните продукти от вашия магазин в рамките на периода от "
+"време."
+
+#: admin/apps/overview/woocommerce.php:191
+msgid "No orders during the date range."
+msgstr "Няма поръчки през периода от време."
+
+#: admin/apps/overview/woocommerce.php:272
+msgid "No products sold during the date range."
+msgstr "Няма продадени продукти през периода от време."
+
+#: admin/apps/users/uip-history.php:132
+msgid "Once every 1 minutes"
+msgstr "Веднъж на 1 минута"
+
+#: admin/apps/users/uip-history.php:145
+msgctxt "post type general name"
+msgid "History"
+msgstr "История"
+
+#: admin/apps/users/uip-history.php:146
+msgctxt "post type singular name"
+msgid "history"
+msgstr "история"
+
+#: admin/apps/users/uip-history.php:147
+msgctxt "admin menu"
+msgid "History"
+msgstr "История"
+
+#: admin/apps/users/uip-history.php:148
+msgctxt "add new on admin bar"
+msgid "History"
+msgstr "История"
+
+#: admin/apps/users/uip-history.php:149
+msgctxt "history"
+msgid "Add New"
+msgstr "Добави нов"
+
+#: admin/apps/users/uip-history.php:150
+msgid "Add New History"
+msgstr "Добавяне на нова история"
+
+#: admin/apps/users/uip-history.php:151
+msgid "New History"
+msgstr "Нова история"
+
+#: admin/apps/users/uip-history.php:152
+msgid "Edit History"
+msgstr "Редактиране на историята"
+
+#: admin/apps/users/uip-history.php:153
+msgid "View History"
+msgstr "Преглед на историята"
+
+#: admin/apps/users/uip-history.php:154
+msgid "All History"
+msgstr "Цялата история"
+
+#: admin/apps/users/uip-history.php:155
+msgid "Search History"
+msgstr "История на търсенията"
+
+#: admin/apps/users/uip-history.php:156
+msgid "No History found."
+msgstr "Няма намерена история."
+
+#: admin/apps/users/uip-history.php:157
+msgid "No History found in Trash."
+msgstr "Няма намерена история в кошчето."
+
+#: admin/apps/users/uip-user-groups.php:41
+msgctxt "post type general name"
+msgid "Group"
+msgstr "Група"
+
+#: admin/apps/users/uip-user-groups.php:42
+msgctxt "post type singular name"
+msgid "Group"
+msgstr "Група"
+
+#: admin/apps/users/uip-user-groups.php:43
+msgctxt "admin menu"
+msgid "Groups"
+msgstr "Групи"
+
+#: admin/apps/users/uip-user-groups.php:44
+msgctxt "add new on admin bar"
+msgid "Group"
+msgstr "Група"
+
+#: admin/apps/users/uip-user-groups.php:45
+msgctxt "Group"
+msgid "Add New"
+msgstr "Добави нов"
+
+#: admin/apps/users/uip-user-groups.php:46
+#: admin/apps/users/uip-user-groups.php:57
+msgid "Add New Group"
+msgstr "Добавяне на нова група"
+
+#: admin/apps/users/uip-user-groups.php:47
+msgid "New Group"
+msgstr "Нова група"
+
+#: admin/apps/users/uip-user-groups.php:48
+msgid "Edit Group"
+msgstr "Редактиране на групата"
+
+#: admin/apps/users/uip-user-groups.php:49
+msgid "View Group"
+msgstr "Преглед на групата"
+
+#: admin/apps/users/uip-user-groups.php:50
+msgid "All Groups"
+msgstr "Всички групи"
+
+#: admin/apps/users/uip-user-groups.php:51
+msgid "Search Groups"
+msgstr "Търсене в групи"
+
+#: admin/apps/users/uip-user-groups.php:52
+msgid "No Groups found."
+msgstr "Няма намерени групи."
+
+#: admin/apps/users/uip-user-groups.php:53
+msgid "No Groups found in Trash."
+msgstr "Няма намерени групи в кошчето."
+
+#: admin/apps/users/uip-user-groups.php:80
+msgid "No group to delete"
+msgstr "Няма група за изтриване"
+
+#: admin/apps/users/uip-user-groups.php:90
+msgid "Unable to delete the group"
+msgstr "Не може да се изтрие групата"
+
+#: admin/apps/users/uip-user-groups.php:147
+msgid "Group deleted"
+msgstr "Групата е изтрита"
+
+#: admin/apps/users/uip-user-groups.php:166
+msgid "Unable to move folder group itself"
+msgstr "Не може да се премести самата група папки"
+
+#: admin/apps/users/uip-user-groups.php:180
+msgid "Unable to move group"
+msgstr "Не може да се премести групата"
+
+#: admin/apps/users/uip-user-groups.php:208
+msgid "Group moved"
+msgstr "Групата се премести"
+
+#: admin/apps/users/uip-user-groups.php:227
+msgid "No item to move"
+msgstr "Няма артикул за преместване"
+
+#: admin/apps/users/uip-user-groups.php:241
+msgid "Item moved"
+msgstr "Елементът е преместен"
+
+#: admin/apps/users/uip-user-groups.php:259
+msgid "No users to move"
+msgstr "Няма потребители за преместване"
+
+#: admin/apps/users/uip-user-groups.php:277
+msgid "User moved"
+msgstr "Потребителят е преместен"
+
+#: admin/apps/users/uip-user-groups.php:318
+msgid "Group updated"
+msgstr "Групата е актуализирана"
+
+#: admin/apps/users/uip-user-groups.php:339 admin/classes/folders.php:557
+msgid "Title is required"
+msgstr "Заглавието е задължително"
+
+#: admin/apps/users/uip-user-groups.php:345 admin/classes/folders.php:563
+msgid "Colour is required"
+msgstr "Цвят е задължителен"
+
+#: admin/apps/users/uip-user-groups.php:360
+msgid "Unable to create group"
+msgstr "Не може да се създаде група"
+
+#: admin/apps/users/uip-user-groups.php:372
+msgid "Group created"
+msgstr "Групата е създадена"
+
+#: admin/apps/users/uip-users-ajax.php:415
+msgid "Unknown"
+msgstr "Неизвестен"
+
+#: admin/apps/users/uip-users-ajax.php:511
+#: admin/apps/users/uip-users-ajax.php:577
+msgid "You don't have sufficent priviledges to edit users"
+msgstr "Нямате достатъчни привилегии за редактиране на потребители"
+
+#: admin/apps/users/uip-users-ajax.php:517
+#: admin/apps/users/uip-users-ajax.php:1023
+msgid "Email is not valid"
+msgstr "Имейлът не е валиден"
+
+#: admin/apps/users/uip-users-ajax.php:528
+#: admin/apps/users/uip-users-ajax.php:1016
+msgid "Email already exists"
+msgstr "имейлът вече съществува"
+
+#: admin/apps/users/uip-users-ajax.php:557
+#: admin/apps/users/uip-users-ajax.php:1069
+msgid "User saved"
+msgstr "Потребителят е запазен"
+
+#: admin/apps/users/uip-users-ajax.php:583
+msgid "No users sent to update"
+msgstr "Няма изпратени потребители за актуализиране"
+
+#: admin/apps/users/uip-users-ajax.php:589
+msgid "No roles sent to update"
+msgstr "Няма изпратени роли за актуализиране"
+
+#: admin/apps/users/uip-users-ajax.php:610
+msgid "User roles updated"
+msgstr "Потребителските роли са актуализирани"
+
+#: admin/apps/users/uip-users-ajax.php:630
+#: admin/apps/users/uip-users-ajax.php:716
+#: admin/apps/users/uip-users-ajax.php:777
+#: admin/apps/users/uip-users-ajax.php:818
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr "Нямате достатъчни привилегии, за да управлявате роли"
+
+#: admin/apps/users/uip-users-ajax.php:636
+msgid "Original role name required"
+msgstr "Изисква се оригинално име на ролята"
+
+#: admin/apps/users/uip-users-ajax.php:642
+#: admin/apps/users/uip-users-ajax.php:722
+#: admin/apps/users/uip-users-ajax.php:783
+#: admin/apps/users/uip-users-ajax.php:836
+#: admin/apps/users/uip-users-ajax.php:879
+#: admin/apps/users/uip-users-ajax.php:885
+#: admin/apps/users/uip-users-ajax.php:944
+#: admin/apps/users/uip-users-ajax.php:950
+msgid "Role name is required"
+msgstr "Името на ролята е задължително"
+
+#: admin/apps/users/uip-users-ajax.php:667
+msgid "Role saved"
+msgstr "Ролята е запазена"
+
+#: admin/apps/users/uip-users-ajax.php:686
+msgid "You don't have sufficent priviledges to do this"
+msgstr "Нямате достатъчно привилегии, за да направите това"
+
+#: admin/apps/users/uip-users-ajax.php:697
+msgid "User logged out everywhere"
+msgstr "Потребителят е излязъл навсякъде"
+
+#: admin/apps/users/uip-users-ajax.php:728
+msgid "Role label cannot contain spaces"
+msgstr "Етикетът на ролята не може да съдържа интервали"
+
+#: admin/apps/users/uip-users-ajax.php:734
+msgid "Role label is required"
+msgstr "Изисква се етикет за роля"
+
+#: admin/apps/users/uip-users-ajax.php:753
+msgid "Unable to add role. Make sure role name is unique"
+msgstr "Не може да се добави роля. Уверете се, че името на ролята е уникално"
+
+#: admin/apps/users/uip-users-ajax.php:758
+msgid "Role created"
+msgstr "Ролята е създадена"
+
+#: admin/apps/users/uip-users-ajax.php:792
+#: admin/apps/users/uip-users-ajax.php:843
+msgid "You can't delete a role that is currently assigned to yourself"
+msgstr "Не можете да изтриете роля, която в момента ви е назначена"
+
+#: admin/apps/users/uip-users-ajax.php:799
+msgid "Role deleted"
+msgstr "Ролята е изтрита"
+
+#: admin/apps/users/uip-users-ajax.php:824
+msgid "No roles to delete"
+msgstr "Няма роли за изтриване"
+
+#: admin/apps/users/uip-users-ajax.php:852
+msgid "Roles deleted"
+msgstr "Ролите са изтрити"
+
+#: admin/apps/users/uip-users-ajax.php:873
+msgid "You don't have sufficent priviledges to add this capability"
+msgstr "Нямате достатъчно привилегии, за да добавите тази възможност"
+
+#: admin/apps/users/uip-users-ajax.php:891
+#: admin/apps/users/uip-users-ajax.php:956
+msgid "Role name cannot contain spaces"
+msgstr "Името на ролята не може да съдържа интервали"
+
+#: admin/apps/users/uip-users-ajax.php:897
+msgid "Capability name cannot contain spaces"
+msgstr "Името на възможността не може да съдържа интервали"
+
+#: admin/apps/users/uip-users-ajax.php:912
+msgid "Unable to add capability. Make sure role name is unique"
+msgstr ""
+"Не може да се добави възможност. Уверете се, че името на ролята е уникално"
+
+#: admin/apps/users/uip-users-ajax.php:917
+msgid "Capability added"
+msgstr "Добавена е възможност"
+
+#: admin/apps/users/uip-users-ajax.php:938
+msgid "You don't have sufficent priviledges to delete this capability"
+msgstr "Нямате достатъчно привилегии, за да изтриете тази възможност"
+
+#: admin/apps/users/uip-users-ajax.php:971
+msgid "Unable to delete capability. Make sure role name is unique"
+msgstr ""
+"Възможността не може да се изтрие. Уверете се, че името на ролята е уникално"
+
+#: admin/apps/users/uip-users-ajax.php:976
+msgid "Capability deleted"
+msgstr "Възможността е изтрита"
+
+#: admin/apps/users/uip-users-ajax.php:996
+msgid "You don't have sufficent priviledges to create users"
+msgstr "Нямате достатъчни привилегии, за да създавате потребители"
+
+#: admin/apps/users/uip-users-ajax.php:1003
+msgid "Username already exists"
+msgstr "Потребителското име вече съществува"
+
+#: admin/apps/users/uip-users-ajax.php:1009
+msgid "Username is not valid"
+msgstr "Потребителското име не е валидно"
+
+#: admin/apps/users/uip-users-ajax.php:1029
+msgid "Password is required"
+msgstr "изисква се парола"
+
+#: admin/apps/users/uip-users-ajax.php:1088
+#: admin/apps/users/uip-users-ajax.php:1127
+msgid "You don't have sufficent priviledges to edit this user"
+msgstr "Нямате достатъчни привилегии, за да редактирате този потребител"
+
+#: admin/apps/users/uip-users-ajax.php:1097
+msgid "Password reset link sent"
+msgstr "Връзката за нулиране на паролата е изпратена"
+
+#: admin/apps/users/uip-users-ajax.php:1101
+msgid "Unable to send password reset email at the moment"
+msgstr "В момента не може да се изпрати имейл за нулиране на паролата"
+
+#: admin/apps/users/uip-users-ajax.php:1121
+msgid "No users sent to reset passwords!"
+msgstr "Няма изпратени потребители за нулиране на пароли!"
+
+#: admin/apps/users/uip-users-ajax.php:1141
+msgid "Unable to send password reset email"
+msgstr "Не може да се изпрати имейл за нулиране на паролата"
+
+#: admin/apps/users/uip-users-ajax.php:1142
+#: admin/apps/users/uip-users-ajax.php:1315
+#: admin/apps/users/uip-users-ajax.php:1325
+#, php-format
+msgid "User ID: %s"
+msgstr "Потребителски идентификатор: %s"
+
+#: admin/apps/users/uip-users-ajax.php:1148
+msgid "Password reset links succesfully sent"
+msgstr "Връзките за нулиране на паролата са изпратени успешно"
+
+#: admin/apps/users/uip-users-ajax.php:1173
+msgid "Subject is required"
+msgstr "Темата е задължителна"
+
+#: admin/apps/users/uip-users-ajax.php:1179
+msgid "Reply to email is required"
+msgstr "Изисква се отговор на имейл"
+
+#: admin/apps/users/uip-users-ajax.php:1185
+msgid "Message is required"
+msgstr "Изисква се съобщение"
+
+#: admin/apps/users/uip-users-ajax.php:1200
+msgid "No email to send message to."
+msgstr "Няма имейл за изпращане на съобщение."
+
+#: admin/apps/users/uip-users-ajax.php:1232
+msgid "Unable to send mail at this time"
+msgstr "В момента не може да се изпрати поща"
+
+#: admin/apps/users/uip-users-ajax.php:1237
+msgid "Message sent"
+msgstr "Съобщението е изпратено"
+
+#: admin/apps/users/uip-users-ajax.php:1261
+msgid "You can't delete yourself!"
+msgstr "Не можете да се изтриете!"
+
+#: admin/apps/users/uip-users-ajax.php:1270
+msgid "User successfully deleted"
+msgstr "Потребителят е изтрит успешно"
+
+#: admin/apps/users/uip-users-ajax.php:1274
+#: admin/apps/users/uip-users-ajax.php:1279
+#: admin/apps/users/uip-users-ajax.php:1305
+msgid "You don't have sufficent priviledges to delete this user"
+msgstr "Нямате достатъчно привилегии, за да изтриете този потребител"
+
+#: admin/apps/users/uip-users-ajax.php:1299
+msgid "No users sent to delete!"
+msgstr "Няма изпратени потребители за изтриване!"
+
+#: admin/apps/users/uip-users-ajax.php:1314
+msgid "You can't delete yourself"
+msgstr "Не можете да се изтриете"
+
+#: admin/apps/users/uip-users-ajax.php:1324
+msgid "Unable to delete this user"
+msgstr "Не може да се изтрие този потребител"
+
+#: admin/apps/users/uip-users-ajax.php:1331
+msgid "Users successfully deleted"
+msgstr "Потребителите са изтрити успешно"
+
+#: admin/apps/users/uip-users.php:53 admin/apps/users/uip-users.php:266
+#: admin/apps/users/uip-users.php:377 admin/apps/users/uip-users.php:1291
+msgid "Users"
+msgstr "Потребители"
+
+#: admin/apps/users/uip-users.php:54
+msgid "Creates user management page"
+msgstr "Създава страница за управление на потребителите"
+
+#: admin/apps/users/uip-users.php:58
+msgid "Disable Users Page?"
+msgstr "Деактивиране на страницата на потребителите?"
+
+#: admin/apps/users/uip-users.php:59
+msgid ""
+"If disabled, the user management page will not be available to any users."
+msgstr ""
+"Ако е деактивирана, страницата за управление на потребителите няма да бъде "
+"достъпна за никой потребител."
+
+#: admin/apps/users/uip-users.php:66
+msgid "User management page Disabled for"
+msgstr "Страницата за управление на потребителите е деактивирана за"
+
+#: admin/apps/users/uip-users.php:67
+msgid ""
+"When the user management page module is disabled, the user management page "
+"will not be accesible for the users / roles"
+msgstr ""
+"Когато модулът на страницата за управление на потребителите е деактивиран, "
+"страницата за управление на потребителите няма да бъде достъпна за "
+"потребителите/ролите"
+
+#: admin/apps/users/uip-users.php:75
+msgid "Enable user activity log?"
+msgstr "Да се активира ли дневникът за потребителска активност?"
+
+#: admin/apps/users/uip-users.php:76
+msgid ""
+"If enabled, uipress will log actions taken by all users, including page "
+"views, comments, post creation etc."
+msgstr ""
+"Ако е активиран, uipress ще регистрира действията, предприети от всички "
+"потребители, включително прегледи на страници, коментари, създаване на "
+"публикации и т.н."
+
+#: admin/apps/users/uip-users.php:84
+msgid "Disable page view logging"
+msgstr "Деактивирайте регистрирането на преглед на страници"
+
+#: admin/apps/users/uip-users.php:87
+#, php-format
+msgid ""
+"By Default, %s will track page views for logged in users as part of the "
+"activity log. While sometimes useful, this will have the biggest impact on "
+"the log size in the database. Disabling this feature will keep the log "
+"smaller."
+msgstr ""
+"По подразбиране %s ще проследява показванията на страници за влезли "
+"потребители като част от дневника на дейността. Макар че понякога е полезно, "
+"това ще има най-голямо влияние върху размера на регистрационния файл в "
+"базата данни. Деактивирането на тази функция ще запази дневника по-малък."
+
+#: admin/apps/users/uip-users.php:99
+msgid "Enable recent page view logging"
+msgstr "Активирайте регистрирането на скорошни прегледи на страници"
+
+#: admin/apps/users/uip-users.php:100
+#, php-format
+msgid ""
+"Seperate to the main history log, %s will keep 5 recent page views in the "
+"user meta. This can have a small impact on the page load speed."
+msgstr ""
+"Отделно от главния регистър на историята, %s ще запази 5 скорошни показвания "
+"на страници в потребителската мета. Това може да има малко влияние върху "
+"скоростта на зареждане на страницата."
+
+#: admin/apps/users/uip-users.php:108
+msgid "How long to keep history?"
+msgstr "Колко дълго да пазим историята?"
+
+#: admin/apps/users/uip-users.php:109
+msgid ""
+"By default, activity items will be deleted after 60 days, enter the amount "
+"of days to keep items to change this"
+msgstr ""
+"По подразбиране елементите на активността ще бъдат изтрити след 60 дни. "
+"Въведете количеството дни, за да запазите елементите, за да промените това"
+
+#: admin/apps/users/uip-users.php:118
+msgid "Delay history entries?"
+msgstr "Забавяне на записите в историята?"
+
+#: admin/apps/users/uip-users.php:120
+msgid ""
+"Use scheduled tasks to insert the history actions to avoid any extra page "
+"load speed. By default entries are added as they happen, with this enabled "
+"there will be delay of about 10 seconds before actions appear."
+msgstr ""
+"Използвайте планирани задачи, за да вмъкнете действията в историята, за да "
+"избегнете допълнителна скорост на зареждане на страницата. По подразбиране "
+"записите се добавят, когато се случат, като това е активирано, ще има "
+"закъснение от около 10 секунди, преди да се появят действията."
+
+#: admin/apps/users/uip-users.php:131
+msgid "Anonymize user IP addresses?"
+msgstr "Да се анонимизират IP адресите на потребителите?"
+
+#: admin/apps/users/uip-users.php:132
+msgid ""
+"Each history item logs the users IP address, enable this to anonymize the "
+"address."
+msgstr ""
+"Всеки елемент от историята регистрира IP адреса на потребителите, "
+"активирайте това, за да анонимизирате адреса."
+
+#: admin/apps/users/uip-users.php:217 admin/apps/users/uip-users.php:218
+msgid "User Management"
+msgstr "Управление на потребители"
+
+#: admin/apps/users/uip-users.php:270 admin/apps/users/uip-users.php:328
+#: admin/apps/users/uip-users.php:1244
+msgid "Roles"
+msgstr "Роли"
+
+#: admin/apps/users/uip-users.php:274
+msgid "Activity"
+msgstr "Дейност"
+
+#: admin/apps/users/uip-users.php:290
+msgid "results"
+msgstr "резултати"
+
+#: admin/apps/users/uip-users.php:291 admin/apps/users/uip-users.php:316
+msgid "Previous"
+msgstr "Предишна"
+
+#: admin/apps/users/uip-users.php:292 admin/apps/users/uip-users.php:315
+msgid "Next"
+msgstr "Следващия"
+
+#: admin/apps/users/uip-users.php:293
+msgid "Search users"
+msgstr "Търсете потребители"
+
+#: admin/apps/users/uip-users.php:294
+msgid "Filter by role"
+msgstr "Филтриране по роля"
+
+#: admin/apps/users/uip-users.php:295
+msgid "Search roles"
+msgstr "Търсене на роли"
+
+#: admin/apps/users/uip-users.php:296
+msgid "Table options"
+msgstr "Опции на таблицата"
+
+#: admin/apps/users/uip-users.php:297
+msgid "Order"
+msgstr "Поръчка"
+
+#: admin/apps/users/uip-users.php:298
+msgid "Ascending"
+msgstr "Възходящ"
+
+#: admin/apps/users/uip-users.php:299
+msgid "Descending"
+msgstr "Низходящо"
+
+#: admin/apps/users/uip-users.php:300
+msgid "Sort By"
+msgstr "Сортиране по"
+
+#: admin/apps/users/uip-users.php:301
+msgid "Per page"
+msgstr "На страница"
+
+#: admin/apps/users/uip-users.php:302
+msgid "Fields"
+msgstr "Полета"
+
+#: admin/apps/users/uip-users.php:303
+msgid "Date created"
+msgstr "Дата на създаване"
+
+#: admin/apps/users/uip-users.php:304
+msgid "On"
+msgstr "На"
+
+#: admin/apps/users/uip-users.php:305
+msgid "After"
+msgstr "След"
+
+#: admin/apps/users/uip-users.php:306
+msgid "Before"
+msgstr "Преди"
+
+#: admin/apps/users/uip-users.php:307 admin/apps/users/uip-users.php:308
+msgid "Date filters"
+msgstr "Филтри за дата"
+
+#: admin/apps/users/uip-users.php:310
+msgid "Account created"
+msgstr "Създаден акаунт"
+
+#: admin/apps/users/uip-users.php:312 admin/apps/users/uip-users.php:326
+#: admin/apps/users/uip-users.php:1219
+msgid "Email"
+msgstr "електронна поща"
+
+#: admin/apps/users/uip-users.php:313
+msgid "Recent page views"
+msgstr "Скорошни прегледи на страници"
+
+#: admin/apps/users/uip-users.php:314
+msgid "Recent activity"
+msgstr "Последна активност"
+
+#: admin/apps/users/uip-users.php:317
+msgid "Last login"
+msgstr "Последно влизане"
+
+#: admin/apps/users/uip-users.php:318
+msgid "Login location"
+msgstr "Място за влизане"
+
+#: admin/apps/users/uip-users.php:319
+msgid "No recent activity"
+msgstr "Няма скорошна активност"
+
+#: admin/apps/users/uip-users.php:320
+msgid "Total posts"
+msgstr "Общо публикации"
+
+#: admin/apps/users/uip-users.php:321
+msgid "Total comments"
+msgstr "Общо коментари"
+
+#: admin/apps/users/uip-users.php:322
+msgid "User Options"
+msgstr "Потребителски опции"
+
+#: admin/apps/users/uip-users.php:323 admin/apps/users/uip-users.php:332
+msgid "Edit user"
+msgstr "Редактиране на потребител"
+
+#: admin/apps/users/uip-users.php:324
+msgid "First name"
+msgstr "Първо име"
+
+#: admin/apps/users/uip-users.php:325
+msgid "Last name"
+msgstr "Фамилия"
+
+#: admin/apps/users/uip-users.php:327
+msgid "Assign roles"
+msgstr "Разпределете роли"
+
+#: admin/apps/users/uip-users.php:329
+msgid "User notes"
+msgstr "Бележки на потребителя"
+
+#: admin/apps/users/uip-users.php:330
+msgid "Cancel"
+msgstr "Отмяна"
+
+#: admin/apps/users/uip-users.php:331
+msgid "Update user"
+msgstr "Актуализирайте потребителя"
+
+#: admin/apps/users/uip-users.php:333
+msgid "Send password reset"
+msgstr "Изпратете нулиране на паролата"
+
+#: admin/apps/users/uip-users.php:334 admin/apps/users/uip-users.php:342
+msgid "Send message"
+msgstr "Изпрати съобщение"
+
+#: admin/apps/users/uip-users.php:335
+msgid "Delete user"
+msgstr "Изтриване на потребител"
+
+#: admin/apps/users/uip-users.php:336
+msgid "Are you sure you want to delete this user?"
+msgstr "Наистина ли искате да изтриете този потребител?"
+
+#: admin/apps/users/uip-users.php:337
+msgid "Are you sure you want to the selected users?"
+msgstr "Сигурни ли сте, че искате до избраните потребители?"
+
+#: admin/apps/users/uip-users.php:338
+msgid ""
+"Are you sure you want to send password reset links to the selected users?"
+msgstr ""
+"Наистина ли искате да изпратите връзки за нулиране на паролата до избраните "
+"потребители?"
+
+#: admin/apps/users/uip-users.php:339
+msgid "Recipient"
+msgstr "Получател"
+
+#: admin/apps/users/uip-users.php:340
+msgid "Subject"
+msgstr "Предмет"
+
+#: admin/apps/users/uip-users.php:341
+msgid "Message"
+msgstr "Съобщение"
+
+#: admin/apps/users/uip-users.php:343
+msgid "Reply to email"
+msgstr "Отговорете на имейл"
+
+#: admin/apps/users/uip-users.php:344
+msgid "New user"
+msgstr "Нов потребител"
+
+#: admin/apps/users/uip-users.php:345
+msgid "Save user"
+msgstr "Запазете потребителя"
+
+#: admin/apps/users/uip-users.php:346
+msgid "Password"
+msgstr "парола"
+
+#: admin/apps/users/uip-users.php:347 admin/apps/users/uip-users.php:1207
+msgid "Username"
+msgstr "Потребителско име"
+
+#: admin/apps/users/uip-users.php:348 admin/apps/users/uip-users.php:1279
+msgid "Role name"
+msgstr "Име на ролята"
+
+#: admin/apps/users/uip-users.php:349
+msgid "Edit role"
+msgstr "Редактиране на ролята"
+
+#: admin/apps/users/uip-users.php:350
+msgid "Save role"
+msgstr "Запазване на ролята"
+
+#: admin/apps/users/uip-users.php:351
+msgid "Capabilities"
+msgstr "Възможности"
+
+#: admin/apps/users/uip-users.php:353
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"В момента редактирате ролята на администратор. Това обикновено е най-важната "
+"роля в сайта, така че, моля, уверете се, че не премахвате необходимите "
+"възможности."
+
+#: admin/apps/users/uip-users.php:356
+msgid "Delete role"
+msgstr "Изтриване на ролята"
+
+#: admin/apps/users/uip-users.php:357
+msgid "Are you sure you want to delete this role?"
+msgstr "Наистина ли искате да изтриете тази роля?"
+
+#: admin/apps/users/uip-users.php:358
+msgid "Are you sure you want to delete these roles?"
+msgstr "Наистина ли искате да изтриете тези роли?"
+
+#: admin/apps/users/uip-users.php:359
+msgid "Role options"
+msgstr "Опции за роли"
+
+#: admin/apps/users/uip-users.php:360
+msgid "Clone"
+msgstr "Клониране"
+
+#: admin/apps/users/uip-users.php:361
+msgid "New role"
+msgstr "Нова роля"
+
+#: admin/apps/users/uip-users.php:362
+msgid "Role label"
+msgstr "Етикет за ролята"
+
+#: admin/apps/users/uip-users.php:363
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "Една дума, без интервали. Допускат се долни черти и тирета"
+
+#: admin/apps/users/uip-users.php:364
+msgid "copy"
+msgstr "копие"
+
+#: admin/apps/users/uip-users.php:365
+msgid "search roles"
+msgstr "търсете роли"
+
+#: admin/apps/users/uip-users.php:366
+msgid "Search history"
+msgstr "История на търсенията"
+
+#: admin/apps/users/uip-users.php:367
+msgid "All actions"
+msgstr "Всички действия"
+
+#: admin/apps/users/uip-users.php:368
+msgid "Add custom capability (Single word, no spaces)"
+msgstr "Добавете персонализирана възможност (Една дума, без интервали)"
+
+#: admin/apps/users/uip-users.php:369
+msgid "Add capability"
+msgstr "Добавете възможности"
+
+#: admin/apps/users/uip-users.php:370
+msgid "roles selected"
+msgstr "избрани роли"
+
+#: admin/apps/users/uip-users.php:371
+msgid "Delete selected"
+msgstr "Изтрий избраното"
+
+#: admin/apps/users/uip-users.php:372
+msgid "Deselect"
+msgstr "Премахнете избора"
+
+#: admin/apps/users/uip-users.php:373
+msgid "Delete users"
+msgstr "Изтрийте потребители"
+
+#: admin/apps/users/uip-users.php:374
+msgid "Clear selection"
+msgstr "Изчистване на избора"
+
+#: admin/apps/users/uip-users.php:375
+msgid "recipients"
+msgstr "получатели"
+
+#: admin/apps/users/uip-users.php:376 admin/classes/uipress-app.php:1409
+msgid "users"
+msgstr "потребители"
+
+#: admin/apps/users/uip-users.php:378
+msgid "Replace existing roles"
+msgstr "Заменете съществуващите роли"
+
+#: admin/apps/users/uip-users.php:379
+msgid "Update roles"
+msgstr "Актуализирайте ролите"
+
+#: admin/apps/users/uip-users.php:380
+msgid "users selected"
+msgstr "избрани потребители"
+
+#: admin/apps/users/uip-users.php:381
+msgid "Choose image"
+msgstr "Изберете изображение"
+
+#: admin/apps/users/uip-users.php:382
+msgid "Profile image"
+msgstr "Изображение на профила"
+
+#: admin/apps/users/uip-users.php:383 admin/apps/users/uip-users.php:387
+#: admin/apps/users/uip-users.php:1250
+msgid "Groups"
+msgstr "Групи"
+
+#: admin/apps/users/uip-users.php:384
+msgid "All users"
+msgstr "Всички потребители"
+
+#: admin/apps/users/uip-users.php:385
+msgid "No group"
+msgstr "Няма група"
+
+#: admin/apps/users/uip-users.php:386
+msgid "No groups created yet."
+msgstr "Все още няма създадени групи."
+
+#: admin/apps/users/uip-users.php:388
+msgid "New group"
+msgstr "Нова група"
+
+#: admin/apps/users/uip-users.php:390
+msgid "Color"
+msgstr "Цвят"
+
+#: admin/apps/users/uip-users.php:391
+msgid "Create group"
+msgstr "Създай група"
+
+#: admin/apps/users/uip-users.php:392
+msgid "Group name"
+msgstr "Име на групата"
+
+#: admin/apps/users/uip-users.php:393
+msgid "Edit group"
+msgstr "Редактиране на групата"
+
+#: admin/apps/users/uip-users.php:394
+msgid "Update group"
+msgstr "Актуализирайте групата"
+
+#: admin/apps/users/uip-users.php:395
+msgid "Remove from group"
+msgstr "Премахване от групата"
+
+#: admin/apps/users/uip-users.php:396
+msgid "User groups"
+msgstr "Потребителски групи"
+
+#: admin/apps/users/uip-users.php:397
+msgid "Assign groups"
+msgstr "Задайте групи"
+
+#: admin/apps/users/uip-users.php:398
+msgid "Search groups"
+msgstr "Търсене на групи"
+
+#: admin/apps/users/uip-users.php:399
+msgid "Pro feature"
+msgstr "Професионална функция"
+
+#: admin/apps/users/uip-users.php:400
+msgid "Upgrade to UiPress Pro to unlock the user management and activity logs"
+msgstr ""
+"Надстройте до UiPress Pro, за да отключите управлението на потребителите и "
+"дневниците за активност"
+
+#: admin/apps/users/uip-users.php:401
+msgid "View Uipress Pro plans"
+msgstr "Вижте плановете на Uipress Pro"
+
+#: admin/apps/users/uip-users.php:402
+msgid "Group icon"
+msgstr "Икона на група"
+
+#: admin/apps/users/uip-users.php:403
+msgid "Logout everywhere else"
+msgstr "Изход навсякъде другаде"
+
+#: admin/apps/users/uip-users.php:404
+msgid "Open profile"
+msgstr "Отворете профил"
+
+#: admin/apps/users/uip-users.php:405
+msgid ""
+"Are you sure you want to delete this capability? This will remove the "
+"capability sitewide. Please note not all capabilities can be deleted."
+msgstr ""
+"Наистина ли искате да изтриете тази възможност? Това ще премахне "
+"възможността в целия сайт. Моля, имайте предвид, че не всички възможности "
+"могат да бъдат изтрити."
+
+#: admin/apps/users/uip-users.php:517
+msgid "Read"
+msgstr "Прочети"
+
+#: admin/apps/users/uip-users.php:529
+msgid "Publish"
+msgstr "Публикувайте"
+
+#: admin/apps/users/uip-users.php:535 admin/classes/uipress-app.php:1335
+msgid "Create"
+msgstr "Създайте"
+
+#: admin/apps/users/uip-users.php:553
+msgid "Manage"
+msgstr "Управлявайте"
+
+#: admin/apps/users/uip-users.php:565 admin/classes/settings.php:242
+#: admin/classes/styles.php:442
+msgid "Import"
+msgstr "Импортиране"
+
+#: admin/apps/users/uip-users.php:571
+msgid "Custom"
+msgstr "Персонализиран"
+
+#: admin/apps/users/uip-users.php:737
+msgid "User no longer exists"
+msgstr "Потребителят вече не съществува"
+
+#: admin/apps/users/uip-users.php:742 admin/apps/users/uip-users.php:1106
+#, php-format
+msgid "%s ago"
+msgstr "преди %s"
+
+#: admin/apps/users/uip-users.php:753 admin/apps/users/uip-users.php:1370
+msgid "Page view"
+msgstr "Преглед на страница"
+
+#: admin/apps/users/uip-users.php:755
+msgid "Viewed page"
+msgstr "Разгледана страница"
+
+#: admin/apps/users/uip-users.php:764 admin/apps/users/uip-users.php:1374
+msgid "Post created"
+msgstr "Публикацията е създадена"
+
+#: admin/apps/users/uip-users.php:766
+msgid "Created post"
+msgstr "Създаден пост"
+
+#: admin/apps/users/uip-users.php:769 admin/apps/users/uip-users.php:790
+#: admin/apps/users/uip-users.php:838
+msgid "View page"
+msgstr "Преглед на страницата"
+
+#: admin/apps/users/uip-users.php:773 admin/apps/users/uip-users.php:794
+#: admin/apps/users/uip-users.php:811 admin/apps/users/uip-users.php:842
+msgid "Edit page"
+msgstr "Редактиране на страницата"
+
+#: admin/apps/users/uip-users.php:785
+msgid "Post modified"
+msgstr "Публикацията е променена"
+
+#: admin/apps/users/uip-users.php:787
+msgid "Modified post"
+msgstr "Променен пост"
+
+#: admin/apps/users/uip-users.php:806
+msgid "Post moved to trash"
+msgstr "Публикацията е преместена в кошчето"
+
+#: admin/apps/users/uip-users.php:808
+msgid "Moved post to trash"
+msgstr "Публикацията е преместена в кошчето"
+
+#: admin/apps/users/uip-users.php:820 admin/apps/users/uip-users.php:1386
+msgid "Post deleted"
+msgstr "Публикацията е изтрита"
+
+#: admin/apps/users/uip-users.php:822
+msgid "Deleted post"
+msgstr "Изтрита публикация"
+
+#: admin/apps/users/uip-users.php:831 admin/apps/users/uip-users.php:1390
+msgid "Post status change"
+msgstr "Промяна на състоянието на публикацията"
+
+#: admin/apps/users/uip-users.php:834
+#, php-format
+msgid "Post status changed from %s to %s"
+msgstr "Състоянието на публикацията е променено от %s на %s"
+
+#: admin/apps/users/uip-users.php:855
+msgid "Posted a comment"
+msgstr "Публикува коментар"
+
+#: admin/apps/users/uip-users.php:857
+msgid "Posted a comment on post"
+msgstr "Публикува коментар към публикацията"
+
+#: admin/apps/users/uip-users.php:868 admin/apps/users/uip-users.php:898
+msgid "View comment"
+msgstr "Вижте коментар"
+
+#: admin/apps/users/uip-users.php:872 admin/apps/users/uip-users.php:902
+msgid "Edit comment"
+msgstr "Редактиране на коментар"
+
+#: admin/apps/users/uip-users.php:884
+msgid "Trashed a comment"
+msgstr "Изхвърли коментар"
+
+#: admin/apps/users/uip-users.php:886
+msgid "Moved a comment to the trash"
+msgstr "Премести коментар в кошчето"
+
+#: admin/apps/users/uip-users.php:912
+msgid "Deleted a comment"
+msgstr "Изтрих коментар"
+
+#: admin/apps/users/uip-users.php:914
+msgid "Permanently deleted a comment"
+msgstr "Изтрих за постоянно коментар"
+
+#: admin/apps/users/uip-users.php:920 admin/apps/users/uip-users.php:1403
+msgid "Plugin activated"
+msgstr "Приставката е активирана"
+
+#: admin/apps/users/uip-users.php:922
+#, php-format
+msgid "A plugin called %s was activated"
+msgstr "Активиран е плъгин, наречен %s"
+
+#: admin/apps/users/uip-users.php:928 admin/apps/users/uip-users.php:1407
+msgid "Plugin deactivated"
+msgstr "Плъгинът е деактивиран"
+
+#: admin/apps/users/uip-users.php:930
+#, php-format
+msgid "A plugin called %s was deactivated"
+msgstr "Плъгин, наречен %s, беше деактивиран"
+
+#: admin/apps/users/uip-users.php:936
+msgid "User logged in"
+msgstr "Потребителят е влязъл"
+
+#: admin/apps/users/uip-users.php:938
+#, php-format
+msgid "Logged in with ip address %s. Country: %s"
+msgstr "Влезли сте с ip адрес %s. Държава: %s"
+
+#: admin/apps/users/uip-users.php:944
+msgid "User logged out"
+msgstr "Потребителят е излязъл"
+
+#: admin/apps/users/uip-users.php:946
+#, php-format
+msgid "Logged out with ip address %s. Country: %s"
+msgstr "Излязохте с ip адрес %s. Държава: %s"
+
+#: admin/apps/users/uip-users.php:982 admin/apps/users/uip-users.php:988
+#: admin/apps/users/uip-users.php:1002
+msgid "Site option changed"
+msgstr "Опцията за сайта е променена"
+
+#: admin/apps/users/uip-users.php:984
+#, php-format
+msgid "Site option (%s) was changed from %s to %s"
+msgstr "Опцията за сайта (%s) беше променена от %s на %s"
+
+#: admin/apps/users/uip-users.php:990
+#, php-format
+msgid "Site option was changed. %s"
+msgstr "Опцията за сайта беше променена. %с"
+
+#: admin/apps/users/uip-users.php:1004
+#, php-format
+msgid "Site option (%s) was added with a value of (%s)"
+msgstr "Опцията за сайт (%s) беше добавена със стойност (%s)"
+
+#: admin/apps/users/uip-users.php:1010
+msgid "Uploaded attachment"
+msgstr "Качен прикачен файл"
+
+#: admin/apps/users/uip-users.php:1012
+#, php-format
+msgid "Attachment called (%s) was uploaded to (%s). Attachment ID: %s"
+msgstr ""
+"Прикачен файл, извикан (%s), беше качен в (%s). Идентификатор на прикачен "
+"файл: %s"
+
+#: admin/apps/users/uip-users.php:1021
+msgid "View attachment"
+msgstr "Вижте прикачения файл"
+
+#: admin/apps/users/uip-users.php:1029
+msgid "Deleted attachment"
+msgstr "Изтрит прикачен файл"
+
+#: admin/apps/users/uip-users.php:1031
+#, php-format
+msgid "Attachment called (%s) was deleted. Attachment ID: %s"
+msgstr ""
+"Извиканият прикачен файл (%s) беше изтрит. Идентификатор на прикачен файл: %s"
+
+#: admin/apps/users/uip-users.php:1037 admin/apps/users/uip-users.php:1262
+#: admin/apps/users/uip-users.php:1435
+msgid "User created"
+msgstr "Създаден потребител"
+
+#: admin/apps/users/uip-users.php:1039
+#, php-format
+msgid "New user created with username (%s) and email (%s)"
+msgstr "Създаден е нов потребител с потребителско име (%s) и имейл (%s)"
+
+#: admin/apps/users/uip-users.php:1045 admin/apps/users/uip-users.php:1439
+msgid "User deleted"
+msgstr "Потребителят е изтрит"
+
+#: admin/apps/users/uip-users.php:1047
+#, php-format
+msgid "A user with username (%s) and email (%s) was deleted"
+msgstr "Потребител с потребителско име (%s) и имейл (%s) беше изтрит"
+
+#: admin/apps/users/uip-users.php:1082 admin/apps/users/uip-users.php:1443
+msgid "User updated"
+msgstr "Потребителят е актуализиран"
+
+#: admin/apps/users/uip-users.php:1084
+#, php-format
+msgid "A user with username (%s) and email (%s) was updated from (%s) to (%s)"
+msgstr ""
+"Потребител с потребителско име (%s) и имейл (%s) беше актуализиран от (%s) "
+"на (%s)"
+
+#: admin/apps/users/uip-users.php:1226
+msgid "First Name"
+msgstr "Първо име"
+
+#: admin/apps/users/uip-users.php:1232
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: admin/apps/users/uip-users.php:1238
+msgid "Last Login"
+msgstr "Последно влизане"
+
+#: admin/apps/users/uip-users.php:1256
+msgid "User ID"
+msgstr "Потребителски идентификатор"
+
+#: admin/apps/users/uip-users.php:1298
+msgid "Permissions granted"
+msgstr "Разрешения са предоставени"
+
+#: admin/apps/users/uip-users.php:1315
+msgid "ID"
+msgstr "документ за самоличност"
+
+#: admin/apps/users/uip-users.php:1327
+msgid "IP Address"
+msgstr "IP адрес"
+
+#: admin/apps/users/uip-users.php:1340
+msgid "Time"
+msgstr "Време"
+
+#: admin/apps/users/uip-users.php:1347
+msgid "Action"
+msgstr "Действие"
+
+#: admin/apps/users/uip-users.php:1378
+msgid "Post updated"
+msgstr "Публикацията е актуализирана"
+
+#: admin/apps/users/uip-users.php:1382
+msgid "Post trashed"
+msgstr "Публикацията е прехвърлена в кошчето"
+
+#: admin/apps/users/uip-users.php:1394
+msgid "Trashed comment"
+msgstr "Изхвърлен коментар"
+
+#: admin/apps/users/uip-users.php:1398
+msgid "Deelete comment"
+msgstr "Изтриване на коментар"
+
+#: admin/apps/users/uip-users.php:1411
+msgid "User login"
+msgstr "Потребителски вход"
+
+#: admin/apps/users/uip-users.php:1415
+msgid "User logout"
+msgstr "Излизане на потребител"
+
+#: admin/apps/users/uip-users.php:1419
+msgid "Option change"
+msgstr "Промяна на опцията"
+
+#: admin/apps/users/uip-users.php:1423
+msgid "Site option added"
+msgstr "Добавена е опция за сайт"
+
+#: admin/apps/users/uip-users.php:1427
+msgid "Attachmnet uploaded"
+msgstr "Attachmnet е качен"
+
+#: admin/apps/users/uip-users.php:1431
+msgid "Attachmnet deleted"
+msgstr "Attachmnet е изтрит"
+
+#: admin/classes/debug.php:133 admin/classes/debug.php:139
+#: admin/classes/debug.php:161
+msgid "Unable to register UiPress at this time"
+msgstr "В момента не може да се регистрира UiPress"
+
+#: admin/classes/debug.php:152
+msgid "UiPress succesfully activated"
+msgstr "UiPress е активиран успешно"
+
+#: admin/classes/folders.php:112 admin/classes/uipress-app.php:453
+#: admin/classes/uipress-app.php:1367
+msgid "Folders"
+msgstr "Папки"
+
+#: admin/classes/folders.php:113
+msgid "Creates media folder system."
+msgstr "Създава система от медийни папки."
+
+#: admin/classes/folders.php:117
+msgid "Disable Folders?"
+msgstr "Деактивиране на папки?"
+
+#: admin/classes/folders.php:118
+msgid "No media folders will be displayed when this option is activated."
+msgstr "Няма да се показват медийни папки, когато тази опция е активирана."
+
+#: admin/classes/folders.php:125
+msgid "Folders Disabled For"
+msgstr "Папките са деактивирани за"
+
+#: admin/classes/folders.php:126
+#, php-format
+msgid "%s folders will be disabled for any users or roles you select"
+msgstr ""
+"%s папки ще бъдат деактивирани за всички потребители или роли, които изберете"
+
+#: admin/classes/folders.php:134
+msgid "Enable folders for post types"
+msgstr "Активиране на папки за типове публикации"
+
+#: admin/classes/folders.php:135
+#, php-format
+msgid "%s folders will be enabled post, page and custom post types you choose"
+msgstr ""
+"%s папки ще бъдат активирани тип публикации, страници и персонализирани "
+"публикации, които изберете"
+
+#: admin/classes/folders.php:171
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "Действия"
+
+#: admin/classes/folders.php:173
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "Меню"
+
+#: admin/classes/folders.php:311
+msgid "No folder to delete"
+msgstr "Няма папка за изтриване"
+
+#: admin/classes/folders.php:321
+msgid "Unable to delete the folder"
+msgstr "Папката не може да се изтрие"
+
+#: admin/classes/folders.php:372
+msgid "Folder deleted"
+msgstr "Папката е изтрита"
+
+#: admin/classes/folders.php:391
+msgid "Unable to move folder into itself"
+msgstr "Папката не може да се премести сама"
+
+#: admin/classes/folders.php:405
+msgid "Unable to move folder"
+msgstr "Папката не може да се премести"
+
+#: admin/classes/folders.php:433
+msgid "Folder moved"
+msgstr "Папката е преместена"
+
+#: admin/classes/folders.php:536
+msgid "Folder updated"
+msgstr "Папката е актуализирана"
+
+#: admin/classes/folders.php:578
+msgid "Unable to create folder"
+msgstr "Не може да се създаде папка"
+
+#: admin/classes/folders.php:589
+msgid "Folder created"
+msgstr "Папката е създадена"
+
+#: admin/classes/settings.php:144
+msgid "Unable to save user settings"
+msgstr "Потребителските настройки не могат да бъдат запазени"
+
+#: admin/classes/settings.php:150 admin/classes/uipress-app.php:1358
+msgid "Settings saved"
+msgstr "Настройките са запазени"
+
+#: admin/classes/settings.php:164
+msgid "Settings reset"
+msgstr "Нулиране на настройките"
+
+#: admin/classes/settings.php:209 admin/classes/styles.php:432
+msgid "Version"
+msgstr "Версия"
+
+#: admin/classes/settings.php:230
+msgid "Save settings"
+msgstr "Запазете настройките"
+
+#: admin/classes/settings.php:413
+msgid "No licence key provided"
+msgstr "Не е предоставен лицензионен ключ"
+
+#: admin/classes/settings.php:445
+msgid "Licence removed"
+msgstr "Лицензът е премахнат"
+
+#: admin/classes/styles.php:138 admin/classes/styles.php:151
+#: admin/classes/styles.php:430
+msgid "Styles"
+msgstr "Стилове"
+
+#: admin/classes/styles.php:213
+msgid "Unable to fetch themes at this moment. Please try again later"
+msgstr ""
+"В момента не могат да бъдат извлечени теми. Моля, опитайте отново по-късно"
+
+#: admin/classes/styles.php:247
+msgid "Unable to like theme at this moment. Please try again later"
+msgstr "Не мога да харесам темата в момента. Моля, опитайте отново по-късно"
+
+#: admin/classes/styles.php:266
+msgid "Unable to save styles"
+msgstr "Не може да се запазят стилове"
+
+#: admin/classes/styles.php:292
+msgid "Styles saved"
+msgstr "Стиловете са запазени"
+
+#: admin/classes/styles.php:411
+msgid ""
+"Uipress styles isn't optimised for mobile devices. Switch to a larger screen "
+"to modify UiPress Styles"
+msgstr ""
+"Uipress styles не е оптимизиран за мобилни устройства. Превключете към по-"
+"голям екран, за да промените стиловете на UiPress"
+
+#: admin/classes/styles.php:469
+msgid "Clear All"
+msgstr "Изчисти всичко"
+
+#: admin/classes/styles.php:533
+msgid "Global"
+msgstr "Глобални"
+
+#: admin/classes/styles.php:536
+msgid "Body Background"
+msgstr "Фон на тялото"
+
+#: admin/classes/styles.php:547
+msgid "Default Background"
+msgstr "Фон по подразбиране"
+
+#: admin/classes/styles.php:558
+msgid "Muted Background"
+msgstr "Заглушен фон"
+
+#: admin/classes/styles.php:569
+msgid "Muted Background Accent"
+msgstr "Заглушен фонов акцент"
+
+#: admin/classes/styles.php:580
+msgid "Primary Color"
+msgstr "Основен цвят"
+
+#: admin/classes/styles.php:591
+msgid "Primary Color Wash"
+msgstr "Измиване с основен цвят"
+
+#: admin/classes/styles.php:602
+msgid "Primary Color Hover"
+msgstr "Основен цвят Hover"
+
+#: admin/classes/styles.php:613
+msgid "Secondary Color"
+msgstr "Вторичен цвят"
+
+#: admin/classes/styles.php:624
+msgid "Secondary Color Hover"
+msgstr "Вторичен цвят Hover"
+
+#: admin/classes/styles.php:635
+msgid "Font"
+msgstr "Шрифт"
+
+#: admin/classes/styles.php:646
+msgid "Border Width"
+msgstr "Ширина на границата"
+
+#: admin/classes/styles.php:657
+msgid "Border Radius"
+msgstr "Радиус на границата"
+
+#: admin/classes/styles.php:668
+msgid "Border Colour"
+msgstr "Цвят на границата"
+
+#: admin/classes/styles.php:679
+msgid "Notification Background"
+msgstr "Фон за уведомяване"
+
+#: admin/classes/styles.php:696
+msgid "Base font size"
+msgstr "Основен размер на шрифта"
+
+#: admin/classes/styles.php:707 admin/classes/styles.php:1008
+#: admin/classes/styles.php:1148
+msgid "Text Color"
+msgstr "Цвят на текста"
+
+#: admin/classes/styles.php:718
+msgid "Text Emphasis Color"
+msgstr "Цвят на акцента върху текста"
+
+#: admin/classes/styles.php:729
+msgid "Text Muted Color"
+msgstr "Заглушен цвят на текста"
+
+#: admin/classes/styles.php:745
+msgid "Buttons"
+msgstr "Бутони"
+
+#: admin/classes/styles.php:748
+msgid "Button Border Radius"
+msgstr "Радиус на границата на бутона"
+
+#: admin/classes/styles.php:760
+msgid "Button Border Width"
+msgstr "Ширина на рамката на бутона"
+
+#: admin/classes/styles.php:772
+msgid "Default Button Border Colour"
+msgstr "Цвят на рамката на бутона по подразбиране"
+
+#: admin/classes/styles.php:784
+msgid "Default Button Background Colour"
+msgstr "Цвят на фона на бутона по подразбиране"
+
+#: admin/classes/styles.php:796
+msgid "Default Button Hover Background Colour"
+msgstr "Цвят на фона при задържане на бутон по подразбиране"
+
+#: admin/classes/styles.php:808
+msgid "Default Button Text Colour"
+msgstr "Цвят на текста на бутона по подразбиране"
+
+#: admin/classes/styles.php:821
+msgid "Primary Button Border Colour"
+msgstr "Основен цвят на рамката на бутона"
+
+#: admin/classes/styles.php:833
+msgid "Primary Button Background Colour"
+msgstr "Основен цвят на фона на бутона"
+
+#: admin/classes/styles.php:845
+msgid "Primary Button Hover Background Colour"
+msgstr "Цвят на фона при задържане на основния бутон"
+
+#: admin/classes/styles.php:857
+msgid "Primary Button Text Colour"
+msgstr "Цвят на текста на основния бутон"
+
+#: admin/classes/styles.php:870
+msgid "Danger Button Border Colour"
+msgstr "Цвят на границата на бутона за опасност"
+
+#: admin/classes/styles.php:882
+msgid "Danger Button Background Colour"
+msgstr "Цвят на фона на бутона за опасност"
+
+#: admin/classes/styles.php:894
+msgid "Danger Button Hover Background Colour"
+msgstr "Цвят на фона при задържане на бутон за опасност"
+
+#: admin/classes/styles.php:906
+msgid "Danger Button Text Colour"
+msgstr "Цвят на текста на бутона за опасност"
+
+#: admin/classes/styles.php:919
+msgid "Page Action Button Border Colour"
+msgstr "Цвят на рамката на бутона за действие на страницата"
+
+#: admin/classes/styles.php:931
+msgid "Page Action Button Background Colour"
+msgstr "Бутон за действие на страницата Цвят на фона"
+
+#: admin/classes/styles.php:943
+msgid "Page Action Button Hover Background Colour"
+msgstr ""
+"Бутон за действие на страницата Задръжте курсора на мишката Цвят на фона"
+
+#: admin/classes/styles.php:955
+msgid "Page Action Button Text Colour"
+msgstr "Бутон за действие на страницата Цвят на текста"
+
+#: admin/classes/styles.php:973 admin/classes/uipress-app.php:2669
+msgid "Menu"
+msgstr "Меню"
+
+#: admin/classes/styles.php:975
+msgid "Background Color"
+msgstr "Цвят на фона"
+
+#: admin/classes/styles.php:986 admin/classes/styles.php:1170
+msgid "Secondary background Color"
+msgstr "Цвят на вторичен фон"
+
+#: admin/classes/styles.php:997
+msgid "Button Hover background Color"
+msgstr "Цвят на фона при задържане на бутон"
+
+#: admin/classes/styles.php:1019
+msgid "Active Text Color"
+msgstr "Цвят на активния текст"
+
+#: admin/classes/styles.php:1030
+msgid "Active Top Level Item background colour"
+msgstr "Активен фонов цвят на артикула от най-високо ниво"
+
+#: admin/classes/styles.php:1041
+msgid "Search Input background colour"
+msgstr "Търсене Въведете фонов цвят"
+
+#: admin/classes/styles.php:1052
+msgid "Search Input text colour"
+msgstr "Търсене Цвят на въведен текст"
+
+#: admin/classes/styles.php:1063
+msgid "Submenu Text Color"
+msgstr "Подменю Цвят на текста"
+
+#: admin/classes/styles.php:1074
+msgid "Submenu Active Text Color"
+msgstr "Подменю Активен текст Цвят"
+
+#: admin/classes/styles.php:1085
+msgid "Submenu Hover Text Color"
+msgstr "Подменю Цвят на текста при задържане на курсора"
+
+#: admin/classes/styles.php:1096
+msgid "Width"
+msgstr "широчина"
+
+#: admin/classes/styles.php:1108
+msgid "Padding"
+msgstr "Подплънки"
+
+#: admin/classes/styles.php:1120
+msgid "Logo Height"
+msgstr "Височина на логото"
+
+#: admin/classes/styles.php:1134 admin/classes/uipress-app.php:2773
+msgid "Toolbar"
+msgstr "Лента с инструменти"
+
+#: admin/classes/styles.php:1137
+msgid "Toolbar Background Color"
+msgstr "Цвят на фона на лентата с инструменти"
+
+#: admin/classes/styles.php:1159
+msgid "Link Hover Text Color"
+msgstr "Цвят на текста при задържане на връзката"
+
+#: admin/classes/styles.php:1183
+msgid "Cards"
+msgstr "Картички"
+
+#: admin/classes/styles.php:1186 admin/classes/styles.php:1270
+msgid "Background color"
+msgstr "Цвят на фона"
+
+#: admin/classes/styles.php:1198
+msgid "Border color"
+msgstr "Цвят на границата"
+
+#: admin/classes/styles.php:1210
+msgid "Border radius"
+msgstr "Радиус на границата"
+
+#: admin/classes/styles.php:1222
+msgid "Shadow spread"
+msgstr "Разпространение на сянка"
+
+#: admin/classes/styles.php:1234
+msgid "Shadow blur"
+msgstr "Замъгляване на сянка"
+
+#: admin/classes/styles.php:1246
+msgid "Shadow color"
+msgstr "Цвят на сянка"
+
+#: admin/classes/styles.php:1267 admin/classes/uipress-app.php:2944
+msgid "Login"
+msgstr "Влизам"
+
+#: admin/classes/uipress-app.php:268
+msgctxt "post type general name"
+msgid "Folder"
+msgstr "Папка"
+
+#: admin/classes/uipress-app.php:269
+msgctxt "post type singular name"
+msgid "folder"
+msgstr "папка"
+
+#: admin/classes/uipress-app.php:270
+msgctxt "admin menu"
+msgid "Folders"
+msgstr "Папки"
+
+#: admin/classes/uipress-app.php:271
+msgctxt "add new on admin bar"
+msgid "Folder"
+msgstr "Папка"
+
+#: admin/classes/uipress-app.php:272
+msgctxt "folder"
+msgid "Add New"
+msgstr "Добави нов"
+
+#: admin/classes/uipress-app.php:273 admin/classes/uipress-app.php:284
+msgid "Add New Folder"
+msgstr "Добавяне на нова папка"
+
+#: admin/classes/uipress-app.php:274 admin/classes/uipress-app.php:1368
+msgid "New Folder"
+msgstr "Нова папка"
+
+#: admin/classes/uipress-app.php:275 admin/classes/uipress-app.php:1372
+msgid "Edit Folder"
+msgstr "Редактиране на папка"
+
+#: admin/classes/uipress-app.php:276
+msgid "View Folder"
+msgstr "Преглед на папка"
+
+#: admin/classes/uipress-app.php:277
+msgid "All Folders"
+msgstr "Всички папки"
+
+#: admin/classes/uipress-app.php:278
+msgid "Search Folders"
+msgstr "Папки за търсене"
+
+#: admin/classes/uipress-app.php:279
+msgid "No Folders found."
+msgstr "Няма намерени папки."
+
+#: admin/classes/uipress-app.php:280
+msgid "No Folders found in Trash."
+msgstr "Няма намерени папки в кошчето."
+
+#: admin/classes/uipress-app.php:1167
+msgid "active"
+msgstr "активен"
+
+#: admin/classes/uipress-app.php:1171
+msgid "inactive"
+msgstr "неактивен"
+
+#: admin/classes/uipress-app.php:1320
+msgid "Menu Preferences"
+msgstr "Предпочитания на менюто"
+
+#: admin/classes/uipress-app.php:1321
+msgid "Hide search bar"
+msgstr "Скриване на лентата за търсене"
+
+#: admin/classes/uipress-app.php:1322
+msgid "Hide Icons"
+msgstr "Скриване на икони"
+
+#: admin/classes/uipress-app.php:1323
+msgid "Show submenu on hover"
+msgstr "Показване на подменюто при задържане на мишката"
+
+#: admin/classes/uipress-app.php:1324
+msgid "Search Menu"
+msgstr "Меню за търсене"
+
+#: admin/classes/uipress-app.php:1326
+msgid "Search"
+msgstr "Търсене"
+
+#: admin/classes/uipress-app.php:1329
+msgid "Show more"
+msgstr "Покажи повече"
+
+#: admin/classes/uipress-app.php:1330
+msgid "other matches"
+msgstr "други мачове"
+
+#: admin/classes/uipress-app.php:1331 admin/classes/uipress-app.php:1359
+msgid "Nothing found"
+msgstr "Нищо не е намерено"
+
+#: admin/classes/uipress-app.php:1332 admin/classes/uipress-app.php:1337
+msgid "View Site"
+msgstr "Преглед на сайта"
+
+#: admin/classes/uipress-app.php:1333
+msgid "Dashboard"
+msgstr "Табло"
+
+#: admin/classes/uipress-app.php:1334
+msgid "Search Site"
+msgstr "Търсене в сайта"
+
+#: admin/classes/uipress-app.php:1336
+msgid "Create New"
+msgstr "Създай нов"
+
+#: admin/classes/uipress-app.php:1338
+msgid "Updates"
+msgstr "Актуализации"
+
+#: admin/classes/uipress-app.php:1339
+msgid "Preferences"
+msgstr "Предпочитания"
+
+#: admin/classes/uipress-app.php:1340
+msgid "Dark mode"
+msgstr "Тъмен режим"
+
+#: admin/classes/uipress-app.php:1341
+msgid "Show screen options toggle"
+msgstr "Превключване на опциите на екрана"
+
+#: admin/classes/uipress-app.php:1342
+msgid "Screen options"
+msgstr "Опции на екрана"
+
+#: admin/classes/uipress-app.php:1343
+msgid "Hide admin bar links (left)"
+msgstr "Скриване на връзките на администраторската лента (вляво)"
+
+#: admin/classes/uipress-app.php:1344
+msgid "Logout"
+msgstr "Излез от профила си"
+
+#: admin/classes/uipress-app.php:1345
+msgid "Notifications"
+msgstr "Известия"
+
+#: admin/classes/uipress-app.php:1346
+msgid "Hide notification"
+msgstr "Скриване на известието"
+
+#: admin/classes/uipress-app.php:1347
+msgid "hidden notifications"
+msgstr "скрити известия"
+
+#: admin/classes/uipress-app.php:1348
+msgid "show all"
+msgstr "Покажи всички"
+
+#: admin/classes/uipress-app.php:1349
+msgid "Notifiction Hidden"
+msgstr "Уведомлението е скрито"
+
+#: admin/classes/uipress-app.php:1350
+msgid "Toggle Menu"
+msgstr "Превключване на менюто"
+
+#: admin/classes/uipress-app.php:1351
+msgid "Choose users or roles"
+msgstr "Изберете потребители или роли"
+
+#: admin/classes/uipress-app.php:1352
+msgid "Search users and roles"
+msgstr "Търсете потребители и роли"
+
+#: admin/classes/uipress-app.php:1353
+msgid "Choose Image"
+msgstr "Изберете Изображение"
+
+#: admin/classes/uipress-app.php:1354
+msgid "Choose Post Types"
+msgstr "Изберете Типове публикации"
+
+#: admin/classes/uipress-app.php:1355 admin/classes/uipress-app.php:1356
+msgid "Searach Post Types"
+msgstr "Видове публикации за търсене"
+
+#: admin/classes/uipress-app.php:1360
+msgid "Default"
+msgstr "По подразбиране"
+
+#: admin/classes/uipress-app.php:1361
+msgid "Add File"
+msgstr "Добави файл"
+
+#: admin/classes/uipress-app.php:1362
+msgid "URL to file"
+msgstr "URL към файла"
+
+#: admin/classes/uipress-app.php:1363
+msgid "Remove"
+msgstr "Премахване"
+
+#: admin/classes/uipress-app.php:1364
+msgid "All media"
+msgstr "Всички медии"
+
+#: admin/classes/uipress-app.php:1366
+msgid "No folder"
+msgstr "Няма папка"
+
+#: admin/classes/uipress-app.php:1369
+msgid "Folder Name"
+msgstr "Име на папка"
+
+#: admin/classes/uipress-app.php:1370
+msgid "Colour"
+msgstr "Цвят"
+
+#: admin/classes/uipress-app.php:1374
+msgid "1 File"
+msgstr "1 файл"
+
+#: admin/classes/uipress-app.php:1375
+msgid "files"
+msgstr "файлове"
+
+#: admin/classes/uipress-app.php:1376
+msgid "You haven't created a folder yet"
+msgstr "Все още не сте създали папка"
+
+#: admin/classes/uipress-app.php:1377
+msgid "Remove from folder"
+msgstr "Премахване от папката"
+
+#: admin/classes/uipress-app.php:1378
+msgid ""
+"Upgrade to pro to unlock the notification center. View, edit and organise "
+"all your plugin and theme notifications in one place"
+msgstr ""
+"Надстройте до професионално, за да отключите центъра за известия. "
+"Преглеждайте, редактирайте и организирайте всичките си известия за приставки "
+"и теми на едно място"
+
+#: admin/classes/uipress-app.php:1379
+msgid ""
+"Upgrade to pro to gain full control of search results and included post types"
+msgstr ""
+"Надстройте до професионално, за да получите пълен контрол над резултатите от "
+"търсенето и включените типове публикации"
+
+#: admin/classes/uipress-app.php:1382
+msgid "Styles Imported"
+msgstr "Импортирани стилове"
+
+#: admin/classes/uipress-app.php:1383
+msgid "Settings Imported"
+msgstr "Импортирани настройки"
+
+#: admin/classes/uipress-app.php:1384
+msgid "Remove Licence"
+msgstr "Премахване на лиценза"
+
+#: admin/classes/uipress-app.php:1385
+#, php-format
+msgid "%s Pro is active"
+msgstr "%s Pro е активен"
+
+#: admin/classes/uipress-app.php:1386
+#, php-format
+msgid "%s Pro"
+msgstr "%s Pro"
+
+#: admin/classes/uipress-app.php:1387
+msgid "Activate"
+msgstr "Активирате"
+
+#: admin/classes/uipress-app.php:1388
+msgid "Add a pro licence to unlock pro features."
+msgstr "Добавете професионален лиценз, за да отключите професионални функции."
+
+#: admin/classes/uipress-app.php:1389
+msgid "Choose Icon"
+msgstr "Изберете Икона"
+
+#: admin/classes/uipress-app.php:1390
+msgid "Are you sure you want to delete this?"
+msgstr "Наистина ли искате да изтриете това?"
+
+#: admin/classes/uipress-app.php:1391
+msgid "Import started"
+msgstr "Импортирането започна"
+
+#: admin/classes/uipress-app.php:1392
+msgid "Are you sure you want to reset the settings?"
+msgstr "Наистина ли искате да нулирате настройките?"
+
+#: admin/classes/uipress-app.php:1393
+msgid "Last 7 Days"
+msgstr "Последните 7 дни"
+
+#: admin/classes/uipress-app.php:1394
+msgid "Last 30 Days"
+msgstr "Последните 30 дни"
+
+#: admin/classes/uipress-app.php:1399
+msgid "selected"
+msgstr "избрани"
+
+#: admin/classes/uipress-app.php:1400
+msgid "Theme Library"
+msgstr "Тематична библиотека"
+
+#: admin/classes/uipress-app.php:1401
+msgid "Library"
+msgstr "Библиотека"
+
+#: admin/classes/uipress-app.php:1402
+msgid "Import Theme"
+msgstr "Тема за импортиране"
+
+#: admin/classes/uipress-app.php:1403
+msgid "Pro template"
+msgstr "Професионален шаблон"
+
+#: admin/classes/uipress-app.php:1404
+msgid "Theme Imported"
+msgstr "Темата е импортирана"
+
+#: admin/classes/uipress-app.php:1405
+msgid "Made by"
+msgstr "Направено от"
+
+#: admin/classes/uipress-app.php:1407
+msgid "Failed to fetch folder content"
+msgstr "Неуспешно извличане на съдържанието на папката"
+
+#: admin/classes/uipress-app.php:1408
+msgid "user"
+msgstr "потребител"
+
+#: admin/classes/uipress-app.php:1850
+msgid "Unkown Post Type"
+msgstr "Неизвестен тип публикация"
+
+#: admin/classes/uipress-app.php:1853
+msgid "Unkown"
+msgstr "Неизвестен"
+
+#: admin/classes/uipress-app.php:1991
+msgid "Core"
+msgstr "Ядро"
+
+#: admin/classes/uipress-app.php:1997
+msgid "Themes"
+msgstr "Теми"
+
+#: admin/classes/uipress-app.php:2003
+msgid "Plugins"
+msgstr "Плъгини"
+
+#: admin/classes/uipress-app.php:2527
+msgid "General options"
+msgstr "Общи опции"
+
+#: admin/classes/uipress-app.php:2532
+msgid "Network Override"
+msgstr "Отмяна на мрежата"
+
+#: admin/classes/uipress-app.php:2533
+msgid "If enabled, all settings applied here will be pushed to subsites."
+msgstr ""
+"Ако е активирано, всички настройки, приложени тук, ще бъдат преместени към "
+"подсайтове."
+
+#: admin/classes/uipress-app.php:2542
+msgid "Set Dark Mode as Default"
+msgstr "Задайте тъмен режим по подразбиране"
+
+#: admin/classes/uipress-app.php:2543
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr ""
+"Ако е активиран, тъмният режим ще бъде по подразбиране на true за "
+"потребители, които не са задали предпочитание."
+
+#: admin/classes/uipress-app.php:2551
+msgid "Set Dark Mode according to prefers color scheme"
+msgstr "Задайте тъмен режим според предпочитаната цветова схема"
+
+#: admin/classes/uipress-app.php:2552
+msgid "UiPress will detetct the OS color scheme and update accordingly"
+msgstr "UiPress ще открие цветовата схема на ОС и ще актуализира съответно"
+
+#: admin/classes/uipress-app.php:2560
+msgid "Disable dark mode"
+msgstr "Деактивирайте тъмния режим"
+
+#: admin/classes/uipress-app.php:2561
+msgid "If enabled, dark mode switch will not be available."
+msgstr "Ако е активирано, превключвателят на тъмен режим няма да е наличен."
+
+#: admin/classes/uipress-app.php:2569
+msgid "Set overview page as homepage"
+msgstr "Задайте страницата за преглед като начална страница"
+
+#: admin/classes/uipress-app.php:2570
+msgid ""
+"If enabled, the overview page will be the homepage when logging in and when "
+"accessing the admin area."
+msgstr ""
+"Ако е активирана, страницата за преглед ще бъде началната страница при "
+"влизане и при достъп до административната област."
+
+#: admin/classes/uipress-app.php:2578
+msgid "Set custom page as homepage"
+msgstr "Задайте персонализирана страница като начална страница"
+
+#: admin/classes/uipress-app.php:2580
+msgid ""
+"If enabled, the page you choose will be the homepage when logging in and "
+"when accessing the admin area. For admin pages use a relative URL (path "
+"after /wp-admin/), for other pages use an absolute URL"
+msgstr ""
+"Ако е активирана, избраната от вас страница ще бъде началната при влизане и "
+"при достъп до административната област. За администраторски страници "
+"използвайте относителен URL (път след /wp-admin/), за други страници "
+"използвайте абсолютен URL"
+
+#: admin/classes/uipress-app.php:2590
+#, php-format
+msgid "Rename %s"
+msgstr "Преименувайте %s"
+
+#: admin/classes/uipress-app.php:2591
+#, php-format
+msgid "White label %s by changing the name displayed."
+msgstr "Бял етикет %s чрез промяна на показаното име."
+
+#: admin/classes/uipress-app.php:2599
+#, php-format
+msgid "Rename %s plugin author"
+msgstr "Преименувайте автора на приставката %s"
+
+#: admin/classes/uipress-app.php:2600
+#, php-format
+msgid "White label %s by changing the author in the plugin table."
+msgstr "Бял етикет %s чрез промяна на автора в таблицата на плъгините."
+
+#: admin/classes/uipress-app.php:2608
+#, php-format
+msgid "Change %s plugin URL"
+msgstr "Променете URL адреса на приставката %s"
+
+#: admin/classes/uipress-app.php:2609
+#, php-format
+msgid "White label %s by changing the plugin URL in the plugin table."
+msgstr ""
+"Бял етикет %s чрез промяна на URL адреса на плъгина в таблицата с плъгини."
+
+#: admin/classes/uipress-app.php:2617
+msgid "App Icon"
+msgstr "Икона на приложението"
+
+#: admin/classes/uipress-app.php:2618
+#, php-format
+msgid "Replace %s plugin icon with your own"
+msgstr "Заменете иконата на плъгин %s със своя собствена"
+
+#: admin/classes/uipress-app.php:2626
+msgid "Admin Favicon"
+msgstr "Admin Favicon"
+
+#: admin/classes/uipress-app.php:2627
+msgid "Add an image to be used as the site favicon for admin pages."
+msgstr ""
+"Добавете изображение, което да се използва като фавикона на сайта за "
+"администраторски страници."
+
+#: admin/classes/uipress-app.php:2635
+#, php-format
+msgid "Hide %s from plugin table"
+msgstr "Скриване на %s от таблицата с плъгини"
+
+#: admin/classes/uipress-app.php:2636
+#, php-format
+msgid "If enabled, %s will be hidden from the plugin table"
+msgstr "Ако е активирано, %s ще бъде скрит от таблицата на плъгините"
+
+#: admin/classes/uipress-app.php:2644
+msgid "Hide Footer"
+msgstr "Скриване на долния колонтитул"
+
+#: admin/classes/uipress-app.php:2645
+msgid "Hide the footer text that shows at the bottom of every admin page"
+msgstr ""
+"Скрийте текста на долния колонтитул, който се показва в долната част на "
+"всяка администраторска страница"
+
+#: admin/classes/uipress-app.php:2653
+msgid "Footer Text"
+msgstr "Текст в долния колонтитул"
+
+#: admin/classes/uipress-app.php:2654
+msgid "Text entered here will be present at the bottom of admin pages"
+msgstr ""
+"Въведеният тук текст ще присъства в долната част на страниците на "
+"администратора"
+
+#: admin/classes/uipress-app.php:2670 admin/classes/uipress-app.php:2675
+msgid "Creates new admin menu."
+msgstr "Създава ново администраторско меню."
+
+#: admin/classes/uipress-app.php:2674
+msgid "Disable Admin Menu Module"
+msgstr "Деактивирайте модула на администраторското меню"
+
+#: admin/classes/uipress-app.php:2682
+msgid "Menu Disabled for"
+msgstr "Менюто е деактивирано за"
+
+#: admin/classes/uipress-app.php:2683
+#, php-format
+msgid "%s menu will be disabled for any users or roles you select"
+msgstr ""
+"Менюто %s ще бъде деактивирано за всички потребители или роли, които изберете"
+
+#: admin/classes/uipress-app.php:2691
+msgid "Logo Light Mode"
+msgstr "Светлинен режим на лого"
+
+#: admin/classes/uipress-app.php:2692
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "Задава логото за админ лентата в светъл режим."
+
+#: admin/classes/uipress-app.php:2699
+msgid "Logo Dark Mode"
+msgstr "Лого Тъмен режим"
+
+#: admin/classes/uipress-app.php:2700
+msgid "Optional dark mode logo for admin bar."
+msgstr "Допълнително лого на тъмен режим за администраторската лента."
+
+#: admin/classes/uipress-app.php:2707
+#, php-format
+msgid "Load %s Menu on front end"
+msgstr "Заредете менюто %s в предния край"
+
+#: admin/classes/uipress-app.php:2708
+#, php-format
+msgid ""
+"If enabled, %s menu will load on the front end. Please note, this will not "
+"work on all themes and styling will vary"
+msgstr ""
+"Ако е активирано, менюто %s ще се зареди в предния край. Моля, имайте "
+"предвид, че това няма да работи за всички теми и стилът ще варира"
+
+#: admin/classes/uipress-app.php:2716
+#, php-format
+msgid "Only Load %s Menu on front end for"
+msgstr "Заредете менюто %s само в предния край за"
+
+#: admin/classes/uipress-app.php:2717
+msgid "Only load front end menu for selected roles and usernames"
+msgstr "Зареждайте само предното меню за избрани роли и потребителски имена"
+
+#: admin/classes/uipress-app.php:2725
+msgid "Collapsed Menu Logo Light Mode"
+msgstr "Светлинен режим на логото на свитото меню"
+
+#: admin/classes/uipress-app.php:2726
+msgid "Optional logo for when the menu is collapsed."
+msgstr "Незадължително лого, когато менюто е свито."
+
+#: admin/classes/uipress-app.php:2733
+msgid "Collapsed Menu Logo Dark Mode"
+msgstr "Свито лого на менюто Тъмен режим"
+
+#: admin/classes/uipress-app.php:2734
+msgid "Optional dark nmode logo for when the menu is collapsed."
+msgstr "Опционално тъмно лого на nmode, когато менюто е свито."
+
+#: admin/classes/uipress-app.php:2741
+msgid "Show site title in menu"
+msgstr "Показване на заглавието на сайта в менюто"
+
+#: admin/classes/uipress-app.php:2742
+msgid ""
+"If enabled, the site title will be displayed in the menu next to the logo"
+msgstr "Ако е активирано, заглавието на сайта ще се показва в менюто до логото"
+
+#: admin/classes/uipress-app.php:2749 admin/classes/uipress-app.php:2811
+msgid "Disable Search"
+msgstr "Деактивирайте търсенето"
+
+#: admin/classes/uipress-app.php:2750
+msgid "Disables admin menu search."
+msgstr "Деактивира търсенето в менюто на администратора."
+
+#: admin/classes/uipress-app.php:2757
+msgid "Set collapsed menu as default"
+msgstr "Задайте свитото меню по подразбиране"
+
+#: admin/classes/uipress-app.php:2758
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"Ако е активирано, менюто по подразбиране ще бъде свито меню за потребители, "
+"които не са задали предпочитание."
+
+#: admin/classes/uipress-app.php:2774
+msgid "Creates new admin toolbar."
+msgstr "Създава нова лента с инструменти на администратора."
+
+#: admin/classes/uipress-app.php:2778
+msgid "Disable ToolBar Module?"
+msgstr "Деактивиране на модула ToolBar?"
+
+#: admin/classes/uipress-app.php:2779
+msgid ""
+"Creates new admin bar, adds user off canvas menu, builds global search and "
+"notification center."
+msgstr ""
+"Създава нова администраторска лента, добавя потребителско меню извън "
+"платното, изгражда глобално търсене и център за уведомяване."
+
+#: admin/classes/uipress-app.php:2786
+msgid "Admin Bar Disabled For"
+msgstr "Административната лента е деактивирана за"
+
+#: admin/classes/uipress-app.php:2787
+#, php-format
+msgid "%s toolbar module will be disabled for any users or roles you select"
+msgstr ""
+"Модулът на лентата с инструменти %s ще бъде деактивиран за всички "
+"потребители или роли, които изберете"
+
+#: admin/classes/uipress-app.php:2795
+msgid "Hide admin bar links (left side)"
+msgstr "Скриване на връзките на администраторската лента (лявата страна)"
+
+#: admin/classes/uipress-app.php:2796
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"Деактивира наследените връзки от лявата страна на администраторската лента "
+"за всички потребители. Също така скрива предпочитанията на потребителя."
+
+#: admin/classes/uipress-app.php:2803
+msgid "Enable floating flyout toolbar"
+msgstr "Активиране на плаваща лента с инструменти"
+
+#: admin/classes/uipress-app.php:2804
+msgid "Changes the toolbar to a floating flyout toolbar"
+msgstr "Променя лентата с инструменти в плаваща лента с инструменти"
+
+#: admin/classes/uipress-app.php:2812
+msgid "Disables search icon and global search function from admin bar."
+msgstr ""
+"Деактивира иконата за търсене и функцията за глобално търсене от "
+"администраторската лента."
+
+#: admin/classes/uipress-app.php:2819
+msgid "Disable Create Button"
+msgstr "Деактивирайте бутона за създаване"
+
+#: admin/classes/uipress-app.php:2820
+msgid "Disables the 'create' button in the admin bar."
+msgstr "Деактивира бутона „създаване“ в администраторската лента."
+
+#: admin/classes/uipress-app.php:2827
+msgid "Open View Website in new tab"
+msgstr "Отворете Преглед на уебсайта в нов раздел"
+
+#: admin/classes/uipress-app.php:2828
+msgid ""
+"When enabled, clicking on view website or the home button will open in a new "
+"browser tab"
+msgstr ""
+"Когато е активирано, щракването върху преглед на уебсайта или бутона за "
+"начало ще се отвори в нов раздел на браузъра"
+
+#: admin/classes/uipress-app.php:2835
+msgid "Disable View Website Button"
+msgstr "Деактивирайте бутона за преглед на уебсайта"
+
+#: admin/classes/uipress-app.php:2836
+msgid "Disables the view website link button in the admin bar."
+msgstr "Деактивира бутона за връзка към уебсайта в администраторската лента."
+
+#: admin/classes/uipress-app.php:2843
+#, php-format
+msgid "Load %s admin bar on front end"
+msgstr "Заредете %s администраторска лента в предния край"
+
+#: admin/classes/uipress-app.php:2844
+#, php-format
+msgid ""
+"If enabled, %s toolbar will load on the front end. Please note, this will "
+"not work on all themes and styling will vary"
+msgstr ""
+"Ако е активирано, лентата с инструменти %s ще се зареди в предния край. Моля,"
+" имайте предвид, че това няма да работи за всички теми и стилът ще варира"
+
+#: admin/classes/uipress-app.php:2852
+msgid "Hide admin bar on front end"
+msgstr "Скриване на администраторската лента в предния край"
+
+#: admin/classes/uipress-app.php:2853
+msgid "If enabled, front end admin bar will not load."
+msgstr "Ако е активирано, предната администраторска лента няма да се зареди."
+
+#: admin/classes/uipress-app.php:2861
+msgid "Disable Notification Center"
+msgstr "Деактивирайте Центъра за известия"
+
+#: admin/classes/uipress-app.php:2862
+msgid "If disabled, notifcations will show in the normal way"
+msgstr "Ако е деактивирано, известията ще се показват по нормалния начин"
+
+#: admin/classes/uipress-app.php:2870
+msgid "Post Types available in Search"
+msgstr "Типове публикации, налични в Търсене"
+
+#: admin/classes/uipress-app.php:2871
+msgid "The global search will only search the selected post types."
+msgstr "Глобалното търсене ще търси само избраните типове публикации."
+
+#: admin/classes/uipress-app.php:2879
+msgid "Post Types available in create button (new)"
+msgstr "Типовете публикации са налични в бутона за създаване (ново)"
+
+#: admin/classes/uipress-app.php:2880
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr ""
+"Само избраните типове публикации ще се покажат в падащото меню за създаване."
+
+#: admin/classes/uipress-app.php:2888
+msgid "Only show notifications to"
+msgstr "Показване само на известия на"
+
+#: admin/classes/uipress-app.php:2889
+#, php-format
+msgid ""
+"%s will hide all notifications from all users except those selected below"
+msgstr ""
+"%s ще скрие всички известия от всички потребители с изключение на избраните "
+"по-долу"
+
+#: admin/classes/uipress-app.php:2897
+msgid "Only show updates to"
+msgstr "Показване само на актуализации за"
+
+#: admin/classes/uipress-app.php:2898
+#, php-format
+msgid "%s will hide all updates from all users except those selected below"
+msgstr ""
+"%s ще скрие всички актуализации от всички потребители с изключение на "
+"избраните по-долу"
+
+#: admin/classes/uipress-app.php:2914
+msgid "Theme"
+msgstr "Тема"
+
+#: admin/classes/uipress-app.php:2915 admin/classes/uipress-app.php:2945
+#: admin/classes/uipress-app.php:3000
+msgid "Styles page content."
+msgstr "Съдържание на страницата със стилове."
+
+#: admin/classes/uipress-app.php:2919
+msgid "Disable Admin Theme Module"
+msgstr "Деактивирайте модула за администраторска тема"
+
+#: admin/classes/uipress-app.php:2920
+msgid "When the theme is disabled, pages will be styles in the original way."
+msgstr ""
+"Когато темата е деактивирана, страниците ще бъдат стилове по оригиналния "
+"начин."
+
+#: admin/classes/uipress-app.php:2927
+msgid "Theme Disabled for"
+msgstr "Темата е деактивирана за"
+
+#: admin/classes/uipress-app.php:2928
+msgid ""
+"When the theme is disabled, pages will be styles in the original way for "
+"selected users or roles."
+msgstr ""
+"Когато темата е деактивирана, страниците ще бъдат стилове по оригиналния "
+"начин за избрани потребители или роли."
+
+#: admin/classes/uipress-app.php:2949
+msgid "Disable Login Module"
+msgstr "Деактивирайте модула за влизане"
+
+#: admin/classes/uipress-app.php:2950
+msgid ""
+"When the login module is disabled, the login page will be displayed in the "
+"original way."
+msgstr ""
+"Когато модулът за вход е деактивиран, страницата за влизане ще се покаже по "
+"оригиналния начин."
+
+#: admin/classes/uipress-app.php:2958
+msgid "Dark Mode"
+msgstr "Тъмен режим"
+
+#: admin/classes/uipress-app.php:2959
+msgid "Puts the login page in dark mode for all users."
+msgstr "Поставя страницата за вход в тъмен режим за всички потребители."
+
+#: admin/classes/uipress-app.php:2966
+msgid "Disable Language Selector"
+msgstr "Деактивирайте селектора на език"
+
+#: admin/classes/uipress-app.php:2967
+msgid "Removes the language selector added to the login page"
+msgstr "Премахва селектора на език, добавен към страницата за вход"
+
+#: admin/classes/uipress-app.php:2974
+msgid "Login Logo"
+msgstr "Лого за вход"
+
+#: admin/classes/uipress-app.php:2975
+msgid "Sets the logo for the login page"
+msgstr "Задава логото на страницата за вход"
+
+#: admin/classes/uipress-app.php:2982
+msgid "Login Background"
+msgstr "Фон за влизане"
+
+#: admin/classes/uipress-app.php:2983
+msgid "Sets an optional background image on the login page."
+msgstr "Задава незадължително фоново изображение на страницата за вход."
+
+#: admin/classes/uipress-app.php:2999
+msgid "Advanced"
+msgstr "Разширено"
+
+#: admin/classes/uipress-app.php:3004
+msgid "Advanced Disabled For"
+msgstr "Разширено Деактивирано за"
+
+#: admin/classes/uipress-app.php:3005
+msgid "Code added here will not load for any users or roles you select"
+msgstr ""
+"Добавеният тук код няма да се зареди за избрани от вас потребители или роли"
+
+#: admin/classes/uipress-app.php:3013
+msgid "Enqueue scripts"
+msgstr "Подредете скриптове"
+
+#: admin/classes/uipress-app.php:3014
+msgid "Add scripts to the head of every admin page and login page"
+msgstr ""
+"Добавете скриптове към главата на всяка страница за администратор и страница "
+"за вход"
+
+#: admin/classes/uipress-app.php:3022
+msgid "Enqueue styles"
+msgstr "Стилове на опашка"
+
+#: admin/classes/uipress-app.php:3023
+msgid "Add stylesheets to the head of every admin page and login page"
+msgstr ""
+"Добавете таблици със стилове към главата на всяка страница за администратор "
+"и страница за вход"
+
+#: admin/classes/uipress-app.php:3031
+msgid "Admin CSS"
+msgstr "Администраторски CSS"
+
+#: admin/classes/uipress-app.php:3032
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr ""
+"Добавеният тук CSS ще бъде зареден на всяка страница на администратор, както "
+"и на страницата за вход"
+
+#: admin/classes/uipress-app.php:3041
+msgid "Admin JavaScript"
+msgstr "Администраторски JavaScript"
+
+#: admin/classes/uipress-app.php:3042
+msgid ""
+"JavaScript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr ""
+"Добавеният тук JavaScript ще бъде зареден на всяка страница на администратор,"
+" както и на страницата за вход"
+
+#: admin/classes/uipress-app.php:3051
+msgid "HTML for document head"
+msgstr "HTML за главата на документа"
+
+#: admin/classes/uipress-app.php:3052
+msgid ""
+"Add HTML here to be added to every admin page and login page head section"
+msgstr ""
+"Добавете HTML тук, за да бъде добавен към всяка администраторска страница и "
+"раздел главата на страницата за вход"
+
+#: admin/classes/uipress-app.php:3061
+msgid "Safe Mode Key"
+msgstr "Ключ за безопасен режим"
+
+#: admin/classes/uipress-app.php:3063
+msgid ""
+"Add a private key to allow you to disable uipress on specific pages with "
+"query paramaters. For example, add '?no_uip=your_key' to a URL and it wil "
+"stop uipress from loading on that page."
+msgstr ""
+"Добавете частен ключ, за да ви позволи да деактивирате uipress на конкретни "
+"страници с параметри на заявката. Например, добавете '?no_uip=your_key' към "
+"URL и това ще спре uipress да се зарежда на тази страница."
+
+#: admin/classes/update.php:66
+msgid "Welcome to UiPress version "
+msgstr "Добре дошли във версията на UiPress"
+
+#: admin/classes/update.php:69 admin/classes/update.php:101
+msgid ""
+"Would you like to automatically import settings from your older version of "
+"uipress?"
+msgstr ""
+"Искате ли автоматично да импортирате настройките от по-старата си версия на "
+"uipress?"
+
+#: admin/classes/update.php:71
+msgid "Don't show again"
+msgstr "Не показвай отново"
+
+#: admin/classes/update.php:72 admin/classes/update.php:103
+msgid "Import settings"
+msgstr "Настройки за импортиране"
+
+#: admin/classes/update.php:115
+msgid "Check for updates"
+msgstr "Провери за обновления"
+
+#: admin/classes/update.php:141
+msgid "Unable to contact update server"
+msgstr "Не може да се свърже със сървъра за актуализиране"
+
+#: admin/classes/update.php:156
+msgid "Update available"
+msgstr "Налична е актуализация"
+
+#: admin/classes/update.php:162
+msgid "No Updates available"
+msgstr "Няма налични актуализации"
+
+#: admin/classes/update.php:180
+msgid "Message dismissed"
+msgstr "Съобщението е отхвърлено"
+
+#: admin/classes/update.php:204
+msgid "No settings to import"
+msgstr "Няма настройки за импортиране"
+
+#: admin/classes/update.php:350
+msgid "Settings imported"
+msgstr "Настройките са импортирани"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress"
+msgstr "UiPress"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress admin extension with a streamlined dashboard, Google "
+"Analytics & WooCommerce Integration, intuitive media library, dark mode and "
+"much more."
+msgstr ""
+"Мощно разширение за администриране на WordPress с опростено табло за "
+"управление, интеграция с Google Analytics и WooCommerce, интуитивна медийна "
+"библиотека, тъмен режим и много други."
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "Администратор 2020"

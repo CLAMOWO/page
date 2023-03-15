@@ -1,0 +1,12 @@
+.block-editor__container .wp-block {max-width: 778px !important;}
+.edit-post-visual-editor .editor-post-title__block{margin-bottom: 20px;}
+.editor-post-title__block .editor-post-title__input{font-size: 26px;font-family: Microsoft Yahei;}
+
+.editor-styles-wrapper h1{font-size:26px !important}
+.editor-styles-wrapper h2{font-size:20px !important;}
+.editor-styles-wrapper h3{font-size:18px !important}
+.editor-styles-wrapper h4{font-size:16px !important}
+.editor-styles-wrapper h5{font-size:16px !important}
+
+.taxonomy-topic .term-description-wrap .description{display: none;}
+.taxonomy-topic .term-parent-wrap{display: none;}

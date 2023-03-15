@@ -1,0 +1,160 @@
+# Translation of Plugins - CDN Enabler - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - CDN Enabler - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-31 09:36:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - CDN Enabler - Stable (latest release)\n"
+
+#: inc/cdn_enabler.class.php:1105
+msgid "Save Changes and Validate Configuration"
+msgstr "保存更改并验证配置"
+
+#: inc/cdn_enabler.class.php:1104
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: inc/cdn_enabler.class.php:1091
+msgid "KeyCDN Zone ID"
+msgstr "KeyCDN区域ID"
+
+#: inc/cdn_enabler.class.php:1078
+msgid "KeyCDN API Key"
+msgstr "KeyCDN API密钥"
+
+#: inc/cdn_enabler.class.php:1073
+msgid "If you like, you may connect your KeyCDN account to be able to purge the CDN cache from the WordPress admin bar."
+msgstr "如果您愿意，您可以连接您的KeyCDN帐户，以便能够从WordPress管理栏清除CDN缓存。"
+
+#: inc/cdn_enabler.class.php:1065
+msgid "URLs containing these strings will not be served by the CDN. One string per line."
+msgstr "CDN将不提供包含这些字符串的URL。每行一个字符串。"
+
+#: inc/cdn_enabler.class.php:1062
+msgid "Strings"
+msgstr "字符串"
+
+#: inc/cdn_enabler.class.php:1058
+msgid "CDN Exclusions"
+msgstr "CDN排除"
+
+#: inc/cdn_enabler.class.php:1050
+msgid "Files with these extensions will be served by the CDN. One file extension per line."
+msgstr "具有这些扩展名的文件将由CDN提供。每行一个文件扩展名。"
+
+#: inc/cdn_enabler.class.php:1047
+msgid "File Extensions"
+msgstr "文件扩展名"
+
+#: inc/cdn_enabler.class.php:1043
+msgid "CDN Inclusions"
+msgstr "CDN包含"
+
+#. translators: 1. cdn.example.com 2. example-1a2b.kxcdn.com
+#: inc/cdn_enabler.class.php:1031
+msgid "Example: %1$s or %2$s"
+msgstr "示例：%1$s or %2$s"
+
+#: inc/cdn_enabler.class.php:1026
+msgid "URLs will be rewritten using this CDN hostname."
+msgstr "URL将使用此CDN主机名重写。"
+
+#: inc/cdn_enabler.class.php:1019
+msgid "CDN Hostname"
+msgstr "CDN主机名"
+
+#. translators: %s: KeyCDN
+#: inc/cdn_enabler.class.php:1007
+msgid "Combine CDN Enabler with %s for even better WordPress performance."
+msgstr "将 CDN Enabler 与 %s 结合使用，可获得更好的WordPress性能。"
+
+#: inc/cdn_enabler.class.php:999
+msgid "CDN Enabler Settings"
+msgstr "CDN Enabler 设置"
+
+#. translators: 1. CDN Hostname (e.g. cdn.example.com) 2. HTTP status code
+#. (e.g. 200)
+#: inc/cdn_enabler.class.php:924 inc/cdn_enabler.class.php:935
+msgid "%1$s returned a %2$s status code."
+msgstr "%1$s 返回了 %2$s 状态代码。"
+
+#: inc/cdn_enabler.class.php:921
+msgid "Valid CDN Hostname:"
+msgstr "有效的CDN主机名："
+
+#: inc/cdn_enabler.class.php:911 inc/cdn_enabler.class.php:932
+msgid "Invalid CDN Hostname:"
+msgstr "无效的CDN主机名："
+
+#. translators: 1. CDN Enabler 2. WordPress version (e.g. 5.1)
+#: inc/cdn_enabler.class.php:765
+msgid "%1$s requires WordPress %2$s or higher to function properly. Please update WordPress or disable the plugin."
+msgstr "%1$s 需要WordPress %2$s 或更高版本才能正常运行。请更新WordPress或禁用该插件。"
+
+#. translators: 1. CDN Enabler 2. PHP version (e.g. 5.6)
+#: inc/cdn_enabler.class.php:752
+msgid "%1$s requires PHP %2$s or higher to function properly. Please update PHP or disable the plugin."
+msgstr "%1$s 需要PHP %2$s 或更高版本才能正常运行。请更新PHP或禁用该插件。"
+
+#: inc/cdn_enabler.class.php:723
+msgid "API temporarily unavailable."
+msgstr "API暂时不可用。"
+
+#. translators: %s: HTTP status code (e.g. 200)
+#: inc/cdn_enabler.class.php:709
+msgid "%s status code returned."
+msgstr "返回了 %s 状态代码。"
+
+#: inc/cdn_enabler.class.php:701
+msgid "Too many failed attempts."
+msgstr "太多次失败的尝试。"
+
+#: inc/cdn_enabler.class.php:700
+msgid "API rate limit exceeded."
+msgstr "超出API速率限制。"
+
+#: inc/cdn_enabler.class.php:699
+msgid "Invalid Zone ID."
+msgstr "无效的区域ID。"
+
+#: inc/cdn_enabler.class.php:698
+msgid "Invalid API key."
+msgstr "无效的API密钥。"
+
+#: inc/cdn_enabler.class.php:694
+msgid "CDN cache purged."
+msgstr "CDN缓存已清除。"
+
+#: inc/cdn_enabler.class.php:684 inc/cdn_enabler.class.php:716
+#: inc/cdn_enabler.class.php:722
+msgid "Purge CDN cache failed:"
+msgstr "清除CDN缓存失败："
+
+#: inc/cdn_enabler.class.php:490 inc/cdn_enabler.class.php:491
+msgid "Purge CDN Cache"
+msgstr "清除CDN缓存"
+
+#: inc/cdn_enabler.class.php:417
+msgid "Settings"
+msgstr "设置"
+
+#. Author URI of the plugin
+msgid "https://www.keycdn.com"
+msgstr "https://www.keycdn.com"
+
+#. Author of the plugin
+msgid "KeyCDN"
+msgstr "KeyCDN"
+
+#. Description of the plugin
+msgid "Simple and fast WordPress content delivery network (CDN) integration plugin."
+msgstr "【CDN 启动器】简单快速的WordPress内容交付网络（CDN）集成插件。"
+
+#. Plugin Name of the plugin
+msgid "CDN Enabler"
+msgstr "CDN Enabler"

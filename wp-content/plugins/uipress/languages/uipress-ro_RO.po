@@ -1,0 +1,4864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress\n"
+"POT-Creation-Date: 2022-06-12 12:06+0200\n"
+"PO-Revision-Date: 2022-06-22 20:11+0000\n"
+"Last-Translator: \n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && "
+"n%100<=19) ? 1 : 2);\n"
+"X-Team: Rubyvio https://rubyvio.com"
+"X-Poedit-Basepath: ..\n"
+"X-Translate-Version: beta; wp-6.0"
+"X-Human revision: none;
+
+#: admin/apps/admin-pages/admin-pages.php:110
+#: admin/apps/menu-creator/menu-creator.php:1304
+msgid "Apply to subsites"
+msgstr "Aplicați la subsite-uri"
+
+#: admin/apps/admin-pages/admin-pages.php:121
+msgid "Menu Icon"
+msgstr "Pictograma Meniu"
+
+#: admin/apps/admin-pages/admin-pages.php:131
+msgid "Manually add to menu?"
+msgstr "Adăugați manual în meniu?"
+
+#: admin/apps/admin-pages/admin-pages.php:250
+msgid "Admin Pages - Beta"
+msgstr "Pagini de administrare - Beta"
+
+#: admin/apps/admin-pages/admin-pages.php:251
+msgid "Creates custom admin pages."
+msgstr "Creează pagini de administrare personalizate."
+
+#: admin/apps/admin-pages/admin-pages.php:255
+msgid "Disable custom admin pages?"
+msgstr "Dezactivați paginile de administrare personalizate?"
+
+#: admin/apps/admin-pages/admin-pages.php:256
+msgid "If disabled, the admin pages will not be available to any users."
+msgstr ""
+"Dacă este dezactivată, paginile de administrare nu vor fi disponibile pentru "
+"niciun utilizator."
+
+#: admin/apps/admin-pages/admin-pages.php:263
+msgid "Admin Page Slug"
+msgstr "Pagina de administrare Slug"
+
+#: admin/apps/admin-pages/admin-pages.php:264
+msgid ""
+"This defaults to admin-pages. Changes to this will need you to resave "
+"permalink structure."
+msgstr ""
+"Aceasta este implicită în paginile admin. Modificările aduse vor necesita să "
+"resaveți structura permalink."
+
+#: admin/apps/admin-pages/admin-pages.php:271
+msgid "Who can edit and create admin pages?"
+msgstr "Cine poate edita și crea pagini de administrare?"
+
+#: admin/apps/admin-pages/admin-pages.php:272
+msgid ""
+"Editing and creation of admin pages will be disabled for the users or roles "
+"you select"
+msgstr ""
+"Editarea și crearea paginilor de administrare vor fi dezactivate pentru "
+"utilizatorii sau rolurile pe care le selectați"
+
+#: admin/apps/admin-pages/admin-pages.php:280
+msgid "Who can see admin pages?"
+msgstr "Cine poate vedea paginile de administrare?"
+
+#: admin/apps/admin-pages/admin-pages.php:281
+msgid "UiPress will only show admin pages for the users or roles you select"
+msgstr ""
+"UiPress va afișa numai paginile de administrator pentru utilizatorii sau "
+"rolurile pe care le selectați"
+
+#: admin/apps/admin-pages/admin-pages.php:320
+msgctxt "post type general name"
+msgid "Admin Page"
+msgstr "Pagina de administrator"
+
+#: admin/apps/admin-pages/admin-pages.php:321
+msgctxt "post type singular name"
+msgid "Admin Page"
+msgstr "Pagina de administrator"
+
+#: admin/apps/admin-pages/admin-pages.php:322
+msgctxt "admin menu"
+msgid "Admin Pages"
+msgstr "Pagini de administrare"
+
+#: admin/apps/admin-pages/admin-pages.php:323
+msgctxt "add new on admin bar"
+msgid "Admin Page"
+msgstr "Pagina de administrator"
+
+#: admin/apps/admin-pages/admin-pages.php:324
+msgctxt "Admin Page"
+msgid "Add New"
+msgstr "Adăuga nou"
+
+#: admin/apps/admin-pages/admin-pages.php:325
+msgid "Add New Admin Page"
+msgstr "Adăugați o nouă pagină de administrator"
+
+#: admin/apps/admin-pages/admin-pages.php:326
+msgid "New Admin Page"
+msgstr "Noua pagină de administrator"
+
+#: admin/apps/admin-pages/admin-pages.php:327
+msgid "Edit Admin Page"
+msgstr "Editați pagina de administrator"
+
+#: admin/apps/admin-pages/admin-pages.php:328
+msgid "View Admin Page"
+msgstr "Vizualizați pagina de administrare"
+
+#: admin/apps/admin-pages/admin-pages.php:329
+msgid "All Admin Pages"
+msgstr "Toate paginile de administrare"
+
+#: admin/apps/admin-pages/admin-pages.php:330
+msgid "Search Admin Pages"
+msgstr "Căutați în paginile de administrare"
+
+#: admin/apps/admin-pages/admin-pages.php:331
+msgid "No Admin Pages found."
+msgstr "Nu s-au găsit pagini de administrator."
+
+#: admin/apps/admin-pages/admin-pages.php:332
+msgid "No Admin Pages found in Trash."
+msgstr "Nu s-au găsit pagini de administrator în Coșul de gunoi."
+
+#: admin/apps/admin-pages/admin-pages.php:336
+#: admin/apps/menu-creator/menu-creator.php:667
+#: admin/apps/users/uip-history.php:161
+msgid "Description."
+msgstr "Descriere."
+
+#: admin/apps/content/content.php:96
+msgid "Content Page"
+msgstr "Pagina de conținut"
+
+#: admin/apps/content/content.php:97
+msgid "Creates content page"
+msgstr "Creează o pagină de conținut"
+
+#: admin/apps/content/content.php:101
+msgid "Disable Content Page?"
+msgstr "Dezactivați pagina de conținut?"
+
+#: admin/apps/content/content.php:102
+msgid "If disabled, the content page will not be available to any users."
+msgstr ""
+"Dacă este dezactivată, pagina de conținut nu va fi disponibilă niciunui "
+"utilizator."
+
+#: admin/apps/content/content.php:109
+msgid "Content Page Disabled for"
+msgstr "Pagina de conținut dezactivată pentru"
+
+#: admin/apps/content/content.php:110
+msgid ""
+"When the content page module is disabled, the content page will not be "
+"accesible for the users / roles"
+msgstr ""
+"Când modulul paginii de conținut este dezactivat, pagina de conținut nu va "
+"fi accesibilă utilizatorilor/rolurilor"
+
+#: admin/apps/content/content.php:118
+msgid "Post types available in content page"
+msgstr "Tipuri de postări disponibile în pagina de conținut"
+
+#: admin/apps/content/content.php:119
+msgid "Only the selected post types will be available in the content page."
+msgstr ""
+"Doar tipurile de postări selectate vor fi disponibile în pagina de conținut."
+
+#: admin/apps/content/content.php:127
+msgid "Enable private library mode"
+msgstr "Activați modul bibliotecă privată"
+
+#: admin/apps/content/content.php:128
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This also includes folders"
+msgstr ""
+"Când este activată, pagina de conținut va afișa numai conținutul creat de "
+"sau încărcat de utilizatorul conectat în prezent. Aceasta include și "
+"folderele"
+
+#: admin/apps/content/content.php:184
+msgid "Original Title / Value"
+msgstr "Titlul/Valoarea originală"
+
+#: admin/apps/content/content.php:188 admin/classes/styles.php:693
+msgid "Text"
+msgstr "Text"
+
+#: admin/apps/content/content.php:192 admin/apps/content/content.php:2033
+msgid "Date Created"
+msgstr "Data creării"
+
+#: admin/apps/content/content.php:196
+msgid "File Extension (attachments only)"
+msgstr "Extensie de fișier (numai pentru atașamente)"
+
+#: admin/apps/content/content.php:200
+msgid "Sequence Number"
+msgstr "Număr de secvență"
+
+#: admin/apps/content/content.php:204
+msgid "Meta Value"
+msgstr "Meta valoare"
+
+#: admin/apps/content/content.php:208
+msgid "Find and Replace"
+msgstr "Găsiți și înlocuiți"
+
+#: admin/apps/content/content.php:266 admin/classes/uipress-app.php:1731
+#: admin/classes/uipress-app.php:2073
+msgid "No preferences supplied to save"
+msgstr "Nu au fost furnizate preferințe pentru salvare"
+
+#: admin/apps/content/content.php:288 admin/classes/uipress-app.php:1742
+#: admin/classes/uipress-app.php:2095
+msgid "Preferences saved"
+msgstr "Preferințe salvate"
+
+#: admin/apps/content/content.php:291 admin/classes/uipress-app.php:1746
+#: admin/classes/uipress-app.php:2098
+msgid "Unable to save user preferences"
+msgstr "Nu se pot salva preferințele utilizatorului"
+
+#: admin/apps/content/content.php:320 admin/apps/content/content.php:328
+#: admin/apps/content/content.php:957
+msgid "Unable to save attachment"
+msgstr "Nu se poate salva atașamentul"
+
+#: admin/apps/content/content.php:337
+msgid "Image Saved"
+msgstr "Imagine salvată"
+
+#: admin/apps/content/content.php:370
+msgid "Failed to upload file"
+msgstr "Nu s-a putut încărca fișierul"
+
+#: admin/apps/content/content.php:400
+msgid "Items uploaded"
+msgstr "Articole încărcate"
+
+#: admin/apps/content/content.php:423
+msgid "Views updated"
+msgstr "Vizualizări actualizate"
+
+#: admin/apps/content/content.php:455 admin/apps/content/content.php:517
+#: admin/apps/content/content.php:579 admin/apps/content/content.php:769
+#: admin/apps/menu-creator/menu-creator.php:752
+#: admin/apps/menu-creator/menu-creator.php:777
+#: admin/apps/menu-creator/menu-creator.php:814
+#: admin/apps/menu-creator/menu-creator.php:867
+#: admin/apps/menu-creator/menu-creator.php:936
+#: admin/apps/users/uip-user-groups.php:309 admin/classes/folders.php:528
+#: admin/classes/settings.php:308 admin/classes/uipress-app.php:1357
+msgid "Something went wrong"
+msgstr "Ceva n-a mers bine"
+
+#: admin/apps/content/content.php:460
+msgid "Items duplicated successfully"
+msgstr "Articole duplicate cu succes"
+
+#: admin/apps/content/content.php:463
+msgid "Itms couldn't be duplicated"
+msgstr "Nu au putut fi duplicate"
+
+#: admin/apps/content/content.php:501 admin/apps/content/content.php:543
+msgid "No Meta Key provided"
+msgstr "Nu este furnizată nicio cheie meta"
+
+#: admin/apps/content/content.php:583
+msgid "Attributes Updated"
+msgstr "Atribute actualizate"
+
+#: admin/apps/content/content.php:774
+msgid "Items deleted successfully"
+msgstr "Elementele au fost șterse cu succes"
+
+#: admin/apps/content/content.php:777
+msgid "Itms couldn't be deleted"
+msgstr "Nu au putut fi șterse"
+
+#: admin/apps/content/content.php:799 admin/classes/folders.php:452
+#: admin/classes/folders.php:484
+msgid "No content to move"
+msgstr "Nu există conținut de mutat"
+
+#: admin/apps/content/content.php:812 admin/classes/folders.php:466
+#: admin/classes/folders.php:497
+msgid "Content moved"
+msgstr "Conținut mutat"
+
+#: admin/apps/content/content.php:938
+msgid "Unable to update item"
+msgstr "Nu se poate actualiza articolul"
+
+#: admin/apps/content/content.php:968
+msgid "Item updated"
+msgstr "Articol actualizat"
+
+#: admin/apps/content/content.php:1007
+msgid "Items updated"
+msgstr "Articole actualizate"
+
+#: admin/apps/content/content.php:1319 admin/apps/content/content.php:1611
+msgid "Content"
+msgstr "Conţinut"
+
+#: admin/apps/content/content.php:1362
+#: admin/apps/menu-creator/menu-creator.php:1096
+#: admin/classes/uipress-app.php:1325
+msgid "Pro Feature"
+msgstr "Funcție Pro"
+
+#: admin/apps/content/content.php:1365
+msgid "Upgrade to UiPress Pro to unlock the content page and content folders"
+msgstr ""
+"Faceți upgrade la UiPress Pro pentru a debloca pagina de conținut și "
+"folderele de conținut"
+
+#: admin/apps/content/content.php:1367
+#: admin/apps/menu-creator/menu-creator.php:1101
+msgid "See UiPress Pro Plans"
+msgstr "Vedeți planurile UiPress Pro"
+
+#: admin/apps/content/content.php:1411
+msgid "Update Tags and Categories"
+msgstr "Actualizați etichete și categorii"
+
+#: admin/apps/content/content.php:1418 admin/apps/content/content.php:1831
+#: admin/apps/content/content.php:1836 admin/apps/content/content.php:2068
+#: admin/apps/content/content.php:2071
+msgid "Categories"
+msgstr "Categorii"
+
+#: admin/apps/content/content.php:1419 admin/apps/content/content.php:1837
+#: admin/apps/content/content.php:2072
+msgid "Search categories..."
+msgstr "Caută categorii..."
+
+#: admin/apps/content/content.php:1424
+msgid "Keep existing categories"
+msgstr "Păstrați categoriile existente"
+
+#: admin/apps/content/content.php:1433 admin/apps/content/content.php:1843
+#: admin/apps/content/content.php:1847 admin/apps/content/content.php:2080
+#: admin/apps/content/content.php:2083
+msgid "Tags"
+msgstr "Etichete"
+
+#: admin/apps/content/content.php:1434 admin/apps/content/content.php:1848
+#: admin/apps/content/content.php:2084
+msgid "Search tags..."
+msgstr "Căutați etichete..."
+
+#: admin/apps/content/content.php:1439
+msgid "Keep existing tags"
+msgstr "Păstrați etichetele existente"
+
+#: admin/apps/content/content.php:1448 admin/apps/content/content.php:1686
+#: admin/classes/uipress-app.php:1373
+msgid "Update"
+msgstr "Actualizați"
+
+#: admin/apps/content/content.php:1465 admin/apps/content/content.php:2567
+msgid "Batch Rename"
+msgstr "Redenumire lot"
+
+#: admin/apps/content/content.php:1473
+msgid "Attribute to rename"
+msgstr "Atribut pentru redenumire"
+
+#: admin/apps/content/content.php:1480 admin/apps/content/content.php:2323
+#: admin/apps/menu-creator/menu-creator.php:1151
+#: admin/apps/menu-creator/menu-creator.php:1651
+#: admin/apps/menu-creator/menu-creator.php:1652
+#: admin/apps/users/uip-users.php:311 admin/apps/users/uip-users.php:389
+#: admin/apps/users/uip-users.php:1213 admin/classes/uipress-app.php:1371
+msgid "Name"
+msgstr "Nume"
+
+#: admin/apps/content/content.php:1481
+msgid "Meta Key"
+msgstr "Meta Key"
+
+#: admin/apps/content/content.php:1482
+msgid "Alt Tag (Attachments only)"
+msgstr "Etichetă alternativă (numai pentru atașamente)"
+
+#: admin/apps/content/content.php:1487
+msgid "Meta Key Name"
+msgstr "Nume meta cheie"
+
+#: admin/apps/content/content.php:1498
+msgid "Filename Structure"
+msgstr "Structura numelui fișierului"
+
+#: admin/apps/content/content.php:1506
+msgid "Rename Item"
+msgstr "Redenumiți elementul"
+
+#: admin/apps/content/content.php:1514 admin/apps/overview/overview.php:812
+msgid "Add"
+msgstr "Adăuga"
+
+#: admin/apps/content/content.php:1540
+msgid "New Text"
+msgstr "Text nou"
+
+#: admin/apps/content/content.php:1542
+msgid "Date Format"
+msgstr "Formatul datei"
+
+#: admin/apps/content/content.php:1544
+msgid "Start Number"
+msgstr "Numărul de început"
+
+#: admin/apps/content/content.php:1546
+msgid "Meta key Name"
+msgstr "Meta cheie Nume"
+
+#: admin/apps/content/content.php:1548
+msgid "Find"
+msgstr "Găsi"
+
+#: admin/apps/content/content.php:1552
+msgid "Replace"
+msgstr "A inlocui"
+
+#: admin/apps/content/content.php:1576 admin/apps/content/content.php:1593
+#: admin/apps/menu-creator/menu-creator.php:1464
+msgid "Preview"
+msgstr "previzualizare"
+
+#: admin/apps/content/content.php:1579
+msgid "Current"
+msgstr "Actual"
+
+#: admin/apps/content/content.php:1580
+#: admin/apps/menu-creator/menu-creator.php:1136
+msgid "New"
+msgstr "Nou"
+
+#: admin/apps/content/content.php:1594
+msgid "Rename"
+msgstr "Redenumiți"
+
+#: admin/apps/content/content.php:1618 admin/classes/uipress-app.php:1365
+msgid "All Content"
+msgstr "Tot Conținutul"
+
+#: admin/apps/content/content.php:1679
+#: admin/apps/menu-creator/menu-creator.php:1225
+#: admin/apps/users/uip-users.php:541
+msgid "Delete"
+msgstr "Șterge"
+
+#: admin/apps/content/content.php:1684
+msgid "Edit Image"
+msgstr "Editați imaginea"
+
+#: admin/apps/content/content.php:1715 admin/apps/users/uip-users.php:309
+msgid "Details"
+msgstr "Detalii"
+
+#: admin/apps/content/content.php:1771 admin/apps/content/content.php:1772
+#: admin/apps/overview/overview.php:715
+msgid "Title"
+msgstr "Titlu"
+
+#: admin/apps/content/content.php:1778
+msgid "Alt Text"
+msgstr "Alt text"
+
+#: admin/apps/content/content.php:1779
+msgid "Alt"
+msgstr "Alt"
+
+#: admin/apps/content/content.php:1783 admin/apps/content/content.php:1784
+msgid "Caption"
+msgstr "Legendă"
+
+#: admin/apps/content/content.php:1788 admin/apps/content/content.php:1789
+#: admin/apps/users/uip-users.php:1353
+msgid "Description"
+msgstr "Descriere"
+
+#: admin/apps/content/content.php:1799
+msgid "Meta Data"
+msgstr "Metadate"
+
+#: admin/apps/content/content.php:1819 admin/apps/content/content.php:1824
+#: admin/apps/content/content.php:2339
+#: admin/apps/menu-creator/menu-creator.php:1155
+#: admin/apps/menu-creator/menu-creator.php:1294
+#: admin/classes/uipress-app.php:1151
+msgid "Status"
+msgstr "stare"
+
+#: admin/apps/content/content.php:1825
+msgid "Search status..."
+msgstr "Starea căutării..."
+
+#: admin/apps/content/content.php:1927
+msgid "Filters"
+msgstr "Filtre"
+
+#: admin/apps/content/content.php:1932
+msgid "Upload"
+msgstr "Încărcați"
+
+#: admin/apps/content/content.php:1954
+msgid "Items Per Page"
+msgstr "Articole pe pagină"
+
+#: admin/apps/content/content.php:1964
+msgid "Columns"
+msgstr "Coloane"
+
+#: admin/apps/content/content.php:1976
+msgid "Search..."
+msgstr "Căutare..."
+
+#: admin/apps/content/content.php:1984
+msgid "of"
+msgstr "de"
+
+#: admin/apps/content/content.php:1987
+msgid "items"
+msgstr "articole"
+
+#: admin/apps/content/content.php:2011 admin/apps/content/content.php:2014
+msgid "Post Types"
+msgstr "Tipuri de postări"
+
+#: admin/apps/content/content.php:2015
+msgid "Search Post Types..."
+msgstr "Căutați tipuri de postări..."
+
+#: admin/apps/content/content.php:2022 admin/apps/content/content.php:2025
+msgid "Post Status"
+msgstr "Starea postării"
+
+#: admin/apps/content/content.php:2026
+msgid "Search Post Statuses..."
+msgstr "Căutați stări postări..."
+
+#: admin/apps/content/content.php:2039
+msgid "Posted On"
+msgstr "Postat pe"
+
+#: admin/apps/content/content.php:2040
+msgid "Posted After"
+msgstr "Postat După"
+
+#: admin/apps/content/content.php:2041
+msgid "Posted Before"
+msgstr "Postat înainte"
+
+#: admin/apps/content/content.php:2056 admin/apps/content/content.php:2059
+msgid "Media Types"
+msgstr "Tipuri media"
+
+#: admin/apps/content/content.php:2060
+msgid "Search Media Types..."
+msgstr "Căutați tipuri de media..."
+
+#: admin/apps/content/content.php:2089
+msgid "Clear Filters"
+msgstr "Ștergeți filtrele"
+
+#: admin/apps/content/content.php:2090
+msgid "Save as view"
+msgstr "Salvați ca vizualizare"
+
+#: admin/apps/content/content.php:2136
+msgid "Posted"
+msgstr "Postat"
+
+#: admin/apps/content/content.php:2327
+msgid "Type"
+msgstr "Tip"
+
+#: admin/apps/content/content.php:2331
+msgid "Author"
+msgstr "Autor"
+
+#: admin/apps/content/content.php:2335
+#: admin/apps/menu-creator/menu-creator.php:1159
+#: admin/apps/overview/overview.php:904 admin/apps/users/uip-users.php:1333
+msgid "Date"
+msgstr "Data"
+
+#: admin/apps/content/content.php:2483
+msgid "Load More"
+msgstr "Incarca mai mult"
+
+#: admin/apps/content/content.php:2492
+msgid "No content found"
+msgstr "Nu a fost găsit niciun conținut"
+
+#: admin/apps/content/content.php:2511 admin/apps/users/uip-users.php:547
+#: admin/classes/uipress-app.php:1327
+msgid "View"
+msgstr "Vedere"
+
+#: admin/apps/content/content.php:2518
+#: admin/apps/menu-creator/menu-creator.php:1203
+#: admin/apps/users/uip-users.php:523 admin/classes/uipress-app.php:1328
+msgid "Edit"
+msgstr "Editați | ×"
+
+#: admin/apps/content/content.php:2525
+msgid "Quick Edit"
+msgstr "Editare rapidă"
+
+#: admin/apps/content/content.php:2532
+#: admin/apps/menu-creator/menu-creator.php:1210
+msgid "Duplicate"
+msgstr "Duplicat"
+
+#: admin/apps/content/content.php:2540
+msgid "Delete Item"
+msgstr "Sterge articolul"
+
+#: admin/apps/content/content.php:2560
+msgid "items selected"
+msgstr "articolele selectate"
+
+#: admin/apps/content/content.php:2573
+msgid "Categories & Tags"
+msgstr "Categorii și etichete"
+
+#: admin/apps/content/content.php:2579
+msgid "Delete Selected"
+msgstr "Sterge selectia"
+
+#: admin/apps/content/content.php:2585
+msgid "Clear Selection"
+msgstr "Selecție clară"
+
+#: admin/apps/content/content.php:2607
+msgid "Create New View"
+msgstr "Creați o nouă vizualizare"
+
+#: admin/apps/content/content.php:2612
+msgid "View name"
+msgstr "Vedeți numele"
+
+#: admin/apps/content/content.php:2615
+msgid "View Name"
+msgstr "Vedeți numele"
+
+#: admin/apps/content/content.php:2623
+#: admin/apps/menu-creator/menu-creator.php:1709
+#: admin/apps/overview/overview.php:836 admin/classes/styles.php:437
+msgid "Save"
+msgstr "Salvați"
+
+#: admin/apps/menu-creator/menu-creator.php:405
+#: admin/apps/menu-creator/menu-creator.php:1044
+#: admin/apps/menu-creator/menu-creator.php:1052
+#: admin/apps/menu-creator/menu-creator.php:1131
+#: admin/apps/menu-creator/menu-creator.php:1699
+msgid "Menu Creator"
+msgstr "Creator de meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:406
+msgid "Creates custom admin menus."
+msgstr "Creează meniuri de administrare personalizate."
+
+#: admin/apps/menu-creator/menu-creator.php:410
+msgid "Disable Menu Creator?"
+msgstr "Dezactivați Meniu Creator?"
+
+#: admin/apps/menu-creator/menu-creator.php:411
+msgid "If disabled, the menu creator will not be available to any users."
+msgstr ""
+"Dacă este dezactivat, creatorul de meniu nu va fi disponibil pentru niciun "
+"utilizator."
+
+#: admin/apps/menu-creator/menu-creator.php:651
+msgctxt "post type general name"
+msgid "Admin Menu"
+msgstr "Meniul Administrator"
+
+#: admin/apps/menu-creator/menu-creator.php:652
+msgctxt "post type singular name"
+msgid "admin menu"
+msgstr "meniul admin"
+
+#: admin/apps/menu-creator/menu-creator.php:653
+msgctxt "admin menu"
+msgid "Admin Menus"
+msgstr "Meniuri de administrare"
+
+#: admin/apps/menu-creator/menu-creator.php:654
+msgctxt "add new on admin bar"
+msgid "Admin Menu"
+msgstr "Meniul Administrator"
+
+#: admin/apps/menu-creator/menu-creator.php:655
+msgctxt "Admin Menu"
+msgid "Add New"
+msgstr "Adăuga nou"
+
+#: admin/apps/menu-creator/menu-creator.php:656
+msgid "Add New Admin Menu"
+msgstr "Adăugați un nou meniu de administrator"
+
+#: admin/apps/menu-creator/menu-creator.php:657
+msgid "New Admin Menu"
+msgstr "Noul meniu de administrare"
+
+#: admin/apps/menu-creator/menu-creator.php:658
+msgid "Edit Admin Menu"
+msgstr "Editați meniul de administrare"
+
+#: admin/apps/menu-creator/menu-creator.php:659
+msgid "View Admin Menu"
+msgstr "Vizualizați meniul de administrare"
+
+#: admin/apps/menu-creator/menu-creator.php:660
+msgid "All Admin Menus"
+msgstr "Toate meniurile de administrare"
+
+#: admin/apps/menu-creator/menu-creator.php:661
+msgid "Search Admin Menus"
+msgstr "Căutați în meniurile de administrare"
+
+#: admin/apps/menu-creator/menu-creator.php:662
+msgid "No Admin Menus found."
+msgstr "Nu s-au găsit meniuri de administrare."
+
+#: admin/apps/menu-creator/menu-creator.php:663
+msgid "No Admin Menus found in Trash."
+msgstr "Nu s-au găsit meniuri de administrare în Coșul de gunoi."
+
+#: admin/apps/menu-creator/menu-creator.php:759
+msgid "Status Updated"
+msgstr "Stare actualizată"
+
+#: admin/apps/menu-creator/menu-creator.php:783
+msgid "You don't have permission to delete this"
+msgstr "Nu aveți permisiunea de a șterge acest lucru"
+
+#: admin/apps/menu-creator/menu-creator.php:791
+msgid "Unable to delete menu"
+msgstr "Nu se poate șterge meniul"
+
+#: admin/apps/menu-creator/menu-creator.php:796
+msgid "Menu deleted"
+msgstr "Meniul a fost șters"
+
+#: admin/apps/menu-creator/menu-creator.php:820
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "Nu se poate duplica meniul, meniul este corupt"
+
+#: admin/apps/menu-creator/menu-creator.php:826
+msgid "(copy)"
+msgstr "(copie)"
+
+#: admin/apps/menu-creator/menu-creator.php:834
+msgid "Unable to duplicate menu"
+msgstr "Imposibil de duplicat meniul"
+
+#: admin/apps/menu-creator/menu-creator.php:844
+msgid "Menu duplicated"
+msgstr "Meniu duplicat"
+
+#: admin/apps/menu-creator/menu-creator.php:873
+msgid "Unable to save, menu is corrupted"
+msgstr "Nu se poate salva, meniul este corupt"
+
+#: admin/apps/menu-creator/menu-creator.php:894
+msgid "Unable to save menu"
+msgstr "Nu se poate salva meniul"
+
+#: admin/apps/menu-creator/menu-creator.php:917
+msgid "Menu Saved"
+msgstr "Meniu salvat"
+
+#: admin/apps/menu-creator/menu-creator.php:962
+#: admin/apps/users/uip-users.php:1321 admin/classes/settings.php:328
+msgid "User"
+msgstr "Utilizator"
+
+#: admin/apps/menu-creator/menu-creator.php:977
+#: admin/apps/menu-creator/menu-creator.php:988
+#: admin/apps/users/uip-users.php:1285 admin/classes/settings.php:343
+#: admin/classes/settings.php:354
+msgid "Role"
+msgstr "Rol"
+
+#: admin/apps/menu-creator/menu-creator.php:995 admin/classes/settings.php:361
+msgid "Nothing found for term:"
+msgstr "Nu s-a găsit nimic pentru termen:"
+
+#: admin/apps/menu-creator/menu-creator.php:1044
+#, php-format
+msgid "%s Menu Creator"
+msgstr "Creator de meniu %s"
+
+#: admin/apps/menu-creator/menu-creator.php:1099
+msgid "Upgrade to UiPress Pro to unlock the menu creator"
+msgstr "Faceți upgrade la UiPress Pro pentru a debloca creatorul de meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:1142
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "Se pare că încă nu ați creat niciun meniu de administrare"
+
+#: admin/apps/menu-creator/menu-creator.php:1143
+msgid "Create your first admin menu"
+msgstr "Creați primul dvs. meniu de administrator"
+
+#: admin/apps/menu-creator/menu-creator.php:1217
+#: admin/apps/menu-creator/menu-creator.php:1718
+#: admin/apps/users/uip-users.php:559 admin/classes/settings.php:248
+#: admin/classes/styles.php:447
+msgid "Export"
+msgstr "Export"
+
+#: admin/apps/menu-creator/menu-creator.php:1264
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"Creatorul de meniu nu este optimizat pentru dispozitive mobile. Pentru cele "
+"mai bune rezultate, comutați la un ecran mai mare"
+
+#: admin/apps/menu-creator/menu-creator.php:1279
+msgid "Menu Items"
+msgstr "Elemente de meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:1283
+msgid "Menu Settings"
+msgstr "Setări meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:1314
+#: admin/apps/menu-creator/menu-creator.php:1315
+msgid "Menu Name"
+msgstr "Numele meniului"
+
+#: admin/apps/menu-creator/menu-creator.php:1319
+msgid "Menu Applies to"
+msgstr "Meniul Se aplică pentru"
+
+#: admin/apps/menu-creator/menu-creator.php:1323
+msgid "Inclusive"
+msgstr "Inclusiv"
+
+#: admin/apps/menu-creator/menu-creator.php:1327
+msgid "Exclusive"
+msgstr "Exclusiv"
+
+#: admin/apps/menu-creator/menu-creator.php:1331
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr ""
+"În modul Inclusiv, acest meniu se va încărca pentru toate numele de "
+"utilizator și rolurile selectate mai jos."
+
+#: admin/apps/menu-creator/menu-creator.php:1334
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"În modul Exclusiv, acest meniu se va încărca pentru fiecare utilizator, cu "
+"excepția numelor de utilizator și a rolurilor selectate mai jos."
+
+#: admin/apps/menu-creator/menu-creator.php:1340
+msgid "Choose users or roles..."
+msgstr "Alegeți utilizatori sau roluri..."
+
+#: admin/apps/menu-creator/menu-creator.php:1342
+msgid "Search roles and users..."
+msgstr "Căutați roluri și utilizatori..."
+
+#: admin/apps/menu-creator/menu-creator.php:1351
+msgid "Custom Items"
+msgstr "Articole personalizate"
+
+#: admin/apps/menu-creator/menu-creator.php:1355
+msgid "New Separator"
+msgstr "Separator nou"
+
+#: admin/apps/menu-creator/menu-creator.php:1358
+msgid "New Custom Link"
+msgstr "Link personalizat nou"
+
+#: admin/apps/menu-creator/menu-creator.php:1363
+msgid "Available Menu Items"
+msgstr "Elemente de meniu disponibile"
+
+#: admin/apps/menu-creator/menu-creator.php:1370
+msgid "Search menu items"
+msgstr "Căutați elemente de meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:1518
+msgid "Add some menu items from the left toolbar to get started"
+msgstr ""
+"Adăugați câteva elemente de meniu din bara de instrumente din stânga pentru "
+"a începe"
+
+#: admin/apps/menu-creator/menu-creator.php:1537
+msgid "Separator"
+msgstr "Separator"
+
+#: admin/apps/menu-creator/menu-creator.php:1642
+msgid "Edit Menu Item"
+msgstr "Editați elementul de meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:1656
+#: admin/apps/menu-creator/menu-creator.php:1657
+msgid "Link"
+msgstr "Legătură"
+
+#: admin/apps/menu-creator/menu-creator.php:1661
+msgid "Classes"
+msgstr "Clase"
+
+#: admin/apps/menu-creator/menu-creator.php:1663
+msgid "Custom classes"
+msgstr "Cursuri personalizate"
+
+#: admin/apps/menu-creator/menu-creator.php:1667
+msgid "Opens in new tab?"
+msgstr "Se deschide într-o filă nouă?"
+
+#: admin/apps/menu-creator/menu-creator.php:1677
+msgid "Icon"
+msgstr "Pictogramă"
+
+#: admin/apps/menu-creator/menu-creator.php:1702
+msgid "Back to all menus"
+msgstr "Înapoi la toate meniurile"
+
+#: admin/apps/menu-creator/menu-creator.php:1727
+msgid "Import Menu"
+msgstr "Meniu Import"
+
+#: admin/apps/menu-creator/menu-creator.php:1736 admin/classes/settings.php:265
+msgid "Reset Settings"
+msgstr "Reseteaza setarile"
+
+#: admin/apps/overview/analytics.php:74
+msgid "Analytics account removed"
+msgstr "Contul Google Analytics a fost eliminat"
+
+#: admin/apps/overview/analytics.php:93
+msgid "Unable to connect account"
+msgstr "Nu se poate conecta contul"
+
+#: admin/apps/overview/analytics.php:106
+msgid "Analytics account connected"
+msgstr "Cont Analytics conectat"
+
+#: admin/apps/overview/analytics.php:310 admin/apps/overview/analytics.php:718
+#: admin/apps/overview/overview.php:761
+msgid "Site Users"
+msgstr "Utilizatorii site-ului"
+
+#: admin/apps/overview/analytics.php:318 admin/apps/overview/overview.php:762
+msgid "Site Users (comparison period)"
+msgstr "Utilizatorii site-ului (perioada de comparație)"
+
+#: admin/apps/overview/analytics.php:383 admin/apps/overview/analytics.php:700
+#: admin/apps/overview/overview.php:759
+msgid "Page Views"
+msgstr "Vizualizări de pagină"
+
+#: admin/apps/overview/analytics.php:391
+msgid "Page Views (comparison period)"
+msgstr "Vizualizări de pagină (perioada de comparație)"
+
+#: admin/apps/overview/analytics.php:608 admin/apps/overview/analytics.php:709
+msgid "Page Speed"
+msgstr "Viteza paginii"
+
+#: admin/apps/overview/analytics.php:616
+msgid "Page Speed (comparison period)"
+msgstr "Viteza paginii (perioada de comparație)"
+
+#: admin/apps/overview/analytics.php:663 admin/apps/overview/analytics.php:703
+#: admin/apps/overview/analytics.php:712 admin/apps/overview/analytics.php:721
+#: admin/apps/overview/analytics.php:730 admin/apps/overview/analytics.php:739
+#: admin/apps/overview/analytics.php:748 admin/apps/overview/analytics.php:757
+#: admin/apps/overview/analytics.php:766 admin/apps/overview/analytics.php:775
+#: admin/apps/overview/analytics.php:784 admin/apps/overview/analytics.php:793
+#: admin/apps/overview/analytics.php:802 admin/apps/overview/analytics.php:811
+#: admin/apps/overview/analytics.php:820 admin/apps/overview/analytics.php:829
+#: admin/apps/overview/analytics.php:838 admin/apps/overview/analytics.php:847
+#: admin/apps/overview/analytics.php:856 admin/apps/overview/analytics.php:865
+#: admin/apps/overview/analytics.php:874 admin/apps/overview/analytics.php:883
+msgid "Analytics"
+msgstr "Analytics"
+
+#: admin/apps/overview/analytics.php:665
+msgid "Creates the google analytics cards for the overview page."
+msgstr ""
+"Creează cardurile Google Analytics pentru pagina de prezentare generală."
+
+#: admin/apps/overview/analytics.php:681
+msgid "Google Analytics disabled for"
+msgstr "Google Analytics este dezactivat pentru"
+
+#: admin/apps/overview/analytics.php:682
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr ""
+"Analytics va fi dezactivat pe pagina de prezentare generală pentru orice "
+"utilizator sau rol pe care îl selectați"
+
+#: admin/apps/overview/analytics.php:702
+msgid "Display website page views within the date range."
+msgstr "Afișați vizualizările paginii site-ului web în intervalul de date."
+
+#: admin/apps/overview/analytics.php:711
+msgid "Display website page speed within the date range."
+msgstr "Afișați viteza paginii site-ului web în intervalul de date."
+
+#: admin/apps/overview/analytics.php:720
+msgid "Display website users within the date range."
+msgstr "Afișați utilizatorii site-ului web în intervalul de date."
+
+#: admin/apps/overview/analytics.php:727
+msgid "Site visits by device"
+msgstr "Vizite pe site pe dispozitiv"
+
+#: admin/apps/overview/analytics.php:729
+msgid "Display site usage by device within the date range."
+msgstr ""
+"Afișați utilizarea site-ului în funcție de dispozitiv în intervalul de date."
+
+#: admin/apps/overview/analytics.php:736 admin/apps/overview/overview.php:841
+msgid "Bounce Rate"
+msgstr "Rata de respingere"
+
+#: admin/apps/overview/analytics.php:738
+msgid "Display site bounce rate within the date range."
+msgstr "Afișați rata de respingere a site-ului în intervalul de date."
+
+#: admin/apps/overview/analytics.php:745
+msgid "Session Duration"
+msgstr "Durata sesiunii"
+
+#: admin/apps/overview/analytics.php:747
+msgid "Display site session duration within the date range."
+msgstr "Afișați durata sesiunii pe site în intervalul de date."
+
+#: admin/apps/overview/analytics.php:754
+msgid "Visits by Country"
+msgstr "Vizite pe țară"
+
+#: admin/apps/overview/analytics.php:756
+msgid "Displays country user data within the date range."
+msgstr "Afișează datele utilizatorilor țării în intervalul de date."
+
+#: admin/apps/overview/analytics.php:763
+msgid "Traffic Sources"
+msgstr "Surse de trafic"
+
+#: admin/apps/overview/analytics.php:765
+msgid "Displays traffic source info within the date range."
+msgstr "Afișează informații despre sursa de trafic în intervalul de date."
+
+#: admin/apps/overview/analytics.php:772
+msgid "Visits By Page"
+msgstr "Vizite după pagină"
+
+#: admin/apps/overview/analytics.php:774
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr ""
+"Afișează traficul pentru cele mai populare pagini de site în intervalul de "
+"date."
+
+#: admin/apps/overview/analytics.php:781
+msgid "Event Count By Event Name"
+msgstr "Număr de evenimente după numele evenimentului"
+
+#: admin/apps/overview/analytics.php:783
+msgid "Display list of events within the date range."
+msgstr "Afișează lista de evenimente din intervalul de date."
+
+#: admin/apps/overview/analytics.php:790
+msgid "Sessions by channel grouping"
+msgstr "Sesiuni după gruparea canalelor"
+
+#: admin/apps/overview/analytics.php:792
+msgid "Display sessions by channel grouping within the date range."
+msgstr ""
+"Afișați sesiunile în funcție de gruparea canalelor în intervalul de date."
+
+#: admin/apps/overview/analytics.php:799
+msgid "User in the last 30 minutes"
+msgstr "Utilizator în ultimele 30 de minute"
+
+#: admin/apps/overview/analytics.php:801
+msgid "Displays active users from the last 30 minutes."
+msgstr "Afișează utilizatorii activi din ultimele 30 de minute."
+
+#: admin/apps/overview/analytics.php:808
+msgid "Engagement Rate"
+msgstr "Rata de implicare"
+
+#: admin/apps/overview/analytics.php:810
+msgid "Displays average angagement rate for date range"
+msgstr "Afișează rata medie de implicare pentru intervalul de date"
+
+#: admin/apps/overview/analytics.php:817 admin/apps/overview/overview.php:783
+msgid "Site Revenue"
+msgstr "Venituri pe site"
+
+#: admin/apps/overview/analytics.php:819
+msgid ""
+"Displays site revenue for date range. The sum of revenue from purchases, "
+"subscriptions, and advertising."
+msgstr ""
+"Afișează venitul site-ului pentru intervalul de date. Suma veniturilor din "
+"achiziții, abonamente și publicitate."
+
+#: admin/apps/overview/analytics.php:826
+msgid "New vs Returning Users"
+msgstr "Utilizatori noi vs utilizatori care revin"
+
+#: admin/apps/overview/analytics.php:828
+msgid "Displays new vs returning users for the date range."
+msgstr "Afișează utilizatorii noi și cei care revin pentru intervalul de date."
+
+#: admin/apps/overview/analytics.php:835
+msgid "Top Cities"
+msgstr "Orașe de top"
+
+#: admin/apps/overview/analytics.php:837
+msgid "Displays page views by city for the date range."
+msgstr ""
+"Afișează paginile afișate în funcție de oraș pentru intervalul de date."
+
+#: admin/apps/overview/analytics.php:844 admin/apps/overview/overview.php:785
+msgid "Ecommerce Overview"
+msgstr "Prezentare generală a comerțului electronic"
+
+#: admin/apps/overview/analytics.php:846
+msgid "Displays add to cart, checkout and purchase data for the date range."
+msgstr ""
+"Afișează datele de adăugare în coș, de finalizare a comenzii și de achiziție "
+"pentru intervalul de date."
+
+#: admin/apps/overview/analytics.php:853 admin/apps/overview/overview.php:781
+#: admin/apps/overview/overview.php:782
+msgid "Conversion Rate"
+msgstr "Rata de conversie"
+
+#: admin/apps/overview/analytics.php:855
+msgid ""
+"The percentage of active users who made their first purchase for the date "
+"range."
+msgstr ""
+"Procentul de utilizatori activi care au făcut prima achiziție pentru "
+"intervalul de date."
+
+#: admin/apps/overview/analytics.php:862
+msgid "Top Products"
+msgstr "Produse de top"
+
+#: admin/apps/overview/analytics.php:864
+msgid "Products with the most sales for for the date range."
+msgstr "Produsele cu cele mai multe vânzări pentru intervalul de date."
+
+#: admin/apps/overview/analytics.php:871
+msgid "Conversions in the last 30 minutes"
+msgstr "Conversii în ultimele 30 de minute"
+
+#: admin/apps/overview/analytics.php:873
+msgid "Conversions logged in the last 30 minutes."
+msgstr "Conversii înregistrate în ultimele 30 de minute."
+
+#: admin/apps/overview/analytics.php:880
+msgid "Page Views in the last 30 minutes"
+msgstr "Vizualizări de pagină în ultimele 30 de minute"
+
+#: admin/apps/overview/analytics.php:882
+msgid "Page views in the last 30 minutes."
+msgstr "Vizualizări de pagină în ultimele 30 de minute."
+
+#: admin/apps/overview/analytics.php:1013
+msgid "Unable to fetch analytics data at this moment. Please try again later"
+msgstr ""
+"Nu se pot prelua date de analiză în acest moment. Vă rugăm să încercați din "
+"nou mai târziu"
+
+#: admin/apps/overview/overview.php:106 admin/apps/overview/overview.php:1150
+msgid "Overview"
+msgstr "Prezentare generală"
+
+#: admin/apps/overview/overview.php:107
+msgid "Creates the overview page."
+msgstr "Creează pagina de prezentare generală."
+
+#: admin/apps/overview/overview.php:111
+msgid "Disable Overview Page?"
+msgstr "Dezactivați pagina de prezentare generală?"
+
+#: admin/apps/overview/overview.php:112
+msgid "Overview page will be hidden when this option is activated."
+msgstr ""
+"Pagina de prezentare generală va fi ascunsă când această opțiune este "
+"activată."
+
+#: admin/apps/overview/overview.php:119
+msgid "Overview Page Disabled For"
+msgstr "Pagina de prezentare generală este dezactivată pentru"
+
+#: admin/apps/overview/overview.php:120
+msgid "Overview Page will be disabled for any users or roles you select"
+msgstr ""
+"Pagina Prezentare generală va fi dezactivată pentru orice utilizator sau rol "
+"pe care îl selectați"
+
+#: admin/apps/overview/overview.php:128
+msgid "Who can edit the overview page?"
+msgstr "Cine poate edita pagina de prezentare generală?"
+
+#: admin/apps/overview/overview.php:129
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If none "
+"are chosen it will fall back to administrators only"
+msgstr ""
+"Orice rol sau utilizator ales aici va putea edita pagina de prezentare "
+"generală. Dacă niciunul nu este ales, va reveni numai la administratori"
+
+#: admin/apps/overview/overview.php:137
+msgid "Default report start date"
+msgstr "Data de începere a raportului implicit"
+
+#: admin/apps/overview/overview.php:138
+msgid ""
+"By default the overview date range will start 7 days before current date. "
+"Add a number of days between 1 and 90 to change length of date range"
+msgstr ""
+"În mod implicit, intervalul de date de prezentare generală va începe cu 7 "
+"zile înainte de data curentă. Adăugați un număr de zile între 1 și 90 pentru "
+"a modifica durata intervalului de date"
+
+#: admin/apps/overview/overview.php:146
+msgid "Default report end date offset"
+msgstr "Compensarea datei de încheiere a raportului implicit"
+
+#: admin/apps/overview/overview.php:147
+msgid ""
+"By default the overview date range will end on the current day (0). To end "
+"the report on yesterday for example, enter 1"
+msgstr ""
+"În mod implicit, intervalul de date de prezentare generală se va încheia în "
+"ziua curentă (0). Pentru a încheia raportul de ieri, de exemplu, introduceți "
+"1"
+
+#: admin/apps/overview/overview.php:155
+msgid "Reporting Currency Symbol"
+msgstr "Simbolul monedei de raportare"
+
+#: admin/apps/overview/overview.php:156
+msgid ""
+"If you are using google analytics commerce reports, enter the currency "
+"symbol your reports are in here"
+msgstr ""
+"Dacă utilizați rapoarte de comerț Google Analytics, introduceți aici "
+"simbolul monedei în care se află rapoartele dvs"
+
+#: admin/apps/overview/overview.php:164
+msgid "Custom welcome message"
+msgstr "Mesaj personalizat de bun venit"
+
+#: admin/apps/overview/overview.php:165
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr ""
+"Adăugați aici un mesaj personalizat de bun venit pentru afișat pe pagina de "
+"prezentare generală"
+
+#: admin/apps/overview/overview.php:243 admin/apps/overview/overview.php:384
+#: admin/apps/overview/woocommerce.php:158
+msgid "ago"
+msgstr "în urmă"
+
+#: admin/apps/overview/overview.php:259 admin/apps/overview/overview.php:447
+#: admin/apps/overview/woocommerce.php:183
+#: admin/apps/overview/woocommerce.php:265
+msgid "Posts fetched"
+msgstr "Postări preluate"
+
+#: admin/apps/overview/overview.php:267
+msgid "No posts posted during the date range."
+msgstr "Nu au fost postate postări în intervalul de date."
+
+#: admin/apps/overview/overview.php:282
+msgid "Unable to save dash at this time"
+msgstr "Nu se poate salva liniuța în acest moment"
+
+#: admin/apps/overview/overview.php:292
+msgid "Dashboard settings saved"
+msgstr "Setările tabloului de bord au fost salvate"
+
+#: admin/apps/overview/overview.php:307
+msgid "Dashboard settings reset"
+msgstr "Setările tabloului de bord sunt resetate"
+
+#: admin/apps/overview/overview.php:320 admin/apps/overview/overview.php:328
+msgid "Unable to load shortcode at this time"
+msgstr "Nu se poate încărca codul scurt în acest moment"
+
+#: admin/apps/overview/overview.php:335
+msgid "Shortcode loaded"
+msgstr "Shortcode încărcat"
+
+#: admin/apps/overview/overview.php:454
+msgid "No comments during the date range."
+msgstr "Fără comentarii în intervalul de date."
+
+#: admin/apps/overview/overview.php:477
+msgid "Core version"
+msgstr "Versiunea de bază"
+
+#: admin/apps/overview/overview.php:482
+msgid "PHP version"
+msgstr "versiunea PHP"
+
+#: admin/apps/overview/overview.php:487
+msgid "Active Plugins"
+msgstr "Pluginuri active"
+
+#: admin/apps/overview/overview.php:492
+msgid "Inactive Plugins"
+msgstr "Pluginuri inactive"
+
+#: admin/apps/overview/overview.php:497
+msgid "Installed Themes"
+msgstr "Teme instalate"
+
+#: admin/apps/overview/overview.php:532
+msgid "Unable to fetch quote of the day"
+msgstr "Nu se poate prelua citatul zilei"
+
+#: admin/apps/overview/overview.php:570
+msgid "Passed Checks"
+msgstr "Cecurile trecute"
+
+#: admin/apps/overview/overview.php:578
+msgid "Recommended"
+msgstr "Recomandat"
+
+#: admin/apps/overview/overview.php:586
+msgid "Critical"
+msgstr "Critic"
+
+#: admin/apps/overview/overview.php:597
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "Aruncă o privire la cele %d articole de pe"
+
+#: admin/apps/overview/overview.php:598
+msgid "Site Health screen"
+msgstr "Ecran Site Health"
+
+#: admin/apps/overview/overview.php:606
+msgid "Device Visits"
+msgstr "Vizite pe dispozitiv"
+
+#: admin/apps/overview/overview.php:693
+msgid "Card width"
+msgstr "Lățimea cardului"
+
+#: admin/apps/overview/overview.php:694
+msgid "Column width"
+msgstr "Lățimea coloanei"
+
+#: admin/apps/overview/overview.php:695
+msgid "Column settings"
+msgstr "Setările coloanelor"
+
+#: admin/apps/overview/overview.php:696
+msgid "Column Size"
+msgstr "Dimensiunea coloanei"
+
+#: admin/apps/overview/overview.php:697
+msgid "Remove Card"
+msgstr "Scoateți cardul"
+
+#: admin/apps/overview/overview.php:698 admin/apps/overview/overview.php:799
+msgid "Delete Column"
+msgstr "Șterge coloana"
+
+#: admin/apps/overview/overview.php:699
+msgid "In the"
+msgstr "În"
+
+#: admin/apps/overview/overview.php:700
+msgid "day range"
+msgstr "interval de zi"
+
+#: admin/apps/overview/overview.php:701
+msgid "xxsmall (1/6)"
+msgstr "xxmic (1/6)"
+
+#: admin/apps/overview/overview.php:702
+msgid "xsmall (1/5)"
+msgstr "x mic (1/5)"
+
+#: admin/apps/overview/overview.php:703
+msgid "small (1/4)"
+msgstr "mic (1/4)"
+
+#: admin/apps/overview/overview.php:704
+msgid "small medium (1/3)"
+msgstr "mic mediu (1/3)"
+
+#: admin/apps/overview/overview.php:705
+msgid "medium (1/2)"
+msgstr "mediu (1/2)"
+
+#: admin/apps/overview/overview.php:706
+msgid "medium large (2/3)"
+msgstr "mediu mare (2/3)"
+
+#: admin/apps/overview/overview.php:707
+msgid "large (3/4)"
+msgstr "mare (3/4)"
+
+#: admin/apps/overview/overview.php:708
+msgid "xlarge (1/1)"
+msgstr "x mare (1/1)"
+
+#: admin/apps/overview/overview.php:709
+msgid "I am an empty column. Drag cards into me."
+msgstr "Sunt o coloană goală. Trage cărți în mine."
+
+#: admin/apps/overview/overview.php:710
+msgid "Column Added"
+msgstr "Coloană adăugată"
+
+#: admin/apps/overview/overview.php:711
+msgid "Add card"
+msgstr "Adăugați card"
+
+#: admin/apps/overview/overview.php:712
+msgid "Section added"
+msgstr "Secțiune adăugată"
+
+#: admin/apps/overview/overview.php:713
+msgid "Search Cards"
+msgstr "Căutare carduri"
+
+#: admin/apps/overview/overview.php:714
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/apps/overview/overview.php:716 admin/apps/overview/overview.php:922
+msgid "Shortcode"
+msgstr "Cod scurt"
+
+#: admin/apps/overview/overview.php:717
+msgid "Video URL"
+msgstr "Adresa URL a videoclipului"
+
+#: admin/apps/overview/overview.php:718
+msgid "Embed Type"
+msgstr "Tip de încorporare"
+
+#: admin/apps/overview/overview.php:719
+msgid "UiPress Pro feature"
+msgstr "Funcția UiPress Pro"
+
+#: admin/apps/overview/overview.php:720
+msgid "Upgrade to one of our premium plans to unlock this feature."
+msgstr ""
+"Faceți upgrade la unul dintre planurile noastre premium pentru a debloca "
+"această funcție."
+
+#: admin/apps/overview/overview.php:721
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/apps/overview/overview.php:722
+msgid "Card Added"
+msgstr "Card adăugat"
+
+#: admin/apps/overview/overview.php:723
+msgid "Card Background colour"
+msgstr "Culoarea fundalului cardului"
+
+#: admin/apps/overview/overview.php:724
+msgid "# Hex code only (#fff)"
+msgstr "# Numai cod hexadecimal (#fff)"
+
+#: admin/apps/overview/overview.php:725
+msgid "Use light color for text"
+msgstr "Utilizați culoare deschisă pentru text"
+
+#: admin/apps/overview/overview.php:726
+msgid "Chart Type"
+msgstr "Tip diagramă"
+
+#: admin/apps/overview/overview.php:727
+msgid "Line Chart"
+msgstr "Diagramă cu linii"
+
+#: admin/apps/overview/overview.php:728
+msgid "Bar Chart"
+msgstr "Diagramă cu bare"
+
+#: admin/apps/overview/overview.php:729
+msgid "vs previous"
+msgstr "vs anterior"
+
+#: admin/apps/overview/overview.php:730 admin/apps/overview/overview.php:829
+msgid "days"
+msgstr "zile"
+
+#: admin/apps/overview/overview.php:731
+msgid "Doughnut"
+msgstr "Gogoașă"
+
+#: admin/apps/overview/overview.php:732
+msgid "Polar Area"
+msgstr "Zona polară"
+
+#: admin/apps/overview/overview.php:733
+msgid "Bar"
+msgstr "Bar"
+
+#: admin/apps/overview/overview.php:734 admin/apps/overview/overview.php:741
+msgid "Horizontal Bar"
+msgstr "Bara orizontala"
+
+#: admin/apps/overview/overview.php:735
+msgid "Country"
+msgstr "Țară"
+
+#: admin/apps/overview/overview.php:736
+msgid "Visits"
+msgstr "Vizite"
+
+#: admin/apps/overview/overview.php:737
+msgid "Change"
+msgstr "Schimbare"
+
+#: admin/apps/overview/overview.php:738
+msgid "No Background"
+msgstr "Fără fundal"
+
+#: admin/apps/overview/overview.php:739
+msgid "Hide Map"
+msgstr "Ascunde harta"
+
+#: admin/apps/overview/overview.php:740
+msgid "Connect your account to use this card"
+msgstr "Conectați-vă contul pentru a utiliza acest card"
+
+#: admin/apps/overview/overview.php:742
+msgid "Hide Chart"
+msgstr "Ascunde diagrama"
+
+#: admin/apps/overview/overview.php:743
+msgid "Source"
+msgstr "Sursă"
+
+#: admin/apps/overview/overview.php:744
+msgid "Page"
+msgstr "Pagină"
+
+#: admin/apps/overview/overview.php:745
+msgid "Product"
+msgstr "Produs"
+
+#: admin/apps/overview/overview.php:746
+msgid "Sold"
+msgstr "Vândut"
+
+#: admin/apps/overview/overview.php:747
+msgid "Value"
+msgstr "Valoare"
+
+#: admin/apps/overview/overview.php:748
+msgid "WooCommerce is required to use this card"
+msgstr "WooCommerce este necesar pentru a utiliza acest card"
+
+#: admin/apps/overview/overview.php:749 admin/classes/uipress-app.php:1380
+msgid "Please select a valid JSON file"
+msgstr "Vă rugăm să selectați un fișier JSON valid"
+
+#: admin/apps/overview/overview.php:750 admin/classes/uipress-app.php:1381
+msgid "File is to big"
+msgstr "Fișierul este prea mare"
+
+#: admin/apps/overview/overview.php:751
+msgid "Layout Imported"
+msgstr "Aspect importat"
+
+#: admin/apps/overview/overview.php:752
+msgid "Unable to import layout"
+msgstr "Nu se poate importa aspectul"
+
+#: admin/apps/overview/overview.php:753
+msgid "Are you sure you want to clear the current layout? There is no undo."
+msgstr "Sigur doriți să ștergeți aspectul actual? Nu există nicio anulare."
+
+#: admin/apps/overview/overview.php:754
+msgid "Available Cards"
+msgstr "Carduri disponibile"
+
+#: admin/apps/overview/overview.php:755
+msgid "Event Count"
+msgstr "Număr de evenimente"
+
+#: admin/apps/overview/overview.php:756
+msgid "Event Name"
+msgstr "Numele evenimentului"
+
+#: admin/apps/overview/overview.php:757
+msgid "Channel"
+msgstr "Canal"
+
+#: admin/apps/overview/overview.php:758
+msgid "Sessions"
+msgstr "Sesiuni"
+
+#: admin/apps/overview/overview.php:760
+msgid "Page Views  (comparison period)"
+msgstr "Vizualizări de pagină (perioada de comparație)"
+
+#: admin/apps/overview/overview.php:763
+msgid "To"
+msgstr "La"
+
+#: admin/apps/overview/overview.php:764
+msgid "From"
+msgstr "Din"
+
+#: admin/apps/overview/overview.php:765
+msgid "Date Range"
+msgstr "Interval de date"
+
+#: admin/apps/overview/overview.php:766
+msgid "Custom Comparison Dates"
+msgstr "Date personalizate de comparație"
+
+#: admin/apps/overview/overview.php:767
+msgid "Apply"
+msgstr "aplica"
+
+#: admin/apps/overview/overview.php:768
+msgid "vs"
+msgstr "vs"
+
+#: admin/apps/overview/overview.php:769
+msgid "Custom Range"
+msgstr "Interval personalizat"
+
+#: admin/apps/overview/overview.php:770 admin/classes/uipress-app.php:1397
+msgid "Today"
+msgstr "Astăzi"
+
+#: admin/apps/overview/overview.php:771 admin/classes/uipress-app.php:1398
+msgid "Yesterday"
+msgstr "Ieri"
+
+#: admin/apps/overview/overview.php:772
+msgid "Last 7 days"
+msgstr "Ultimele 7 zile"
+
+#: admin/apps/overview/overview.php:773
+msgid "Last 30 days"
+msgstr "Ultimele 30 de zile"
+
+#: admin/apps/overview/overview.php:774
+msgid "Last 60 days"
+msgstr "Ultimele 60 de zile"
+
+#: admin/apps/overview/overview.php:775
+msgid "Last 90 days"
+msgstr "Ultimele 90 de zile"
+
+#: admin/apps/overview/overview.php:776 admin/classes/uipress-app.php:1395
+msgid "This Month"
+msgstr "Luna aceasta"
+
+#: admin/apps/overview/overview.php:777 admin/classes/uipress-app.php:1396
+msgid "Last Month"
+msgstr "Luna trecuta"
+
+#: admin/apps/overview/overview.php:778
+msgid "Purchases"
+msgstr "Achiziții"
+
+#: admin/apps/overview/overview.php:779
+msgid "Added to cart"
+msgstr "Adăugat în coș"
+
+#: admin/apps/overview/overview.php:780
+msgid "Checkout started"
+msgstr "Checkout a început"
+
+#: admin/apps/overview/overview.php:784
+msgid "Site Revenue (comparison)"
+msgstr "Venitul site-ului (comparație)"
+
+#: admin/apps/overview/overview.php:786
+msgid "Visits By Device"
+msgstr "Vizite după dispozitiv"
+
+#: admin/apps/overview/overview.php:787
+msgid "Device Category"
+msgstr "Categoria dispozitivului"
+
+#: admin/apps/overview/overview.php:788
+msgid "Active Users"
+msgstr "Utilizatori activi"
+
+#: admin/apps/overview/overview.php:789 admin/apps/overview/overview.php:791
+msgid "Product Name"
+msgstr "numele produsului"
+
+#: admin/apps/overview/overview.php:790
+msgid "Sales"
+msgstr "Vânzări"
+
+#: admin/apps/overview/overview.php:792
+msgid "Quantity Sold"
+msgstr "Cantitate vândută"
+
+#: admin/apps/overview/overview.php:793 admin/apps/overview/overview.php:807
+msgid "Revenue"
+msgstr "Venituri"
+
+#: admin/apps/overview/overview.php:794
+msgid "Column Removed"
+msgstr "Coloana a fost eliminată"
+
+#: admin/apps/overview/overview.php:795
+msgid "Section Removed"
+msgstr "Secțiunea eliminată"
+
+#: admin/apps/overview/overview.php:796
+msgid "View Plans"
+msgstr "Vizualizați planuri"
+
+#: admin/apps/overview/overview.php:797
+msgid "Unable to fetch analytics data, please try again later"
+msgstr "Nu se pot prelua datele de analiză, încercați din nou mai târziu"
+
+#: admin/apps/overview/overview.php:798
+msgid "Column background colour"
+msgstr "Culoarea fundalului coloanei"
+
+#: admin/apps/overview/overview.php:800
+msgid "Hide card title"
+msgstr "Ascundeți titlul cardului"
+
+#: admin/apps/overview/overview.php:801 admin/apps/overview/overview.php:895
+msgid "Site Health"
+msgstr "Sănătatea site-ului"
+
+#: admin/apps/overview/overview.php:802
+msgid "Conversions"
+msgstr "Conversii"
+
+#: admin/apps/overview/overview.php:803
+msgid "This card only works with google analytics 4 accounts"
+msgstr "Acest card funcționează numai cu conturi Google Analytics 4"
+
+#: admin/apps/overview/overview.php:804
+msgid "This card only works with universal analytics propeties."
+msgstr "Acest card funcționează numai cu proprietăți universale de analiză."
+
+#: admin/apps/overview/overview.php:805
+msgid "Orders"
+msgstr "Comenzi"
+
+#: admin/apps/overview/overview.php:806
+msgid "Orders (comparison period)."
+msgstr "Comenzi (perioada de comparație)."
+
+#: admin/apps/overview/overview.php:808
+msgid "Revenue (comparison period)."
+msgstr "Venituri (perioada de comparație)."
+
+#: admin/apps/overview/overview.php:809
+msgid "Current Period"
+msgstr "Perioada curenta"
+
+#: admin/apps/overview/overview.php:810
+msgid "Comparison Period"
+msgstr "Perioada de comparație"
+
+#: admin/apps/overview/overview.php:811
+msgid "Match Card Height"
+msgstr "Potriviți înălțimea cardului"
+
+#: admin/apps/overview/overview.php:813
+msgid "What would you like to do?"
+msgstr "Ce ai vrea sa faci?"
+
+#: admin/apps/overview/overview.php:814
+msgid "To do"
+msgstr "A face"
+
+#: admin/apps/overview/overview.php:815
+msgid "Done"
+msgstr "Terminat"
+
+#: admin/apps/overview/overview.php:816
+msgid "Size"
+msgstr "mărimea"
+
+#: admin/apps/overview/overview.php:817
+msgid "Background Colour"
+msgstr "Culoare de fundal"
+
+#: admin/apps/overview/overview.php:818
+msgid "Custom CSS class"
+msgstr "Clasă CSS personalizată"
+
+#: admin/apps/overview/overview.php:819
+msgid "Add New Card"
+msgstr "Adăugați un card nou"
+
+#: admin/apps/overview/overview.php:820 admin/apps/overview/overview.php:1249
+#: admin/classes/settings.php:78 admin/classes/settings.php:91
+#: admin/classes/settings.php:226 admin/classes/uipress-app.php:1406
+msgid "Settings"
+msgstr "Setări"
+
+#: admin/apps/overview/overview.php:821
+msgid "Card Settings"
+msgstr "Setări card"
+
+#: admin/apps/overview/overview.php:822
+msgid "Move Column Down"
+msgstr "Mutați coloana în jos"
+
+#: admin/apps/overview/overview.php:823
+msgid "Move Column Up"
+msgstr "Mutați coloana în sus"
+
+#: admin/apps/overview/overview.php:824
+msgid "Add new column"
+msgstr "Adăugați o coloană nouă"
+
+#: admin/apps/overview/overview.php:825
+msgid "Section Settings"
+msgstr "Secțiunea Setări"
+
+#: admin/apps/overview/overview.php:826
+msgid "Toggle section visibility"
+msgstr "Comutați vizibilitatea secțiunii"
+
+#: admin/apps/overview/overview.php:827
+msgid "Page Settings"
+msgstr "Setări pagină"
+
+#: admin/apps/overview/overview.php:828
+msgid "In the last"
+msgstr "În final"
+
+#: admin/apps/overview/overview.php:830 admin/apps/users/uip-users-ajax.php:662
+msgid "Something has gone wrong"
+msgstr "Ceva a mers prost"
+
+#: admin/apps/overview/overview.php:831
+msgid "Connect your matomo site to use this card"
+msgstr "Conectați-vă site-ul matomo pentru a utiliza acest card"
+
+#: admin/apps/overview/overview.php:832
+msgid "Connect Matomo Analytics"
+msgstr "Conectați Matomo Analytics"
+
+#: admin/apps/overview/overview.php:833
+msgid "Auth Token"
+msgstr "Jeton de autentificare"
+
+#: admin/apps/overview/overview.php:834
+msgid "Matomo Url"
+msgstr "Matomo Url"
+
+#: admin/apps/overview/overview.php:835
+msgid "Matomo Site ID"
+msgstr "ID-ul site-ului Matomo"
+
+#: admin/apps/overview/overview.php:837
+msgid "Click below to change matomo account"
+msgstr "Faceți clic mai jos pentru a schimba contul matomo"
+
+#: admin/apps/overview/overview.php:838
+msgid "Change account"
+msgstr "Schimba contul"
+
+#: admin/apps/overview/overview.php:839
+msgid "City"
+msgstr "Oraș"
+
+#: admin/apps/overview/overview.php:840
+msgid "Average Page Load"
+msgstr "Încărcare medie a paginii"
+
+#: admin/apps/overview/overview.php:842
+msgid "Exit Rate"
+msgstr "Rata de ieșire"
+
+#: admin/apps/overview/overview.php:843
+msgid "Average Time On Page"
+msgstr "Timp mediu pe pagină"
+
+#: admin/apps/overview/overview.php:844
+msgid "Referer"
+msgstr "Referitor"
+
+#: admin/apps/overview/overview.php:845
+msgid "Section name"
+msgstr "Numele secțiunii"
+
+#: admin/apps/overview/overview.php:846
+msgid "Section description"
+msgstr "Descrierea secțiunii"
+
+#: admin/apps/overview/overview.php:868
+msgid "Recently Published"
+msgstr "Publicat recent"
+
+#: admin/apps/overview/overview.php:870
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr ""
+"Afișați postările, paginile și CPT-urile publicate în intervalul de date."
+
+#: admin/apps/overview/overview.php:871 admin/apps/overview/overview.php:880
+#: admin/apps/overview/overview.php:889 admin/apps/overview/overview.php:898
+#: admin/apps/overview/overview.php:907 admin/apps/overview/overview.php:916
+#: admin/apps/overview/overview.php:925 admin/apps/overview/overview.php:934
+#: admin/apps/overview/overview.php:943 admin/apps/overview/overview.php:952
+#: admin/classes/uipress-app.php:2526
+msgid "General"
+msgstr "General"
+
+#: admin/apps/overview/overview.php:877
+msgid "Recent Comments"
+msgstr "Comentarii recente"
+
+#: admin/apps/overview/overview.php:879
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr ""
+"Afișează comentariile totale și comentariile recente publicate în intervalul "
+"de date."
+
+#: admin/apps/overview/overview.php:886
+msgid "System Info"
+msgstr "Informatie de sistem"
+
+#: admin/apps/overview/overview.php:888
+msgid "Displays info our about your cms and server setup."
+msgstr "Afișează informații despre cms și configurarea serverului dvs."
+
+#: admin/apps/overview/overview.php:897
+msgid "Displays info our about your sites health."
+msgstr "Afișează informații despre sănătatea site-urilor dvs."
+
+#: admin/apps/overview/overview.php:906
+msgid "Displays current time and date"
+msgstr "Afișează ora și data curente"
+
+#: admin/apps/overview/overview.php:913
+msgid "Video"
+msgstr "Video"
+
+#: admin/apps/overview/overview.php:915
+msgid "Displays a custom video"
+msgstr "Afișează un videoclip personalizat"
+
+#: admin/apps/overview/overview.php:924
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "Afișează un cod scurt WordPress pe card"
+
+#: admin/apps/overview/overview.php:931
+msgid "Custom HTML"
+msgstr "HTML personalizat"
+
+#: admin/apps/overview/overview.php:933
+msgid "Outputs custom HTML to the card"
+msgstr "Emite HTML personalizat pe card"
+
+#: admin/apps/overview/overview.php:940
+msgid "Quote of the day"
+msgstr "Citatul zilei"
+
+#: admin/apps/overview/overview.php:942
+msgid "Shows a random quote of the day"
+msgstr "Afișează un citat aleatoriu al zilei"
+
+#: admin/apps/overview/overview.php:949
+msgid "To do list"
+msgstr "Lista de făcut"
+
+#: admin/apps/overview/overview.php:951
+msgid "A simple todo list card"
+msgstr "O carte simplă cu lista de sarcini"
+
+#: admin/apps/overview/overview.php:1038
+msgid "Hello"
+msgstr "Buna ziua"
+
+#: admin/apps/overview/overview.php:1187
+msgid "Clear Layout"
+msgstr "Ștergeți aspectul"
+
+#: admin/apps/overview/overview.php:1191 admin/apps/overview/overview.php:1234
+msgid "New Section"
+msgstr "Secțiune nouă"
+
+#: admin/apps/overview/overview.php:1196 admin/apps/overview/overview.php:1237
+msgid "Save changes"
+msgstr "Salvează modificările"
+
+#: admin/apps/overview/overview.php:1240
+msgid "Exit edit mode"
+msgstr "Ieși din modul de editare"
+
+#: admin/apps/overview/overview.php:1253
+msgid "Editing Mode"
+msgstr "Modul de editare"
+
+#: admin/apps/overview/overview.php:1265
+msgid "Disconnect Analytics"
+msgstr "Deconectați Analytics"
+
+#: admin/apps/overview/overview.php:1275
+msgid "Export Layout"
+msgstr "Exportați aspectul"
+
+#: admin/apps/overview/overview.php:1284
+msgid "Import Layout"
+msgstr "Importați aspect"
+
+#: admin/apps/overview/overview.php:1298 admin/classes/settings.php:258
+#: admin/classes/styles.php:457
+msgid "Unlock Export and Import features with pro"
+msgstr "Deblocați funcțiile de export și import cu pro"
+
+#: admin/apps/overview/overview.php:1321
+msgid "Home"
+msgstr "Acasă"
+
+#: admin/apps/overview/overview.php:1369
+msgid "It's a little quiet around here"
+msgstr "E puțin liniște pe aici"
+
+#: admin/apps/overview/overview.php:1371
+msgid ""
+"Looks like you haven't created a dashboard yet. Enter edit mode to get "
+"started or import a default template"
+msgstr ""
+"Se pare că nu ați creat încă un tablou de bord. Intrați în modul de editare "
+"pentru a începe sau importați un șablon implicit"
+
+#: admin/apps/overview/overview.php:1374
+msgid "Import default template"
+msgstr "Importă șablon implicit"
+
+#: admin/apps/overview/overview.php:1375
+msgid "Enter edit mode"
+msgstr "Intrați în modul de editare"
+
+#: admin/apps/overview/overview.php:1419
+msgid "Match Column Height"
+msgstr "Potriviți înălțimea coloanei"
+
+#: admin/apps/overview/overview.php:1427
+msgid "Hide section title"
+msgstr "Ascunde titlul secțiunii"
+
+#: admin/apps/overview/overview.php:1435
+msgid "Section Width"
+msgstr "Lățimea secțiunii"
+
+#: admin/apps/overview/overview.php:1452
+msgid "Remove Section"
+msgstr "Eliminați secțiunea"
+
+#: admin/apps/overview/woocommerce.php:46
+#: admin/apps/overview/woocommerce.php:125
+#: admin/apps/overview/woocommerce.php:203
+msgid "Woocommerce is required for this widget"
+msgstr "Woocommerce este necesar pentru acest widget"
+
+#: admin/apps/overview/woocommerce.php:74
+msgid "Total Revenue"
+msgstr "Veniturile totale"
+
+#: admin/apps/overview/woocommerce.php:76
+msgid "Display total sales revenue in your store within the date range."
+msgstr ""
+"Afișați veniturile totale din vânzări în magazinul dvs. în intervalul de "
+"date."
+
+#: admin/apps/overview/woocommerce.php:77
+#: admin/apps/overview/woocommerce.php:86
+#: admin/apps/overview/woocommerce.php:95
+#: admin/apps/overview/woocommerce.php:104
+#: admin/apps/overview/woocommerce.php:113
+msgid "Commerce"
+msgstr "Comerţ"
+
+#: admin/apps/overview/woocommerce.php:83
+msgid "Total Orders"
+msgstr "Total comenzi"
+
+#: admin/apps/overview/woocommerce.php:85
+msgid "Display total orders in your store within the date range."
+msgstr "Afișați totalul comenzilor din magazinul dvs. în intervalul de date."
+
+#: admin/apps/overview/woocommerce.php:92
+msgid "Average Order Value"
+msgstr "Valoarea medie a comenzii"
+
+#: admin/apps/overview/woocommerce.php:94
+msgid "Display average order value in your store within the date range."
+msgstr ""
+"Afișați valoarea medie a comenzii în magazinul dvs. în intervalul de date."
+
+#: admin/apps/overview/woocommerce.php:101
+msgid "Recent Orders"
+msgstr "comenzi recente"
+
+#: admin/apps/overview/woocommerce.php:103
+msgid "Display recent orders from your store within the date range."
+msgstr "Afișați comenzile recente din magazinul dvs. în intervalul de date."
+
+#: admin/apps/overview/woocommerce.php:110
+msgid "Popular Products"
+msgstr "Produse populare"
+
+#: admin/apps/overview/woocommerce.php:112
+msgid "Display top selling products from your store within the date range."
+msgstr ""
+"Afișați cele mai vândute produse din magazinul dvs. în intervalul de date."
+
+#: admin/apps/overview/woocommerce.php:191
+msgid "No orders during the date range."
+msgstr "Nu există comenzi în intervalul de date."
+
+#: admin/apps/overview/woocommerce.php:272
+msgid "No products sold during the date range."
+msgstr "Nu există produse vândute în intervalul de date."
+
+#: admin/apps/users/uip-history.php:132
+msgid "Once every 1 minutes"
+msgstr "O dată la fiecare 1 minut"
+
+#: admin/apps/users/uip-history.php:145
+msgctxt "post type general name"
+msgid "History"
+msgstr "Istorie"
+
+#: admin/apps/users/uip-history.php:146
+msgctxt "post type singular name"
+msgid "history"
+msgstr "istorie"
+
+#: admin/apps/users/uip-history.php:147
+msgctxt "admin menu"
+msgid "History"
+msgstr "Istorie"
+
+#: admin/apps/users/uip-history.php:148
+msgctxt "add new on admin bar"
+msgid "History"
+msgstr "Istorie"
+
+#: admin/apps/users/uip-history.php:149
+msgctxt "history"
+msgid "Add New"
+msgstr "Adăuga nou"
+
+#: admin/apps/users/uip-history.php:150
+msgid "Add New History"
+msgstr "Adăugați un nou istoric"
+
+#: admin/apps/users/uip-history.php:151
+msgid "New History"
+msgstr "Noua istorie"
+
+#: admin/apps/users/uip-history.php:152
+msgid "Edit History"
+msgstr "Editați istoricul"
+
+#: admin/apps/users/uip-history.php:153
+msgid "View History"
+msgstr "Vezi istoricul"
+
+#: admin/apps/users/uip-history.php:154
+msgid "All History"
+msgstr "Toată Istoria"
+
+#: admin/apps/users/uip-history.php:155
+msgid "Search History"
+msgstr "Istoricul cautarilor"
+
+#: admin/apps/users/uip-history.php:156
+msgid "No History found."
+msgstr "Nu a fost găsit niciun istoric."
+
+#: admin/apps/users/uip-history.php:157
+msgid "No History found in Trash."
+msgstr "Nu a fost găsit niciun istoric în Coșul de gunoi."
+
+#: admin/apps/users/uip-user-groups.php:41
+msgctxt "post type general name"
+msgid "Group"
+msgstr "grup"
+
+#: admin/apps/users/uip-user-groups.php:42
+msgctxt "post type singular name"
+msgid "Group"
+msgstr "grup"
+
+#: admin/apps/users/uip-user-groups.php:43
+msgctxt "admin menu"
+msgid "Groups"
+msgstr "Grupuri"
+
+#: admin/apps/users/uip-user-groups.php:44
+msgctxt "add new on admin bar"
+msgid "Group"
+msgstr "grup"
+
+#: admin/apps/users/uip-user-groups.php:45
+msgctxt "Group"
+msgid "Add New"
+msgstr "Adăuga nou"
+
+#: admin/apps/users/uip-user-groups.php:46
+#: admin/apps/users/uip-user-groups.php:57
+msgid "Add New Group"
+msgstr "Adăugați un grup nou"
+
+#: admin/apps/users/uip-user-groups.php:47
+msgid "New Group"
+msgstr "Grup nou"
+
+#: admin/apps/users/uip-user-groups.php:48
+msgid "Edit Group"
+msgstr "Editați grupul"
+
+#: admin/apps/users/uip-user-groups.php:49
+msgid "View Group"
+msgstr "Vizualizați grupul"
+
+#: admin/apps/users/uip-user-groups.php:50
+msgid "All Groups"
+msgstr "Toate Grupurile"
+
+#: admin/apps/users/uip-user-groups.php:51
+msgid "Search Groups"
+msgstr "Căutați grupuri"
+
+#: admin/apps/users/uip-user-groups.php:52
+msgid "No Groups found."
+msgstr "Nu s-au găsit grupuri."
+
+#: admin/apps/users/uip-user-groups.php:53
+msgid "No Groups found in Trash."
+msgstr "Nu s-au găsit grupuri în Coșul de gunoi."
+
+#: admin/apps/users/uip-user-groups.php:80
+msgid "No group to delete"
+msgstr "Niciun grup de șters"
+
+#: admin/apps/users/uip-user-groups.php:90
+msgid "Unable to delete the group"
+msgstr "Nu se poate șterge grupul"
+
+#: admin/apps/users/uip-user-groups.php:147
+msgid "Group deleted"
+msgstr "Grupul a fost șters"
+
+#: admin/apps/users/uip-user-groups.php:166
+msgid "Unable to move folder group itself"
+msgstr "Nu se poate muta grupul de foldere în sine"
+
+#: admin/apps/users/uip-user-groups.php:180
+msgid "Unable to move group"
+msgstr "Nu se poate muta grupul"
+
+#: admin/apps/users/uip-user-groups.php:208
+msgid "Group moved"
+msgstr "Grupul s-a mutat"
+
+#: admin/apps/users/uip-user-groups.php:227
+msgid "No item to move"
+msgstr "Niciun articol de mutat"
+
+#: admin/apps/users/uip-user-groups.php:241
+msgid "Item moved"
+msgstr "Element mutat"
+
+#: admin/apps/users/uip-user-groups.php:259
+msgid "No users to move"
+msgstr "Nu există utilizatori de mutat"
+
+#: admin/apps/users/uip-user-groups.php:277
+msgid "User moved"
+msgstr "Utilizatorul s-a mutat"
+
+#: admin/apps/users/uip-user-groups.php:318
+msgid "Group updated"
+msgstr "Grupul a fost actualizat"
+
+#: admin/apps/users/uip-user-groups.php:339 admin/classes/folders.php:557
+msgid "Title is required"
+msgstr "Titlul este obligatoriu"
+
+#: admin/apps/users/uip-user-groups.php:345 admin/classes/folders.php:563
+msgid "Colour is required"
+msgstr "Culoarea este necesară"
+
+#: admin/apps/users/uip-user-groups.php:360
+msgid "Unable to create group"
+msgstr "Nu se poate crea grupul"
+
+#: admin/apps/users/uip-user-groups.php:372
+msgid "Group created"
+msgstr "Grup creat"
+
+#: admin/apps/users/uip-users-ajax.php:415
+msgid "Unknown"
+msgstr "Necunoscut"
+
+#: admin/apps/users/uip-users-ajax.php:511
+#: admin/apps/users/uip-users-ajax.php:577
+msgid "You don't have sufficent priviledges to edit users"
+msgstr "Nu aveți privilegii suficiente pentru a edita utilizatori"
+
+#: admin/apps/users/uip-users-ajax.php:517
+#: admin/apps/users/uip-users-ajax.php:1023
+msgid "Email is not valid"
+msgstr "E-mailul nu este valid"
+
+#: admin/apps/users/uip-users-ajax.php:528
+#: admin/apps/users/uip-users-ajax.php:1016
+msgid "Email already exists"
+msgstr "E-mail există deja"
+
+#: admin/apps/users/uip-users-ajax.php:557
+#: admin/apps/users/uip-users-ajax.php:1069
+msgid "User saved"
+msgstr "Utilizatorul a fost salvat"
+
+#: admin/apps/users/uip-users-ajax.php:583
+msgid "No users sent to update"
+msgstr "Niciun utilizator nu a fost trimis să actualizeze"
+
+#: admin/apps/users/uip-users-ajax.php:589
+msgid "No roles sent to update"
+msgstr "Niciun rol trimis pentru actualizare"
+
+#: admin/apps/users/uip-users-ajax.php:610
+msgid "User roles updated"
+msgstr "Rolurile utilizatorului au fost actualizate"
+
+#: admin/apps/users/uip-users-ajax.php:630
+#: admin/apps/users/uip-users-ajax.php:716
+#: admin/apps/users/uip-users-ajax.php:777
+#: admin/apps/users/uip-users-ajax.php:818
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr "Nu aveți privilegii suficiente pentru a gestiona roluri"
+
+#: admin/apps/users/uip-users-ajax.php:636
+msgid "Original role name required"
+msgstr "Numele original al rolului este necesar"
+
+#: admin/apps/users/uip-users-ajax.php:642
+#: admin/apps/users/uip-users-ajax.php:722
+#: admin/apps/users/uip-users-ajax.php:783
+#: admin/apps/users/uip-users-ajax.php:836
+#: admin/apps/users/uip-users-ajax.php:879
+#: admin/apps/users/uip-users-ajax.php:885
+#: admin/apps/users/uip-users-ajax.php:944
+#: admin/apps/users/uip-users-ajax.php:950
+msgid "Role name is required"
+msgstr "Numele rolului este obligatoriu"
+
+#: admin/apps/users/uip-users-ajax.php:667
+msgid "Role saved"
+msgstr "Rol salvat"
+
+#: admin/apps/users/uip-users-ajax.php:686
+msgid "You don't have sufficent priviledges to do this"
+msgstr "Nu ai privilegii suficiente pentru a face asta"
+
+#: admin/apps/users/uip-users-ajax.php:697
+msgid "User logged out everywhere"
+msgstr "Utilizatorul sa deconectat peste tot"
+
+#: admin/apps/users/uip-users-ajax.php:728
+msgid "Role label cannot contain spaces"
+msgstr "Eticheta rolului nu poate conține spații"
+
+#: admin/apps/users/uip-users-ajax.php:734
+msgid "Role label is required"
+msgstr "Eticheta rolului este necesară"
+
+#: admin/apps/users/uip-users-ajax.php:753
+msgid "Unable to add role. Make sure role name is unique"
+msgstr "Nu se poate adăuga un rol. Asigurați-vă că numele rolului este unic"
+
+#: admin/apps/users/uip-users-ajax.php:758
+msgid "Role created"
+msgstr "Rol creat"
+
+#: admin/apps/users/uip-users-ajax.php:792
+#: admin/apps/users/uip-users-ajax.php:843
+msgid "You can't delete a role that is currently assigned to yourself"
+msgstr "Nu puteți șterge un rol care vă este atribuit în prezent"
+
+#: admin/apps/users/uip-users-ajax.php:799
+msgid "Role deleted"
+msgstr "Rol șters"
+
+#: admin/apps/users/uip-users-ajax.php:824
+msgid "No roles to delete"
+msgstr "Nu există roluri de șters"
+
+#: admin/apps/users/uip-users-ajax.php:852
+msgid "Roles deleted"
+msgstr "Roluri șterse"
+
+#: admin/apps/users/uip-users-ajax.php:873
+msgid "You don't have sufficent priviledges to add this capability"
+msgstr "Nu aveți privilegii suficiente pentru a adăuga această capacitate"
+
+#: admin/apps/users/uip-users-ajax.php:891
+#: admin/apps/users/uip-users-ajax.php:956
+msgid "Role name cannot contain spaces"
+msgstr "Numele rolului nu poate conține spații"
+
+#: admin/apps/users/uip-users-ajax.php:897
+msgid "Capability name cannot contain spaces"
+msgstr "Numele capacității nu poate conține spații"
+
+#: admin/apps/users/uip-users-ajax.php:912
+msgid "Unable to add capability. Make sure role name is unique"
+msgstr ""
+"Nu se poate adăuga capacitatea. Asigurați-vă că numele rolului este unic"
+
+#: admin/apps/users/uip-users-ajax.php:917
+msgid "Capability added"
+msgstr "Capacitate adăugată"
+
+#: admin/apps/users/uip-users-ajax.php:938
+msgid "You don't have sufficent priviledges to delete this capability"
+msgstr "Nu aveți privilegii suficiente pentru a șterge această capacitate"
+
+#: admin/apps/users/uip-users-ajax.php:971
+msgid "Unable to delete capability. Make sure role name is unique"
+msgstr ""
+"Nu se poate șterge capacitatea. Asigurați-vă că numele rolului este unic"
+
+#: admin/apps/users/uip-users-ajax.php:976
+msgid "Capability deleted"
+msgstr "Capacitatea a fost ștearsă"
+
+#: admin/apps/users/uip-users-ajax.php:996
+msgid "You don't have sufficent priviledges to create users"
+msgstr "Nu aveți privilegii suficiente pentru a crea utilizatori"
+
+#: admin/apps/users/uip-users-ajax.php:1003
+msgid "Username already exists"
+msgstr "nume de utilizator deja existent"
+
+#: admin/apps/users/uip-users-ajax.php:1009
+msgid "Username is not valid"
+msgstr "numele de utilizator nu este valid"
+
+#: admin/apps/users/uip-users-ajax.php:1029
+msgid "Password is required"
+msgstr "Parola este necesara"
+
+#: admin/apps/users/uip-users-ajax.php:1088
+#: admin/apps/users/uip-users-ajax.php:1127
+msgid "You don't have sufficent priviledges to edit this user"
+msgstr "Nu aveți suficiente privilegii pentru a edita acest utilizator"
+
+#: admin/apps/users/uip-users-ajax.php:1097
+msgid "Password reset link sent"
+msgstr "Link pentru resetarea parolei a fost trimis"
+
+#: admin/apps/users/uip-users-ajax.php:1101
+msgid "Unable to send password reset email at the moment"
+msgstr "Nu se poate trimite e-mailul de resetare a parolei momentan"
+
+#: admin/apps/users/uip-users-ajax.php:1121
+msgid "No users sent to reset passwords!"
+msgstr "Niciun utilizator nu a fost trimis pentru a reseta parolele!"
+
+#: admin/apps/users/uip-users-ajax.php:1141
+msgid "Unable to send password reset email"
+msgstr "Nu se poate trimite e-mailul de resetare a parolei"
+
+#: admin/apps/users/uip-users-ajax.php:1142
+#: admin/apps/users/uip-users-ajax.php:1315
+#: admin/apps/users/uip-users-ajax.php:1325
+#, php-format
+msgid "User ID: %s"
+msgstr "ID utilizator: %s"
+
+#: admin/apps/users/uip-users-ajax.php:1148
+msgid "Password reset links succesfully sent"
+msgstr "Link-uri pentru resetarea parolei au fost trimise cu succes"
+
+#: admin/apps/users/uip-users-ajax.php:1173
+msgid "Subject is required"
+msgstr "Subiectul este obligatoriu"
+
+#: admin/apps/users/uip-users-ajax.php:1179
+msgid "Reply to email is required"
+msgstr "Este necesar un răspuns la e-mail"
+
+#: admin/apps/users/uip-users-ajax.php:1185
+msgid "Message is required"
+msgstr "Mesajul este obligatoriu"
+
+#: admin/apps/users/uip-users-ajax.php:1200
+msgid "No email to send message to."
+msgstr "Nu există e-mail la care să trimiți mesajul."
+
+#: admin/apps/users/uip-users-ajax.php:1232
+msgid "Unable to send mail at this time"
+msgstr "Nu se pot trimite e-mailuri în acest moment"
+
+#: admin/apps/users/uip-users-ajax.php:1237
+msgid "Message sent"
+msgstr "Mesaj trimis"
+
+#: admin/apps/users/uip-users-ajax.php:1261
+msgid "You can't delete yourself!"
+msgstr "Nu te poți șterge!"
+
+#: admin/apps/users/uip-users-ajax.php:1270
+msgid "User successfully deleted"
+msgstr "Utilizatorul a fost șters cu succes"
+
+#: admin/apps/users/uip-users-ajax.php:1274
+#: admin/apps/users/uip-users-ajax.php:1279
+#: admin/apps/users/uip-users-ajax.php:1305
+msgid "You don't have sufficent priviledges to delete this user"
+msgstr "Nu aveți privilegii suficiente pentru a șterge acest utilizator"
+
+#: admin/apps/users/uip-users-ajax.php:1299
+msgid "No users sent to delete!"
+msgstr "Niciun utilizator nu a fost trimis pentru ștergere!"
+
+#: admin/apps/users/uip-users-ajax.php:1314
+msgid "You can't delete yourself"
+msgstr "Nu te poți șterge singur"
+
+#: admin/apps/users/uip-users-ajax.php:1324
+msgid "Unable to delete this user"
+msgstr "Nu se poate șterge acest utilizator"
+
+#: admin/apps/users/uip-users-ajax.php:1331
+msgid "Users successfully deleted"
+msgstr "Utilizatorii au fost șterși cu succes"
+
+#: admin/apps/users/uip-users.php:53 admin/apps/users/uip-users.php:266
+#: admin/apps/users/uip-users.php:377 admin/apps/users/uip-users.php:1291
+msgid "Users"
+msgstr "Utilizatori"
+
+#: admin/apps/users/uip-users.php:54
+msgid "Creates user management page"
+msgstr "Creează o pagină de gestionare a utilizatorilor"
+
+#: admin/apps/users/uip-users.php:58
+msgid "Disable Users Page?"
+msgstr "Dezactivați pagina utilizatorilor?"
+
+#: admin/apps/users/uip-users.php:59
+msgid ""
+"If disabled, the user management page will not be available to any users."
+msgstr ""
+"Dacă este dezactivată, pagina de gestionare a utilizatorilor nu va fi "
+"disponibilă niciunui utilizator."
+
+#: admin/apps/users/uip-users.php:66
+msgid "User management page Disabled for"
+msgstr "Pagina de gestionare a utilizatorilor este dezactivată pentru"
+
+#: admin/apps/users/uip-users.php:67
+msgid ""
+"When the user management page module is disabled, the user management page "
+"will not be accesible for the users / roles"
+msgstr ""
+"Când modulul paginii de gestionare a utilizatorilor este dezactivat, pagina "
+"de gestionare a utilizatorilor nu va fi accesibilă utilizatorilor/rolurilor"
+
+#: admin/apps/users/uip-users.php:75
+msgid "Enable user activity log?"
+msgstr "Activați jurnalul de activitate al utilizatorului?"
+
+#: admin/apps/users/uip-users.php:76
+msgid ""
+"If enabled, uipress will log actions taken by all users, including page "
+"views, comments, post creation etc."
+msgstr ""
+"Dacă este activat, uipress va înregistra acțiunile întreprinse de toți "
+"utilizatorii, inclusiv vizualizări de pagină, comentarii, crearea postărilor "
+"etc."
+
+#: admin/apps/users/uip-users.php:84
+msgid "Disable page view logging"
+msgstr "Dezactivați înregistrarea vizualizării paginii"
+
+#: admin/apps/users/uip-users.php:87
+#, php-format
+msgid ""
+"By Default, %s will track page views for logged in users as part of the "
+"activity log. While sometimes useful, this will have the biggest impact on "
+"the log size in the database. Disabling this feature will keep the log "
+"smaller."
+msgstr ""
+"În mod implicit, %s va urmări vizualizările de pagină pentru utilizatorii "
+"conectați ca parte a jurnalului de activitate. Deși uneori util, acest lucru "
+"va avea cel mai mare impact asupra dimensiunii jurnalului din baza de date. "
+"Dezactivarea acestei funcții va menține jurnalul mai mic."
+
+#: admin/apps/users/uip-users.php:99
+msgid "Enable recent page view logging"
+msgstr "Activați înregistrarea recentă a vizualizării paginii"
+
+#: admin/apps/users/uip-users.php:100
+#, php-format
+msgid ""
+"Seperate to the main history log, %s will keep 5 recent page views in the "
+"user meta. This can have a small impact on the page load speed."
+msgstr ""
+"Separat de istoricul principal, %s va păstra 5 vizualizări recente de pagină "
+"în meta utilizator. Acest lucru poate avea un impact mic asupra vitezei de "
+"încărcare a paginii."
+
+#: admin/apps/users/uip-users.php:108
+msgid "How long to keep history?"
+msgstr "Cât timp să păstrezi istoria?"
+
+#: admin/apps/users/uip-users.php:109
+msgid ""
+"By default, activity items will be deleted after 60 days, enter the amount "
+"of days to keep items to change this"
+msgstr ""
+"În mod implicit, elementele de activitate vor fi șterse după 60 de zile, "
+"introduceți numărul de zile pentru a păstra elementele pentru a modifica "
+"acest lucru"
+
+#: admin/apps/users/uip-users.php:118
+msgid "Delay history entries?"
+msgstr "Întârzieți intrările în istoric?"
+
+#: admin/apps/users/uip-users.php:120
+msgid ""
+"Use scheduled tasks to insert the history actions to avoid any extra page "
+"load speed. By default entries are added as they happen, with this enabled "
+"there will be delay of about 10 seconds before actions appear."
+msgstr ""
+"Utilizați sarcinile programate pentru a introduce acțiunile din istoric "
+"pentru a evita orice viteză suplimentară de încărcare a paginii. În mod "
+"implicit, intrările sunt adăugate pe măsură ce se întâmplă, cu aceasta "
+"activată, va exista o întârziere de aproximativ 10 secunde înainte de "
+"apariția acțiunilor."
+
+#: admin/apps/users/uip-users.php:131
+msgid "Anonymize user IP addresses?"
+msgstr "Anonimizați adresele IP ale utilizatorilor?"
+
+#: admin/apps/users/uip-users.php:132
+msgid ""
+"Each history item logs the users IP address, enable this to anonymize the "
+"address."
+msgstr ""
+"Fiecare element istoric înregistrează adresa IP a utilizatorilor, activați-o "
+"pentru a anonimiza adresa."
+
+#: admin/apps/users/uip-users.php:217 admin/apps/users/uip-users.php:218
+msgid "User Management"
+msgstr "Managementul utilizatorilor"
+
+#: admin/apps/users/uip-users.php:270 admin/apps/users/uip-users.php:328
+#: admin/apps/users/uip-users.php:1244
+msgid "Roles"
+msgstr "Roluri"
+
+#: admin/apps/users/uip-users.php:274
+msgid "Activity"
+msgstr "Activitate"
+
+#: admin/apps/users/uip-users.php:290
+msgid "results"
+msgstr "rezultate"
+
+#: admin/apps/users/uip-users.php:291 admin/apps/users/uip-users.php:316
+msgid "Previous"
+msgstr "Anterior"
+
+#: admin/apps/users/uip-users.php:292 admin/apps/users/uip-users.php:315
+msgid "Next"
+msgstr "Următorul"
+
+#: admin/apps/users/uip-users.php:293
+msgid "Search users"
+msgstr "Căutați utilizatori"
+
+#: admin/apps/users/uip-users.php:294
+msgid "Filter by role"
+msgstr "Filtrați după rol"
+
+#: admin/apps/users/uip-users.php:295
+msgid "Search roles"
+msgstr "Căutați roluri"
+
+#: admin/apps/users/uip-users.php:296
+msgid "Table options"
+msgstr "Opțiuni de masă"
+
+#: admin/apps/users/uip-users.php:297
+msgid "Order"
+msgstr "Ordin"
+
+#: admin/apps/users/uip-users.php:298
+msgid "Ascending"
+msgstr "Ascendent"
+
+#: admin/apps/users/uip-users.php:299
+msgid "Descending"
+msgstr "Descendentă"
+
+#: admin/apps/users/uip-users.php:300
+msgid "Sort By"
+msgstr "Filtrează după"
+
+#: admin/apps/users/uip-users.php:301
+msgid "Per page"
+msgstr "Per pagină"
+
+#: admin/apps/users/uip-users.php:302
+msgid "Fields"
+msgstr "Câmpuri"
+
+#: admin/apps/users/uip-users.php:303
+msgid "Date created"
+msgstr "Data creării"
+
+#: admin/apps/users/uip-users.php:304
+msgid "On"
+msgstr "Pe"
+
+#: admin/apps/users/uip-users.php:305
+msgid "After"
+msgstr "După"
+
+#: admin/apps/users/uip-users.php:306
+msgid "Before"
+msgstr "Inainte de"
+
+#: admin/apps/users/uip-users.php:307 admin/apps/users/uip-users.php:308
+msgid "Date filters"
+msgstr "Filtre de dată"
+
+#: admin/apps/users/uip-users.php:310
+msgid "Account created"
+msgstr "Cont creat"
+
+#: admin/apps/users/uip-users.php:312 admin/apps/users/uip-users.php:326
+#: admin/apps/users/uip-users.php:1219
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/apps/users/uip-users.php:313
+msgid "Recent page views"
+msgstr "Vizualizări de pagină recente"
+
+#: admin/apps/users/uip-users.php:314
+msgid "Recent activity"
+msgstr "Activitate recenta"
+
+#: admin/apps/users/uip-users.php:317
+msgid "Last login"
+msgstr "Ultima logare"
+
+#: admin/apps/users/uip-users.php:318
+msgid "Login location"
+msgstr "Locație de conectare"
+
+#: admin/apps/users/uip-users.php:319
+msgid "No recent activity"
+msgstr "Nicio activitate recentă"
+
+#: admin/apps/users/uip-users.php:320
+msgid "Total posts"
+msgstr "Total postări"
+
+#: admin/apps/users/uip-users.php:321
+msgid "Total comments"
+msgstr "Total comentarii"
+
+#: admin/apps/users/uip-users.php:322
+msgid "User Options"
+msgstr "Opțiuni utilizator"
+
+#: admin/apps/users/uip-users.php:323 admin/apps/users/uip-users.php:332
+msgid "Edit user"
+msgstr "Editați utilizatorul"
+
+#: admin/apps/users/uip-users.php:324
+msgid "First name"
+msgstr "Nume"
+
+#: admin/apps/users/uip-users.php:325
+msgid "Last name"
+msgstr "Numele de familie"
+
+#: admin/apps/users/uip-users.php:327
+msgid "Assign roles"
+msgstr "Atribuiți roluri"
+
+#: admin/apps/users/uip-users.php:329
+msgid "User notes"
+msgstr "Notele utilizatorului"
+
+#: admin/apps/users/uip-users.php:330
+msgid "Cancel"
+msgstr "Anulare"
+
+#: admin/apps/users/uip-users.php:331
+msgid "Update user"
+msgstr "Actualizați utilizatorul"
+
+#: admin/apps/users/uip-users.php:333
+msgid "Send password reset"
+msgstr "Trimiteți resetarea parolei"
+
+#: admin/apps/users/uip-users.php:334 admin/apps/users/uip-users.php:342
+msgid "Send message"
+msgstr "Trimite mesaj"
+
+#: admin/apps/users/uip-users.php:335
+msgid "Delete user"
+msgstr "Ștergeți utilizatorul"
+
+#: admin/apps/users/uip-users.php:336
+msgid "Are you sure you want to delete this user?"
+msgstr "Sigur doriți să ștergeți acest utilizator?"
+
+#: admin/apps/users/uip-users.php:337
+msgid "Are you sure you want to the selected users?"
+msgstr "Sunteți sigur că doriți să utilizatorii selectați?"
+
+#: admin/apps/users/uip-users.php:338
+msgid ""
+"Are you sure you want to send password reset links to the selected users?"
+msgstr ""
+"Sigur doriți să trimiteți linkuri de resetare a parolei utilizatorilor "
+"selectați?"
+
+#: admin/apps/users/uip-users.php:339
+msgid "Recipient"
+msgstr "Destinatar"
+
+#: admin/apps/users/uip-users.php:340
+msgid "Subject"
+msgstr "Subiect"
+
+#: admin/apps/users/uip-users.php:341
+msgid "Message"
+msgstr "Mesaj"
+
+#: admin/apps/users/uip-users.php:343
+msgid "Reply to email"
+msgstr "Răspunde la e-mail"
+
+#: admin/apps/users/uip-users.php:344
+msgid "New user"
+msgstr "Utilizator nou"
+
+#: admin/apps/users/uip-users.php:345
+msgid "Save user"
+msgstr "Salvați utilizatorul"
+
+#: admin/apps/users/uip-users.php:346
+msgid "Password"
+msgstr "Parola"
+
+#: admin/apps/users/uip-users.php:347 admin/apps/users/uip-users.php:1207
+msgid "Username"
+msgstr "Nume de utilizator"
+
+#: admin/apps/users/uip-users.php:348 admin/apps/users/uip-users.php:1279
+msgid "Role name"
+msgstr "Nume rol"
+
+#: admin/apps/users/uip-users.php:349
+msgid "Edit role"
+msgstr "Editați rolul"
+
+#: admin/apps/users/uip-users.php:350
+msgid "Save role"
+msgstr "Salvați rolul"
+
+#: admin/apps/users/uip-users.php:351
+msgid "Capabilities"
+msgstr "Capabilități"
+
+#: admin/apps/users/uip-users.php:353
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"În prezent editați rolul de administrator. Acesta este de obicei cel mai "
+"important rol de pe site, așa că asigurați-vă că nu eliminați capabilitățile "
+"necesare."
+
+#: admin/apps/users/uip-users.php:356
+msgid "Delete role"
+msgstr "Ștergeți rolul"
+
+#: admin/apps/users/uip-users.php:357
+msgid "Are you sure you want to delete this role?"
+msgstr "Sigur doriți să ștergeți acest rol?"
+
+#: admin/apps/users/uip-users.php:358
+msgid "Are you sure you want to delete these roles?"
+msgstr "Sigur doriți să ștergeți aceste roluri?"
+
+#: admin/apps/users/uip-users.php:359
+msgid "Role options"
+msgstr "Opțiuni de rol"
+
+#: admin/apps/users/uip-users.php:360
+msgid "Clone"
+msgstr "Clonează"
+
+#: admin/apps/users/uip-users.php:361
+msgid "New role"
+msgstr "Rol nou"
+
+#: admin/apps/users/uip-users.php:362
+msgid "Role label"
+msgstr "Etichetă de rol"
+
+#: admin/apps/users/uip-users.php:363
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "Un singur cuvânt, fără spații. Litere de subliniere și liniuțe permise"
+
+#: admin/apps/users/uip-users.php:364
+msgid "copy"
+msgstr "copie"
+
+#: admin/apps/users/uip-users.php:365
+msgid "search roles"
+msgstr "roluri de căutare"
+
+#: admin/apps/users/uip-users.php:366
+msgid "Search history"
+msgstr "Istoricul cautarilor"
+
+#: admin/apps/users/uip-users.php:367
+msgid "All actions"
+msgstr "Toate acțiunile"
+
+#: admin/apps/users/uip-users.php:368
+msgid "Add custom capability (Single word, no spaces)"
+msgstr "Adăugați o capacitate personalizată (un singur cuvânt, fără spații)"
+
+#: admin/apps/users/uip-users.php:369
+msgid "Add capability"
+msgstr "Adăugați capacitatea"
+
+#: admin/apps/users/uip-users.php:370
+msgid "roles selected"
+msgstr "roluri selectate"
+
+#: admin/apps/users/uip-users.php:371
+msgid "Delete selected"
+msgstr "Sterge selectia"
+
+#: admin/apps/users/uip-users.php:372
+msgid "Deselect"
+msgstr "Deselectați"
+
+#: admin/apps/users/uip-users.php:373
+msgid "Delete users"
+msgstr "Ștergeți utilizatori"
+
+#: admin/apps/users/uip-users.php:374
+msgid "Clear selection"
+msgstr "Selecție clară"
+
+#: admin/apps/users/uip-users.php:375
+msgid "recipients"
+msgstr "destinatarii"
+
+#: admin/apps/users/uip-users.php:376 admin/classes/uipress-app.php:1409
+msgid "users"
+msgstr "utilizatorii"
+
+#: admin/apps/users/uip-users.php:378
+msgid "Replace existing roles"
+msgstr "Înlocuiți rolurile existente"
+
+#: admin/apps/users/uip-users.php:379
+msgid "Update roles"
+msgstr "Actualizați rolurile"
+
+#: admin/apps/users/uip-users.php:380
+msgid "users selected"
+msgstr "utilizatorii selectați"
+
+#: admin/apps/users/uip-users.php:381
+msgid "Choose image"
+msgstr "Alege imaginea"
+
+#: admin/apps/users/uip-users.php:382
+msgid "Profile image"
+msgstr "Imagine de profil"
+
+#: admin/apps/users/uip-users.php:383 admin/apps/users/uip-users.php:387
+#: admin/apps/users/uip-users.php:1250
+msgid "Groups"
+msgstr "Grupuri"
+
+#: admin/apps/users/uip-users.php:384
+msgid "All users"
+msgstr "Toți utilizatorii"
+
+#: admin/apps/users/uip-users.php:385
+msgid "No group"
+msgstr "Fără grup"
+
+#: admin/apps/users/uip-users.php:386
+msgid "No groups created yet."
+msgstr "Încă nu au fost create grupuri."
+
+#: admin/apps/users/uip-users.php:388
+msgid "New group"
+msgstr "Grup nou"
+
+#: admin/apps/users/uip-users.php:390
+msgid "Color"
+msgstr "Culoare"
+
+#: admin/apps/users/uip-users.php:391
+msgid "Create group"
+msgstr "Creați grup"
+
+#: admin/apps/users/uip-users.php:392
+msgid "Group name"
+msgstr "Numele Grupului"
+
+#: admin/apps/users/uip-users.php:393
+msgid "Edit group"
+msgstr "Editați grupul"
+
+#: admin/apps/users/uip-users.php:394
+msgid "Update group"
+msgstr "Actualizați grupul"
+
+#: admin/apps/users/uip-users.php:395
+msgid "Remove from group"
+msgstr "Eliminați din grup"
+
+#: admin/apps/users/uip-users.php:396
+msgid "User groups"
+msgstr "Grupuri de utilizatori"
+
+#: admin/apps/users/uip-users.php:397
+msgid "Assign groups"
+msgstr "Atribuiți grupuri"
+
+#: admin/apps/users/uip-users.php:398
+msgid "Search groups"
+msgstr "Căutați grupuri"
+
+#: admin/apps/users/uip-users.php:399
+msgid "Pro feature"
+msgstr "Caracteristica pro"
+
+#: admin/apps/users/uip-users.php:400
+msgid "Upgrade to UiPress Pro to unlock the user management and activity logs"
+msgstr ""
+"Faceți upgrade la UiPress Pro pentru a debloca gestionarea utilizatorilor și "
+"jurnalele de activitate"
+
+#: admin/apps/users/uip-users.php:401
+msgid "View Uipress Pro plans"
+msgstr "Vezi planurile Uipress Pro"
+
+#: admin/apps/users/uip-users.php:402
+msgid "Group icon"
+msgstr "Pictograma grupului"
+
+#: admin/apps/users/uip-users.php:403
+msgid "Logout everywhere else"
+msgstr "Deconectați-vă peste tot"
+
+#: admin/apps/users/uip-users.php:404
+msgid "Open profile"
+msgstr "Deschide profilul"
+
+#: admin/apps/users/uip-users.php:405
+msgid ""
+"Are you sure you want to delete this capability? This will remove the "
+"capability sitewide. Please note not all capabilities can be deleted."
+msgstr ""
+"Sigur doriți să ștergeți această capacitate? Aceasta va elimina capacitatea "
+"la nivel de site. Vă rugăm să rețineți că nu toate capabilitățile pot fi "
+"șterse."
+
+#: admin/apps/users/uip-users.php:517
+msgid "Read"
+msgstr "Citit"
+
+#: admin/apps/users/uip-users.php:529
+msgid "Publish"
+msgstr "Publica"
+
+#: admin/apps/users/uip-users.php:535 admin/classes/uipress-app.php:1335
+msgid "Create"
+msgstr "Crea"
+
+#: admin/apps/users/uip-users.php:553
+msgid "Manage"
+msgstr "Administra"
+
+#: admin/apps/users/uip-users.php:565 admin/classes/settings.php:242
+#: admin/classes/styles.php:442
+msgid "Import"
+msgstr "Import"
+
+#: admin/apps/users/uip-users.php:571
+msgid "Custom"
+msgstr "Personalizat"
+
+#: admin/apps/users/uip-users.php:737
+msgid "User no longer exists"
+msgstr "Utilizatorul nu mai există"
+
+#: admin/apps/users/uip-users.php:742 admin/apps/users/uip-users.php:1106
+#, php-format
+msgid "%s ago"
+msgstr "acum %s"
+
+#: admin/apps/users/uip-users.php:753 admin/apps/users/uip-users.php:1370
+msgid "Page view"
+msgstr "Vizualizare pagina"
+
+#: admin/apps/users/uip-users.php:755
+msgid "Viewed page"
+msgstr "Pagina vizualizata"
+
+#: admin/apps/users/uip-users.php:764 admin/apps/users/uip-users.php:1374
+msgid "Post created"
+msgstr "Postare creată"
+
+#: admin/apps/users/uip-users.php:766
+msgid "Created post"
+msgstr "Postare creată"
+
+#: admin/apps/users/uip-users.php:769 admin/apps/users/uip-users.php:790
+#: admin/apps/users/uip-users.php:838
+msgid "View page"
+msgstr "Vezi pagina"
+
+#: admin/apps/users/uip-users.php:773 admin/apps/users/uip-users.php:794
+#: admin/apps/users/uip-users.php:811 admin/apps/users/uip-users.php:842
+msgid "Edit page"
+msgstr "Pagina de editare"
+
+#: admin/apps/users/uip-users.php:785
+msgid "Post modified"
+msgstr "Postarea a fost modificată"
+
+#: admin/apps/users/uip-users.php:787
+msgid "Modified post"
+msgstr "Postare modificată"
+
+#: admin/apps/users/uip-users.php:806
+msgid "Post moved to trash"
+msgstr "Postarea a fost mutată în coșul de gunoi"
+
+#: admin/apps/users/uip-users.php:808
+msgid "Moved post to trash"
+msgstr "Postarea a fost mutată în coșul de gunoi"
+
+#: admin/apps/users/uip-users.php:820 admin/apps/users/uip-users.php:1386
+msgid "Post deleted"
+msgstr "Postarea a fost ștearsă"
+
+#: admin/apps/users/uip-users.php:822
+msgid "Deleted post"
+msgstr "Postare ștearsă"
+
+#: admin/apps/users/uip-users.php:831 admin/apps/users/uip-users.php:1390
+msgid "Post status change"
+msgstr "Postați modificarea stării"
+
+#: admin/apps/users/uip-users.php:834
+#, php-format
+msgid "Post status changed from %s to %s"
+msgstr "Starea postării s-a schimbat din %s în %s"
+
+#: admin/apps/users/uip-users.php:855
+msgid "Posted a comment"
+msgstr "A postat un comentariu"
+
+#: admin/apps/users/uip-users.php:857
+msgid "Posted a comment on post"
+msgstr "A postat un comentariu la postare"
+
+#: admin/apps/users/uip-users.php:868 admin/apps/users/uip-users.php:898
+msgid "View comment"
+msgstr "Vezi comentariul"
+
+#: admin/apps/users/uip-users.php:872 admin/apps/users/uip-users.php:902
+msgid "Edit comment"
+msgstr "Editează comentariul"
+
+#: admin/apps/users/uip-users.php:884
+msgid "Trashed a comment"
+msgstr "A trimis un comentariu la gunoi"
+
+#: admin/apps/users/uip-users.php:886
+msgid "Moved a comment to the trash"
+msgstr "A mutat un comentariu în coșul de gunoi"
+
+#: admin/apps/users/uip-users.php:912
+msgid "Deleted a comment"
+msgstr "S-a șters un comentariu"
+
+#: admin/apps/users/uip-users.php:914
+msgid "Permanently deleted a comment"
+msgstr "Un comentariu a fost șters definitiv"
+
+#: admin/apps/users/uip-users.php:920 admin/apps/users/uip-users.php:1403
+msgid "Plugin activated"
+msgstr "Plugin activat"
+
+#: admin/apps/users/uip-users.php:922
+#, php-format
+msgid "A plugin called %s was activated"
+msgstr "A fost activat un plugin numit %s"
+
+#: admin/apps/users/uip-users.php:928 admin/apps/users/uip-users.php:1407
+msgid "Plugin deactivated"
+msgstr "Plugin dezactivat"
+
+#: admin/apps/users/uip-users.php:930
+#, php-format
+msgid "A plugin called %s was deactivated"
+msgstr "Un plugin numit %s a fost dezactivat"
+
+#: admin/apps/users/uip-users.php:936
+msgid "User logged in"
+msgstr "Utilizator autentificat"
+
+#: admin/apps/users/uip-users.php:938
+#, php-format
+msgid "Logged in with ip address %s. Country: %s"
+msgstr "Conectat cu adresa ip %s. Țara: %s"
+
+#: admin/apps/users/uip-users.php:944
+msgid "User logged out"
+msgstr "Utilizatorul sa deconectat"
+
+#: admin/apps/users/uip-users.php:946
+#, php-format
+msgid "Logged out with ip address %s. Country: %s"
+msgstr "Deconectat cu adresa ip %s. Țara: %s"
+
+#: admin/apps/users/uip-users.php:982 admin/apps/users/uip-users.php:988
+#: admin/apps/users/uip-users.php:1002
+msgid "Site option changed"
+msgstr "Opțiunea site-ului a fost schimbată"
+
+#: admin/apps/users/uip-users.php:984
+#, php-format
+msgid "Site option (%s) was changed from %s to %s"
+msgstr "Opțiunea de site (%s) a fost schimbată din %s în %s"
+
+#: admin/apps/users/uip-users.php:990
+#, php-format
+msgid "Site option was changed. %s"
+msgstr "Opțiunea site-ului a fost schimbată. %s"
+
+#: admin/apps/users/uip-users.php:1004
+#, php-format
+msgid "Site option (%s) was added with a value of (%s)"
+msgstr "Opțiunea de site (%s) a fost adăugată cu o valoare de (%s)"
+
+#: admin/apps/users/uip-users.php:1010
+msgid "Uploaded attachment"
+msgstr "Atașament încărcat"
+
+#: admin/apps/users/uip-users.php:1012
+#, php-format
+msgid "Attachment called (%s) was uploaded to (%s). Attachment ID: %s"
+msgstr "Atașamentul numit (%s) a fost încărcat în (%s). ID atașament: %s"
+
+#: admin/apps/users/uip-users.php:1021
+msgid "View attachment"
+msgstr "Vedeți atașamentul"
+
+#: admin/apps/users/uip-users.php:1029
+msgid "Deleted attachment"
+msgstr "Atașament șters"
+
+#: admin/apps/users/uip-users.php:1031
+#, php-format
+msgid "Attachment called (%s) was deleted. Attachment ID: %s"
+msgstr "Atașamentul numit (%s) a fost șters. ID atașament: %s"
+
+#: admin/apps/users/uip-users.php:1037 admin/apps/users/uip-users.php:1262
+#: admin/apps/users/uip-users.php:1435
+msgid "User created"
+msgstr "Utilizator creat"
+
+#: admin/apps/users/uip-users.php:1039
+#, php-format
+msgid "New user created with username (%s) and email (%s)"
+msgstr "Utilizator nou creat cu nume de utilizator (%s) și e-mail (%s)"
+
+#: admin/apps/users/uip-users.php:1045 admin/apps/users/uip-users.php:1439
+msgid "User deleted"
+msgstr "Utilizatorul a fost șters"
+
+#: admin/apps/users/uip-users.php:1047
+#, php-format
+msgid "A user with username (%s) and email (%s) was deleted"
+msgstr "Un utilizator cu nume de utilizator (%s) și e-mail (%s) a fost șters"
+
+#: admin/apps/users/uip-users.php:1082 admin/apps/users/uip-users.php:1443
+msgid "User updated"
+msgstr "Utilizatorul a fost actualizat"
+
+#: admin/apps/users/uip-users.php:1084
+#, php-format
+msgid "A user with username (%s) and email (%s) was updated from (%s) to (%s)"
+msgstr ""
+"Un utilizator cu nume de utilizator (%s) și e-mail (%s) a fost actualizat de "
+"la (%s) la (%s)"
+
+#: admin/apps/users/uip-users.php:1226
+msgid "First Name"
+msgstr "Nume"
+
+#: admin/apps/users/uip-users.php:1232
+msgid "Last Name"
+msgstr "Numele de familie"
+
+#: admin/apps/users/uip-users.php:1238
+msgid "Last Login"
+msgstr "Ultima logare"
+
+#: admin/apps/users/uip-users.php:1256
+msgid "User ID"
+msgstr "numele de utilizator"
+
+#: admin/apps/users/uip-users.php:1298
+msgid "Permissions granted"
+msgstr "Permisiuni acordate"
+
+#: admin/apps/users/uip-users.php:1315
+msgid "ID"
+msgstr "ID"
+
+#: admin/apps/users/uip-users.php:1327
+msgid "IP Address"
+msgstr "Adresa IP"
+
+#: admin/apps/users/uip-users.php:1340
+msgid "Time"
+msgstr "Timp"
+
+#: admin/apps/users/uip-users.php:1347
+msgid "Action"
+msgstr "Acțiune"
+
+#: admin/apps/users/uip-users.php:1378
+msgid "Post updated"
+msgstr "Postare actualizată"
+
+#: admin/apps/users/uip-users.php:1382
+msgid "Post trashed"
+msgstr "Postare trimisă la gunoi"
+
+#: admin/apps/users/uip-users.php:1394
+msgid "Trashed comment"
+msgstr "Comentariu aruncat la gunoi"
+
+#: admin/apps/users/uip-users.php:1398
+msgid "Deelete comment"
+msgstr "Șterge comentariul"
+
+#: admin/apps/users/uip-users.php:1411
+msgid "User login"
+msgstr "Logare utilizator"
+
+#: admin/apps/users/uip-users.php:1415
+msgid "User logout"
+msgstr "Deconectare utilizator"
+
+#: admin/apps/users/uip-users.php:1419
+msgid "Option change"
+msgstr "Schimbarea opțiunii"
+
+#: admin/apps/users/uip-users.php:1423
+msgid "Site option added"
+msgstr "Opțiunea site a fost adăugată"
+
+#: admin/apps/users/uip-users.php:1427
+msgid "Attachmnet uploaded"
+msgstr "Atachmnet încărcat"
+
+#: admin/apps/users/uip-users.php:1431
+msgid "Attachmnet deleted"
+msgstr "Rețeaua atașată a fost ștearsă"
+
+#: admin/classes/debug.php:133 admin/classes/debug.php:139
+#: admin/classes/debug.php:161
+msgid "Unable to register UiPress at this time"
+msgstr "Nu se poate înregistra UiPress în acest moment"
+
+#: admin/classes/debug.php:152
+msgid "UiPress succesfully activated"
+msgstr "UiPress a fost activat cu succes"
+
+#: admin/classes/folders.php:112 admin/classes/uipress-app.php:453
+#: admin/classes/uipress-app.php:1367
+msgid "Folders"
+msgstr "Foldere"
+
+#: admin/classes/folders.php:113
+msgid "Creates media folder system."
+msgstr "Creează un sistem de foldere media."
+
+#: admin/classes/folders.php:117
+msgid "Disable Folders?"
+msgstr "Dezactivați folderele?"
+
+#: admin/classes/folders.php:118
+msgid "No media folders will be displayed when this option is activated."
+msgstr ""
+"Niciun folder media nu va fi afișat când această opțiune este activată."
+
+#: admin/classes/folders.php:125
+msgid "Folders Disabled For"
+msgstr "Foldere dezactivate pentru"
+
+#: admin/classes/folders.php:126
+#, php-format
+msgid "%s folders will be disabled for any users or roles you select"
+msgstr ""
+"%s dosare vor fi dezactivate pentru orice utilizator sau rol pe care îl "
+"selectați"
+
+#: admin/classes/folders.php:134
+msgid "Enable folders for post types"
+msgstr "Activați folderele pentru tipurile de postări"
+
+#: admin/classes/folders.php:135
+#, php-format
+msgid "%s folders will be enabled post, page and custom post types you choose"
+msgstr ""
+"%s dosare vor fi activate pentru tipurile de postări, pagini și postări "
+"personalizate pe care le alegeți"
+
+#: admin/classes/folders.php:171
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "Acțiuni"
+
+#: admin/classes/folders.php:173
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "Meniul"
+
+#: admin/classes/folders.php:311
+msgid "No folder to delete"
+msgstr "Niciun folder de șters"
+
+#: admin/classes/folders.php:321
+msgid "Unable to delete the folder"
+msgstr "Nu se poate șterge folderul"
+
+#: admin/classes/folders.php:372
+msgid "Folder deleted"
+msgstr "Dosarul a fost șters"
+
+#: admin/classes/folders.php:391
+msgid "Unable to move folder into itself"
+msgstr "Nu se poate muta folderul în sine"
+
+#: admin/classes/folders.php:405
+msgid "Unable to move folder"
+msgstr "Nu se poate muta folderul"
+
+#: admin/classes/folders.php:433
+msgid "Folder moved"
+msgstr "Folder mutat"
+
+#: admin/classes/folders.php:536
+msgid "Folder updated"
+msgstr "Dosarul a fost actualizat"
+
+#: admin/classes/folders.php:578
+msgid "Unable to create folder"
+msgstr "Imposibil de creat folderul"
+
+#: admin/classes/folders.php:589
+msgid "Folder created"
+msgstr "Dosar creat"
+
+#: admin/classes/settings.php:144
+msgid "Unable to save user settings"
+msgstr "Nu se pot salva setările utilizatorului"
+
+#: admin/classes/settings.php:150 admin/classes/uipress-app.php:1358
+msgid "Settings saved"
+msgstr "Setari Salvate"
+
+#: admin/classes/settings.php:164
+msgid "Settings reset"
+msgstr "Setări resetate"
+
+#: admin/classes/settings.php:209 admin/classes/styles.php:432
+msgid "Version"
+msgstr "Versiune"
+
+#: admin/classes/settings.php:230
+msgid "Save settings"
+msgstr "Salvează setările"
+
+#: admin/classes/settings.php:413
+msgid "No licence key provided"
+msgstr "Nu este furnizată nicio cheie de licență"
+
+#: admin/classes/settings.php:445
+msgid "Licence removed"
+msgstr "Licența eliminată"
+
+#: admin/classes/styles.php:138 admin/classes/styles.php:151
+#: admin/classes/styles.php:430
+msgid "Styles"
+msgstr "Stiluri"
+
+#: admin/classes/styles.php:213
+msgid "Unable to fetch themes at this moment. Please try again later"
+msgstr ""
+"Nu se pot prelua teme în acest moment. Vă rugăm să încercați din nou mai "
+"târziu"
+
+#: admin/classes/styles.php:247
+msgid "Unable to like theme at this moment. Please try again later"
+msgstr ""
+"Nu se poate aprecia tema în acest moment. Vă rugăm să încercați din nou mai "
+"târziu"
+
+#: admin/classes/styles.php:266
+msgid "Unable to save styles"
+msgstr "Nu se pot salva stilurile"
+
+#: admin/classes/styles.php:292
+msgid "Styles saved"
+msgstr "Stiluri salvate"
+
+#: admin/classes/styles.php:411
+msgid ""
+"Uipress styles isn't optimised for mobile devices. Switch to a larger screen "
+"to modify UiPress Styles"
+msgstr ""
+"Stilurile Uipress nu sunt optimizate pentru dispozitive mobile. Comutați la "
+"un ecran mai mare pentru a modifica stilurile UiPress"
+
+#: admin/classes/styles.php:469
+msgid "Clear All"
+msgstr "Curata tot"
+
+#: admin/classes/styles.php:533
+msgid "Global"
+msgstr "Global"
+
+#: admin/classes/styles.php:536
+msgid "Body Background"
+msgstr "Fundalul corpului"
+
+#: admin/classes/styles.php:547
+msgid "Default Background"
+msgstr "Fundal implicit"
+
+#: admin/classes/styles.php:558
+msgid "Muted Background"
+msgstr "Fundal dezactivat"
+
+#: admin/classes/styles.php:569
+msgid "Muted Background Accent"
+msgstr "Accent de fundal dezactivat"
+
+#: admin/classes/styles.php:580
+msgid "Primary Color"
+msgstr "Culoare primară"
+
+#: admin/classes/styles.php:591
+msgid "Primary Color Wash"
+msgstr "Spălare de culoare primară"
+
+#: admin/classes/styles.php:602
+msgid "Primary Color Hover"
+msgstr "Hover de culoare primară"
+
+#: admin/classes/styles.php:613
+msgid "Secondary Color"
+msgstr "Culoare secundară"
+
+#: admin/classes/styles.php:624
+msgid "Secondary Color Hover"
+msgstr "Hover culoare secundară"
+
+#: admin/classes/styles.php:635
+msgid "Font"
+msgstr "Font"
+
+#: admin/classes/styles.php:646
+msgid "Border Width"
+msgstr "Lățimea graniței"
+
+#: admin/classes/styles.php:657
+msgid "Border Radius"
+msgstr "Raza de frontieră"
+
+#: admin/classes/styles.php:668
+msgid "Border Colour"
+msgstr "Culoarea chenarului"
+
+#: admin/classes/styles.php:679
+msgid "Notification Background"
+msgstr "Fundal de notificare"
+
+#: admin/classes/styles.php:696
+msgid "Base font size"
+msgstr "Dimensiunea fontului de bază"
+
+#: admin/classes/styles.php:707 admin/classes/styles.php:1008
+#: admin/classes/styles.php:1148
+msgid "Text Color"
+msgstr "Culoarea textului"
+
+#: admin/classes/styles.php:718
+msgid "Text Emphasis Color"
+msgstr "Culoare de accentuare a textului"
+
+#: admin/classes/styles.php:729
+msgid "Text Muted Color"
+msgstr "Culoare dezactivată text"
+
+#: admin/classes/styles.php:745
+msgid "Buttons"
+msgstr "Butoane"
+
+#: admin/classes/styles.php:748
+msgid "Button Border Radius"
+msgstr "Raza chenarului butonului"
+
+#: admin/classes/styles.php:760
+msgid "Button Border Width"
+msgstr "Lățimea chenarului butonului"
+
+#: admin/classes/styles.php:772
+msgid "Default Button Border Colour"
+msgstr "Culoarea chenarului implicit al butonului"
+
+#: admin/classes/styles.php:784
+msgid "Default Button Background Colour"
+msgstr "Culoarea de fundal implicită a butonului"
+
+#: admin/classes/styles.php:796
+msgid "Default Button Hover Background Colour"
+msgstr "Culoarea de fundal de trecere a butonului implicit"
+
+#: admin/classes/styles.php:808
+msgid "Default Button Text Colour"
+msgstr "Culoarea implicită a textului butonului"
+
+#: admin/classes/styles.php:821
+msgid "Primary Button Border Colour"
+msgstr "Culoarea chenarului butonului primar"
+
+#: admin/classes/styles.php:833
+msgid "Primary Button Background Colour"
+msgstr "Culoarea de fundal a butonului primar"
+
+#: admin/classes/styles.php:845
+msgid "Primary Button Hover Background Colour"
+msgstr "Culoarea de fundal a butonului primar"
+
+#: admin/classes/styles.php:857
+msgid "Primary Button Text Colour"
+msgstr "Culoarea textului butonului primar"
+
+#: admin/classes/styles.php:870
+msgid "Danger Button Border Colour"
+msgstr "Culoarea chenarului butonului de pericol"
+
+#: admin/classes/styles.php:882
+msgid "Danger Button Background Colour"
+msgstr "Culoarea de fundal a butonului de pericol"
+
+#: admin/classes/styles.php:894
+msgid "Danger Button Hover Background Colour"
+msgstr "Culoarea de fundal a butonului de pericol"
+
+#: admin/classes/styles.php:906
+msgid "Danger Button Text Colour"
+msgstr "Culoarea textului butonului de pericol"
+
+#: admin/classes/styles.php:919
+msgid "Page Action Button Border Colour"
+msgstr "Culoarea marginii butonului de acțiune a paginii"
+
+#: admin/classes/styles.php:931
+msgid "Page Action Button Background Colour"
+msgstr "Culoarea de fundal a butonului de acțiune în pagină"
+
+#: admin/classes/styles.php:943
+msgid "Page Action Button Hover Background Colour"
+msgstr "Culoarea de fundal a butonului de acțiune în pagină"
+
+#: admin/classes/styles.php:955
+msgid "Page Action Button Text Colour"
+msgstr "Culoarea textului butonului de acțiune în pagină"
+
+#: admin/classes/styles.php:973 admin/classes/uipress-app.php:2669
+msgid "Menu"
+msgstr "Meniul"
+
+#: admin/classes/styles.php:975
+msgid "Background Color"
+msgstr "Culoare de fundal"
+
+#: admin/classes/styles.php:986 admin/classes/styles.php:1170
+msgid "Secondary background Color"
+msgstr "Culoare de fundal secundar"
+
+#: admin/classes/styles.php:997
+msgid "Button Hover background Color"
+msgstr "Buton Hover Culoare de fundal"
+
+#: admin/classes/styles.php:1019
+msgid "Active Text Color"
+msgstr "Culoare activă a textului"
+
+#: admin/classes/styles.php:1030
+msgid "Active Top Level Item background colour"
+msgstr "Culoarea de fundal a elementului de nivel superior activ"
+
+#: admin/classes/styles.php:1041
+msgid "Search Input background colour"
+msgstr "Căutare Intrare culoare de fundal"
+
+#: admin/classes/styles.php:1052
+msgid "Search Input text colour"
+msgstr "Căutare Culoarea textului de intrare"
+
+#: admin/classes/styles.php:1063
+msgid "Submenu Text Color"
+msgstr "Submeniu Culoare text"
+
+#: admin/classes/styles.php:1074
+msgid "Submenu Active Text Color"
+msgstr "Submeniu Active Text Color"
+
+#: admin/classes/styles.php:1085
+msgid "Submenu Hover Text Color"
+msgstr "Submeniu Hover Text Color"
+
+#: admin/classes/styles.php:1096
+msgid "Width"
+msgstr "Lăţime"
+
+#: admin/classes/styles.php:1108
+msgid "Padding"
+msgstr "Captuseala"
+
+#: admin/classes/styles.php:1120
+msgid "Logo Height"
+msgstr "Înălțimea logo-ului"
+
+#: admin/classes/styles.php:1134 admin/classes/uipress-app.php:2773
+msgid "Toolbar"
+msgstr "Bara de instrumente"
+
+#: admin/classes/styles.php:1137
+msgid "Toolbar Background Color"
+msgstr "Culoarea fundalului barei de instrumente"
+
+#: admin/classes/styles.php:1159
+msgid "Link Hover Text Color"
+msgstr "Culoare text pentru trecerea cu mouse-ul"
+
+#: admin/classes/styles.php:1183
+msgid "Cards"
+msgstr "Carduri"
+
+#: admin/classes/styles.php:1186 admin/classes/styles.php:1270
+msgid "Background color"
+msgstr "Culoare de fundal"
+
+#: admin/classes/styles.php:1198
+msgid "Border color"
+msgstr "Culoarea chenarului"
+
+#: admin/classes/styles.php:1210
+msgid "Border radius"
+msgstr "Raza graniței"
+
+#: admin/classes/styles.php:1222
+msgid "Shadow spread"
+msgstr "Umbra răspândită"
+
+#: admin/classes/styles.php:1234
+msgid "Shadow blur"
+msgstr "Umbre estompate"
+
+#: admin/classes/styles.php:1246
+msgid "Shadow color"
+msgstr "Culoarea umbrei"
+
+#: admin/classes/styles.php:1267 admin/classes/uipress-app.php:2944
+msgid "Login"
+msgstr "Autentificare"
+
+#: admin/classes/uipress-app.php:268
+msgctxt "post type general name"
+msgid "Folder"
+msgstr "Pliant"
+
+#: admin/classes/uipress-app.php:269
+msgctxt "post type singular name"
+msgid "folder"
+msgstr "pliant"
+
+#: admin/classes/uipress-app.php:270
+msgctxt "admin menu"
+msgid "Folders"
+msgstr "Foldere"
+
+#: admin/classes/uipress-app.php:271
+msgctxt "add new on admin bar"
+msgid "Folder"
+msgstr "Pliant"
+
+#: admin/classes/uipress-app.php:272
+msgctxt "folder"
+msgid "Add New"
+msgstr "Adăuga nou"
+
+#: admin/classes/uipress-app.php:273 admin/classes/uipress-app.php:284
+msgid "Add New Folder"
+msgstr "Adăugați un dosar nou"
+
+#: admin/classes/uipress-app.php:274 admin/classes/uipress-app.php:1368
+msgid "New Folder"
+msgstr "Dosar nou"
+
+#: admin/classes/uipress-app.php:275 admin/classes/uipress-app.php:1372
+msgid "Edit Folder"
+msgstr "Editați folderul"
+
+#: admin/classes/uipress-app.php:276
+msgid "View Folder"
+msgstr "Vezi dosarul"
+
+#: admin/classes/uipress-app.php:277
+msgid "All Folders"
+msgstr "Toate folderele"
+
+#: admin/classes/uipress-app.php:278
+msgid "Search Folders"
+msgstr "Căutați în foldere"
+
+#: admin/classes/uipress-app.php:279
+msgid "No Folders found."
+msgstr "Nu s-au găsit foldere."
+
+#: admin/classes/uipress-app.php:280
+msgid "No Folders found in Trash."
+msgstr "Nu s-au găsit dosare în Coșul de gunoi."
+
+#: admin/classes/uipress-app.php:1167
+msgid "active"
+msgstr "activ"
+
+#: admin/classes/uipress-app.php:1171
+msgid "inactive"
+msgstr "inactiv"
+
+#: admin/classes/uipress-app.php:1320
+msgid "Menu Preferences"
+msgstr "Preferințe meniu"
+
+#: admin/classes/uipress-app.php:1321
+msgid "Hide search bar"
+msgstr "Ascunde bara de căutare"
+
+#: admin/classes/uipress-app.php:1322
+msgid "Hide Icons"
+msgstr "Ascunde pictogramele"
+
+#: admin/classes/uipress-app.php:1323
+msgid "Show submenu on hover"
+msgstr "Afișează submeniul la trecerea cursorului"
+
+#: admin/classes/uipress-app.php:1324
+msgid "Search Menu"
+msgstr "Meniu Căutare"
+
+#: admin/classes/uipress-app.php:1326
+msgid "Search"
+msgstr "Căutare"
+
+#: admin/classes/uipress-app.php:1329
+msgid "Show more"
+msgstr "Afișați mai multe"
+
+#: admin/classes/uipress-app.php:1330
+msgid "other matches"
+msgstr "alte meciuri"
+
+#: admin/classes/uipress-app.php:1331 admin/classes/uipress-app.php:1359
+msgid "Nothing found"
+msgstr "Nimic gasit"
+
+#: admin/classes/uipress-app.php:1332 admin/classes/uipress-app.php:1337
+msgid "View Site"
+msgstr "Vizualizați site-ul"
+
+#: admin/classes/uipress-app.php:1333
+msgid "Dashboard"
+msgstr "Bord"
+
+#: admin/classes/uipress-app.php:1334
+msgid "Search Site"
+msgstr "Caută pe site"
+
+#: admin/classes/uipress-app.php:1336
+msgid "Create New"
+msgstr "Creaza nou"
+
+#: admin/classes/uipress-app.php:1338
+msgid "Updates"
+msgstr "Actualizări"
+
+#: admin/classes/uipress-app.php:1339
+msgid "Preferences"
+msgstr "Preferințe"
+
+#: admin/classes/uipress-app.php:1340
+msgid "Dark mode"
+msgstr "Modul întunecat"
+
+#: admin/classes/uipress-app.php:1341
+msgid "Show screen options toggle"
+msgstr "Comutare Afișare opțiuni de ecran"
+
+#: admin/classes/uipress-app.php:1342
+msgid "Screen options"
+msgstr "Opțiuni pentru ecran"
+
+#: admin/classes/uipress-app.php:1343
+msgid "Hide admin bar links (left)"
+msgstr "Ascunde linkurile barei de administrare (stânga)"
+
+#: admin/classes/uipress-app.php:1344
+msgid "Logout"
+msgstr "Deconectare"
+
+#: admin/classes/uipress-app.php:1345
+msgid "Notifications"
+msgstr "Notificări"
+
+#: admin/classes/uipress-app.php:1346
+msgid "Hide notification"
+msgstr "Ascunde notificarea"
+
+#: admin/classes/uipress-app.php:1347
+msgid "hidden notifications"
+msgstr "notificări ascunse"
+
+#: admin/classes/uipress-app.php:1348
+msgid "show all"
+msgstr "arata tot"
+
+#: admin/classes/uipress-app.php:1349
+msgid "Notifiction Hidden"
+msgstr "Notificare ascunsă"
+
+#: admin/classes/uipress-app.php:1350
+msgid "Toggle Menu"
+msgstr "Comutați meniu"
+
+#: admin/classes/uipress-app.php:1351
+msgid "Choose users or roles"
+msgstr "Alegeți utilizatori sau roluri"
+
+#: admin/classes/uipress-app.php:1352
+msgid "Search users and roles"
+msgstr "Căutați utilizatori și roluri"
+
+#: admin/classes/uipress-app.php:1353
+msgid "Choose Image"
+msgstr "Alegeți Imagine"
+
+#: admin/classes/uipress-app.php:1354
+msgid "Choose Post Types"
+msgstr "Alegeți Tipuri de postare"
+
+#: admin/classes/uipress-app.php:1355 admin/classes/uipress-app.php:1356
+msgid "Searach Post Types"
+msgstr "Căutați tipuri de postări"
+
+#: admin/classes/uipress-app.php:1360
+msgid "Default"
+msgstr "Mod implicit"
+
+#: admin/classes/uipress-app.php:1361
+msgid "Add File"
+msgstr "Adauga fisier"
+
+#: admin/classes/uipress-app.php:1362
+msgid "URL to file"
+msgstr "URL la fișier"
+
+#: admin/classes/uipress-app.php:1363
+msgid "Remove"
+msgstr "Elimina"
+
+#: admin/classes/uipress-app.php:1364
+msgid "All media"
+msgstr "Toate media"
+
+#: admin/classes/uipress-app.php:1366
+msgid "No folder"
+msgstr "Niciun folder"
+
+#: admin/classes/uipress-app.php:1369
+msgid "Folder Name"
+msgstr "Numele fisierului"
+
+#: admin/classes/uipress-app.php:1370
+msgid "Colour"
+msgstr "Culoare"
+
+#: admin/classes/uipress-app.php:1374
+msgid "1 File"
+msgstr "1 Fișier"
+
+#: admin/classes/uipress-app.php:1375
+msgid "files"
+msgstr "fișiere"
+
+#: admin/classes/uipress-app.php:1376
+msgid "You haven't created a folder yet"
+msgstr "Nu ați creat încă un dosar"
+
+#: admin/classes/uipress-app.php:1377
+msgid "Remove from folder"
+msgstr "Eliminați din folder"
+
+#: admin/classes/uipress-app.php:1378
+msgid ""
+"Upgrade to pro to unlock the notification center. View, edit and organise "
+"all your plugin and theme notifications in one place"
+msgstr ""
+"Faceți upgrade la pro pentru a debloca centrul de notificări. Vizualizați, "
+"editați și organizați toate notificările de plugin și teme într-un singur loc"
+
+#: admin/classes/uipress-app.php:1379
+msgid ""
+"Upgrade to pro to gain full control of search results and included post types"
+msgstr ""
+"Faceți upgrade la pro pentru a obține controlul deplin asupra rezultatelor "
+"căutării și asupra tipurilor de postări incluse"
+
+#: admin/classes/uipress-app.php:1382
+msgid "Styles Imported"
+msgstr "Stiluri importate"
+
+#: admin/classes/uipress-app.php:1383
+msgid "Settings Imported"
+msgstr "Setări importate"
+
+#: admin/classes/uipress-app.php:1384
+msgid "Remove Licence"
+msgstr "Eliminați licența"
+
+#: admin/classes/uipress-app.php:1385
+#, php-format
+msgid "%s Pro is active"
+msgstr "%s Pro este activ"
+
+#: admin/classes/uipress-app.php:1386
+#, php-format
+msgid "%s Pro"
+msgstr "%s Pro"
+
+#: admin/classes/uipress-app.php:1387
+msgid "Activate"
+msgstr "Activati"
+
+#: admin/classes/uipress-app.php:1388
+msgid "Add a pro licence to unlock pro features."
+msgstr "Adăugați o licență pro pentru a debloca funcții profesionale."
+
+#: admin/classes/uipress-app.php:1389
+msgid "Choose Icon"
+msgstr "Alegeți pictograma"
+
+#: admin/classes/uipress-app.php:1390
+msgid "Are you sure you want to delete this?"
+msgstr "Sigur doriți să ștergeți acest lucru?"
+
+#: admin/classes/uipress-app.php:1391
+msgid "Import started"
+msgstr "Importul a început"
+
+#: admin/classes/uipress-app.php:1392
+msgid "Are you sure you want to reset the settings?"
+msgstr "Sigur doriți să resetați setările?"
+
+#: admin/classes/uipress-app.php:1393
+msgid "Last 7 Days"
+msgstr "Ultimele 7 zile"
+
+#: admin/classes/uipress-app.php:1394
+msgid "Last 30 Days"
+msgstr "Ultimele 30 de zile"
+
+#: admin/classes/uipress-app.php:1399
+msgid "selected"
+msgstr "selectat"
+
+#: admin/classes/uipress-app.php:1400
+msgid "Theme Library"
+msgstr "Biblioteca tematică"
+
+#: admin/classes/uipress-app.php:1401
+msgid "Library"
+msgstr "Bibliotecă"
+
+#: admin/classes/uipress-app.php:1402
+msgid "Import Theme"
+msgstr "Importa temă"
+
+#: admin/classes/uipress-app.php:1403
+msgid "Pro template"
+msgstr "Șablon pro"
+
+#: admin/classes/uipress-app.php:1404
+msgid "Theme Imported"
+msgstr "Tema importată"
+
+#: admin/classes/uipress-app.php:1405
+msgid "Made by"
+msgstr "Facut de"
+
+#: admin/classes/uipress-app.php:1407
+msgid "Failed to fetch folder content"
+msgstr "Nu s-a putut prelua conținutul dosarului"
+
+#: admin/classes/uipress-app.php:1408
+msgid "user"
+msgstr "utilizator"
+
+#: admin/classes/uipress-app.php:1850
+msgid "Unkown Post Type"
+msgstr "Tip necunoscut de postare"
+
+#: admin/classes/uipress-app.php:1853
+msgid "Unkown"
+msgstr "Necunoscut"
+
+#: admin/classes/uipress-app.php:1991
+msgid "Core"
+msgstr "Miez"
+
+#: admin/classes/uipress-app.php:1997
+msgid "Themes"
+msgstr "Teme"
+
+#: admin/classes/uipress-app.php:2003
+msgid "Plugins"
+msgstr "Pluginuri"
+
+#: admin/classes/uipress-app.php:2527
+msgid "General options"
+msgstr "Optiuni generale"
+
+#: admin/classes/uipress-app.php:2532
+msgid "Network Override"
+msgstr "Suprascrierea rețelei"
+
+#: admin/classes/uipress-app.php:2533
+msgid "If enabled, all settings applied here will be pushed to subsites."
+msgstr ""
+"Dacă este activată, toate setările aplicate aici vor fi trimise către "
+"subsite-uri."
+
+#: admin/classes/uipress-app.php:2542
+msgid "Set Dark Mode as Default"
+msgstr "Setați modul întunecat ca implicit"
+
+#: admin/classes/uipress-app.php:2543
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr ""
+"Dacă este activat, modul întunecat va fi implicit adevărat pentru "
+"utilizatorii care nu au setat o preferință."
+
+#: admin/classes/uipress-app.php:2551
+msgid "Set Dark Mode according to prefers color scheme"
+msgstr "Setați modul întunecat în funcție de schema de culori preferată"
+
+#: admin/classes/uipress-app.php:2552
+msgid "UiPress will detetct the OS color scheme and update accordingly"
+msgstr ""
+"UiPress va detecta schema de culori a sistemului de operare și va actualiza "
+"în consecință"
+
+#: admin/classes/uipress-app.php:2560
+msgid "Disable dark mode"
+msgstr "Dezactivați modul întunecat"
+
+#: admin/classes/uipress-app.php:2561
+msgid "If enabled, dark mode switch will not be available."
+msgstr ""
+"Dacă este activat, comutatorul pentru modul întunecat nu va fi disponibil."
+
+#: admin/classes/uipress-app.php:2569
+msgid "Set overview page as homepage"
+msgstr "Setați pagina de prezentare generală ca pagină de pornire"
+
+#: admin/classes/uipress-app.php:2570
+msgid ""
+"If enabled, the overview page will be the homepage when logging in and when "
+"accessing the admin area."
+msgstr ""
+"Dacă este activată, pagina de prezentare generală va fi pagina de pornire la "
+"conectare și la accesarea zonei de administrare."
+
+#: admin/classes/uipress-app.php:2578
+msgid "Set custom page as homepage"
+msgstr "Setați pagina personalizată ca pagină de pornire"
+
+#: admin/classes/uipress-app.php:2580
+msgid ""
+"If enabled, the page you choose will be the homepage when logging in and "
+"when accessing the admin area. For admin pages use a relative URL (path "
+"after /wp-admin/), for other pages use an absolute URL"
+msgstr ""
+"Dacă este activată, pagina pe care o alegeți va fi pagina de pornire atunci "
+"când vă conectați și când accesați zona de administrare. Pentru paginile de "
+"administrare utilizați o adresă URL relativă (cale după /wp-admin/), pentru "
+"alte pagini utilizați o adresă URL absolută"
+
+#: admin/classes/uipress-app.php:2590
+#, php-format
+msgid "Rename %s"
+msgstr "Redenumiți %s"
+
+#: admin/classes/uipress-app.php:2591
+#, php-format
+msgid "White label %s by changing the name displayed."
+msgstr "Etichetă albă %s prin schimbarea numelui afișat."
+
+#: admin/classes/uipress-app.php:2599
+#, php-format
+msgid "Rename %s plugin author"
+msgstr "Redenumiți autorul pluginului %s"
+
+#: admin/classes/uipress-app.php:2600
+#, php-format
+msgid "White label %s by changing the author in the plugin table."
+msgstr "Etichetă albă %s prin schimbarea autorului în tabelul de pluginuri."
+
+#: admin/classes/uipress-app.php:2608
+#, php-format
+msgid "Change %s plugin URL"
+msgstr "Schimbați adresa URL a pluginului %s"
+
+#: admin/classes/uipress-app.php:2609
+#, php-format
+msgid "White label %s by changing the plugin URL in the plugin table."
+msgstr ""
+"Etichetă albă %s prin modificarea adresei URL a pluginului în tabelul de "
+"pluginuri."
+
+#: admin/classes/uipress-app.php:2617
+msgid "App Icon"
+msgstr "Pictograma aplicației"
+
+#: admin/classes/uipress-app.php:2618
+#, php-format
+msgid "Replace %s plugin icon with your own"
+msgstr "Înlocuiți pictograma pluginului %s cu propria dvs"
+
+#: admin/classes/uipress-app.php:2626
+msgid "Admin Favicon"
+msgstr "Admin Favicon"
+
+#: admin/classes/uipress-app.php:2627
+msgid "Add an image to be used as the site favicon for admin pages."
+msgstr ""
+"Adăugați o imagine pentru a fi folosită ca favicon pentru paginile de "
+"administrare."
+
+#: admin/classes/uipress-app.php:2635
+#, php-format
+msgid "Hide %s from plugin table"
+msgstr "Ascunde %s din tabelul de pluginuri"
+
+#: admin/classes/uipress-app.php:2636
+#, php-format
+msgid "If enabled, %s will be hidden from the plugin table"
+msgstr "Dacă este activat, %s va fi ascuns din tabelul de pluginuri"
+
+#: admin/classes/uipress-app.php:2644
+msgid "Hide Footer"
+msgstr "Ascunde subsolul"
+
+#: admin/classes/uipress-app.php:2645
+msgid "Hide the footer text that shows at the bottom of every admin page"
+msgstr ""
+"Ascundeți textul de subsol care apare în partea de jos a fiecărei pagini de "
+"administrare"
+
+#: admin/classes/uipress-app.php:2653
+msgid "Footer Text"
+msgstr "Text de subsol"
+
+#: admin/classes/uipress-app.php:2654
+msgid "Text entered here will be present at the bottom of admin pages"
+msgstr ""
+"Textul introdus aici va fi prezent în partea de jos a paginilor de "
+"administrare"
+
+#: admin/classes/uipress-app.php:2670 admin/classes/uipress-app.php:2675
+msgid "Creates new admin menu."
+msgstr "Creează un nou meniu de administrare."
+
+#: admin/classes/uipress-app.php:2674
+msgid "Disable Admin Menu Module"
+msgstr "Dezactivați modulul de meniu Admin"
+
+#: admin/classes/uipress-app.php:2682
+msgid "Menu Disabled for"
+msgstr "Meniu dezactivat pentru"
+
+#: admin/classes/uipress-app.php:2683
+#, php-format
+msgid "%s menu will be disabled for any users or roles you select"
+msgstr ""
+"Meniul %s va fi dezactivat pentru orice utilizator sau rol pe care îl "
+"selectați"
+
+#: admin/classes/uipress-app.php:2691
+msgid "Logo Light Mode"
+msgstr "Modul Light Light"
+
+#: admin/classes/uipress-app.php:2692
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "Setează sigla pentru bara de administrare în modul light."
+
+#: admin/classes/uipress-app.php:2699
+msgid "Logo Dark Mode"
+msgstr "Logo Dark Mode"
+
+#: admin/classes/uipress-app.php:2700
+msgid "Optional dark mode logo for admin bar."
+msgstr "Logo opțional pentru modul întunecat pentru bara de administrare."
+
+#: admin/classes/uipress-app.php:2707
+#, php-format
+msgid "Load %s Menu on front end"
+msgstr "Încărcați meniul %s pe front-end"
+
+#: admin/classes/uipress-app.php:2708
+#, php-format
+msgid ""
+"If enabled, %s menu will load on the front end. Please note, this will not "
+"work on all themes and styling will vary"
+msgstr ""
+"Dacă este activat, meniul %s se va încărca pe front end. Vă rugăm să "
+"rețineți că acest lucru nu va funcționa pe toate temele, iar stilul va varia"
+
+#: admin/classes/uipress-app.php:2716
+#, php-format
+msgid "Only Load %s Menu on front end for"
+msgstr "Încărcați numai meniul %s pe front-end pentru"
+
+#: admin/classes/uipress-app.php:2717
+msgid "Only load front end menu for selected roles and usernames"
+msgstr ""
+"Încărcați meniul frontal numai pentru rolurile și numele de utilizator "
+"selectate"
+
+#: admin/classes/uipress-app.php:2725
+msgid "Collapsed Menu Logo Light Mode"
+msgstr "Meniu restrâns Logo Light Mode"
+
+#: admin/classes/uipress-app.php:2726
+msgid "Optional logo for when the menu is collapsed."
+msgstr "Logo opțional pentru când meniul este restrâns."
+
+#: admin/classes/uipress-app.php:2733
+msgid "Collapsed Menu Logo Dark Mode"
+msgstr "Meniu restrâns Logo Dark Mode"
+
+#: admin/classes/uipress-app.php:2734
+msgid "Optional dark nmode logo for when the menu is collapsed."
+msgstr "Sigla opțională dark nmode pentru când meniul este restrâns."
+
+#: admin/classes/uipress-app.php:2741
+msgid "Show site title in menu"
+msgstr "Afișați titlul site-ului în meniu"
+
+#: admin/classes/uipress-app.php:2742
+msgid ""
+"If enabled, the site title will be displayed in the menu next to the logo"
+msgstr ""
+"Dacă este activat, titlul site-ului va fi afișat în meniul de lângă logo"
+
+#: admin/classes/uipress-app.php:2749 admin/classes/uipress-app.php:2811
+msgid "Disable Search"
+msgstr "Dezactivează căutarea"
+
+#: admin/classes/uipress-app.php:2750
+msgid "Disables admin menu search."
+msgstr "Dezactivează căutarea în meniul administratorului."
+
+#: admin/classes/uipress-app.php:2757
+msgid "Set collapsed menu as default"
+msgstr "Setați meniul restrâns ca implicit"
+
+#: admin/classes/uipress-app.php:2758
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"Dacă este activat, meniul va fi implicit meniul mic pentru utilizatorii care "
+"nu au setat o preferință."
+
+#: admin/classes/uipress-app.php:2774
+msgid "Creates new admin toolbar."
+msgstr "Creează o nouă bară de instrumente de administrare."
+
+#: admin/classes/uipress-app.php:2778
+msgid "Disable ToolBar Module?"
+msgstr "Dezactivați modulul Toolbar?"
+
+#: admin/classes/uipress-app.php:2779
+msgid ""
+"Creates new admin bar, adds user off canvas menu, builds global search and "
+"notification center."
+msgstr ""
+"Creează o nouă bară de administrare, adaugă utilizatorul în meniul din pânză,"
+" creează un centru global de căutare și notificare."
+
+#: admin/classes/uipress-app.php:2786
+msgid "Admin Bar Disabled For"
+msgstr "Bara de administrare este dezactivată pentru"
+
+#: admin/classes/uipress-app.php:2787
+#, php-format
+msgid "%s toolbar module will be disabled for any users or roles you select"
+msgstr ""
+"Modulul barei de instrumente %s va fi dezactivat pentru orice utilizator sau "
+"rol pe care îl selectați"
+
+#: admin/classes/uipress-app.php:2795
+msgid "Hide admin bar links (left side)"
+msgstr "Ascunde linkurile barei de administrare (partea stângă)"
+
+#: admin/classes/uipress-app.php:2796
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"Dezactivează linkurile vechi din partea stângă a barei de administrare "
+"pentru toți utilizatorii. De asemenea, ascunde preferințele utilizatorului."
+
+#: admin/classes/uipress-app.php:2803
+msgid "Enable floating flyout toolbar"
+msgstr "Activați bara de instrumente flotantă"
+
+#: admin/classes/uipress-app.php:2804
+msgid "Changes the toolbar to a floating flyout toolbar"
+msgstr "Schimbă bara de instrumente într-o bară de instrumente flotantă"
+
+#: admin/classes/uipress-app.php:2812
+msgid "Disables search icon and global search function from admin bar."
+msgstr ""
+"Dezactivează pictograma de căutare și funcția de căutare globală din bara de "
+"administrare."
+
+#: admin/classes/uipress-app.php:2819
+msgid "Disable Create Button"
+msgstr "Dezactivează butonul Creare"
+
+#: admin/classes/uipress-app.php:2820
+msgid "Disables the 'create' button in the admin bar."
+msgstr "Dezactivează butonul „creare” din bara de administrare."
+
+#: admin/classes/uipress-app.php:2827
+msgid "Open View Website in new tab"
+msgstr "Deschideți Vizualizați site-ul web într-o filă nouă"
+
+#: admin/classes/uipress-app.php:2828
+msgid ""
+"When enabled, clicking on view website or the home button will open in a new "
+"browser tab"
+msgstr ""
+"Când este activat, făcând clic pe vizualizare site-ul web sau butonul de "
+"pornire se va deschide într-o nouă filă de browser"
+
+#: admin/classes/uipress-app.php:2835
+msgid "Disable View Website Button"
+msgstr "Dezactivați butonul Vizualizare site"
+
+#: admin/classes/uipress-app.php:2836
+msgid "Disables the view website link button in the admin bar."
+msgstr ""
+"Dezactivează butonul de vizualizare a link-ului site-ului din bara de "
+"administrare."
+
+#: admin/classes/uipress-app.php:2843
+#, php-format
+msgid "Load %s admin bar on front end"
+msgstr "Încărcați bara de administrare %s pe front-end"
+
+#: admin/classes/uipress-app.php:2844
+#, php-format
+msgid ""
+"If enabled, %s toolbar will load on the front end. Please note, this will "
+"not work on all themes and styling will vary"
+msgstr ""
+"Dacă este activată, bara de instrumente %s se va încărca pe front-end. Vă "
+"rugăm să rețineți că acest lucru nu va funcționa pe toate temele, iar stilul "
+"va varia"
+
+#: admin/classes/uipress-app.php:2852
+msgid "Hide admin bar on front end"
+msgstr "Ascundeți bara de administrare pe front-end"
+
+#: admin/classes/uipress-app.php:2853
+msgid "If enabled, front end admin bar will not load."
+msgstr "Dacă este activată, bara de administrare frontală nu se va încărca."
+
+#: admin/classes/uipress-app.php:2861
+msgid "Disable Notification Center"
+msgstr "Dezactivați Centrul de notificări"
+
+#: admin/classes/uipress-app.php:2862
+msgid "If disabled, notifcations will show in the normal way"
+msgstr "Dacă este dezactivată, notificările se vor afișa în mod normal"
+
+#: admin/classes/uipress-app.php:2870
+msgid "Post Types available in Search"
+msgstr "Tipuri de postări disponibile în Căutare"
+
+#: admin/classes/uipress-app.php:2871
+msgid "The global search will only search the selected post types."
+msgstr "Căutarea globală va căuta numai tipurile de postări selectate."
+
+#: admin/classes/uipress-app.php:2879
+msgid "Post Types available in create button (new)"
+msgstr "Tipuri de postări disponibile în butonul de creare (nou)"
+
+#: admin/classes/uipress-app.php:2880
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr ""
+"Doar tipurile de postări selectate vor apărea în meniul derulant de creare."
+
+#: admin/classes/uipress-app.php:2888
+msgid "Only show notifications to"
+msgstr "Afișați numai notificări către"
+
+#: admin/classes/uipress-app.php:2889
+#, php-format
+msgid ""
+"%s will hide all notifications from all users except those selected below"
+msgstr ""
+"%s va ascunde toate notificările de la toți utilizatorii, cu excepția celor "
+"selectați mai jos"
+
+#: admin/classes/uipress-app.php:2897
+msgid "Only show updates to"
+msgstr "Afișați numai actualizările pentru"
+
+#: admin/classes/uipress-app.php:2898
+#, php-format
+msgid "%s will hide all updates from all users except those selected below"
+msgstr ""
+"%s va ascunde toate actualizările de la toți utilizatorii, cu excepția celor "
+"selectați mai jos"
+
+#: admin/classes/uipress-app.php:2914
+msgid "Theme"
+msgstr "Temă"
+
+#: admin/classes/uipress-app.php:2915 admin/classes/uipress-app.php:2945
+#: admin/classes/uipress-app.php:3000
+msgid "Styles page content."
+msgstr "Stilează conținutul paginii."
+
+#: admin/classes/uipress-app.php:2919
+msgid "Disable Admin Theme Module"
+msgstr "Dezactivați modulul temă de administrare"
+
+#: admin/classes/uipress-app.php:2920
+msgid "When the theme is disabled, pages will be styles in the original way."
+msgstr ""
+"Când tema este dezactivată, paginile vor avea stiluri în modul original."
+
+#: admin/classes/uipress-app.php:2927
+msgid "Theme Disabled for"
+msgstr "Tema dezactivată pentru"
+
+#: admin/classes/uipress-app.php:2928
+msgid ""
+"When the theme is disabled, pages will be styles in the original way for "
+"selected users or roles."
+msgstr ""
+"Când tema este dezactivată, paginile vor fi stiluri în modul original pentru "
+"utilizatorii sau rolurile selectate."
+
+#: admin/classes/uipress-app.php:2949
+msgid "Disable Login Module"
+msgstr "Dezactivați modulul de conectare"
+
+#: admin/classes/uipress-app.php:2950
+msgid ""
+"When the login module is disabled, the login page will be displayed in the "
+"original way."
+msgstr ""
+"Când modulul de conectare este dezactivat, pagina de conectare va fi afișată "
+"în modul original."
+
+#: admin/classes/uipress-app.php:2958
+msgid "Dark Mode"
+msgstr "Modul întunecat"
+
+#: admin/classes/uipress-app.php:2959
+msgid "Puts the login page in dark mode for all users."
+msgstr ""
+"Pune pagina de autentificare în modul întunecat pentru toți utilizatorii."
+
+#: admin/classes/uipress-app.php:2966
+msgid "Disable Language Selector"
+msgstr "Dezactivați selectorul de limbă"
+
+#: admin/classes/uipress-app.php:2967
+msgid "Removes the language selector added to the login page"
+msgstr "Elimină selectorul de limbă adăugat la pagina de conectare"
+
+#: admin/classes/uipress-app.php:2974
+msgid "Login Logo"
+msgstr "Logo de conectare"
+
+#: admin/classes/uipress-app.php:2975
+msgid "Sets the logo for the login page"
+msgstr "Setează sigla pentru pagina de conectare"
+
+#: admin/classes/uipress-app.php:2982
+msgid "Login Background"
+msgstr "Fundal de conectare"
+
+#: admin/classes/uipress-app.php:2983
+msgid "Sets an optional background image on the login page."
+msgstr "Setează o imagine de fundal opțională pe pagina de conectare."
+
+#: admin/classes/uipress-app.php:2999
+msgid "Advanced"
+msgstr "Avansat"
+
+#: admin/classes/uipress-app.php:3004
+msgid "Advanced Disabled For"
+msgstr "Avansat Dezactivat pentru"
+
+#: admin/classes/uipress-app.php:3005
+msgid "Code added here will not load for any users or roles you select"
+msgstr ""
+"Codul adăugat aici nu se va încărca pentru niciun utilizator sau rol pe care "
+"îl selectați"
+
+#: admin/classes/uipress-app.php:3013
+msgid "Enqueue scripts"
+msgstr "Puneți în coadă scripturile"
+
+#: admin/classes/uipress-app.php:3014
+msgid "Add scripts to the head of every admin page and login page"
+msgstr ""
+"Adăugați scripturi la capul fiecărei pagini de administrare și pagini de "
+"conectare"
+
+#: admin/classes/uipress-app.php:3022
+msgid "Enqueue styles"
+msgstr "Stiluri de coadă"
+
+#: admin/classes/uipress-app.php:3023
+msgid "Add stylesheets to the head of every admin page and login page"
+msgstr ""
+"Adăugați foi de stil în capul fiecărei pagini de administrare și pagini de "
+"conectare"
+
+#: admin/classes/uipress-app.php:3031
+msgid "Admin CSS"
+msgstr "CSS administrator"
+
+#: admin/classes/uipress-app.php:3032
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr ""
+"CSS adăugat aici va fi încărcat pe fiecare pagină de administrare, precum și "
+"pe pagina de conectare"
+
+#: admin/classes/uipress-app.php:3041
+msgid "Admin JavaScript"
+msgstr "JavaScript de administrator"
+
+#: admin/classes/uipress-app.php:3042
+msgid ""
+"JavaScript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr ""
+"JavaScript adăugat aici va fi încărcat pe fiecare pagină de administrare, "
+"precum și pe pagina de conectare"
+
+#: admin/classes/uipress-app.php:3051
+msgid "HTML for document head"
+msgstr "HTML pentru capul documentului"
+
+#: admin/classes/uipress-app.php:3052
+msgid ""
+"Add HTML here to be added to every admin page and login page head section"
+msgstr ""
+"Adăugați HTML aici pentru a fi adăugat la fiecare pagină de administrare și "
+"la fiecare secțiune de cap a paginii de conectare"
+
+#: admin/classes/uipress-app.php:3061
+msgid "Safe Mode Key"
+msgstr "Tasta Safe Mode"
+
+#: admin/classes/uipress-app.php:3063
+msgid ""
+"Add a private key to allow you to disable uipress on specific pages with "
+"query paramaters. For example, add '?no_uip=your_key' to a URL and it wil "
+"stop uipress from loading on that page."
+msgstr ""
+"Adăugați o cheie privată pentru a vă permite să dezactivați uipress pe "
+"anumite pagini cu parametri de interogare. De exemplu, adăugați „?"
+"no_uip=your_key” la o adresă URL și va opri încărcarea uipress pe pagina "
+"respectivă."
+
+#: admin/classes/update.php:66
+msgid "Welcome to UiPress version "
+msgstr "Bun venit la versiunea UiPress"
+
+#: admin/classes/update.php:69 admin/classes/update.php:101
+msgid ""
+"Would you like to automatically import settings from your older version of "
+"uipress?"
+msgstr ""
+"Doriți să importați automat setările din versiunea dvs. mai veche de uipress?"
+
+#: admin/classes/update.php:71
+msgid "Don't show again"
+msgstr "Nu mai arăta"
+
+#: admin/classes/update.php:72 admin/classes/update.php:103
+msgid "Import settings"
+msgstr "Import setări"
+
+#: admin/classes/update.php:115
+msgid "Check for updates"
+msgstr "Verifică pentru actualizări"
+
+#: admin/classes/update.php:141
+msgid "Unable to contact update server"
+msgstr "Nu se poate contacta serverul de actualizare"
+
+#: admin/classes/update.php:156
+msgid "Update available"
+msgstr "Actualizare disponibila"
+
+#: admin/classes/update.php:162
+msgid "No Updates available"
+msgstr "Nu există actualizări disponibile"
+
+#: admin/classes/update.php:180
+msgid "Message dismissed"
+msgstr "Mesaj respins"
+
+#: admin/classes/update.php:204
+msgid "No settings to import"
+msgstr "Nu există setări de importat"
+
+#: admin/classes/update.php:350
+msgid "Settings imported"
+msgstr "Setări importate"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress"
+msgstr "UiPress"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress admin extension with a streamlined dashboard, Google "
+"Analytics & WooCommerce Integration, intuitive media library, dark mode and "
+"much more."
+msgstr ""
+"Extensie de administrare WordPress puternică cu un tablou de bord "
+"simplificat, integrare Google Analytics și WooCommerce, bibliotecă media "
+"intuitivă, modul întunecat și multe altele."
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "Administrator 2020"

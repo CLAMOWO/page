@@ -1,0 +1,4825 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress\n"
+"POT-Creation-Date: 2022-06-12 12:06+0200\n"
+"PO-Revision-Date: 2022-06-22 20:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: Lithuanian (Italy)\n"
+"Language: lt_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && (n%100<11 || n%100>19) ? 0 : "
+"n%10>=2 && n%10<=9 && (n%100<11 || n%100>19) ? 1 : 2);\n"
+"X-Team: Rubyvio https://rubyvio.com"
+"X-Poedit-Basepath: ..\n"
+"X-Translate-Version: beta; wp-6.0"
+"X-Human revision: none;
+
+#: admin/apps/admin-pages/admin-pages.php:110
+#: admin/apps/menu-creator/menu-creator.php:1304
+msgid "Apply to subsites"
+msgstr "Taikyti antrinėms svetainėms"
+
+#: admin/apps/admin-pages/admin-pages.php:121
+msgid "Menu Icon"
+msgstr "Meniu piktograma"
+
+#: admin/apps/admin-pages/admin-pages.php:131
+msgid "Manually add to menu?"
+msgstr "Pridėti į meniu rankiniu būdu?"
+
+#: admin/apps/admin-pages/admin-pages.php:250
+msgid "Admin Pages - Beta"
+msgstr "Administratoriaus puslapiai – beta versija"
+
+#: admin/apps/admin-pages/admin-pages.php:251
+msgid "Creates custom admin pages."
+msgstr "Sukuria pasirinktinius administratoriaus puslapius."
+
+#: admin/apps/admin-pages/admin-pages.php:255
+msgid "Disable custom admin pages?"
+msgstr "Išjungti tinkintus administratoriaus puslapius?"
+
+#: admin/apps/admin-pages/admin-pages.php:256
+msgid "If disabled, the admin pages will not be available to any users."
+msgstr ""
+"Jei išjungta, administratoriaus puslapiai nebus pasiekiami jokiems "
+"vartotojams."
+
+#: admin/apps/admin-pages/admin-pages.php:263
+msgid "Admin Page Slug"
+msgstr "Administratoriaus puslapio šliužas"
+
+#: admin/apps/admin-pages/admin-pages.php:264
+msgid ""
+"This defaults to admin-pages. Changes to this will need you to resave "
+"permalink structure."
+msgstr ""
+"Numatyta, kad tai yra administratoriaus puslapiai. Pakeitus tai, reikės iš "
+"naujo išsaugoti nuolatinės nuorodos struktūrą."
+
+#: admin/apps/admin-pages/admin-pages.php:271
+msgid "Who can edit and create admin pages?"
+msgstr "Kas gali redaguoti ir kurti administratoriaus puslapius?"
+
+#: admin/apps/admin-pages/admin-pages.php:272
+msgid ""
+"Editing and creation of admin pages will be disabled for the users or roles "
+"you select"
+msgstr ""
+"Pasirinktiems naudotojams ar vaidmenims bus neleidžiamas administratoriaus "
+"puslapių redagavimas ir kūrimas"
+
+#: admin/apps/admin-pages/admin-pages.php:280
+msgid "Who can see admin pages?"
+msgstr "Kas gali matyti administratoriaus puslapius?"
+
+#: admin/apps/admin-pages/admin-pages.php:281
+msgid "UiPress will only show admin pages for the users or roles you select"
+msgstr ""
+"„UIPress“ rodys tik jūsų pasirinktų vartotojų ar vaidmenų administratoriaus "
+"puslapius"
+
+#: admin/apps/admin-pages/admin-pages.php:320
+msgctxt "post type general name"
+msgid "Admin Page"
+msgstr "Administratoriaus puslapis"
+
+#: admin/apps/admin-pages/admin-pages.php:321
+msgctxt "post type singular name"
+msgid "Admin Page"
+msgstr "Administratoriaus puslapis"
+
+#: admin/apps/admin-pages/admin-pages.php:322
+msgctxt "admin menu"
+msgid "Admin Pages"
+msgstr "Administratoriaus puslapiai"
+
+#: admin/apps/admin-pages/admin-pages.php:323
+msgctxt "add new on admin bar"
+msgid "Admin Page"
+msgstr "Administratoriaus puslapis"
+
+#: admin/apps/admin-pages/admin-pages.php:324
+msgctxt "Admin Page"
+msgid "Add New"
+msgstr "Pridėti naują"
+
+#: admin/apps/admin-pages/admin-pages.php:325
+msgid "Add New Admin Page"
+msgstr "Pridėti naują administratoriaus puslapį"
+
+#: admin/apps/admin-pages/admin-pages.php:326
+msgid "New Admin Page"
+msgstr "Naujas administratoriaus puslapis"
+
+#: admin/apps/admin-pages/admin-pages.php:327
+msgid "Edit Admin Page"
+msgstr "Redaguoti administratoriaus puslapį"
+
+#: admin/apps/admin-pages/admin-pages.php:328
+msgid "View Admin Page"
+msgstr "Žiūrėti administratoriaus puslapį"
+
+#: admin/apps/admin-pages/admin-pages.php:329
+msgid "All Admin Pages"
+msgstr "Visi administratoriaus puslapiai"
+
+#: admin/apps/admin-pages/admin-pages.php:330
+msgid "Search Admin Pages"
+msgstr "Ieškoti administratoriaus puslapiuose"
+
+#: admin/apps/admin-pages/admin-pages.php:331
+msgid "No Admin Pages found."
+msgstr "Administratoriaus puslapių nerasta."
+
+#: admin/apps/admin-pages/admin-pages.php:332
+msgid "No Admin Pages found in Trash."
+msgstr "Šiukšliadėžėje nerasta jokių administratoriaus puslapių."
+
+#: admin/apps/admin-pages/admin-pages.php:336
+#: admin/apps/menu-creator/menu-creator.php:667
+#: admin/apps/users/uip-history.php:161
+msgid "Description."
+msgstr "Apibūdinimas."
+
+#: admin/apps/content/content.php:96
+msgid "Content Page"
+msgstr "Turinio puslapis"
+
+#: admin/apps/content/content.php:97
+msgid "Creates content page"
+msgstr "Sukuria turinio puslapį"
+
+#: admin/apps/content/content.php:101
+msgid "Disable Content Page?"
+msgstr "Išjungti turinio puslapį?"
+
+#: admin/apps/content/content.php:102
+msgid "If disabled, the content page will not be available to any users."
+msgstr "Jei išjungta, turinio puslapis nebus pasiekiamas jokiems vartotojams."
+
+#: admin/apps/content/content.php:109
+msgid "Content Page Disabled for"
+msgstr "Turinio puslapis išjungtas"
+
+#: admin/apps/content/content.php:110
+msgid ""
+"When the content page module is disabled, the content page will not be "
+"accesible for the users / roles"
+msgstr ""
+"Kai turinio puslapio modulis išjungtas, turinio puslapis nebus pasiekiamas "
+"naudotojams / vaidmenims"
+
+#: admin/apps/content/content.php:118
+msgid "Post types available in content page"
+msgstr "Turinio puslapyje galimi pranešimų tipai"
+
+#: admin/apps/content/content.php:119
+msgid "Only the selected post types will be available in the content page."
+msgstr "Turinio puslapyje bus pasiekiami tik pasirinkti įrašų tipai."
+
+#: admin/apps/content/content.php:127
+msgid "Enable private library mode"
+msgstr "Įgalinti privačios bibliotekos režimą"
+
+#: admin/apps/content/content.php:128
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This also includes folders"
+msgstr ""
+"Kai įjungta, turinio puslapyje bus rodomas tik šiuo metu prisijungusio "
+"vartotojo sukurtas arba jo įkeltas turinys. Tai taip pat apima aplankus"
+
+#: admin/apps/content/content.php:184
+msgid "Original Title / Value"
+msgstr "Originalus pavadinimas / vertė"
+
+#: admin/apps/content/content.php:188 admin/classes/styles.php:693
+msgid "Text"
+msgstr "Tekstas"
+
+#: admin/apps/content/content.php:192 admin/apps/content/content.php:2033
+msgid "Date Created"
+msgstr "Sukūrimo data"
+
+#: admin/apps/content/content.php:196
+msgid "File Extension (attachments only)"
+msgstr "Failo plėtinys (tik priedai)"
+
+#: admin/apps/content/content.php:200
+msgid "Sequence Number"
+msgstr "Eilės numeris"
+
+#: admin/apps/content/content.php:204
+msgid "Meta Value"
+msgstr "Meta vertė"
+
+#: admin/apps/content/content.php:208
+msgid "Find and Replace"
+msgstr "Rasti ir pakeisti"
+
+#: admin/apps/content/content.php:266 admin/classes/uipress-app.php:1731
+#: admin/classes/uipress-app.php:2073
+msgid "No preferences supplied to save"
+msgstr "Nepateikta jokių nustatymų, kuriuos būtų galima išsaugoti"
+
+#: admin/apps/content/content.php:288 admin/classes/uipress-app.php:1742
+#: admin/classes/uipress-app.php:2095
+msgid "Preferences saved"
+msgstr "Parinktys išsaugotos"
+
+#: admin/apps/content/content.php:291 admin/classes/uipress-app.php:1746
+#: admin/classes/uipress-app.php:2098
+msgid "Unable to save user preferences"
+msgstr "Nepavyko išsaugoti vartotojo nuostatų"
+
+#: admin/apps/content/content.php:320 admin/apps/content/content.php:328
+#: admin/apps/content/content.php:957
+msgid "Unable to save attachment"
+msgstr "Nepavyko išsaugoti priedo"
+
+#: admin/apps/content/content.php:337
+msgid "Image Saved"
+msgstr "Vaizdas išsaugotas"
+
+#: admin/apps/content/content.php:370
+msgid "Failed to upload file"
+msgstr "Nepavyko įkelti failo"
+
+#: admin/apps/content/content.php:400
+msgid "Items uploaded"
+msgstr "Elementai įkelti"
+
+#: admin/apps/content/content.php:423
+msgid "Views updated"
+msgstr "Peržiūros atnaujintos"
+
+#: admin/apps/content/content.php:455 admin/apps/content/content.php:517
+#: admin/apps/content/content.php:579 admin/apps/content/content.php:769
+#: admin/apps/menu-creator/menu-creator.php:752
+#: admin/apps/menu-creator/menu-creator.php:777
+#: admin/apps/menu-creator/menu-creator.php:814
+#: admin/apps/menu-creator/menu-creator.php:867
+#: admin/apps/menu-creator/menu-creator.php:936
+#: admin/apps/users/uip-user-groups.php:309 admin/classes/folders.php:528
+#: admin/classes/settings.php:308 admin/classes/uipress-app.php:1357
+msgid "Something went wrong"
+msgstr "Kažkas nutiko"
+
+#: admin/apps/content/content.php:460
+msgid "Items duplicated successfully"
+msgstr "Elementai sėkmingai nukopijuoti"
+
+#: admin/apps/content/content.php:463
+msgid "Itms couldn't be duplicated"
+msgstr "Elementų nepavyko kopijuoti"
+
+#: admin/apps/content/content.php:501 admin/apps/content/content.php:543
+msgid "No Meta Key provided"
+msgstr "Meta raktas nepateiktas"
+
+#: admin/apps/content/content.php:583
+msgid "Attributes Updated"
+msgstr "Atnaujinti atributai"
+
+#: admin/apps/content/content.php:774
+msgid "Items deleted successfully"
+msgstr "Elementai sėkmingai ištrinti"
+
+#: admin/apps/content/content.php:777
+msgid "Itms couldn't be deleted"
+msgstr "Elementų nepavyko ištrinti"
+
+#: admin/apps/content/content.php:799 admin/classes/folders.php:452
+#: admin/classes/folders.php:484
+msgid "No content to move"
+msgstr "Nėra turinio, kurį būtų galima perkelti"
+
+#: admin/apps/content/content.php:812 admin/classes/folders.php:466
+#: admin/classes/folders.php:497
+msgid "Content moved"
+msgstr "Turinys perkeltas"
+
+#: admin/apps/content/content.php:938
+msgid "Unable to update item"
+msgstr "Nepavyko atnaujinti elemento"
+
+#: admin/apps/content/content.php:968
+msgid "Item updated"
+msgstr "Elementas atnaujintas"
+
+#: admin/apps/content/content.php:1007
+msgid "Items updated"
+msgstr "Elementai atnaujinti"
+
+#: admin/apps/content/content.php:1319 admin/apps/content/content.php:1611
+msgid "Content"
+msgstr "Turinys"
+
+#: admin/apps/content/content.php:1362
+#: admin/apps/menu-creator/menu-creator.php:1096
+#: admin/classes/uipress-app.php:1325
+msgid "Pro Feature"
+msgstr "Pro funkcija"
+
+#: admin/apps/content/content.php:1365
+msgid "Upgrade to UiPress Pro to unlock the content page and content folders"
+msgstr ""
+"Naujovinkite į UiPress Pro, kad atrakintumėte turinio puslapį ir turinio "
+"aplankus"
+
+#: admin/apps/content/content.php:1367
+#: admin/apps/menu-creator/menu-creator.php:1101
+msgid "See UiPress Pro Plans"
+msgstr "Žr. „UiPress Pro“ planus"
+
+#: admin/apps/content/content.php:1411
+msgid "Update Tags and Categories"
+msgstr "Atnaujinkite žymas ir kategorijas"
+
+#: admin/apps/content/content.php:1418 admin/apps/content/content.php:1831
+#: admin/apps/content/content.php:1836 admin/apps/content/content.php:2068
+#: admin/apps/content/content.php:2071
+msgid "Categories"
+msgstr "Kategorijos"
+
+#: admin/apps/content/content.php:1419 admin/apps/content/content.php:1837
+#: admin/apps/content/content.php:2072
+msgid "Search categories..."
+msgstr "Ieškoti kategorijų..."
+
+#: admin/apps/content/content.php:1424
+msgid "Keep existing categories"
+msgstr "Išsaugokite esamas kategorijas"
+
+#: admin/apps/content/content.php:1433 admin/apps/content/content.php:1843
+#: admin/apps/content/content.php:1847 admin/apps/content/content.php:2080
+#: admin/apps/content/content.php:2083
+msgid "Tags"
+msgstr "Žymos"
+
+#: admin/apps/content/content.php:1434 admin/apps/content/content.php:1848
+#: admin/apps/content/content.php:2084
+msgid "Search tags..."
+msgstr "Ieškoti žymų..."
+
+#: admin/apps/content/content.php:1439
+msgid "Keep existing tags"
+msgstr "Išsaugokite esamas žymas"
+
+#: admin/apps/content/content.php:1448 admin/apps/content/content.php:1686
+#: admin/classes/uipress-app.php:1373
+msgid "Update"
+msgstr "Atnaujinti"
+
+#: admin/apps/content/content.php:1465 admin/apps/content/content.php:2567
+msgid "Batch Rename"
+msgstr "Partijos pervadinimas"
+
+#: admin/apps/content/content.php:1473
+msgid "Attribute to rename"
+msgstr "Atributas pervadinti"
+
+#: admin/apps/content/content.php:1480 admin/apps/content/content.php:2323
+#: admin/apps/menu-creator/menu-creator.php:1151
+#: admin/apps/menu-creator/menu-creator.php:1651
+#: admin/apps/menu-creator/menu-creator.php:1652
+#: admin/apps/users/uip-users.php:311 admin/apps/users/uip-users.php:389
+#: admin/apps/users/uip-users.php:1213 admin/classes/uipress-app.php:1371
+msgid "Name"
+msgstr "vardas"
+
+#: admin/apps/content/content.php:1481
+msgid "Meta Key"
+msgstr "Meta raktas"
+
+#: admin/apps/content/content.php:1482
+msgid "Alt Tag (Attachments only)"
+msgstr "Alt žyma (tik priedai)"
+
+#: admin/apps/content/content.php:1487
+msgid "Meta Key Name"
+msgstr "Meta rakto pavadinimas"
+
+#: admin/apps/content/content.php:1498
+msgid "Filename Structure"
+msgstr "Failo vardo struktūra"
+
+#: admin/apps/content/content.php:1506
+msgid "Rename Item"
+msgstr "Pervardyti elementą"
+
+#: admin/apps/content/content.php:1514 admin/apps/overview/overview.php:812
+msgid "Add"
+msgstr "Papildyti"
+
+#: admin/apps/content/content.php:1540
+msgid "New Text"
+msgstr "Naujas tekstas"
+
+#: admin/apps/content/content.php:1542
+msgid "Date Format"
+msgstr "Datos formatas"
+
+#: admin/apps/content/content.php:1544
+msgid "Start Number"
+msgstr "Pradinis numeris"
+
+#: admin/apps/content/content.php:1546
+msgid "Meta key Name"
+msgstr "Meta rakto pavadinimas"
+
+#: admin/apps/content/content.php:1548
+msgid "Find"
+msgstr "Rasti"
+
+#: admin/apps/content/content.php:1552
+msgid "Replace"
+msgstr "Pakeiskite"
+
+#: admin/apps/content/content.php:1576 admin/apps/content/content.php:1593
+#: admin/apps/menu-creator/menu-creator.php:1464
+msgid "Preview"
+msgstr "Peržiūra"
+
+#: admin/apps/content/content.php:1579
+msgid "Current"
+msgstr "Dabartinė"
+
+#: admin/apps/content/content.php:1580
+#: admin/apps/menu-creator/menu-creator.php:1136
+msgid "New"
+msgstr "Nauja"
+
+#: admin/apps/content/content.php:1594
+msgid "Rename"
+msgstr "Pervardyti"
+
+#: admin/apps/content/content.php:1618 admin/classes/uipress-app.php:1365
+msgid "All Content"
+msgstr "Visas turinys"
+
+#: admin/apps/content/content.php:1679
+#: admin/apps/menu-creator/menu-creator.php:1225
+#: admin/apps/users/uip-users.php:541
+msgid "Delete"
+msgstr "Ištrinti"
+
+#: admin/apps/content/content.php:1684
+msgid "Edit Image"
+msgstr "Redaguoti vaizdą"
+
+#: admin/apps/content/content.php:1715 admin/apps/users/uip-users.php:309
+msgid "Details"
+msgstr "Detalės"
+
+#: admin/apps/content/content.php:1771 admin/apps/content/content.php:1772
+#: admin/apps/overview/overview.php:715
+msgid "Title"
+msgstr "Pavadinimas"
+
+#: admin/apps/content/content.php:1778
+msgid "Alt Text"
+msgstr "Alternatyvus tekstas"
+
+#: admin/apps/content/content.php:1779
+msgid "Alt"
+msgstr "Alt"
+
+#: admin/apps/content/content.php:1783 admin/apps/content/content.php:1784
+msgid "Caption"
+msgstr "Antraštė"
+
+#: admin/apps/content/content.php:1788 admin/apps/content/content.php:1789
+#: admin/apps/users/uip-users.php:1353
+msgid "Description"
+msgstr "apibūdinimas"
+
+#: admin/apps/content/content.php:1799
+msgid "Meta Data"
+msgstr "Meta duomenys"
+
+#: admin/apps/content/content.php:1819 admin/apps/content/content.php:1824
+#: admin/apps/content/content.php:2339
+#: admin/apps/menu-creator/menu-creator.php:1155
+#: admin/apps/menu-creator/menu-creator.php:1294
+#: admin/classes/uipress-app.php:1151
+msgid "Status"
+msgstr "Būsena"
+
+#: admin/apps/content/content.php:1825
+msgid "Search status..."
+msgstr "Paieškos būsena..."
+
+#: admin/apps/content/content.php:1927
+msgid "Filters"
+msgstr "Filtrai"
+
+#: admin/apps/content/content.php:1932
+msgid "Upload"
+msgstr "Įkelti"
+
+#: admin/apps/content/content.php:1954
+msgid "Items Per Page"
+msgstr "Elementai puslapyje"
+
+#: admin/apps/content/content.php:1964
+msgid "Columns"
+msgstr "Stulpeliai"
+
+#: admin/apps/content/content.php:1976
+msgid "Search..."
+msgstr "Paieška..."
+
+#: admin/apps/content/content.php:1984
+msgid "of"
+msgstr "apie"
+
+#: admin/apps/content/content.php:1987
+msgid "items"
+msgstr "daiktų"
+
+#: admin/apps/content/content.php:2011 admin/apps/content/content.php:2014
+msgid "Post Types"
+msgstr "Pranešimų tipai"
+
+#: admin/apps/content/content.php:2015
+msgid "Search Post Types..."
+msgstr "Ieškoti įrašų tipų..."
+
+#: admin/apps/content/content.php:2022 admin/apps/content/content.php:2025
+msgid "Post Status"
+msgstr "Pranešimo būsena"
+
+#: admin/apps/content/content.php:2026
+msgid "Search Post Statuses..."
+msgstr "Ieškoti pranešimų būsenų..."
+
+#: admin/apps/content/content.php:2039
+msgid "Posted On"
+msgstr "Publikuotas"
+
+#: admin/apps/content/content.php:2040
+msgid "Posted After"
+msgstr "Paskelbta po"
+
+#: admin/apps/content/content.php:2041
+msgid "Posted Before"
+msgstr "Paskelbta Prieš"
+
+#: admin/apps/content/content.php:2056 admin/apps/content/content.php:2059
+msgid "Media Types"
+msgstr "Žiniasklaidos tipai"
+
+#: admin/apps/content/content.php:2060
+msgid "Search Media Types..."
+msgstr "Ieškoti medijos tipų..."
+
+#: admin/apps/content/content.php:2089
+msgid "Clear Filters"
+msgstr "Išvalyti filtrus"
+
+#: admin/apps/content/content.php:2090
+msgid "Save as view"
+msgstr "Išsaugoti kaip rodinį"
+
+#: admin/apps/content/content.php:2136
+msgid "Posted"
+msgstr "Paskelbta"
+
+#: admin/apps/content/content.php:2327
+msgid "Type"
+msgstr "Tipas"
+
+#: admin/apps/content/content.php:2331
+msgid "Author"
+msgstr "Autorius"
+
+#: admin/apps/content/content.php:2335
+#: admin/apps/menu-creator/menu-creator.php:1159
+#: admin/apps/overview/overview.php:904 admin/apps/users/uip-users.php:1333
+msgid "Date"
+msgstr "Data"
+
+#: admin/apps/content/content.php:2483
+msgid "Load More"
+msgstr "Įkelti daugiau"
+
+#: admin/apps/content/content.php:2492
+msgid "No content found"
+msgstr "Nerasta jokio turinio"
+
+#: admin/apps/content/content.php:2511 admin/apps/users/uip-users.php:547
+#: admin/classes/uipress-app.php:1327
+msgid "View"
+msgstr "Žiūrėti"
+
+#: admin/apps/content/content.php:2518
+#: admin/apps/menu-creator/menu-creator.php:1203
+#: admin/apps/users/uip-users.php:523 admin/classes/uipress-app.php:1328
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: admin/apps/content/content.php:2525
+msgid "Quick Edit"
+msgstr "Greitas redagavimas"
+
+#: admin/apps/content/content.php:2532
+#: admin/apps/menu-creator/menu-creator.php:1210
+msgid "Duplicate"
+msgstr "Pasikartoti"
+
+#: admin/apps/content/content.php:2540
+msgid "Delete Item"
+msgstr "Ištrinti elementą"
+
+#: admin/apps/content/content.php:2560
+msgid "items selected"
+msgstr "pasirinkti elementai"
+
+#: admin/apps/content/content.php:2573
+msgid "Categories & Tags"
+msgstr "Kategorijos ir žymos"
+
+#: admin/apps/content/content.php:2579
+msgid "Delete Selected"
+msgstr "Išštrinti pasirinktus"
+
+#: admin/apps/content/content.php:2585
+msgid "Clear Selection"
+msgstr "Išvalyti pasirinkimą"
+
+#: admin/apps/content/content.php:2607
+msgid "Create New View"
+msgstr "Sukurti naują vaizdą"
+
+#: admin/apps/content/content.php:2612
+msgid "View name"
+msgstr "Žiūrėti pavadinimą"
+
+#: admin/apps/content/content.php:2615
+msgid "View Name"
+msgstr "Rodyti pavadinimą"
+
+#: admin/apps/content/content.php:2623
+#: admin/apps/menu-creator/menu-creator.php:1709
+#: admin/apps/overview/overview.php:836 admin/classes/styles.php:437
+msgid "Save"
+msgstr "Sutaupyti"
+
+#: admin/apps/menu-creator/menu-creator.php:405
+#: admin/apps/menu-creator/menu-creator.php:1044
+#: admin/apps/menu-creator/menu-creator.php:1052
+#: admin/apps/menu-creator/menu-creator.php:1131
+#: admin/apps/menu-creator/menu-creator.php:1699
+msgid "Menu Creator"
+msgstr "Meniu kūrėjas"
+
+#: admin/apps/menu-creator/menu-creator.php:406
+msgid "Creates custom admin menus."
+msgstr "Sukuria pasirinktinius administratoriaus meniu."
+
+#: admin/apps/menu-creator/menu-creator.php:410
+msgid "Disable Menu Creator?"
+msgstr "Išjungti meniu kūrėją?"
+
+#: admin/apps/menu-creator/menu-creator.php:411
+msgid "If disabled, the menu creator will not be available to any users."
+msgstr "Jei išjungsite, meniu kūrėjas nebus pasiekiamas jokiems vartotojams."
+
+#: admin/apps/menu-creator/menu-creator.php:651
+msgctxt "post type general name"
+msgid "Admin Menu"
+msgstr "Administratoriaus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:652
+msgctxt "post type singular name"
+msgid "admin menu"
+msgstr "administratoriaus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:653
+msgctxt "admin menu"
+msgid "Admin Menus"
+msgstr "Administratoriaus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:654
+msgctxt "add new on admin bar"
+msgid "Admin Menu"
+msgstr "Administratoriaus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:655
+msgctxt "Admin Menu"
+msgid "Add New"
+msgstr "Pridėti naują"
+
+#: admin/apps/menu-creator/menu-creator.php:656
+msgid "Add New Admin Menu"
+msgstr "Pridėti naują administratoriaus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:657
+msgid "New Admin Menu"
+msgstr "Naujas administratoriaus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:658
+msgid "Edit Admin Menu"
+msgstr "Redaguoti administratoriaus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:659
+msgid "View Admin Menu"
+msgstr "Peržiūrėti administratoriaus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:660
+msgid "All Admin Menus"
+msgstr "Visi administratoriaus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:661
+msgid "Search Admin Menus"
+msgstr "Ieškokite administratoriaus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:662
+msgid "No Admin Menus found."
+msgstr "Administratoriaus meniu nerasta."
+
+#: admin/apps/menu-creator/menu-creator.php:663
+msgid "No Admin Menus found in Trash."
+msgstr "Šiukšliadėžėje nerasta administratoriaus meniu."
+
+#: admin/apps/menu-creator/menu-creator.php:759
+msgid "Status Updated"
+msgstr "Būsena atnaujinta"
+
+#: admin/apps/menu-creator/menu-creator.php:783
+msgid "You don't have permission to delete this"
+msgstr "Neturite leidimo tai ištrinti"
+
+#: admin/apps/menu-creator/menu-creator.php:791
+msgid "Unable to delete menu"
+msgstr "Nepavyko ištrinti meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:796
+msgid "Menu deleted"
+msgstr "Meniu ištrintas"
+
+#: admin/apps/menu-creator/menu-creator.php:820
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "Nepavyko kopijuoti meniu, meniu sugadintas"
+
+#: admin/apps/menu-creator/menu-creator.php:826
+msgid "(copy)"
+msgstr "(kopija)"
+
+#: admin/apps/menu-creator/menu-creator.php:834
+msgid "Unable to duplicate menu"
+msgstr "Nepavyko dubliuoti meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:844
+msgid "Menu duplicated"
+msgstr "Meniu dubliuotas"
+
+#: admin/apps/menu-creator/menu-creator.php:873
+msgid "Unable to save, menu is corrupted"
+msgstr "Nepavyko išsaugoti, meniu sugadintas"
+
+#: admin/apps/menu-creator/menu-creator.php:894
+msgid "Unable to save menu"
+msgstr "Nepavyko išsaugoti meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:917
+msgid "Menu Saved"
+msgstr "Meniu išsaugotas"
+
+#: admin/apps/menu-creator/menu-creator.php:962
+#: admin/apps/users/uip-users.php:1321 admin/classes/settings.php:328
+msgid "User"
+msgstr "Vartotojas"
+
+#: admin/apps/menu-creator/menu-creator.php:977
+#: admin/apps/menu-creator/menu-creator.php:988
+#: admin/apps/users/uip-users.php:1285 admin/classes/settings.php:343
+#: admin/classes/settings.php:354
+msgid "Role"
+msgstr "Vaidmuo"
+
+#: admin/apps/menu-creator/menu-creator.php:995 admin/classes/settings.php:361
+msgid "Nothing found for term:"
+msgstr "Terminui nieko nerasta:"
+
+#: admin/apps/menu-creator/menu-creator.php:1044
+#, php-format
+msgid "%s Menu Creator"
+msgstr "%s meniu kūrėjas"
+
+#: admin/apps/menu-creator/menu-creator.php:1099
+msgid "Upgrade to UiPress Pro to unlock the menu creator"
+msgstr "Naujovinkite į UiPress Pro, kad atrakintumėte meniu kūrėją"
+
+#: admin/apps/menu-creator/menu-creator.php:1142
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "Panašu, kad dar nesukūrėte jokių administratoriaus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:1143
+msgid "Create your first admin menu"
+msgstr "Sukurkite pirmąjį administratoriaus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:1217
+#: admin/apps/menu-creator/menu-creator.php:1718
+#: admin/apps/users/uip-users.php:559 admin/classes/settings.php:248
+#: admin/classes/styles.php:447
+msgid "Export"
+msgstr "Eksportuoti"
+
+#: admin/apps/menu-creator/menu-creator.php:1264
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"Meniu kūrėjas nėra optimizuotas mobiliesiems įrenginiams. Norėdami gauti "
+"geriausių rezultatų, perjunkite į didesnį ekraną"
+
+#: admin/apps/menu-creator/menu-creator.php:1279
+msgid "Menu Items"
+msgstr "Meniu elementai"
+
+#: admin/apps/menu-creator/menu-creator.php:1283
+msgid "Menu Settings"
+msgstr "Meniu Nustatymai"
+
+#: admin/apps/menu-creator/menu-creator.php:1314
+#: admin/apps/menu-creator/menu-creator.php:1315
+msgid "Menu Name"
+msgstr "Meniu pavadinimas"
+
+#: admin/apps/menu-creator/menu-creator.php:1319
+msgid "Menu Applies to"
+msgstr "Meniu Taikoma"
+
+#: admin/apps/menu-creator/menu-creator.php:1323
+msgid "Inclusive"
+msgstr "Įskaitytinai"
+
+#: admin/apps/menu-creator/menu-creator.php:1327
+msgid "Exclusive"
+msgstr "Išskirtinis"
+
+#: admin/apps/menu-creator/menu-creator.php:1331
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr ""
+"Įtraukimo režimu šis meniu bus įkeltas visiems toliau pasirinktiems "
+"naudotojų vardams ir vaidmenims."
+
+#: admin/apps/menu-creator/menu-creator.php:1334
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"Išskirtiniu režimu šis meniu bus įkeltas kiekvienam vartotojui, išskyrus "
+"toliau pasirinktus naudotojo vardus ir vaidmenis."
+
+#: admin/apps/menu-creator/menu-creator.php:1340
+msgid "Choose users or roles..."
+msgstr "Pasirinkite naudotojus arba vaidmenis..."
+
+#: admin/apps/menu-creator/menu-creator.php:1342
+msgid "Search roles and users..."
+msgstr "Ieškoti vaidmenų ir vartotojų..."
+
+#: admin/apps/menu-creator/menu-creator.php:1351
+msgid "Custom Items"
+msgstr "Individualizuotos prekės"
+
+#: admin/apps/menu-creator/menu-creator.php:1355
+msgid "New Separator"
+msgstr "Naujas separatorius"
+
+#: admin/apps/menu-creator/menu-creator.php:1358
+msgid "New Custom Link"
+msgstr "Nauja tinkinta nuoroda"
+
+#: admin/apps/menu-creator/menu-creator.php:1363
+msgid "Available Menu Items"
+msgstr "Galimi meniu elementai"
+
+#: admin/apps/menu-creator/menu-creator.php:1370
+msgid "Search menu items"
+msgstr "Ieškokite meniu elementų"
+
+#: admin/apps/menu-creator/menu-creator.php:1518
+msgid "Add some menu items from the left toolbar to get started"
+msgstr ""
+"Norėdami pradėti, pridėkite keletą meniu elementų iš kairiosios įrankių "
+"juostos"
+
+#: admin/apps/menu-creator/menu-creator.php:1537
+msgid "Separator"
+msgstr "Atskyriklis"
+
+#: admin/apps/menu-creator/menu-creator.php:1642
+msgid "Edit Menu Item"
+msgstr "Redaguoti meniu elementą"
+
+#: admin/apps/menu-creator/menu-creator.php:1656
+#: admin/apps/menu-creator/menu-creator.php:1657
+msgid "Link"
+msgstr "Nuoroda"
+
+#: admin/apps/menu-creator/menu-creator.php:1661
+msgid "Classes"
+msgstr "Klasės"
+
+#: admin/apps/menu-creator/menu-creator.php:1663
+msgid "Custom classes"
+msgstr "Individualizuotos klasės"
+
+#: admin/apps/menu-creator/menu-creator.php:1667
+msgid "Opens in new tab?"
+msgstr "Atidaroma naujame skirtuke?"
+
+#: admin/apps/menu-creator/menu-creator.php:1677
+msgid "Icon"
+msgstr "Piktograma"
+
+#: admin/apps/menu-creator/menu-creator.php:1702
+msgid "Back to all menus"
+msgstr "Grįžti į visus meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:1727
+msgid "Import Menu"
+msgstr "Importavimo meniu"
+
+#: admin/apps/menu-creator/menu-creator.php:1736 admin/classes/settings.php:265
+msgid "Reset Settings"
+msgstr "Atstatyti nustatymus"
+
+#: admin/apps/overview/analytics.php:74
+msgid "Analytics account removed"
+msgstr "„Analytics“ paskyra pašalinta"
+
+#: admin/apps/overview/analytics.php:93
+msgid "Unable to connect account"
+msgstr "Nepavyko prijungti paskyros"
+
+#: admin/apps/overview/analytics.php:106
+msgid "Analytics account connected"
+msgstr "„Analytics“ paskyra prijungta"
+
+#: admin/apps/overview/analytics.php:310 admin/apps/overview/analytics.php:718
+#: admin/apps/overview/overview.php:761
+msgid "Site Users"
+msgstr "Svetainės vartotojai"
+
+#: admin/apps/overview/analytics.php:318 admin/apps/overview/overview.php:762
+msgid "Site Users (comparison period)"
+msgstr "Svetainės naudotojai (lyginamasis laikotarpis)"
+
+#: admin/apps/overview/analytics.php:383 admin/apps/overview/analytics.php:700
+#: admin/apps/overview/overview.php:759
+msgid "Page Views"
+msgstr "Puslapių peržiūros"
+
+#: admin/apps/overview/analytics.php:391
+msgid "Page Views (comparison period)"
+msgstr "Puslapio peržiūros (lyginamasis laikotarpis)"
+
+#: admin/apps/overview/analytics.php:608 admin/apps/overview/analytics.php:709
+msgid "Page Speed"
+msgstr "Puslapio greitis"
+
+#: admin/apps/overview/analytics.php:616
+msgid "Page Speed (comparison period)"
+msgstr "Puslapio greitis (lyginamasis laikotarpis)"
+
+#: admin/apps/overview/analytics.php:663 admin/apps/overview/analytics.php:703
+#: admin/apps/overview/analytics.php:712 admin/apps/overview/analytics.php:721
+#: admin/apps/overview/analytics.php:730 admin/apps/overview/analytics.php:739
+#: admin/apps/overview/analytics.php:748 admin/apps/overview/analytics.php:757
+#: admin/apps/overview/analytics.php:766 admin/apps/overview/analytics.php:775
+#: admin/apps/overview/analytics.php:784 admin/apps/overview/analytics.php:793
+#: admin/apps/overview/analytics.php:802 admin/apps/overview/analytics.php:811
+#: admin/apps/overview/analytics.php:820 admin/apps/overview/analytics.php:829
+#: admin/apps/overview/analytics.php:838 admin/apps/overview/analytics.php:847
+#: admin/apps/overview/analytics.php:856 admin/apps/overview/analytics.php:865
+#: admin/apps/overview/analytics.php:874 admin/apps/overview/analytics.php:883
+msgid "Analytics"
+msgstr "Analizė"
+
+#: admin/apps/overview/analytics.php:665
+msgid "Creates the google analytics cards for the overview page."
+msgstr "Sukuria apžvalgos puslapio „Google Analytics“ korteles."
+
+#: admin/apps/overview/analytics.php:681
+msgid "Google Analytics disabled for"
+msgstr "„Google Analytics“ išjungta"
+
+#: admin/apps/overview/analytics.php:682
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr ""
+"„Analytics“ bus išjungta visų pasirinktų naudotojų ar vaidmenų apžvalgos "
+"puslapyje"
+
+#: admin/apps/overview/analytics.php:702
+msgid "Display website page views within the date range."
+msgstr "Rodyti svetainės puslapių peržiūras per dienų seką."
+
+#: admin/apps/overview/analytics.php:711
+msgid "Display website page speed within the date range."
+msgstr "Rodyti svetainės puslapio greitį per dienų seką."
+
+#: admin/apps/overview/analytics.php:720
+msgid "Display website users within the date range."
+msgstr "Rodyti svetainės naudotojus per dienų seką."
+
+#: admin/apps/overview/analytics.php:727
+msgid "Site visits by device"
+msgstr "Apsilankymai svetainėje pagal įrenginį"
+
+#: admin/apps/overview/analytics.php:729
+msgid "Display site usage by device within the date range."
+msgstr "Rodyti svetainės naudojimą pagal įrenginį per dienų seką."
+
+#: admin/apps/overview/analytics.php:736 admin/apps/overview/overview.php:841
+msgid "Bounce Rate"
+msgstr "Atmetimo rodiklis"
+
+#: admin/apps/overview/analytics.php:738
+msgid "Display site bounce rate within the date range."
+msgstr "Rodyti svetainės atmetimo rodiklį per dienų seką."
+
+#: admin/apps/overview/analytics.php:745
+msgid "Session Duration"
+msgstr "Seanso trukmė"
+
+#: admin/apps/overview/analytics.php:747
+msgid "Display site session duration within the date range."
+msgstr "Rodyti svetainės seanso trukmę per dienų seką."
+
+#: admin/apps/overview/analytics.php:754
+msgid "Visits by Country"
+msgstr "Apsilankymai pagal šalį"
+
+#: admin/apps/overview/analytics.php:756
+msgid "Displays country user data within the date range."
+msgstr "Rodomi šalies naudotojo duomenys per dienų seką."
+
+#: admin/apps/overview/analytics.php:763
+msgid "Traffic Sources"
+msgstr "Eismo šaltiniai"
+
+#: admin/apps/overview/analytics.php:765
+msgid "Displays traffic source info within the date range."
+msgstr "Rodo eismo šaltinio informaciją per dienų seką."
+
+#: admin/apps/overview/analytics.php:772
+msgid "Visits By Page"
+msgstr "Apsilankymai pagal puslapį"
+
+#: admin/apps/overview/analytics.php:774
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr "Rodo populiariausių svetainės puslapių srautą per dienų seką."
+
+#: admin/apps/overview/analytics.php:781
+msgid "Event Count By Event Name"
+msgstr "Įvykių skaičius pagal įvykio pavadinimą"
+
+#: admin/apps/overview/analytics.php:783
+msgid "Display list of events within the date range."
+msgstr "Rodyti įvykių sąrašą dienų sekoje."
+
+#: admin/apps/overview/analytics.php:790
+msgid "Sessions by channel grouping"
+msgstr "Seansai pagal kanalų grupavimą"
+
+#: admin/apps/overview/analytics.php:792
+msgid "Display sessions by channel grouping within the date range."
+msgstr "Rodyti seansus pagal kanalų grupavimą per dienų seką."
+
+#: admin/apps/overview/analytics.php:799
+msgid "User in the last 30 minutes"
+msgstr "Vartotojas per paskutines 30 minučių"
+
+#: admin/apps/overview/analytics.php:801
+msgid "Displays active users from the last 30 minutes."
+msgstr "Rodomi aktyvūs naudotojai per pastarąsias 30 minučių."
+
+#: admin/apps/overview/analytics.php:808
+msgid "Engagement Rate"
+msgstr "Sužadėtuvių rodiklis"
+
+#: admin/apps/overview/analytics.php:810
+msgid "Displays average angagement rate for date range"
+msgstr "Rodo vidutinį įsitraukimo rodiklį dienų sekoje"
+
+#: admin/apps/overview/analytics.php:817 admin/apps/overview/overview.php:783
+msgid "Site Revenue"
+msgstr "Svetainės pajamos"
+
+#: admin/apps/overview/analytics.php:819
+msgid ""
+"Displays site revenue for date range. The sum of revenue from purchases, "
+"subscriptions, and advertising."
+msgstr ""
+"Rodomos svetainės pajamos per dienų seką. Pajamų iš pirkinių, prenumeratų ir "
+"reklamos suma."
+
+#: admin/apps/overview/analytics.php:826
+msgid "New vs Returning Users"
+msgstr "Nauji ir sugrįžtantys vartotojai"
+
+#: admin/apps/overview/analytics.php:828
+msgid "Displays new vs returning users for the date range."
+msgstr "Rodomi nauji ir sugrįžtantys naudotojai per dienų seką."
+
+#: admin/apps/overview/analytics.php:835
+msgid "Top Cities"
+msgstr "Populiariausi miestai"
+
+#: admin/apps/overview/analytics.php:837
+msgid "Displays page views by city for the date range."
+msgstr "Rodo puslapių peržiūras pagal miestą pagal dienų seką."
+
+#: admin/apps/overview/analytics.php:844 admin/apps/overview/overview.php:785
+msgid "Ecommerce Overview"
+msgstr "El. prekybos apžvalga"
+
+#: admin/apps/overview/analytics.php:846
+msgid "Displays add to cart, checkout and purchase data for the date range."
+msgstr ""
+"Ekranai pridedami prie krepšelio, atsiskaitymo ir pirkimo duomenys per dienų "
+"seką."
+
+#: admin/apps/overview/analytics.php:853 admin/apps/overview/overview.php:781
+#: admin/apps/overview/overview.php:782
+msgid "Conversion Rate"
+msgstr "Perskaičiavimo kursas"
+
+#: admin/apps/overview/analytics.php:855
+msgid ""
+"The percentage of active users who made their first purchase for the date "
+"range."
+msgstr ""
+"Aktyvių naudotojų, įsigijusių pirmą kartą per tą dienų seką, procentas."
+
+#: admin/apps/overview/analytics.php:862
+msgid "Top Products"
+msgstr "Populiariausi produktai"
+
+#: admin/apps/overview/analytics.php:864
+msgid "Products with the most sales for for the date range."
+msgstr "Produktai, kurių pardavimas buvo didžiausias per dienų seką."
+
+#: admin/apps/overview/analytics.php:871
+msgid "Conversions in the last 30 minutes"
+msgstr "Konversijos per pastarąsias 30 minučių"
+
+#: admin/apps/overview/analytics.php:873
+msgid "Conversions logged in the last 30 minutes."
+msgstr "Konversijos užregistruotos per pastarąsias 30 minučių."
+
+#: admin/apps/overview/analytics.php:880
+msgid "Page Views in the last 30 minutes"
+msgstr "Puslapių peržiūros per pastarąsias 30 minučių"
+
+#: admin/apps/overview/analytics.php:882
+msgid "Page views in the last 30 minutes."
+msgstr "Puslapių peržiūros per pastarąsias 30 minučių."
+
+#: admin/apps/overview/analytics.php:1013
+msgid "Unable to fetch analytics data at this moment. Please try again later"
+msgstr ""
+"Šiuo metu negalima gauti analizės duomenų. Pabandykite dar kartą vėliau"
+
+#: admin/apps/overview/overview.php:106 admin/apps/overview/overview.php:1150
+msgid "Overview"
+msgstr "Apžvalga"
+
+#: admin/apps/overview/overview.php:107
+msgid "Creates the overview page."
+msgstr "Sukuria apžvalgos puslapį."
+
+#: admin/apps/overview/overview.php:111
+msgid "Disable Overview Page?"
+msgstr "Išjungti apžvalgos puslapį?"
+
+#: admin/apps/overview/overview.php:112
+msgid "Overview page will be hidden when this option is activated."
+msgstr "Suaktyvinus šią parinktį, apžvalgos puslapis bus paslėptas."
+
+#: admin/apps/overview/overview.php:119
+msgid "Overview Page Disabled For"
+msgstr "Apžvalgos puslapis išjungtas"
+
+#: admin/apps/overview/overview.php:120
+msgid "Overview Page will be disabled for any users or roles you select"
+msgstr ""
+"Apžvalgos puslapis bus išjungtas visiems jūsų pasirinktiems naudotojams ar "
+"vaidmenims"
+
+#: admin/apps/overview/overview.php:128
+msgid "Who can edit the overview page?"
+msgstr "Kas gali redaguoti apžvalgos puslapį?"
+
+#: admin/apps/overview/overview.php:129
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If none "
+"are chosen it will fall back to administrators only"
+msgstr ""
+"Bet kuris čia pasirinktas vaidmuo arba naudotojas galės redaguoti apžvalgos "
+"puslapį. Jei nebus pasirinktas nė vienas, jis bus grąžintas tik "
+"administratoriams"
+
+#: admin/apps/overview/overview.php:137
+msgid "Default report start date"
+msgstr "Numatytoji ataskaitos pradžios data"
+
+#: admin/apps/overview/overview.php:138
+msgid ""
+"By default the overview date range will start 7 days before current date. "
+"Add a number of days between 1 and 90 to change length of date range"
+msgstr ""
+"Pagal numatytuosius nustatymus apžvalgos dienų seka prasidės likus 7 dienoms "
+"iki dabartinės datos. Norėdami pakeisti dienų sekos ilgį, pridėkite dienų "
+"skaičių nuo 1 iki 90"
+
+#: admin/apps/overview/overview.php:146
+msgid "Default report end date offset"
+msgstr "Numatytasis ataskaitos pabaigos datos poslinkis"
+
+#: admin/apps/overview/overview.php:147
+msgid ""
+"By default the overview date range will end on the current day (0). To end "
+"the report on yesterday for example, enter 1"
+msgstr ""
+"Pagal numatytuosius nustatymus apžvalgos dienų seka baigsis einamąją dieną "
+"(0). Pavyzdžiui, norėdami baigti ataskaitą apie vakarykštę dieną, įveskite 1"
+
+#: admin/apps/overview/overview.php:155
+msgid "Reporting Currency Symbol"
+msgstr "Ataskaitų teikimo valiutos simbolis"
+
+#: admin/apps/overview/overview.php:156
+msgid ""
+"If you are using google analytics commerce reports, enter the currency "
+"symbol your reports are in here"
+msgstr ""
+"Jei naudojate google analytics prekybos ataskaitas, įveskite valiutos "
+"simbolį, kuriame yra jūsų ataskaitos"
+
+#: admin/apps/overview/overview.php:164
+msgid "Custom welcome message"
+msgstr "Pasirinktinis pasveikinimo pranešimas"
+
+#: admin/apps/overview/overview.php:165
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr ""
+"Pridėkite pasirinktinį pasveikinimo pranešimą, kad jis būtų rodomas "
+"apžvalgos puslapyje"
+
+#: admin/apps/overview/overview.php:243 admin/apps/overview/overview.php:384
+#: admin/apps/overview/woocommerce.php:158
+msgid "ago"
+msgstr "prieš"
+
+#: admin/apps/overview/overview.php:259 admin/apps/overview/overview.php:447
+#: admin/apps/overview/woocommerce.php:183
+#: admin/apps/overview/woocommerce.php:265
+msgid "Posts fetched"
+msgstr "Įrašai gauti"
+
+#: admin/apps/overview/overview.php:267
+msgid "No posts posted during the date range."
+msgstr "Per dienų seką nepaskelbta jokių pranešimų."
+
+#: admin/apps/overview/overview.php:282
+msgid "Unable to save dash at this time"
+msgstr "Šiuo metu nepavyko išsaugoti brūkšnelio"
+
+#: admin/apps/overview/overview.php:292
+msgid "Dashboard settings saved"
+msgstr "Informacijos suvestinės nustatymai išsaugoti"
+
+#: admin/apps/overview/overview.php:307
+msgid "Dashboard settings reset"
+msgstr "Prietaisų skydelio nustatymai nustatyti iš naujo"
+
+#: admin/apps/overview/overview.php:320 admin/apps/overview/overview.php:328
+msgid "Unable to load shortcode at this time"
+msgstr "Šiuo metu negalima įkelti trumpojo kodo"
+
+#: admin/apps/overview/overview.php:335
+msgid "Shortcode loaded"
+msgstr "Trumpasis kodas įkeltas"
+
+#: admin/apps/overview/overview.php:454
+msgid "No comments during the date range."
+msgstr "Per dienų seką komentarų nėra."
+
+#: admin/apps/overview/overview.php:477
+msgid "Core version"
+msgstr "Pagrindinė versija"
+
+#: admin/apps/overview/overview.php:482
+msgid "PHP version"
+msgstr "PHP versija"
+
+#: admin/apps/overview/overview.php:487
+msgid "Active Plugins"
+msgstr "Aktyvūs papildiniai"
+
+#: admin/apps/overview/overview.php:492
+msgid "Inactive Plugins"
+msgstr "Neaktyvūs papildiniai"
+
+#: admin/apps/overview/overview.php:497
+msgid "Installed Themes"
+msgstr "Įdiegtos temos"
+
+#: admin/apps/overview/overview.php:532
+msgid "Unable to fetch quote of the day"
+msgstr "Nepavyko gauti dienos citatos"
+
+#: admin/apps/overview/overview.php:570
+msgid "Passed Checks"
+msgstr "Išlaikė patikrinimus"
+
+#: admin/apps/overview/overview.php:578
+msgid "Recommended"
+msgstr "Rekomenduojamas"
+
+#: admin/apps/overview/overview.php:586
+msgid "Critical"
+msgstr "Kritinis"
+
+#: admin/apps/overview/overview.php:597
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "Pažvelkite į %d elementą"
+
+#: admin/apps/overview/overview.php:598
+msgid "Site Health screen"
+msgstr "Svetainės būklės ekranas"
+
+#: admin/apps/overview/overview.php:606
+msgid "Device Visits"
+msgstr "Įrenginio apsilankymai"
+
+#: admin/apps/overview/overview.php:693
+msgid "Card width"
+msgstr "Kortelės plotis"
+
+#: admin/apps/overview/overview.php:694
+msgid "Column width"
+msgstr "Stulpelio plotis"
+
+#: admin/apps/overview/overview.php:695
+msgid "Column settings"
+msgstr "Stulpelių nustatymai"
+
+#: admin/apps/overview/overview.php:696
+msgid "Column Size"
+msgstr "Stulpelio dydis"
+
+#: admin/apps/overview/overview.php:697
+msgid "Remove Card"
+msgstr "Pašalinti kortelę"
+
+#: admin/apps/overview/overview.php:698 admin/apps/overview/overview.php:799
+msgid "Delete Column"
+msgstr "Ištrinti stulpelį"
+
+#: admin/apps/overview/overview.php:699
+msgid "In the"
+msgstr "Viduje"
+
+#: admin/apps/overview/overview.php:700
+msgid "day range"
+msgstr "dienos diapazonas"
+
+#: admin/apps/overview/overview.php:701
+msgid "xxsmall (1/6)"
+msgstr "xxsmall (1/6)"
+
+#: admin/apps/overview/overview.php:702
+msgid "xsmall (1/5)"
+msgstr "xsmall (1/5)"
+
+#: admin/apps/overview/overview.php:703
+msgid "small (1/4)"
+msgstr "mažas (1/4)"
+
+#: admin/apps/overview/overview.php:704
+msgid "small medium (1/3)"
+msgstr "mažas vidutinis (1/3)"
+
+#: admin/apps/overview/overview.php:705
+msgid "medium (1/2)"
+msgstr "vidutinė (1/2)"
+
+#: admin/apps/overview/overview.php:706
+msgid "medium large (2/3)"
+msgstr "vidutinio dydžio (2/3)"
+
+#: admin/apps/overview/overview.php:707
+msgid "large (3/4)"
+msgstr "didelis (3/4)"
+
+#: admin/apps/overview/overview.php:708
+msgid "xlarge (1/1)"
+msgstr "xlarge (1/1)"
+
+#: admin/apps/overview/overview.php:709
+msgid "I am an empty column. Drag cards into me."
+msgstr "Aš esu tuščia kolona. Vilkite kortas į mane."
+
+#: admin/apps/overview/overview.php:710
+msgid "Column Added"
+msgstr "Stulpelis pridėtas"
+
+#: admin/apps/overview/overview.php:711
+msgid "Add card"
+msgstr "Pridėti kortelę"
+
+#: admin/apps/overview/overview.php:712
+msgid "Section added"
+msgstr "Skyrius pridėtas"
+
+#: admin/apps/overview/overview.php:713
+msgid "Search Cards"
+msgstr "Paieškos kortelės"
+
+#: admin/apps/overview/overview.php:714
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/apps/overview/overview.php:716 admin/apps/overview/overview.php:922
+msgid "Shortcode"
+msgstr "Trumpas kodas"
+
+#: admin/apps/overview/overview.php:717
+msgid "Video URL"
+msgstr "Vaizdo įrašo URL"
+
+#: admin/apps/overview/overview.php:718
+msgid "Embed Type"
+msgstr "Įterpimo tipas"
+
+#: admin/apps/overview/overview.php:719
+msgid "UiPress Pro feature"
+msgstr "UiPress Pro funkcija"
+
+#: admin/apps/overview/overview.php:720
+msgid "Upgrade to one of our premium plans to unlock this feature."
+msgstr ""
+"Naujovinkite į vieną iš mūsų aukščiausios kokybės planų, kad atrakintumėte "
+"šią funkciją."
+
+#: admin/apps/overview/overview.php:721
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/apps/overview/overview.php:722
+msgid "Card Added"
+msgstr "Pridėta kortelė"
+
+#: admin/apps/overview/overview.php:723
+msgid "Card Background colour"
+msgstr "Kortelės fono spalva"
+
+#: admin/apps/overview/overview.php:724
+msgid "# Hex code only (#fff)"
+msgstr "# Tik šešioliktainis kodas (#fff)"
+
+#: admin/apps/overview/overview.php:725
+msgid "Use light color for text"
+msgstr "Tekstui naudokite šviesią spalvą"
+
+#: admin/apps/overview/overview.php:726
+msgid "Chart Type"
+msgstr "Diagramos tipas"
+
+#: admin/apps/overview/overview.php:727
+msgid "Line Chart"
+msgstr "Linijinė diagrama"
+
+#: admin/apps/overview/overview.php:728
+msgid "Bar Chart"
+msgstr "Juostinė diagrama"
+
+#: admin/apps/overview/overview.php:729
+msgid "vs previous"
+msgstr "prieš ankstesnį"
+
+#: admin/apps/overview/overview.php:730 admin/apps/overview/overview.php:829
+msgid "days"
+msgstr "dienų"
+
+#: admin/apps/overview/overview.php:731
+msgid "Doughnut"
+msgstr "Spurga"
+
+#: admin/apps/overview/overview.php:732
+msgid "Polar Area"
+msgstr "Poliarinė sritis"
+
+#: admin/apps/overview/overview.php:733
+msgid "Bar"
+msgstr "Baras"
+
+#: admin/apps/overview/overview.php:734 admin/apps/overview/overview.php:741
+msgid "Horizontal Bar"
+msgstr "Horizontali juosta"
+
+#: admin/apps/overview/overview.php:735
+msgid "Country"
+msgstr "Šalis"
+
+#: admin/apps/overview/overview.php:736
+msgid "Visits"
+msgstr "Apsilankymai"
+
+#: admin/apps/overview/overview.php:737
+msgid "Change"
+msgstr "Keisti"
+
+#: admin/apps/overview/overview.php:738
+msgid "No Background"
+msgstr "Nėra fono"
+
+#: admin/apps/overview/overview.php:739
+msgid "Hide Map"
+msgstr "Slėpti žemėlapį"
+
+#: admin/apps/overview/overview.php:740
+msgid "Connect your account to use this card"
+msgstr "Prisijunkite prie paskyros, kad galėtumėte naudoti šią kortelę"
+
+#: admin/apps/overview/overview.php:742
+msgid "Hide Chart"
+msgstr "Slėpti diagramą"
+
+#: admin/apps/overview/overview.php:743
+msgid "Source"
+msgstr "Šaltinis"
+
+#: admin/apps/overview/overview.php:744
+msgid "Page"
+msgstr "Puslapis"
+
+#: admin/apps/overview/overview.php:745
+msgid "Product"
+msgstr "Produktas"
+
+#: admin/apps/overview/overview.php:746
+msgid "Sold"
+msgstr "Parduota"
+
+#: admin/apps/overview/overview.php:747
+msgid "Value"
+msgstr "Vertė"
+
+#: admin/apps/overview/overview.php:748
+msgid "WooCommerce is required to use this card"
+msgstr "Norint naudoti šią kortelę, reikalinga „WooCommerce“."
+
+#: admin/apps/overview/overview.php:749 admin/classes/uipress-app.php:1380
+msgid "Please select a valid JSON file"
+msgstr "Pasirinkite tinkamą JSON failą"
+
+#: admin/apps/overview/overview.php:750 admin/classes/uipress-app.php:1381
+msgid "File is to big"
+msgstr "Failas per didelis"
+
+#: admin/apps/overview/overview.php:751
+msgid "Layout Imported"
+msgstr "Išdėstymas importuotas"
+
+#: admin/apps/overview/overview.php:752
+msgid "Unable to import layout"
+msgstr "Nepavyko importuoti maketo"
+
+#: admin/apps/overview/overview.php:753
+msgid "Are you sure you want to clear the current layout? There is no undo."
+msgstr "Ar tikrai norite išvalyti dabartinį išdėstymą? Anuliuoti negalima."
+
+#: admin/apps/overview/overview.php:754
+msgid "Available Cards"
+msgstr "Galimos kortelės"
+
+#: admin/apps/overview/overview.php:755
+msgid "Event Count"
+msgstr "Renginių skaičius"
+
+#: admin/apps/overview/overview.php:756
+msgid "Event Name"
+msgstr "Renginio pavadinimas"
+
+#: admin/apps/overview/overview.php:757
+msgid "Channel"
+msgstr "Kanalas"
+
+#: admin/apps/overview/overview.php:758
+msgid "Sessions"
+msgstr "Seansai"
+
+#: admin/apps/overview/overview.php:760
+msgid "Page Views  (comparison period)"
+msgstr "Puslapio peržiūros (lyginamasis laikotarpis)"
+
+#: admin/apps/overview/overview.php:763
+msgid "To"
+msgstr "Į"
+
+#: admin/apps/overview/overview.php:764
+msgid "From"
+msgstr "Iš"
+
+#: admin/apps/overview/overview.php:765
+msgid "Date Range"
+msgstr "Data asortimentas"
+
+#: admin/apps/overview/overview.php:766
+msgid "Custom Comparison Dates"
+msgstr "Individualizuotos palyginimo datos"
+
+#: admin/apps/overview/overview.php:767
+msgid "Apply"
+msgstr "Taikyti"
+
+#: admin/apps/overview/overview.php:768
+msgid "vs"
+msgstr "prieš"
+
+#: admin/apps/overview/overview.php:769
+msgid "Custom Range"
+msgstr "Pasirinktinis diapazonas"
+
+#: admin/apps/overview/overview.php:770 admin/classes/uipress-app.php:1397
+msgid "Today"
+msgstr "Šiandien"
+
+#: admin/apps/overview/overview.php:771 admin/classes/uipress-app.php:1398
+msgid "Yesterday"
+msgstr "vakar"
+
+#: admin/apps/overview/overview.php:772
+msgid "Last 7 days"
+msgstr "Paskutines 7 dienas"
+
+#: admin/apps/overview/overview.php:773
+msgid "Last 30 days"
+msgstr "Paskutines 30 dienų"
+
+#: admin/apps/overview/overview.php:774
+msgid "Last 60 days"
+msgstr "Paskutines 60 dienų"
+
+#: admin/apps/overview/overview.php:775
+msgid "Last 90 days"
+msgstr "Paskutines 90 dienų"
+
+#: admin/apps/overview/overview.php:776 admin/classes/uipress-app.php:1395
+msgid "This Month"
+msgstr "Šį mėnesį"
+
+#: admin/apps/overview/overview.php:777 admin/classes/uipress-app.php:1396
+msgid "Last Month"
+msgstr "Praeitą mėnesį"
+
+#: admin/apps/overview/overview.php:778
+msgid "Purchases"
+msgstr "Pirkiniai"
+
+#: admin/apps/overview/overview.php:779
+msgid "Added to cart"
+msgstr "Įdėta į krepšelį"
+
+#: admin/apps/overview/overview.php:780
+msgid "Checkout started"
+msgstr "Atsiskaitymas prasidėjo"
+
+#: admin/apps/overview/overview.php:784
+msgid "Site Revenue (comparison)"
+msgstr "Svetainės pajamos (palyginimas)"
+
+#: admin/apps/overview/overview.php:786
+msgid "Visits By Device"
+msgstr "Apsilankymai pagal įrenginį"
+
+#: admin/apps/overview/overview.php:787
+msgid "Device Category"
+msgstr "Įrenginio kategorija"
+
+#: admin/apps/overview/overview.php:788
+msgid "Active Users"
+msgstr "Aktyvūs vartotojai"
+
+#: admin/apps/overview/overview.php:789 admin/apps/overview/overview.php:791
+msgid "Product Name"
+msgstr "produkto pavadinimas"
+
+#: admin/apps/overview/overview.php:790
+msgid "Sales"
+msgstr "Pardavimai"
+
+#: admin/apps/overview/overview.php:792
+msgid "Quantity Sold"
+msgstr "Parduotas kiekis"
+
+#: admin/apps/overview/overview.php:793 admin/apps/overview/overview.php:807
+msgid "Revenue"
+msgstr "Pajamos"
+
+#: admin/apps/overview/overview.php:794
+msgid "Column Removed"
+msgstr "Stulpelis pašalintas"
+
+#: admin/apps/overview/overview.php:795
+msgid "Section Removed"
+msgstr "Skyrius pašalintas"
+
+#: admin/apps/overview/overview.php:796
+msgid "View Plans"
+msgstr "Žiūrėti planus"
+
+#: admin/apps/overview/overview.php:797
+msgid "Unable to fetch analytics data, please try again later"
+msgstr "Nepavyko gauti analizės duomenų, bandykite dar kartą vėliau"
+
+#: admin/apps/overview/overview.php:798
+msgid "Column background colour"
+msgstr "Stulpelio fono spalva"
+
+#: admin/apps/overview/overview.php:800
+msgid "Hide card title"
+msgstr "Slėpti kortelės pavadinimą"
+
+#: admin/apps/overview/overview.php:801 admin/apps/overview/overview.php:895
+msgid "Site Health"
+msgstr "Svetainės sveikata"
+
+#: admin/apps/overview/overview.php:802
+msgid "Conversions"
+msgstr "Konversijos"
+
+#: admin/apps/overview/overview.php:803
+msgid "This card only works with google analytics 4 accounts"
+msgstr "Ši kortelė veikia tik su google analytics 4 paskyromis"
+
+#: admin/apps/overview/overview.php:804
+msgid "This card only works with universal analytics propeties."
+msgstr "Ši kortelė veikia tik su universaliomis analizės savybėmis."
+
+#: admin/apps/overview/overview.php:805
+msgid "Orders"
+msgstr "Užsakymai"
+
+#: admin/apps/overview/overview.php:806
+msgid "Orders (comparison period)."
+msgstr "Užsakymai (lyginamasis laikotarpis)."
+
+#: admin/apps/overview/overview.php:808
+msgid "Revenue (comparison period)."
+msgstr "Pajamos (lyginamasis laikotarpis)."
+
+#: admin/apps/overview/overview.php:809
+msgid "Current Period"
+msgstr "Dabartinis laikotarpis"
+
+#: admin/apps/overview/overview.php:810
+msgid "Comparison Period"
+msgstr "Palyginimo laikotarpis"
+
+#: admin/apps/overview/overview.php:811
+msgid "Match Card Height"
+msgstr "Suderinkite kortelės aukštį"
+
+#: admin/apps/overview/overview.php:813
+msgid "What would you like to do?"
+msgstr "Ką tu norėtum veikti?"
+
+#: admin/apps/overview/overview.php:814
+msgid "To do"
+msgstr "Daryti"
+
+#: admin/apps/overview/overview.php:815
+msgid "Done"
+msgstr "padaryta"
+
+#: admin/apps/overview/overview.php:816
+msgid "Size"
+msgstr "Dydis"
+
+#: admin/apps/overview/overview.php:817
+msgid "Background Colour"
+msgstr "Fono spalva"
+
+#: admin/apps/overview/overview.php:818
+msgid "Custom CSS class"
+msgstr "Tinkinta CSS klasė"
+
+#: admin/apps/overview/overview.php:819
+msgid "Add New Card"
+msgstr "Pridėti naują kortelę"
+
+#: admin/apps/overview/overview.php:820 admin/apps/overview/overview.php:1249
+#: admin/classes/settings.php:78 admin/classes/settings.php:91
+#: admin/classes/settings.php:226 admin/classes/uipress-app.php:1406
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: admin/apps/overview/overview.php:821
+msgid "Card Settings"
+msgstr "Kortelės nustatymai"
+
+#: admin/apps/overview/overview.php:822
+msgid "Move Column Down"
+msgstr "Perkelti stulpelį žemyn"
+
+#: admin/apps/overview/overview.php:823
+msgid "Move Column Up"
+msgstr "Perkelti stulpelį aukštyn"
+
+#: admin/apps/overview/overview.php:824
+msgid "Add new column"
+msgstr "Pridėti naują stulpelį"
+
+#: admin/apps/overview/overview.php:825
+msgid "Section Settings"
+msgstr "Skyriaus nustatymai"
+
+#: admin/apps/overview/overview.php:826
+msgid "Toggle section visibility"
+msgstr "Perjungti skyriaus matomumą"
+
+#: admin/apps/overview/overview.php:827
+msgid "Page Settings"
+msgstr "Puslapio nustatymai"
+
+#: admin/apps/overview/overview.php:828
+msgid "In the last"
+msgstr "Paskutiniame"
+
+#: admin/apps/overview/overview.php:830 admin/apps/users/uip-users-ajax.php:662
+msgid "Something has gone wrong"
+msgstr "Kažkas nutiko"
+
+#: admin/apps/overview/overview.php:831
+msgid "Connect your matomo site to use this card"
+msgstr "Prijunkite matomo svetainę, kad galėtumėte naudoti šią kortelę"
+
+#: admin/apps/overview/overview.php:832
+msgid "Connect Matomo Analytics"
+msgstr "Prijunkite Matomo Analytics"
+
+#: admin/apps/overview/overview.php:833
+msgid "Auth Token"
+msgstr "Auth Token"
+
+#: admin/apps/overview/overview.php:834
+msgid "Matomo Url"
+msgstr "Matomo URL"
+
+#: admin/apps/overview/overview.php:835
+msgid "Matomo Site ID"
+msgstr "Matomo svetainės ID"
+
+#: admin/apps/overview/overview.php:837
+msgid "Click below to change matomo account"
+msgstr "Spustelėkite toliau norėdami pakeisti matomo paskyrą"
+
+#: admin/apps/overview/overview.php:838
+msgid "Change account"
+msgstr "Keisti paskyrą"
+
+#: admin/apps/overview/overview.php:839
+msgid "City"
+msgstr "Miestas"
+
+#: admin/apps/overview/overview.php:840
+msgid "Average Page Load"
+msgstr "Vidutinė puslapio apkrova"
+
+#: admin/apps/overview/overview.php:842
+msgid "Exit Rate"
+msgstr "Išėjimo rodiklis"
+
+#: admin/apps/overview/overview.php:843
+msgid "Average Time On Page"
+msgstr "Vidutinis laikas puslapyje"
+
+#: admin/apps/overview/overview.php:844
+msgid "Referer"
+msgstr "Referentas"
+
+#: admin/apps/overview/overview.php:845
+msgid "Section name"
+msgstr "Skyriaus pavadinimas"
+
+#: admin/apps/overview/overview.php:846
+msgid "Section description"
+msgstr "Skyriaus aprašymas"
+
+#: admin/apps/overview/overview.php:868
+msgid "Recently Published"
+msgstr "Neseniai paskelbta"
+
+#: admin/apps/overview/overview.php:870
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr "Rodyti įrašus, puslapius ir CPT, paskelbtus per dienų seką."
+
+#: admin/apps/overview/overview.php:871 admin/apps/overview/overview.php:880
+#: admin/apps/overview/overview.php:889 admin/apps/overview/overview.php:898
+#: admin/apps/overview/overview.php:907 admin/apps/overview/overview.php:916
+#: admin/apps/overview/overview.php:925 admin/apps/overview/overview.php:934
+#: admin/apps/overview/overview.php:943 admin/apps/overview/overview.php:952
+#: admin/classes/uipress-app.php:2526
+msgid "General"
+msgstr "Generolas"
+
+#: admin/apps/overview/overview.php:877
+msgid "Recent Comments"
+msgstr "Naujausi Komentarai"
+
+#: admin/apps/overview/overview.php:879
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr ""
+"Rodo bendrą komentarų skaičių ir naujausius komentarus, paskelbtus per dienų "
+"seką."
+
+#: admin/apps/overview/overview.php:886
+msgid "System Info"
+msgstr "Sistemos informacija"
+
+#: admin/apps/overview/overview.php:888
+msgid "Displays info our about your cms and server setup."
+msgstr "Rodo informaciją apie jūsų cms ir serverio sąranką."
+
+#: admin/apps/overview/overview.php:897
+msgid "Displays info our about your sites health."
+msgstr "Rodo informaciją apie jūsų svetainių būklę."
+
+#: admin/apps/overview/overview.php:906
+msgid "Displays current time and date"
+msgstr "Rodo esamą laiką ir datą"
+
+#: admin/apps/overview/overview.php:913
+msgid "Video"
+msgstr "Vaizdo įrašas"
+
+#: admin/apps/overview/overview.php:915
+msgid "Displays a custom video"
+msgstr "Rodo pasirinktinį vaizdo įrašą"
+
+#: admin/apps/overview/overview.php:924
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "Išveda „WordPress“ trumpąjį kodą į kortelę"
+
+#: admin/apps/overview/overview.php:931
+msgid "Custom HTML"
+msgstr "Pasirinktinis HTML"
+
+#: admin/apps/overview/overview.php:933
+msgid "Outputs custom HTML to the card"
+msgstr "Išveda tinkintą HTML į kortelę"
+
+#: admin/apps/overview/overview.php:940
+msgid "Quote of the day"
+msgstr "Dienos citata"
+
+#: admin/apps/overview/overview.php:942
+msgid "Shows a random quote of the day"
+msgstr "Rodo atsitiktinę dienos citatą"
+
+#: admin/apps/overview/overview.php:949
+msgid "To do list"
+msgstr "Užduočių sąrašas"
+
+#: admin/apps/overview/overview.php:951
+msgid "A simple todo list card"
+msgstr "Paprasta darbų sąrašo kortelė"
+
+#: admin/apps/overview/overview.php:1038
+msgid "Hello"
+msgstr "Sveiki"
+
+#: admin/apps/overview/overview.php:1187
+msgid "Clear Layout"
+msgstr "Išvalyti išdėstymą"
+
+#: admin/apps/overview/overview.php:1191 admin/apps/overview/overview.php:1234
+msgid "New Section"
+msgstr "Naujas skyrius"
+
+#: admin/apps/overview/overview.php:1196 admin/apps/overview/overview.php:1237
+msgid "Save changes"
+msgstr "Išsaugoti pakeitimus"
+
+#: admin/apps/overview/overview.php:1240
+msgid "Exit edit mode"
+msgstr "Išeikite iš redagavimo režimo"
+
+#: admin/apps/overview/overview.php:1253
+msgid "Editing Mode"
+msgstr "Redagavimo režimas"
+
+#: admin/apps/overview/overview.php:1265
+msgid "Disconnect Analytics"
+msgstr "Atsijungti „Analytics“."
+
+#: admin/apps/overview/overview.php:1275
+msgid "Export Layout"
+msgstr "Eksportuoti išdėstymą"
+
+#: admin/apps/overview/overview.php:1284
+msgid "Import Layout"
+msgstr "Importuoti išdėstymą"
+
+#: admin/apps/overview/overview.php:1298 admin/classes/settings.php:258
+#: admin/classes/styles.php:457
+msgid "Unlock Export and Import features with pro"
+msgstr ""
+"Atrakinkite eksportavimo ir importavimo funkcijas naudodami profesionalų"
+
+#: admin/apps/overview/overview.php:1321
+msgid "Home"
+msgstr "Namai"
+
+#: admin/apps/overview/overview.php:1369
+msgid "It's a little quiet around here"
+msgstr "Aplinkui truputį tylu"
+
+#: admin/apps/overview/overview.php:1371
+msgid ""
+"Looks like you haven't created a dashboard yet. Enter edit mode to get "
+"started or import a default template"
+msgstr ""
+"Panašu, kad dar nesukūrėte informacijos suvestinės. Norėdami pradėti, "
+"įveskite redagavimo režimą arba importuokite numatytąjį šabloną"
+
+#: admin/apps/overview/overview.php:1374
+msgid "Import default template"
+msgstr "Importuoti numatytąjį šabloną"
+
+#: admin/apps/overview/overview.php:1375
+msgid "Enter edit mode"
+msgstr "Įeikite į redagavimo režimą"
+
+#: admin/apps/overview/overview.php:1419
+msgid "Match Column Height"
+msgstr "Suderinkite stulpelio aukštį"
+
+#: admin/apps/overview/overview.php:1427
+msgid "Hide section title"
+msgstr "Slėpti skyriaus pavadinimą"
+
+#: admin/apps/overview/overview.php:1435
+msgid "Section Width"
+msgstr "Sekcijos plotis"
+
+#: admin/apps/overview/overview.php:1452
+msgid "Remove Section"
+msgstr "Pašalinti skyrių"
+
+#: admin/apps/overview/woocommerce.php:46
+#: admin/apps/overview/woocommerce.php:125
+#: admin/apps/overview/woocommerce.php:203
+msgid "Woocommerce is required for this widget"
+msgstr "Šiam valdikliui reikalinga „Woocommerce“."
+
+#: admin/apps/overview/woocommerce.php:74
+msgid "Total Revenue"
+msgstr "Bendros pajamos"
+
+#: admin/apps/overview/woocommerce.php:76
+msgid "Display total sales revenue in your store within the date range."
+msgstr "Rodyti visas pardavimo pajamas parduotuvėje per dienų seką."
+
+#: admin/apps/overview/woocommerce.php:77
+#: admin/apps/overview/woocommerce.php:86
+#: admin/apps/overview/woocommerce.php:95
+#: admin/apps/overview/woocommerce.php:104
+#: admin/apps/overview/woocommerce.php:113
+msgid "Commerce"
+msgstr "Komercija"
+
+#: admin/apps/overview/woocommerce.php:83
+msgid "Total Orders"
+msgstr "Iš viso užsakymų"
+
+#: admin/apps/overview/woocommerce.php:85
+msgid "Display total orders in your store within the date range."
+msgstr "Rodyti visus jūsų parduotuvės užsakymus per dienų seką."
+
+#: admin/apps/overview/woocommerce.php:92
+msgid "Average Order Value"
+msgstr "Vidutinė užsakymo vertė"
+
+#: admin/apps/overview/woocommerce.php:94
+msgid "Display average order value in your store within the date range."
+msgstr "Rodyti vidutinę užsakymo vertę parduotuvėje per dienų seką."
+
+#: admin/apps/overview/woocommerce.php:101
+msgid "Recent Orders"
+msgstr "Paskutiniai užsakymai"
+
+#: admin/apps/overview/woocommerce.php:103
+msgid "Display recent orders from your store within the date range."
+msgstr "Rodyti naujausius užsakymus iš parduotuvės per dienų seką."
+
+#: admin/apps/overview/woocommerce.php:110
+msgid "Popular Products"
+msgstr "Populiarūs produktai"
+
+#: admin/apps/overview/woocommerce.php:112
+msgid "Display top selling products from your store within the date range."
+msgstr ""
+"Rodyti geriausiai parduodamus produktus iš savo parduotuvės per dienų seką."
+
+#: admin/apps/overview/woocommerce.php:191
+msgid "No orders during the date range."
+msgstr "Per nurodytą laikotarpį užsakymų nėra."
+
+#: admin/apps/overview/woocommerce.php:272
+msgid "No products sold during the date range."
+msgstr "Per nurodytą laikotarpį neparduota jokių produktų."
+
+#: admin/apps/users/uip-history.php:132
+msgid "Once every 1 minutes"
+msgstr "Kartą per 1 minutę"
+
+#: admin/apps/users/uip-history.php:145
+msgctxt "post type general name"
+msgid "History"
+msgstr "Istorija"
+
+#: admin/apps/users/uip-history.php:146
+msgctxt "post type singular name"
+msgid "history"
+msgstr "istorija"
+
+#: admin/apps/users/uip-history.php:147
+msgctxt "admin menu"
+msgid "History"
+msgstr "Istorija"
+
+#: admin/apps/users/uip-history.php:148
+msgctxt "add new on admin bar"
+msgid "History"
+msgstr "Istorija"
+
+#: admin/apps/users/uip-history.php:149
+msgctxt "history"
+msgid "Add New"
+msgstr "Pridėti naują"
+
+#: admin/apps/users/uip-history.php:150
+msgid "Add New History"
+msgstr "Pridėti naują istoriją"
+
+#: admin/apps/users/uip-history.php:151
+msgid "New History"
+msgstr "Naujoji istorija"
+
+#: admin/apps/users/uip-history.php:152
+msgid "Edit History"
+msgstr "Redaguoti istoriją"
+
+#: admin/apps/users/uip-history.php:153
+msgid "View History"
+msgstr "Žiūrėti istoriją"
+
+#: admin/apps/users/uip-history.php:154
+msgid "All History"
+msgstr "Visa istorija"
+
+#: admin/apps/users/uip-history.php:155
+msgid "Search History"
+msgstr "Paieškos istorija"
+
+#: admin/apps/users/uip-history.php:156
+msgid "No History found."
+msgstr "Istorija nerasta."
+
+#: admin/apps/users/uip-history.php:157
+msgid "No History found in Trash."
+msgstr "Šiukšliadėžėje istorijos nerasta."
+
+#: admin/apps/users/uip-user-groups.php:41
+msgctxt "post type general name"
+msgid "Group"
+msgstr "Grupė"
+
+#: admin/apps/users/uip-user-groups.php:42
+msgctxt "post type singular name"
+msgid "Group"
+msgstr "Grupė"
+
+#: admin/apps/users/uip-user-groups.php:43
+msgctxt "admin menu"
+msgid "Groups"
+msgstr "Grupės"
+
+#: admin/apps/users/uip-user-groups.php:44
+msgctxt "add new on admin bar"
+msgid "Group"
+msgstr "Grupė"
+
+#: admin/apps/users/uip-user-groups.php:45
+msgctxt "Group"
+msgid "Add New"
+msgstr "Pridėti naują"
+
+#: admin/apps/users/uip-user-groups.php:46
+#: admin/apps/users/uip-user-groups.php:57
+msgid "Add New Group"
+msgstr "Pridėti naują grupę"
+
+#: admin/apps/users/uip-user-groups.php:47
+msgid "New Group"
+msgstr "Nauja grupė"
+
+#: admin/apps/users/uip-user-groups.php:48
+msgid "Edit Group"
+msgstr "Redaguoti grupę"
+
+#: admin/apps/users/uip-user-groups.php:49
+msgid "View Group"
+msgstr "Peržiūrėti grupę"
+
+#: admin/apps/users/uip-user-groups.php:50
+msgid "All Groups"
+msgstr "Visos grupės"
+
+#: admin/apps/users/uip-user-groups.php:51
+msgid "Search Groups"
+msgstr "Ieškoti grupių"
+
+#: admin/apps/users/uip-user-groups.php:52
+msgid "No Groups found."
+msgstr "Nerasta jokių grupių."
+
+#: admin/apps/users/uip-user-groups.php:53
+msgid "No Groups found in Trash."
+msgstr "Šiukšliadėžėje nerasta jokių grupių."
+
+#: admin/apps/users/uip-user-groups.php:80
+msgid "No group to delete"
+msgstr "Nėra grupės, kurią būtų galima ištrinti"
+
+#: admin/apps/users/uip-user-groups.php:90
+msgid "Unable to delete the group"
+msgstr "Nepavyko ištrinti grupės"
+
+#: admin/apps/users/uip-user-groups.php:147
+msgid "Group deleted"
+msgstr "Grupė ištrinta"
+
+#: admin/apps/users/uip-user-groups.php:166
+msgid "Unable to move folder group itself"
+msgstr "Nepavyko perkelti pačios aplankų grupės"
+
+#: admin/apps/users/uip-user-groups.php:180
+msgid "Unable to move group"
+msgstr "Nepavyko perkelti grupės"
+
+#: admin/apps/users/uip-user-groups.php:208
+msgid "Group moved"
+msgstr "Grupė perkelta"
+
+#: admin/apps/users/uip-user-groups.php:227
+msgid "No item to move"
+msgstr "Nėra elemento, kurį būtų galima perkelti"
+
+#: admin/apps/users/uip-user-groups.php:241
+msgid "Item moved"
+msgstr "Elementas perkeltas"
+
+#: admin/apps/users/uip-user-groups.php:259
+msgid "No users to move"
+msgstr "Nėra naudotojų, kuriuos būtų galima perkelti"
+
+#: admin/apps/users/uip-user-groups.php:277
+msgid "User moved"
+msgstr "Vartotojas perkeltas"
+
+#: admin/apps/users/uip-user-groups.php:318
+msgid "Group updated"
+msgstr "Grupė atnaujinta"
+
+#: admin/apps/users/uip-user-groups.php:339 admin/classes/folders.php:557
+msgid "Title is required"
+msgstr "Pavadinimas būtinas"
+
+#: admin/apps/users/uip-user-groups.php:345 admin/classes/folders.php:563
+msgid "Colour is required"
+msgstr "Reikalinga spalva"
+
+#: admin/apps/users/uip-user-groups.php:360
+msgid "Unable to create group"
+msgstr "Nepavyko sukurti grupės"
+
+#: admin/apps/users/uip-user-groups.php:372
+msgid "Group created"
+msgstr "Grupė sukurta"
+
+#: admin/apps/users/uip-users-ajax.php:415
+msgid "Unknown"
+msgstr "Nežinoma"
+
+#: admin/apps/users/uip-users-ajax.php:511
+#: admin/apps/users/uip-users-ajax.php:577
+msgid "You don't have sufficent priviledges to edit users"
+msgstr "Neturite pakankamai teisių redaguoti naudotojus"
+
+#: admin/apps/users/uip-users-ajax.php:517
+#: admin/apps/users/uip-users-ajax.php:1023
+msgid "Email is not valid"
+msgstr "El. paštas negalioja"
+
+#: admin/apps/users/uip-users-ajax.php:528
+#: admin/apps/users/uip-users-ajax.php:1016
+msgid "Email already exists"
+msgstr "El. pašto adresas jau yra"
+
+#: admin/apps/users/uip-users-ajax.php:557
+#: admin/apps/users/uip-users-ajax.php:1069
+msgid "User saved"
+msgstr "Vartotojas išsaugotas"
+
+#: admin/apps/users/uip-users-ajax.php:583
+msgid "No users sent to update"
+msgstr "Nėra naudotojų, kurie išsiųsti atnaujinti"
+
+#: admin/apps/users/uip-users-ajax.php:589
+msgid "No roles sent to update"
+msgstr "Jokių vaidmenų nenusiųsta atnaujinti"
+
+#: admin/apps/users/uip-users-ajax.php:610
+msgid "User roles updated"
+msgstr "Vartotojų vaidmenys atnaujinti"
+
+#: admin/apps/users/uip-users-ajax.php:630
+#: admin/apps/users/uip-users-ajax.php:716
+#: admin/apps/users/uip-users-ajax.php:777
+#: admin/apps/users/uip-users-ajax.php:818
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr "Neturite pakankamai teisių valdyti vaidmenis"
+
+#: admin/apps/users/uip-users-ajax.php:636
+msgid "Original role name required"
+msgstr "Reikalingas originalus vaidmens pavadinimas"
+
+#: admin/apps/users/uip-users-ajax.php:642
+#: admin/apps/users/uip-users-ajax.php:722
+#: admin/apps/users/uip-users-ajax.php:783
+#: admin/apps/users/uip-users-ajax.php:836
+#: admin/apps/users/uip-users-ajax.php:879
+#: admin/apps/users/uip-users-ajax.php:885
+#: admin/apps/users/uip-users-ajax.php:944
+#: admin/apps/users/uip-users-ajax.php:950
+msgid "Role name is required"
+msgstr "Būtinas vaidmens pavadinimas"
+
+#: admin/apps/users/uip-users-ajax.php:667
+msgid "Role saved"
+msgstr "Vaidmuo išsaugotas"
+
+#: admin/apps/users/uip-users-ajax.php:686
+msgid "You don't have sufficent priviledges to do this"
+msgstr "Jūs neturite pakankamai teisių tai padaryti"
+
+#: admin/apps/users/uip-users-ajax.php:697
+msgid "User logged out everywhere"
+msgstr "Vartotojas visur atsijungė"
+
+#: admin/apps/users/uip-users-ajax.php:728
+msgid "Role label cannot contain spaces"
+msgstr "Vaidmenų etiketėje negali būti tarpų"
+
+#: admin/apps/users/uip-users-ajax.php:734
+msgid "Role label is required"
+msgstr "Reikalinga vaidmens etiketė"
+
+#: admin/apps/users/uip-users-ajax.php:753
+msgid "Unable to add role. Make sure role name is unique"
+msgstr ""
+"Nepavyko pridėti vaidmens. Įsitikinkite, kad vaidmens pavadinimas yra "
+"unikalus"
+
+#: admin/apps/users/uip-users-ajax.php:758
+msgid "Role created"
+msgstr "Sukurtas vaidmuo"
+
+#: admin/apps/users/uip-users-ajax.php:792
+#: admin/apps/users/uip-users-ajax.php:843
+msgid "You can't delete a role that is currently assigned to yourself"
+msgstr "Negalite ištrinti vaidmens, kuris šiuo metu jums priskirtas"
+
+#: admin/apps/users/uip-users-ajax.php:799
+msgid "Role deleted"
+msgstr "Vaidmuo ištrintas"
+
+#: admin/apps/users/uip-users-ajax.php:824
+msgid "No roles to delete"
+msgstr "Nėra jokių ištrintinų vaidmenų"
+
+#: admin/apps/users/uip-users-ajax.php:852
+msgid "Roles deleted"
+msgstr "Vaidmenys ištrinti"
+
+#: admin/apps/users/uip-users-ajax.php:873
+msgid "You don't have sufficent priviledges to add this capability"
+msgstr "Neturite pakankamai teisių šiai funkcijai pridėti"
+
+#: admin/apps/users/uip-users-ajax.php:891
+#: admin/apps/users/uip-users-ajax.php:956
+msgid "Role name cannot contain spaces"
+msgstr "Vaidmens pavadinime negali būti tarpų"
+
+#: admin/apps/users/uip-users-ajax.php:897
+msgid "Capability name cannot contain spaces"
+msgstr "Galimybės pavadinime negali būti tarpų"
+
+#: admin/apps/users/uip-users-ajax.php:912
+msgid "Unable to add capability. Make sure role name is unique"
+msgstr ""
+"Nepavyko pridėti galimybių. Įsitikinkite, kad vaidmens pavadinimas yra "
+"unikalus"
+
+#: admin/apps/users/uip-users-ajax.php:917
+msgid "Capability added"
+msgstr "Pridėta galimybė"
+
+#: admin/apps/users/uip-users-ajax.php:938
+msgid "You don't have sufficent priviledges to delete this capability"
+msgstr "Neturite pakankamai teisių šiai funkcijai ištrinti"
+
+#: admin/apps/users/uip-users-ajax.php:971
+msgid "Unable to delete capability. Make sure role name is unique"
+msgstr ""
+"Nepavyko ištrinti galimybės. Įsitikinkite, kad vaidmens pavadinimas yra "
+"unikalus"
+
+#: admin/apps/users/uip-users-ajax.php:976
+msgid "Capability deleted"
+msgstr "Galimybė ištrinta"
+
+#: admin/apps/users/uip-users-ajax.php:996
+msgid "You don't have sufficent priviledges to create users"
+msgstr "Neturite pakankamai teisių kurti naudotojus"
+
+#: admin/apps/users/uip-users-ajax.php:1003
+msgid "Username already exists"
+msgstr "Vardas jau egzistuoja"
+
+#: admin/apps/users/uip-users-ajax.php:1009
+msgid "Username is not valid"
+msgstr "Vartotojo vardas neteisingas"
+
+#: admin/apps/users/uip-users-ajax.php:1029
+msgid "Password is required"
+msgstr "reikalingas slaptazodis"
+
+#: admin/apps/users/uip-users-ajax.php:1088
+#: admin/apps/users/uip-users-ajax.php:1127
+msgid "You don't have sufficent priviledges to edit this user"
+msgstr "Neturite pakankamai teisių redaguoti šį vartotoją"
+
+#: admin/apps/users/uip-users-ajax.php:1097
+msgid "Password reset link sent"
+msgstr "Slaptažodžio nustatymo iš naujo nuoroda išsiųsta"
+
+#: admin/apps/users/uip-users-ajax.php:1101
+msgid "Unable to send password reset email at the moment"
+msgstr "Šiuo metu negalima išsiųsti slaptažodžio nustatymo iš naujo el. laiško"
+
+#: admin/apps/users/uip-users-ajax.php:1121
+msgid "No users sent to reset passwords!"
+msgstr "Nė vienas naudotojas nesiųsta iš naujo nustatyti slaptažodžius!"
+
+#: admin/apps/users/uip-users-ajax.php:1141
+msgid "Unable to send password reset email"
+msgstr "Nepavyko išsiųsti slaptažodžio nustatymo iš naujo el. laiško"
+
+#: admin/apps/users/uip-users-ajax.php:1142
+#: admin/apps/users/uip-users-ajax.php:1315
+#: admin/apps/users/uip-users-ajax.php:1325
+#, php-format
+msgid "User ID: %s"
+msgstr "Vartotojo ID: %s"
+
+#: admin/apps/users/uip-users-ajax.php:1148
+msgid "Password reset links succesfully sent"
+msgstr "Slaptažodžio nustatymo iš naujo nuorodos sėkmingai išsiųstos"
+
+#: admin/apps/users/uip-users-ajax.php:1173
+msgid "Subject is required"
+msgstr "Dalykas būtinas"
+
+#: admin/apps/users/uip-users-ajax.php:1179
+msgid "Reply to email is required"
+msgstr "Būtina atsakyti į el. laišką"
+
+#: admin/apps/users/uip-users-ajax.php:1185
+msgid "Message is required"
+msgstr "Reikalingas pranešimas"
+
+#: admin/apps/users/uip-users-ajax.php:1200
+msgid "No email to send message to."
+msgstr "Nėra el. pašto, į kurią būtų galima siųsti žinutę."
+
+#: admin/apps/users/uip-users-ajax.php:1232
+msgid "Unable to send mail at this time"
+msgstr "Šiuo metu negalima išsiųsti laiškų"
+
+#: admin/apps/users/uip-users-ajax.php:1237
+msgid "Message sent"
+msgstr "Žinutė išsiųsta"
+
+#: admin/apps/users/uip-users-ajax.php:1261
+msgid "You can't delete yourself!"
+msgstr "Jūs negalite ištrinti savęs!"
+
+#: admin/apps/users/uip-users-ajax.php:1270
+msgid "User successfully deleted"
+msgstr "Vartotojas sėkmingai ištrintas"
+
+#: admin/apps/users/uip-users-ajax.php:1274
+#: admin/apps/users/uip-users-ajax.php:1279
+#: admin/apps/users/uip-users-ajax.php:1305
+msgid "You don't have sufficent priviledges to delete this user"
+msgstr "Neturite pakankamai teisių ištrinti šį vartotoją"
+
+#: admin/apps/users/uip-users-ajax.php:1299
+msgid "No users sent to delete!"
+msgstr "Nėra naudotojų, kurie būtų išsiųsti ištrinti!"
+
+#: admin/apps/users/uip-users-ajax.php:1314
+msgid "You can't delete yourself"
+msgstr "Jūs negalite ištrinti savęs"
+
+#: admin/apps/users/uip-users-ajax.php:1324
+msgid "Unable to delete this user"
+msgstr "Nepavyko ištrinti šio vartotojo"
+
+#: admin/apps/users/uip-users-ajax.php:1331
+msgid "Users successfully deleted"
+msgstr "Vartotojai sėkmingai ištrinti"
+
+#: admin/apps/users/uip-users.php:53 admin/apps/users/uip-users.php:266
+#: admin/apps/users/uip-users.php:377 admin/apps/users/uip-users.php:1291
+msgid "Users"
+msgstr "Vartotojai"
+
+#: admin/apps/users/uip-users.php:54
+msgid "Creates user management page"
+msgstr "Sukuria vartotojų valdymo puslapį"
+
+#: admin/apps/users/uip-users.php:58
+msgid "Disable Users Page?"
+msgstr "Išjungti vartotojų puslapį?"
+
+#: admin/apps/users/uip-users.php:59
+msgid ""
+"If disabled, the user management page will not be available to any users."
+msgstr ""
+"Jei išjungsite, naudotojų valdymo puslapis nebus pasiekiamas jokiems "
+"vartotojams."
+
+#: admin/apps/users/uip-users.php:66
+msgid "User management page Disabled for"
+msgstr "Vartotojų valdymo puslapis Išjungtas"
+
+#: admin/apps/users/uip-users.php:67
+msgid ""
+"When the user management page module is disabled, the user management page "
+"will not be accesible for the users / roles"
+msgstr ""
+"Kai naudotojų valdymo puslapio modulis išjungtas, naudotojų valdymo puslapis "
+"nebus pasiekiamas vartotojams / vaidmenims"
+
+#: admin/apps/users/uip-users.php:75
+msgid "Enable user activity log?"
+msgstr "Įgalinti naudotojo veiklos žurnalą?"
+
+#: admin/apps/users/uip-users.php:76
+msgid ""
+"If enabled, uipress will log actions taken by all users, including page "
+"views, comments, post creation etc."
+msgstr ""
+"Jei įjungta, uipress registruos visų vartotojų veiksmus, įskaitant puslapio "
+"peržiūras, komentarus, įrašų kūrimą ir kt."
+
+#: admin/apps/users/uip-users.php:84
+msgid "Disable page view logging"
+msgstr "Išjungti puslapio peržiūros registravimą"
+
+#: admin/apps/users/uip-users.php:87
+#, php-format
+msgid ""
+"By Default, %s will track page views for logged in users as part of the "
+"activity log. While sometimes useful, this will have the biggest impact on "
+"the log size in the database. Disabling this feature will keep the log "
+"smaller."
+msgstr ""
+"Pagal numatytuosius nustatymus %s stebės prisijungusių vartotojų puslapių "
+"peržiūras kaip veiklos žurnalo dalį. Nors kartais tai naudinga, tai turės "
+"didžiausią įtaką žurnalo dydžiui duomenų bazėje. Išjungus šią funkciją "
+"žurnalas bus mažesnis."
+
+#: admin/apps/users/uip-users.php:99
+msgid "Enable recent page view logging"
+msgstr "Įgalinti paskutinio puslapio peržiūrų registravimą"
+
+#: admin/apps/users/uip-users.php:100
+#, php-format
+msgid ""
+"Seperate to the main history log, %s will keep 5 recent page views in the "
+"user meta. This can have a small impact on the page load speed."
+msgstr ""
+"Atskirai nuo pagrindinio istorijos žurnalo, %s naudotojo meta išsaugos 5 "
+"naujausius puslapių peržiūras. Tai gali turėti nedidelę įtaką puslapio "
+"įkėlimo greičiui."
+
+#: admin/apps/users/uip-users.php:108
+msgid "How long to keep history?"
+msgstr "Kiek laiko saugoti istoriją?"
+
+#: admin/apps/users/uip-users.php:109
+msgid ""
+"By default, activity items will be deleted after 60 days, enter the amount "
+"of days to keep items to change this"
+msgstr ""
+"Pagal numatytuosius nustatymus veiklos elementai bus ištrinti po 60 dienų. "
+"Norėdami tai pakeisti, įveskite dienų skaičių, kurį reikia išsaugoti"
+
+#: admin/apps/users/uip-users.php:118
+msgid "Delay history entries?"
+msgstr "Vėluoti istorijos įrašus?"
+
+#: admin/apps/users/uip-users.php:120
+msgid ""
+"Use scheduled tasks to insert the history actions to avoid any extra page "
+"load speed. By default entries are added as they happen, with this enabled "
+"there will be delay of about 10 seconds before actions appear."
+msgstr ""
+"Naudokite suplanuotas užduotis istorijos veiksmams įterpti, kad išvengtumėte "
+"papildomo puslapio įkėlimo greičio. Pagal numatytuosius nustatymus įrašai "
+"pridedami, kai jie įvyksta. Kai tai įjungta, veiksmas pasirodys maždaug 10 "
+"sekundžių."
+
+#: admin/apps/users/uip-users.php:131
+msgid "Anonymize user IP addresses?"
+msgstr "Anonimizuoti vartotojų IP adresus?"
+
+#: admin/apps/users/uip-users.php:132
+msgid ""
+"Each history item logs the users IP address, enable this to anonymize the "
+"address."
+msgstr ""
+"Kiekvienas istorijos elementas registruoja vartotojo IP adresą, įgalinkite "
+"tai, kad adresas būtų anonimiškas."
+
+#: admin/apps/users/uip-users.php:217 admin/apps/users/uip-users.php:218
+msgid "User Management"
+msgstr "Vartotojo valdymas"
+
+#: admin/apps/users/uip-users.php:270 admin/apps/users/uip-users.php:328
+#: admin/apps/users/uip-users.php:1244
+msgid "Roles"
+msgstr "Vaidmenys"
+
+#: admin/apps/users/uip-users.php:274
+msgid "Activity"
+msgstr "Veikla"
+
+#: admin/apps/users/uip-users.php:290
+msgid "results"
+msgstr "rezultatus"
+
+#: admin/apps/users/uip-users.php:291 admin/apps/users/uip-users.php:316
+msgid "Previous"
+msgstr "Ankstesnis"
+
+#: admin/apps/users/uip-users.php:292 admin/apps/users/uip-users.php:315
+msgid "Next"
+msgstr "Kitas"
+
+#: admin/apps/users/uip-users.php:293
+msgid "Search users"
+msgstr "Ieškoti vartotojų"
+
+#: admin/apps/users/uip-users.php:294
+msgid "Filter by role"
+msgstr "Filtruoti pagal vaidmenį"
+
+#: admin/apps/users/uip-users.php:295
+msgid "Search roles"
+msgstr "Ieškoti vaidmenų"
+
+#: admin/apps/users/uip-users.php:296
+msgid "Table options"
+msgstr "Lentelės parinktys"
+
+#: admin/apps/users/uip-users.php:297
+msgid "Order"
+msgstr "Įsakymas"
+
+#: admin/apps/users/uip-users.php:298
+msgid "Ascending"
+msgstr "Kylantis"
+
+#: admin/apps/users/uip-users.php:299
+msgid "Descending"
+msgstr "Mažėjantis"
+
+#: admin/apps/users/uip-users.php:300
+msgid "Sort By"
+msgstr "Rūšiuoti pagal"
+
+#: admin/apps/users/uip-users.php:301
+msgid "Per page"
+msgstr "Per puslapį"
+
+#: admin/apps/users/uip-users.php:302
+msgid "Fields"
+msgstr "Laukai"
+
+#: admin/apps/users/uip-users.php:303
+msgid "Date created"
+msgstr "Sukūrimo data"
+
+#: admin/apps/users/uip-users.php:304
+msgid "On"
+msgstr "Įjungta"
+
+#: admin/apps/users/uip-users.php:305
+msgid "After"
+msgstr "Po"
+
+#: admin/apps/users/uip-users.php:306
+msgid "Before"
+msgstr "Prieš"
+
+#: admin/apps/users/uip-users.php:307 admin/apps/users/uip-users.php:308
+msgid "Date filters"
+msgstr "Datos filtrai"
+
+#: admin/apps/users/uip-users.php:310
+msgid "Account created"
+msgstr "Paskyra sukurta"
+
+#: admin/apps/users/uip-users.php:312 admin/apps/users/uip-users.php:326
+#: admin/apps/users/uip-users.php:1219
+msgid "Email"
+msgstr "El. paštas"
+
+#: admin/apps/users/uip-users.php:313
+msgid "Recent page views"
+msgstr "Naujausi puslapių peržiūros"
+
+#: admin/apps/users/uip-users.php:314
+msgid "Recent activity"
+msgstr "Paskutiniai veiksmai"
+
+#: admin/apps/users/uip-users.php:317
+msgid "Last login"
+msgstr "Paskutinis prisijungimas"
+
+#: admin/apps/users/uip-users.php:318
+msgid "Login location"
+msgstr "Prisijungimo vieta"
+
+#: admin/apps/users/uip-users.php:319
+msgid "No recent activity"
+msgstr "Nėra pastarojo meto veiklos"
+
+#: admin/apps/users/uip-users.php:320
+msgid "Total posts"
+msgstr "Iš viso pranešimų"
+
+#: admin/apps/users/uip-users.php:321
+msgid "Total comments"
+msgstr "Viso komentarų"
+
+#: admin/apps/users/uip-users.php:322
+msgid "User Options"
+msgstr "Vartotojo parinktys"
+
+#: admin/apps/users/uip-users.php:323 admin/apps/users/uip-users.php:332
+msgid "Edit user"
+msgstr "Redaguoti naudotoją"
+
+#: admin/apps/users/uip-users.php:324
+msgid "First name"
+msgstr "Pirmas vardas"
+
+#: admin/apps/users/uip-users.php:325
+msgid "Last name"
+msgstr "Pavardė"
+
+#: admin/apps/users/uip-users.php:327
+msgid "Assign roles"
+msgstr "Paskirkite vaidmenis"
+
+#: admin/apps/users/uip-users.php:329
+msgid "User notes"
+msgstr "Vartotojo pastabos"
+
+#: admin/apps/users/uip-users.php:330
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#: admin/apps/users/uip-users.php:331
+msgid "Update user"
+msgstr "Atnaujinti vartotoją"
+
+#: admin/apps/users/uip-users.php:333
+msgid "Send password reset"
+msgstr "Siųsti slaptažodį iš naujo"
+
+#: admin/apps/users/uip-users.php:334 admin/apps/users/uip-users.php:342
+msgid "Send message"
+msgstr "Siųsti žinutę"
+
+#: admin/apps/users/uip-users.php:335
+msgid "Delete user"
+msgstr "Ištrinti vartotoją"
+
+#: admin/apps/users/uip-users.php:336
+msgid "Are you sure you want to delete this user?"
+msgstr "Ar tikrai norite ištrinti šį naudotoją?"
+
+#: admin/apps/users/uip-users.php:337
+msgid "Are you sure you want to the selected users?"
+msgstr "Ar tikrai norite pasirinkti pasirinktus vartotojus?"
+
+#: admin/apps/users/uip-users.php:338
+msgid ""
+"Are you sure you want to send password reset links to the selected users?"
+msgstr ""
+"Ar tikrai norite siųsti slaptažodžio nustatymo iš naujo nuorodas "
+"pasirinktiems vartotojams?"
+
+#: admin/apps/users/uip-users.php:339
+msgid "Recipient"
+msgstr "Gavėjas"
+
+#: admin/apps/users/uip-users.php:340
+msgid "Subject"
+msgstr "Tema"
+
+#: admin/apps/users/uip-users.php:341
+msgid "Message"
+msgstr "Pranešimas"
+
+#: admin/apps/users/uip-users.php:343
+msgid "Reply to email"
+msgstr "Atsakyti į el"
+
+#: admin/apps/users/uip-users.php:344
+msgid "New user"
+msgstr "Naujas vartotojas"
+
+#: admin/apps/users/uip-users.php:345
+msgid "Save user"
+msgstr "Išsaugoti vartotoją"
+
+#: admin/apps/users/uip-users.php:346
+msgid "Password"
+msgstr "Slaptažodis"
+
+#: admin/apps/users/uip-users.php:347 admin/apps/users/uip-users.php:1207
+msgid "Username"
+msgstr "Vartotojo vardas"
+
+#: admin/apps/users/uip-users.php:348 admin/apps/users/uip-users.php:1279
+msgid "Role name"
+msgstr "Vaidmens pavadinimas"
+
+#: admin/apps/users/uip-users.php:349
+msgid "Edit role"
+msgstr "Redaguoti vaidmenį"
+
+#: admin/apps/users/uip-users.php:350
+msgid "Save role"
+msgstr "Išsaugoti vaidmenį"
+
+#: admin/apps/users/uip-users.php:351
+msgid "Capabilities"
+msgstr "Galimybės"
+
+#: admin/apps/users/uip-users.php:353
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"Šiuo metu redaguojate administratoriaus vaidmenį. Paprastai tai yra "
+"svarbiausias vaidmuo svetainėje, todėl įsitikinkite, kad nepašalinate būtinų "
+"galimybių."
+
+#: admin/apps/users/uip-users.php:356
+msgid "Delete role"
+msgstr "Ištrinti vaidmenį"
+
+#: admin/apps/users/uip-users.php:357
+msgid "Are you sure you want to delete this role?"
+msgstr "Ar tikrai norite ištrinti šį vaidmenį?"
+
+#: admin/apps/users/uip-users.php:358
+msgid "Are you sure you want to delete these roles?"
+msgstr "Ar tikrai norite ištrinti šiuos vaidmenis?"
+
+#: admin/apps/users/uip-users.php:359
+msgid "Role options"
+msgstr "Vaidmenų parinktys"
+
+#: admin/apps/users/uip-users.php:360
+msgid "Clone"
+msgstr "Klonuoti"
+
+#: admin/apps/users/uip-users.php:361
+msgid "New role"
+msgstr "Naujas vaidmuo"
+
+#: admin/apps/users/uip-users.php:362
+msgid "Role label"
+msgstr "Vaidmenų etiketė"
+
+#: admin/apps/users/uip-users.php:363
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "Vienas žodis, be tarpų. Leidžiami pabraukimai ir brūkšniai"
+
+#: admin/apps/users/uip-users.php:364
+msgid "copy"
+msgstr "kopija"
+
+#: admin/apps/users/uip-users.php:365
+msgid "search roles"
+msgstr "paieškos vaidmenys"
+
+#: admin/apps/users/uip-users.php:366
+msgid "Search history"
+msgstr "Paieškos istorija"
+
+#: admin/apps/users/uip-users.php:367
+msgid "All actions"
+msgstr "Visi veiksmai"
+
+#: admin/apps/users/uip-users.php:368
+msgid "Add custom capability (Single word, no spaces)"
+msgstr "Pridėti pasirinktinę funkciją (vienas žodis, be tarpų)"
+
+#: admin/apps/users/uip-users.php:369
+msgid "Add capability"
+msgstr "Pridėti galimybę"
+
+#: admin/apps/users/uip-users.php:370
+msgid "roles selected"
+msgstr "pasirinkti vaidmenys"
+
+#: admin/apps/users/uip-users.php:371
+msgid "Delete selected"
+msgstr "Išštrinti pasirinktus"
+
+#: admin/apps/users/uip-users.php:372
+msgid "Deselect"
+msgstr "Panaikinkite pasirinkimą"
+
+#: admin/apps/users/uip-users.php:373
+msgid "Delete users"
+msgstr "Ištrinti vartotojus"
+
+#: admin/apps/users/uip-users.php:374
+msgid "Clear selection"
+msgstr "Išvalyti pasirinkimą"
+
+#: admin/apps/users/uip-users.php:375
+msgid "recipients"
+msgstr "gavėjai"
+
+#: admin/apps/users/uip-users.php:376 admin/classes/uipress-app.php:1409
+msgid "users"
+msgstr "vartotojų"
+
+#: admin/apps/users/uip-users.php:378
+msgid "Replace existing roles"
+msgstr "Pakeiskite esamus vaidmenis"
+
+#: admin/apps/users/uip-users.php:379
+msgid "Update roles"
+msgstr "Atnaujinkite vaidmenis"
+
+#: admin/apps/users/uip-users.php:380
+msgid "users selected"
+msgstr "pasirinkti vartotojai"
+
+#: admin/apps/users/uip-users.php:381
+msgid "Choose image"
+msgstr "Pasirinkite vaizdą"
+
+#: admin/apps/users/uip-users.php:382
+msgid "Profile image"
+msgstr "Profilio vaizdas"
+
+#: admin/apps/users/uip-users.php:383 admin/apps/users/uip-users.php:387
+#: admin/apps/users/uip-users.php:1250
+msgid "Groups"
+msgstr "Grupės"
+
+#: admin/apps/users/uip-users.php:384
+msgid "All users"
+msgstr "Visi vartotojai"
+
+#: admin/apps/users/uip-users.php:385
+msgid "No group"
+msgstr "Nėra grupės"
+
+#: admin/apps/users/uip-users.php:386
+msgid "No groups created yet."
+msgstr "Kol kas nesukurta jokių grupių."
+
+#: admin/apps/users/uip-users.php:388
+msgid "New group"
+msgstr "Nauja grupė"
+
+#: admin/apps/users/uip-users.php:390
+msgid "Color"
+msgstr "Spalva"
+
+#: admin/apps/users/uip-users.php:391
+msgid "Create group"
+msgstr "Sukurti grupę"
+
+#: admin/apps/users/uip-users.php:392
+msgid "Group name"
+msgstr "Grupės pavadinimas"
+
+#: admin/apps/users/uip-users.php:393
+msgid "Edit group"
+msgstr "Redaguoti grupę"
+
+#: admin/apps/users/uip-users.php:394
+msgid "Update group"
+msgstr "Atnaujinti grupę"
+
+#: admin/apps/users/uip-users.php:395
+msgid "Remove from group"
+msgstr "Pašalinti iš grupės"
+
+#: admin/apps/users/uip-users.php:396
+msgid "User groups"
+msgstr "Vartotojų grupės"
+
+#: admin/apps/users/uip-users.php:397
+msgid "Assign groups"
+msgstr "Priskirkite grupes"
+
+#: admin/apps/users/uip-users.php:398
+msgid "Search groups"
+msgstr "Ieškoti grupių"
+
+#: admin/apps/users/uip-users.php:399
+msgid "Pro feature"
+msgstr "Pro funkcija"
+
+#: admin/apps/users/uip-users.php:400
+msgid "Upgrade to UiPress Pro to unlock the user management and activity logs"
+msgstr ""
+"Naujovinkite į UiPress Pro, kad atrakintumėte vartotojų valdymo ir veiklos "
+"žurnalus"
+
+#: admin/apps/users/uip-users.php:401
+msgid "View Uipress Pro plans"
+msgstr "Peržiūrėkite „Uipress Pro“ planus"
+
+#: admin/apps/users/uip-users.php:402
+msgid "Group icon"
+msgstr "Grupės piktograma"
+
+#: admin/apps/users/uip-users.php:403
+msgid "Logout everywhere else"
+msgstr "Atsijungti visur kitur"
+
+#: admin/apps/users/uip-users.php:404
+msgid "Open profile"
+msgstr "Atidaryti profilį"
+
+#: admin/apps/users/uip-users.php:405
+msgid ""
+"Are you sure you want to delete this capability? This will remove the "
+"capability sitewide. Please note not all capabilities can be deleted."
+msgstr ""
+"Ar tikrai norite ištrinti šią funkciją? Tai pašalins galimybę visoje "
+"svetainėje. Atminkite, kad ne visas galimybes galima ištrinti."
+
+#: admin/apps/users/uip-users.php:517
+msgid "Read"
+msgstr "Skaityti"
+
+#: admin/apps/users/uip-users.php:529
+msgid "Publish"
+msgstr "Paskelbti"
+
+#: admin/apps/users/uip-users.php:535 admin/classes/uipress-app.php:1335
+msgid "Create"
+msgstr "Sukurti"
+
+#: admin/apps/users/uip-users.php:553
+msgid "Manage"
+msgstr "Tvarkyti"
+
+#: admin/apps/users/uip-users.php:565 admin/classes/settings.php:242
+#: admin/classes/styles.php:442
+msgid "Import"
+msgstr "Importuoti"
+
+#: admin/apps/users/uip-users.php:571
+msgid "Custom"
+msgstr "Pasirinktinis"
+
+#: admin/apps/users/uip-users.php:737
+msgid "User no longer exists"
+msgstr "Vartotojo nebėra"
+
+#: admin/apps/users/uip-users.php:742 admin/apps/users/uip-users.php:1106
+#, php-format
+msgid "%s ago"
+msgstr "prieš %s"
+
+#: admin/apps/users/uip-users.php:753 admin/apps/users/uip-users.php:1370
+msgid "Page view"
+msgstr "Puslapio rodinys"
+
+#: admin/apps/users/uip-users.php:755
+msgid "Viewed page"
+msgstr "Peržiūrėtas puslapis"
+
+#: admin/apps/users/uip-users.php:764 admin/apps/users/uip-users.php:1374
+msgid "Post created"
+msgstr "Įrašas sukurtas"
+
+#: admin/apps/users/uip-users.php:766
+msgid "Created post"
+msgstr "Sukurtas įrašas"
+
+#: admin/apps/users/uip-users.php:769 admin/apps/users/uip-users.php:790
+#: admin/apps/users/uip-users.php:838
+msgid "View page"
+msgstr "Žiūrėti puslapį"
+
+#: admin/apps/users/uip-users.php:773 admin/apps/users/uip-users.php:794
+#: admin/apps/users/uip-users.php:811 admin/apps/users/uip-users.php:842
+msgid "Edit page"
+msgstr "Redaguoti puslapį"
+
+#: admin/apps/users/uip-users.php:785
+msgid "Post modified"
+msgstr "Įrašas pakeistas"
+
+#: admin/apps/users/uip-users.php:787
+msgid "Modified post"
+msgstr "Pakeistas įrašas"
+
+#: admin/apps/users/uip-users.php:806
+msgid "Post moved to trash"
+msgstr "Įrašas perkeltas į šiukšliadėžę"
+
+#: admin/apps/users/uip-users.php:808
+msgid "Moved post to trash"
+msgstr "Įrašas perkeltas į šiukšliadėžę"
+
+#: admin/apps/users/uip-users.php:820 admin/apps/users/uip-users.php:1386
+msgid "Post deleted"
+msgstr "Įrašas ištrintas"
+
+#: admin/apps/users/uip-users.php:822
+msgid "Deleted post"
+msgstr "Ištrintas įrašas"
+
+#: admin/apps/users/uip-users.php:831 admin/apps/users/uip-users.php:1390
+msgid "Post status change"
+msgstr "Paskelbti būsenos pakeitimą"
+
+#: admin/apps/users/uip-users.php:834
+#, php-format
+msgid "Post status changed from %s to %s"
+msgstr "Įrašo būsena pakeista iš %s į %s"
+
+#: admin/apps/users/uip-users.php:855
+msgid "Posted a comment"
+msgstr "Paskelbė komentarą"
+
+#: admin/apps/users/uip-users.php:857
+msgid "Posted a comment on post"
+msgstr "Paskelbė komentarą prie įrašo"
+
+#: admin/apps/users/uip-users.php:868 admin/apps/users/uip-users.php:898
+msgid "View comment"
+msgstr "Žiūrėti komentarą"
+
+#: admin/apps/users/uip-users.php:872 admin/apps/users/uip-users.php:902
+msgid "Edit comment"
+msgstr "Redaguoti komentarą"
+
+#: admin/apps/users/uip-users.php:884
+msgid "Trashed a comment"
+msgstr "Komentaras išmestas į šiukšliadėžę"
+
+#: admin/apps/users/uip-users.php:886
+msgid "Moved a comment to the trash"
+msgstr "Komentaras perkeltas į šiukšliadėžę"
+
+#: admin/apps/users/uip-users.php:912
+msgid "Deleted a comment"
+msgstr "Ištrynė komentarą"
+
+#: admin/apps/users/uip-users.php:914
+msgid "Permanently deleted a comment"
+msgstr "Ištrynė komentarą visam laikui"
+
+#: admin/apps/users/uip-users.php:920 admin/apps/users/uip-users.php:1403
+msgid "Plugin activated"
+msgstr "Papildinys suaktyvintas"
+
+#: admin/apps/users/uip-users.php:922
+#, php-format
+msgid "A plugin called %s was activated"
+msgstr "Įskiepis pavadinimu %s buvo suaktyvintas"
+
+#: admin/apps/users/uip-users.php:928 admin/apps/users/uip-users.php:1407
+msgid "Plugin deactivated"
+msgstr "Papildinys išjungtas"
+
+#: admin/apps/users/uip-users.php:930
+#, php-format
+msgid "A plugin called %s was deactivated"
+msgstr "Papildinys pavadinimu %s buvo išjungtas"
+
+#: admin/apps/users/uip-users.php:936
+msgid "User logged in"
+msgstr "Vartotojas prisijungė"
+
+#: admin/apps/users/uip-users.php:938
+#, php-format
+msgid "Logged in with ip address %s. Country: %s"
+msgstr "Prisijungęs su IP adresu %s. Šalis: %s"
+
+#: admin/apps/users/uip-users.php:944
+msgid "User logged out"
+msgstr "Vartotojas atsijungė"
+
+#: admin/apps/users/uip-users.php:946
+#, php-format
+msgid "Logged out with ip address %s. Country: %s"
+msgstr "Atsijungta su IP adresu %s. Šalis: %s"
+
+#: admin/apps/users/uip-users.php:982 admin/apps/users/uip-users.php:988
+#: admin/apps/users/uip-users.php:1002
+msgid "Site option changed"
+msgstr "Svetainės parinktis pakeista"
+
+#: admin/apps/users/uip-users.php:984
+#, php-format
+msgid "Site option (%s) was changed from %s to %s"
+msgstr "Svetainės parinktis (%s) pakeista iš %s į %s"
+
+#: admin/apps/users/uip-users.php:990
+#, php-format
+msgid "Site option was changed. %s"
+msgstr "Svetainės parinktis pakeista. %s"
+
+#: admin/apps/users/uip-users.php:1004
+#, php-format
+msgid "Site option (%s) was added with a value of (%s)"
+msgstr "Pridėta svetainės parinktis (%s) su (%s) reikšme"
+
+#: admin/apps/users/uip-users.php:1010
+msgid "Uploaded attachment"
+msgstr "Įkeltas priedas"
+
+#: admin/apps/users/uip-users.php:1012
+#, php-format
+msgid "Attachment called (%s) was uploaded to (%s). Attachment ID: %s"
+msgstr "Priedas, vadinamas (%s), buvo įkeltas į (%s). Priedo ID: %s"
+
+#: admin/apps/users/uip-users.php:1021
+msgid "View attachment"
+msgstr "Žiūrėti priedą"
+
+#: admin/apps/users/uip-users.php:1029
+msgid "Deleted attachment"
+msgstr "Ištrintas priedas"
+
+#: admin/apps/users/uip-users.php:1031
+#, php-format
+msgid "Attachment called (%s) was deleted. Attachment ID: %s"
+msgstr "Priedas, vadinamas (%s), buvo ištrintas. Priedo ID: %s"
+
+#: admin/apps/users/uip-users.php:1037 admin/apps/users/uip-users.php:1262
+#: admin/apps/users/uip-users.php:1435
+msgid "User created"
+msgstr "Vartotojas sukurtas"
+
+#: admin/apps/users/uip-users.php:1039
+#, php-format
+msgid "New user created with username (%s) and email (%s)"
+msgstr ""
+"Sukurtas naujas vartotojas su vartotojo vardu (%s) ir el. pašto adresu (%s)"
+
+#: admin/apps/users/uip-users.php:1045 admin/apps/users/uip-users.php:1439
+msgid "User deleted"
+msgstr "Vartotojas ištrintas"
+
+#: admin/apps/users/uip-users.php:1047
+#, php-format
+msgid "A user with username (%s) and email (%s) was deleted"
+msgstr ""
+"Vartotojas su vartotojo vardu (%s) ir el. pašto adresu (%s) buvo ištrintas"
+
+#: admin/apps/users/uip-users.php:1082 admin/apps/users/uip-users.php:1443
+msgid "User updated"
+msgstr "Vartotojas atnaujintas"
+
+#: admin/apps/users/uip-users.php:1084
+#, php-format
+msgid "A user with username (%s) and email (%s) was updated from (%s) to (%s)"
+msgstr ""
+"Naudotojas su vartotojo vardu (%s) ir el. pašto adresu (%s) buvo atnaujintas "
+"iš (%s) į (%s)"
+
+#: admin/apps/users/uip-users.php:1226
+msgid "First Name"
+msgstr "Pirmas vardas"
+
+#: admin/apps/users/uip-users.php:1232
+msgid "Last Name"
+msgstr "Pavardė"
+
+#: admin/apps/users/uip-users.php:1238
+msgid "Last Login"
+msgstr "Paskutinis prisijungimas"
+
+#: admin/apps/users/uip-users.php:1256
+msgid "User ID"
+msgstr "Vartotojo ID"
+
+#: admin/apps/users/uip-users.php:1298
+msgid "Permissions granted"
+msgstr "Suteikti leidimai"
+
+#: admin/apps/users/uip-users.php:1315
+msgid "ID"
+msgstr "ID"
+
+#: admin/apps/users/uip-users.php:1327
+msgid "IP Address"
+msgstr "IP adresas"
+
+#: admin/apps/users/uip-users.php:1340
+msgid "Time"
+msgstr "Laikas"
+
+#: admin/apps/users/uip-users.php:1347
+msgid "Action"
+msgstr "Veiksmas"
+
+#: admin/apps/users/uip-users.php:1378
+msgid "Post updated"
+msgstr "Įrašas atnaujintas"
+
+#: admin/apps/users/uip-users.php:1382
+msgid "Post trashed"
+msgstr "Įrašas išmestas į šiukšliadėžę"
+
+#: admin/apps/users/uip-users.php:1394
+msgid "Trashed comment"
+msgstr "Išmestas komentaras"
+
+#: admin/apps/users/uip-users.php:1398
+msgid "Deelete comment"
+msgstr "Ištrinti komentarą"
+
+#: admin/apps/users/uip-users.php:1411
+msgid "User login"
+msgstr "Vartotojo prisijungimas"
+
+#: admin/apps/users/uip-users.php:1415
+msgid "User logout"
+msgstr "Vartotojo atsijungimas"
+
+#: admin/apps/users/uip-users.php:1419
+msgid "Option change"
+msgstr "Varianto pakeitimas"
+
+#: admin/apps/users/uip-users.php:1423
+msgid "Site option added"
+msgstr "Pridėta svetainės parinktis"
+
+#: admin/apps/users/uip-users.php:1427
+msgid "Attachmnet uploaded"
+msgstr "Attachmnet įkeltas"
+
+#: admin/apps/users/uip-users.php:1431
+msgid "Attachmnet deleted"
+msgstr "Attachmnet ištrintas"
+
+#: admin/classes/debug.php:133 admin/classes/debug.php:139
+#: admin/classes/debug.php:161
+msgid "Unable to register UiPress at this time"
+msgstr "Šiuo metu negalima užregistruoti UiPress"
+
+#: admin/classes/debug.php:152
+msgid "UiPress succesfully activated"
+msgstr "UiPress sėkmingai suaktyvintas"
+
+#: admin/classes/folders.php:112 admin/classes/uipress-app.php:453
+#: admin/classes/uipress-app.php:1367
+msgid "Folders"
+msgstr "Aplankai"
+
+#: admin/classes/folders.php:113
+msgid "Creates media folder system."
+msgstr "Sukuria medijos aplankų sistemą."
+
+#: admin/classes/folders.php:117
+msgid "Disable Folders?"
+msgstr "Išjungti aplankus?"
+
+#: admin/classes/folders.php:118
+msgid "No media folders will be displayed when this option is activated."
+msgstr "Suaktyvinus šią parinktį, medijos aplankai nebus rodomi."
+
+#: admin/classes/folders.php:125
+msgid "Folders Disabled For"
+msgstr "Aplankai išjungti"
+
+#: admin/classes/folders.php:126
+#, php-format
+msgid "%s folders will be disabled for any users or roles you select"
+msgstr ""
+"%s aplankai bus išjungti bet kokiems jūsų pasirinktiems naudotojams ar "
+"vaidmenims"
+
+#: admin/classes/folders.php:134
+msgid "Enable folders for post types"
+msgstr "Įgalinti pranešimų tipų aplankus"
+
+#: admin/classes/folders.php:135
+#, php-format
+msgid "%s folders will be enabled post, page and custom post types you choose"
+msgstr ""
+"%s aplankuose bus įgalinti jūsų pasirinkti įrašai, puslapis ir "
+"pasirinktiniai įrašų tipai"
+
+#: admin/classes/folders.php:171
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "Veiksmai"
+
+#: admin/classes/folders.php:173
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "Meniu"
+
+#: admin/classes/folders.php:311
+msgid "No folder to delete"
+msgstr "Nėra aplanko, kurį būtų galima ištrinti"
+
+#: admin/classes/folders.php:321
+msgid "Unable to delete the folder"
+msgstr "Nepavyko ištrinti aplanko"
+
+#: admin/classes/folders.php:372
+msgid "Folder deleted"
+msgstr "Aplankas ištrintas"
+
+#: admin/classes/folders.php:391
+msgid "Unable to move folder into itself"
+msgstr "Nepavyko perkelti aplanko į save"
+
+#: admin/classes/folders.php:405
+msgid "Unable to move folder"
+msgstr "Nepavyko perkelti aplanko"
+
+#: admin/classes/folders.php:433
+msgid "Folder moved"
+msgstr "Aplankas perkeltas"
+
+#: admin/classes/folders.php:536
+msgid "Folder updated"
+msgstr "Aplankas atnaujintas"
+
+#: admin/classes/folders.php:578
+msgid "Unable to create folder"
+msgstr "Nepavyko sukurti aplanko"
+
+#: admin/classes/folders.php:589
+msgid "Folder created"
+msgstr "Sukurtas aplankas"
+
+#: admin/classes/settings.php:144
+msgid "Unable to save user settings"
+msgstr "Nepavyko išsaugoti vartotojo nustatymų"
+
+#: admin/classes/settings.php:150 admin/classes/uipress-app.php:1358
+msgid "Settings saved"
+msgstr "Nustatymai išsaugoti"
+
+#: admin/classes/settings.php:164
+msgid "Settings reset"
+msgstr "Nustatymai iš naujo"
+
+#: admin/classes/settings.php:209 admin/classes/styles.php:432
+msgid "Version"
+msgstr "Versija"
+
+#: admin/classes/settings.php:230
+msgid "Save settings"
+msgstr "Išsaugoti nustatymus"
+
+#: admin/classes/settings.php:413
+msgid "No licence key provided"
+msgstr "Licencijos raktas nepateiktas"
+
+#: admin/classes/settings.php:445
+msgid "Licence removed"
+msgstr "Licencija pašalinta"
+
+#: admin/classes/styles.php:138 admin/classes/styles.php:151
+#: admin/classes/styles.php:430
+msgid "Styles"
+msgstr "Stiliai"
+
+#: admin/classes/styles.php:213
+msgid "Unable to fetch themes at this moment. Please try again later"
+msgstr "Šiuo metu negalima gauti temų. Pabandykite dar kartą vėliau"
+
+#: admin/classes/styles.php:247
+msgid "Unable to like theme at this moment. Please try again later"
+msgstr "Šiuo metu negaliu pamėgti temos. Pabandykite dar kartą vėliau"
+
+#: admin/classes/styles.php:266
+msgid "Unable to save styles"
+msgstr "Nepavyko išsaugoti stilių"
+
+#: admin/classes/styles.php:292
+msgid "Styles saved"
+msgstr "Stiliai išsaugoti"
+
+#: admin/classes/styles.php:411
+msgid ""
+"Uipress styles isn't optimised for mobile devices. Switch to a larger screen "
+"to modify UiPress Styles"
+msgstr ""
+"„Uipress“ stiliai nėra optimizuoti mobiliesiems įrenginiams. Perjunkite į "
+"didesnį ekraną, kad pakeistumėte UiPress Styles"
+
+#: admin/classes/styles.php:469
+msgid "Clear All"
+msgstr "Išvalyti viską"
+
+#: admin/classes/styles.php:533
+msgid "Global"
+msgstr "Pasaulinis"
+
+#: admin/classes/styles.php:536
+msgid "Body Background"
+msgstr "Kūno fonas"
+
+#: admin/classes/styles.php:547
+msgid "Default Background"
+msgstr "Numatytasis fonas"
+
+#: admin/classes/styles.php:558
+msgid "Muted Background"
+msgstr "Nutildytas fonas"
+
+#: admin/classes/styles.php:569
+msgid "Muted Background Accent"
+msgstr "Nutildytas fono akcentas"
+
+#: admin/classes/styles.php:580
+msgid "Primary Color"
+msgstr "Pirminė spalva"
+
+#: admin/classes/styles.php:591
+msgid "Primary Color Wash"
+msgstr "Pirminės spalvos plovimas"
+
+#: admin/classes/styles.php:602
+msgid "Primary Color Hover"
+msgstr "Pagrindinės spalvos užvedimas"
+
+#: admin/classes/styles.php:613
+msgid "Secondary Color"
+msgstr "Antrinė spalva"
+
+#: admin/classes/styles.php:624
+msgid "Secondary Color Hover"
+msgstr "Antrinės spalvos užvedimas"
+
+#: admin/classes/styles.php:635
+msgid "Font"
+msgstr "Šriftas"
+
+#: admin/classes/styles.php:646
+msgid "Border Width"
+msgstr "Krašto plotis"
+
+#: admin/classes/styles.php:657
+msgid "Border Radius"
+msgstr "Sienos spindulys"
+
+#: admin/classes/styles.php:668
+msgid "Border Colour"
+msgstr "Kraštinės spalva"
+
+#: admin/classes/styles.php:679
+msgid "Notification Background"
+msgstr "Pranešimų fonas"
+
+#: admin/classes/styles.php:696
+msgid "Base font size"
+msgstr "Bazinis šrifto dydis"
+
+#: admin/classes/styles.php:707 admin/classes/styles.php:1008
+#: admin/classes/styles.php:1148
+msgid "Text Color"
+msgstr "Teksto spalva"
+
+#: admin/classes/styles.php:718
+msgid "Text Emphasis Color"
+msgstr "Teksto paryškinimo spalva"
+
+#: admin/classes/styles.php:729
+msgid "Text Muted Color"
+msgstr "Teksto nutildyta spalva"
+
+#: admin/classes/styles.php:745
+msgid "Buttons"
+msgstr "Mygtukai"
+
+#: admin/classes/styles.php:748
+msgid "Button Border Radius"
+msgstr "Mygtuko kraštinės spindulys"
+
+#: admin/classes/styles.php:760
+msgid "Button Border Width"
+msgstr "Mygtuko kraštinės plotis"
+
+#: admin/classes/styles.php:772
+msgid "Default Button Border Colour"
+msgstr "Numatytoji mygtuko kraštinės spalva"
+
+#: admin/classes/styles.php:784
+msgid "Default Button Background Colour"
+msgstr "Numatytoji mygtuko fono spalva"
+
+#: admin/classes/styles.php:796
+msgid "Default Button Hover Background Colour"
+msgstr "Numatytoji mygtuko užvedimo fono spalva"
+
+#: admin/classes/styles.php:808
+msgid "Default Button Text Colour"
+msgstr "Numatytoji mygtuko teksto spalva"
+
+#: admin/classes/styles.php:821
+msgid "Primary Button Border Colour"
+msgstr "Pagrindinė mygtuko kraštinės spalva"
+
+#: admin/classes/styles.php:833
+msgid "Primary Button Background Colour"
+msgstr "Pagrindinė mygtuko fono spalva"
+
+#: admin/classes/styles.php:845
+msgid "Primary Button Hover Background Colour"
+msgstr "Pagrindinė mygtuko užvedimo fono spalva"
+
+#: admin/classes/styles.php:857
+msgid "Primary Button Text Colour"
+msgstr "Pagrindinė mygtuko teksto spalva"
+
+#: admin/classes/styles.php:870
+msgid "Danger Button Border Colour"
+msgstr "Pavojaus mygtuko kraštinės spalva"
+
+#: admin/classes/styles.php:882
+msgid "Danger Button Background Colour"
+msgstr "Pavojaus mygtuko fono spalva"
+
+#: admin/classes/styles.php:894
+msgid "Danger Button Hover Background Colour"
+msgstr "Pavojaus mygtuko užvedimo fono spalva"
+
+#: admin/classes/styles.php:906
+msgid "Danger Button Text Colour"
+msgstr "Pavojaus mygtuko teksto spalva"
+
+#: admin/classes/styles.php:919
+msgid "Page Action Button Border Colour"
+msgstr "Puslapio veiksmų mygtuko kraštinės spalva"
+
+#: admin/classes/styles.php:931
+msgid "Page Action Button Background Colour"
+msgstr "Puslapio veiksmų mygtuko fono spalva"
+
+#: admin/classes/styles.php:943
+msgid "Page Action Button Hover Background Colour"
+msgstr "Puslapio veiksmo mygtuko užvedimo fono spalva"
+
+#: admin/classes/styles.php:955
+msgid "Page Action Button Text Colour"
+msgstr "Puslapio veiksmų mygtuko teksto spalva"
+
+#: admin/classes/styles.php:973 admin/classes/uipress-app.php:2669
+msgid "Menu"
+msgstr "Meniu"
+
+#: admin/classes/styles.php:975
+msgid "Background Color"
+msgstr "Fono spalva"
+
+#: admin/classes/styles.php:986 admin/classes/styles.php:1170
+msgid "Secondary background Color"
+msgstr "Antrinė fono spalva"
+
+#: admin/classes/styles.php:997
+msgid "Button Hover background Color"
+msgstr "Mygtuko užvedimo fono spalva"
+
+#: admin/classes/styles.php:1019
+msgid "Active Text Color"
+msgstr "Aktyvi teksto spalva"
+
+#: admin/classes/styles.php:1030
+msgid "Active Top Level Item background colour"
+msgstr "Aktyvaus aukščiausio lygio elemento fono spalva"
+
+#: admin/classes/styles.php:1041
+msgid "Search Input background colour"
+msgstr "Paieška Įvesties fono spalva"
+
+#: admin/classes/styles.php:1052
+msgid "Search Input text colour"
+msgstr "Paieškos įvesties teksto spalva"
+
+#: admin/classes/styles.php:1063
+msgid "Submenu Text Color"
+msgstr "Submeniu Teksto spalva"
+
+#: admin/classes/styles.php:1074
+msgid "Submenu Active Text Color"
+msgstr "Submeniu Aktyvaus teksto spalva"
+
+#: admin/classes/styles.php:1085
+msgid "Submenu Hover Text Color"
+msgstr "Submeniu Užvedimo teksto spalva"
+
+#: admin/classes/styles.php:1096
+msgid "Width"
+msgstr "Plotis"
+
+#: admin/classes/styles.php:1108
+msgid "Padding"
+msgstr "Paminkštinimas"
+
+#: admin/classes/styles.php:1120
+msgid "Logo Height"
+msgstr "Logotipo aukštis"
+
+#: admin/classes/styles.php:1134 admin/classes/uipress-app.php:2773
+msgid "Toolbar"
+msgstr "Įrankių juosta"
+
+#: admin/classes/styles.php:1137
+msgid "Toolbar Background Color"
+msgstr "Įrankių juostos fono spalva"
+
+#: admin/classes/styles.php:1159
+msgid "Link Hover Text Color"
+msgstr "Nuorodos užvedimo teksto spalva"
+
+#: admin/classes/styles.php:1183
+msgid "Cards"
+msgstr "Kortelės"
+
+#: admin/classes/styles.php:1186 admin/classes/styles.php:1270
+msgid "Background color"
+msgstr "Fono spalva"
+
+#: admin/classes/styles.php:1198
+msgid "Border color"
+msgstr "Krašto spalva"
+
+#: admin/classes/styles.php:1210
+msgid "Border radius"
+msgstr "Sienos spindulys"
+
+#: admin/classes/styles.php:1222
+msgid "Shadow spread"
+msgstr "Šešėlių sklaida"
+
+#: admin/classes/styles.php:1234
+msgid "Shadow blur"
+msgstr "Šešėlių suliejimas"
+
+#: admin/classes/styles.php:1246
+msgid "Shadow color"
+msgstr "Šešėlių spalva"
+
+#: admin/classes/styles.php:1267 admin/classes/uipress-app.php:2944
+msgid "Login"
+msgstr "Prisijungti"
+
+#: admin/classes/uipress-app.php:268
+msgctxt "post type general name"
+msgid "Folder"
+msgstr "Aplankas"
+
+#: admin/classes/uipress-app.php:269
+msgctxt "post type singular name"
+msgid "folder"
+msgstr "aplanką"
+
+#: admin/classes/uipress-app.php:270
+msgctxt "admin menu"
+msgid "Folders"
+msgstr "Aplankai"
+
+#: admin/classes/uipress-app.php:271
+msgctxt "add new on admin bar"
+msgid "Folder"
+msgstr "Aplankas"
+
+#: admin/classes/uipress-app.php:272
+msgctxt "folder"
+msgid "Add New"
+msgstr "Pridėti naują"
+
+#: admin/classes/uipress-app.php:273 admin/classes/uipress-app.php:284
+msgid "Add New Folder"
+msgstr "Pridėti naują aplanką"
+
+#: admin/classes/uipress-app.php:274 admin/classes/uipress-app.php:1368
+msgid "New Folder"
+msgstr "Naujas aplankas"
+
+#: admin/classes/uipress-app.php:275 admin/classes/uipress-app.php:1372
+msgid "Edit Folder"
+msgstr "Redaguoti aplanką"
+
+#: admin/classes/uipress-app.php:276
+msgid "View Folder"
+msgstr "Žiūrėti aplanką"
+
+#: admin/classes/uipress-app.php:277
+msgid "All Folders"
+msgstr "Visi aplankai"
+
+#: admin/classes/uipress-app.php:278
+msgid "Search Folders"
+msgstr "Ieškoti aplankų"
+
+#: admin/classes/uipress-app.php:279
+msgid "No Folders found."
+msgstr "Nerasta jokių aplankų."
+
+#: admin/classes/uipress-app.php:280
+msgid "No Folders found in Trash."
+msgstr "Šiukšliadėžėje aplankų nerasta."
+
+#: admin/classes/uipress-app.php:1167
+msgid "active"
+msgstr "aktyvus"
+
+#: admin/classes/uipress-app.php:1171
+msgid "inactive"
+msgstr "neaktyvus"
+
+#: admin/classes/uipress-app.php:1320
+msgid "Menu Preferences"
+msgstr "Meniu nuostatos"
+
+#: admin/classes/uipress-app.php:1321
+msgid "Hide search bar"
+msgstr "Slėpti paieškos juostą"
+
+#: admin/classes/uipress-app.php:1322
+msgid "Hide Icons"
+msgstr "Slėpti piktogramas"
+
+#: admin/classes/uipress-app.php:1323
+msgid "Show submenu on hover"
+msgstr "Rodyti submeniu užvedus pelės žymeklį"
+
+#: admin/classes/uipress-app.php:1324
+msgid "Search Menu"
+msgstr "Paieškos meniu"
+
+#: admin/classes/uipress-app.php:1326
+msgid "Search"
+msgstr "Paieška"
+
+#: admin/classes/uipress-app.php:1329
+msgid "Show more"
+msgstr "Rodyti daugiau"
+
+#: admin/classes/uipress-app.php:1330
+msgid "other matches"
+msgstr "kitos rungtynės"
+
+#: admin/classes/uipress-app.php:1331 admin/classes/uipress-app.php:1359
+msgid "Nothing found"
+msgstr "Nieko nerasta"
+
+#: admin/classes/uipress-app.php:1332 admin/classes/uipress-app.php:1337
+msgid "View Site"
+msgstr "Peržiūrėti svetainę"
+
+#: admin/classes/uipress-app.php:1333
+msgid "Dashboard"
+msgstr "Prietaisų skydelis"
+
+#: admin/classes/uipress-app.php:1334
+msgid "Search Site"
+msgstr "Paieškos svetainė"
+
+#: admin/classes/uipress-app.php:1336
+msgid "Create New"
+msgstr "Sukurk naują"
+
+#: admin/classes/uipress-app.php:1338
+msgid "Updates"
+msgstr "Atnaujinimai"
+
+#: admin/classes/uipress-app.php:1339
+msgid "Preferences"
+msgstr "Parinktys"
+
+#: admin/classes/uipress-app.php:1340
+msgid "Dark mode"
+msgstr "Tamsus režimas"
+
+#: admin/classes/uipress-app.php:1341
+msgid "Show screen options toggle"
+msgstr "Rodyti ekrano parinkčių perjungiklį"
+
+#: admin/classes/uipress-app.php:1342
+msgid "Screen options"
+msgstr "Ekrano parinktys"
+
+#: admin/classes/uipress-app.php:1343
+msgid "Hide admin bar links (left)"
+msgstr "Slėpti administratoriaus juostos nuorodas (kairėje)"
+
+#: admin/classes/uipress-app.php:1344
+msgid "Logout"
+msgstr "Atsijungti"
+
+#: admin/classes/uipress-app.php:1345
+msgid "Notifications"
+msgstr "Pranešimai"
+
+#: admin/classes/uipress-app.php:1346
+msgid "Hide notification"
+msgstr "Slėpti pranešimą"
+
+#: admin/classes/uipress-app.php:1347
+msgid "hidden notifications"
+msgstr "paslėptus pranešimus"
+
+#: admin/classes/uipress-app.php:1348
+msgid "show all"
+msgstr "Rodyti viską"
+
+#: admin/classes/uipress-app.php:1349
+msgid "Notifiction Hidden"
+msgstr "Pranešimas paslėptas"
+
+#: admin/classes/uipress-app.php:1350
+msgid "Toggle Menu"
+msgstr "Perjungti meniu"
+
+#: admin/classes/uipress-app.php:1351
+msgid "Choose users or roles"
+msgstr "Pasirinkite vartotojus arba vaidmenis"
+
+#: admin/classes/uipress-app.php:1352
+msgid "Search users and roles"
+msgstr "Ieškoti vartotojų ir vaidmenų"
+
+#: admin/classes/uipress-app.php:1353
+msgid "Choose Image"
+msgstr "Pasirinkite paveikslėlį"
+
+#: admin/classes/uipress-app.php:1354
+msgid "Choose Post Types"
+msgstr "Pasirinkite pranešimų tipus"
+
+#: admin/classes/uipress-app.php:1355 admin/classes/uipress-app.php:1356
+msgid "Searach Post Types"
+msgstr "„Search“ pranešimų tipai"
+
+#: admin/classes/uipress-app.php:1360
+msgid "Default"
+msgstr "Numatytas"
+
+#: admin/classes/uipress-app.php:1361
+msgid "Add File"
+msgstr "Pridėti failą"
+
+#: admin/classes/uipress-app.php:1362
+msgid "URL to file"
+msgstr "URL į failą"
+
+#: admin/classes/uipress-app.php:1363
+msgid "Remove"
+msgstr "Pašalinti"
+
+#: admin/classes/uipress-app.php:1364
+msgid "All media"
+msgstr "Visos žiniasklaidos priemonės"
+
+#: admin/classes/uipress-app.php:1366
+msgid "No folder"
+msgstr "Nėra aplanko"
+
+#: admin/classes/uipress-app.php:1369
+msgid "Folder Name"
+msgstr "Aplanko pavadinimas"
+
+#: admin/classes/uipress-app.php:1370
+msgid "Colour"
+msgstr "Spalva"
+
+#: admin/classes/uipress-app.php:1374
+msgid "1 File"
+msgstr "1 Failas"
+
+#: admin/classes/uipress-app.php:1375
+msgid "files"
+msgstr "failus"
+
+#: admin/classes/uipress-app.php:1376
+msgid "You haven't created a folder yet"
+msgstr "Jūs dar nesukūrėte aplanko"
+
+#: admin/classes/uipress-app.php:1377
+msgid "Remove from folder"
+msgstr "Pašalinti iš aplanko"
+
+#: admin/classes/uipress-app.php:1378
+msgid ""
+"Upgrade to pro to unlock the notification center. View, edit and organise "
+"all your plugin and theme notifications in one place"
+msgstr ""
+"Naujovinkite į profesionalų, kad atrakintumėte pranešimų centrą. "
+"Peržiūrėkite, redaguokite ir tvarkykite visus savo papildinio ir temos "
+"pranešimus vienoje vietoje"
+
+#: admin/classes/uipress-app.php:1379
+msgid ""
+"Upgrade to pro to gain full control of search results and included post types"
+msgstr ""
+"Naujovinkite į profesionalų, kad galėtumėte visiškai valdyti paieškos "
+"rezultatus ir įtrauktų įrašų tipus"
+
+#: admin/classes/uipress-app.php:1382
+msgid "Styles Imported"
+msgstr "Importuoti stiliai"
+
+#: admin/classes/uipress-app.php:1383
+msgid "Settings Imported"
+msgstr "Nustatymai importuoti"
+
+#: admin/classes/uipress-app.php:1384
+msgid "Remove Licence"
+msgstr "Pašalinti licenciją"
+
+#: admin/classes/uipress-app.php:1385
+#, php-format
+msgid "%s Pro is active"
+msgstr "%s Pro aktyvus"
+
+#: admin/classes/uipress-app.php:1386
+#, php-format
+msgid "%s Pro"
+msgstr "%s Pro"
+
+#: admin/classes/uipress-app.php:1387
+msgid "Activate"
+msgstr "Suaktyvinti"
+
+#: admin/classes/uipress-app.php:1388
+msgid "Add a pro licence to unlock pro features."
+msgstr ""
+"Pridėkite profesionalų licenciją, kad atrakintumėte profesionalų funkcijas."
+
+#: admin/classes/uipress-app.php:1389
+msgid "Choose Icon"
+msgstr "Pasirinkite piktogramą"
+
+#: admin/classes/uipress-app.php:1390
+msgid "Are you sure you want to delete this?"
+msgstr "Ar tikrai norite tai ištrinti?"
+
+#: admin/classes/uipress-app.php:1391
+msgid "Import started"
+msgstr "Pradėtas importavimas"
+
+#: admin/classes/uipress-app.php:1392
+msgid "Are you sure you want to reset the settings?"
+msgstr "Ar tikrai norite iš naujo nustatyti nustatymus?"
+
+#: admin/classes/uipress-app.php:1393
+msgid "Last 7 Days"
+msgstr "Paskutinės 7 dienos"
+
+#: admin/classes/uipress-app.php:1394
+msgid "Last 30 Days"
+msgstr "Paskutines 30 dienų"
+
+#: admin/classes/uipress-app.php:1399
+msgid "selected"
+msgstr "pasirinkta"
+
+#: admin/classes/uipress-app.php:1400
+msgid "Theme Library"
+msgstr "Temų biblioteka"
+
+#: admin/classes/uipress-app.php:1401
+msgid "Library"
+msgstr "biblioteka"
+
+#: admin/classes/uipress-app.php:1402
+msgid "Import Theme"
+msgstr "Importuoti temą"
+
+#: admin/classes/uipress-app.php:1403
+msgid "Pro template"
+msgstr "Pro šablonas"
+
+#: admin/classes/uipress-app.php:1404
+msgid "Theme Imported"
+msgstr "Tema importuota"
+
+#: admin/classes/uipress-app.php:1405
+msgid "Made by"
+msgstr "Pagaminta"
+
+#: admin/classes/uipress-app.php:1407
+msgid "Failed to fetch folder content"
+msgstr "Nepavyko gauti aplanko turinio"
+
+#: admin/classes/uipress-app.php:1408
+msgid "user"
+msgstr "Vartotojas"
+
+#: admin/classes/uipress-app.php:1850
+msgid "Unkown Post Type"
+msgstr "Nežinomas įrašo tipas"
+
+#: admin/classes/uipress-app.php:1853
+msgid "Unkown"
+msgstr "Nežinomas"
+
+#: admin/classes/uipress-app.php:1991
+msgid "Core"
+msgstr "Šerdis"
+
+#: admin/classes/uipress-app.php:1997
+msgid "Themes"
+msgstr "Temos"
+
+#: admin/classes/uipress-app.php:2003
+msgid "Plugins"
+msgstr "Papildiniai"
+
+#: admin/classes/uipress-app.php:2527
+msgid "General options"
+msgstr "Bendrosios parinktys"
+
+#: admin/classes/uipress-app.php:2532
+msgid "Network Override"
+msgstr "Tinklo nepaisymas"
+
+#: admin/classes/uipress-app.php:2533
+msgid "If enabled, all settings applied here will be pushed to subsites."
+msgstr ""
+"Jei įjungta, visi čia taikomi nustatymai bus perkelti į antrines svetaines."
+
+#: admin/classes/uipress-app.php:2542
+msgid "Set Dark Mode as Default"
+msgstr "Nustatykite tamsųjį režimą kaip numatytąjį"
+
+#: admin/classes/uipress-app.php:2543
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr ""
+"Jei įjungta, naudotojams, kurie nenustatė nuostatos, tamsusis režimas bus "
+"nustatytas kaip tikras."
+
+#: admin/classes/uipress-app.php:2551
+msgid "Set Dark Mode according to prefers color scheme"
+msgstr "Nustatykite tamsų režimą pagal pageidaujamą spalvų schemą"
+
+#: admin/classes/uipress-app.php:2552
+msgid "UiPress will detetct the OS color scheme and update accordingly"
+msgstr "UiPress aptiks OS spalvų schemą ir atitinkamai atnaujins"
+
+#: admin/classes/uipress-app.php:2560
+msgid "Disable dark mode"
+msgstr "Išjungti tamsųjį režimą"
+
+#: admin/classes/uipress-app.php:2561
+msgid "If enabled, dark mode switch will not be available."
+msgstr "Jei įjungta, tamsaus režimo jungiklis nebus pasiekiamas."
+
+#: admin/classes/uipress-app.php:2569
+msgid "Set overview page as homepage"
+msgstr "Nustatyti apžvalgos puslapį kaip pagrindinį puslapį"
+
+#: admin/classes/uipress-app.php:2570
+msgid ""
+"If enabled, the overview page will be the homepage when logging in and when "
+"accessing the admin area."
+msgstr ""
+"Jei įjungta, peržiūros puslapis bus pagrindinis puslapis, kai prisijungiate "
+"ir pasiekiate administratoriaus sritį."
+
+#: admin/classes/uipress-app.php:2578
+msgid "Set custom page as homepage"
+msgstr "Nustatyti pasirinktinį puslapį kaip pagrindinį puslapį"
+
+#: admin/classes/uipress-app.php:2580
+msgid ""
+"If enabled, the page you choose will be the homepage when logging in and "
+"when accessing the admin area. For admin pages use a relative URL (path "
+"after /wp-admin/), for other pages use an absolute URL"
+msgstr ""
+"Jei įjungta, jūsų pasirinktas puslapis bus pagrindinis puslapis, kai "
+"prisijungiate ir pasiekiate administratoriaus sritį. Administratoriaus "
+"puslapiuose naudokite santykinį URL (kelią po /wp-admin/), kitiems "
+"puslapiams naudokite absoliutų URL"
+
+#: admin/classes/uipress-app.php:2590
+#, php-format
+msgid "Rename %s"
+msgstr "Pervardyti %s"
+
+#: admin/classes/uipress-app.php:2591
+#, php-format
+msgid "White label %s by changing the name displayed."
+msgstr "Balta etiketė %s pakeitus rodomą pavadinimą."
+
+#: admin/classes/uipress-app.php:2599
+#, php-format
+msgid "Rename %s plugin author"
+msgstr "Pervardyti %s papildinio autorių"
+
+#: admin/classes/uipress-app.php:2600
+#, php-format
+msgid "White label %s by changing the author in the plugin table."
+msgstr "Balta etiketė %s pakeitus autorių papildinių lentelėje."
+
+#: admin/classes/uipress-app.php:2608
+#, php-format
+msgid "Change %s plugin URL"
+msgstr "Keisti %s papildinio URL"
+
+#: admin/classes/uipress-app.php:2609
+#, php-format
+msgid "White label %s by changing the plugin URL in the plugin table."
+msgstr "Balta etiketė %s pakeitus papildinio URL įskiepių lentelėje."
+
+#: admin/classes/uipress-app.php:2617
+msgid "App Icon"
+msgstr "Programos piktograma"
+
+#: admin/classes/uipress-app.php:2618
+#, php-format
+msgid "Replace %s plugin icon with your own"
+msgstr "Pakeiskite %s papildinio piktogramą savo"
+
+#: admin/classes/uipress-app.php:2626
+msgid "Admin Favicon"
+msgstr "Admin Favicon"
+
+#: admin/classes/uipress-app.php:2627
+msgid "Add an image to be used as the site favicon for admin pages."
+msgstr ""
+"Pridėkite vaizdą, kuris bus naudojamas kaip administratoriaus puslapių "
+"svetainės favicon."
+
+#: admin/classes/uipress-app.php:2635
+#, php-format
+msgid "Hide %s from plugin table"
+msgstr "Slėpti %s iš papildinių lentelės"
+
+#: admin/classes/uipress-app.php:2636
+#, php-format
+msgid "If enabled, %s will be hidden from the plugin table"
+msgstr "Jei įjungta, %s bus paslėpta įskiepių lentelėje"
+
+#: admin/classes/uipress-app.php:2644
+msgid "Hide Footer"
+msgstr "Slėpti poraštę"
+
+#: admin/classes/uipress-app.php:2645
+msgid "Hide the footer text that shows at the bottom of every admin page"
+msgstr ""
+"Slėpti poraštės tekstą, kuris rodomas kiekvieno administratoriaus puslapio "
+"apačioje"
+
+#: admin/classes/uipress-app.php:2653
+msgid "Footer Text"
+msgstr "Poraštės tekstas"
+
+#: admin/classes/uipress-app.php:2654
+msgid "Text entered here will be present at the bottom of admin pages"
+msgstr "Čia įvestas tekstas bus pateiktas administratoriaus puslapių apačioje"
+
+#: admin/classes/uipress-app.php:2670 admin/classes/uipress-app.php:2675
+msgid "Creates new admin menu."
+msgstr "Sukuria naują administratoriaus meniu."
+
+#: admin/classes/uipress-app.php:2674
+msgid "Disable Admin Menu Module"
+msgstr "Išjungti administratoriaus meniu modulį"
+
+#: admin/classes/uipress-app.php:2682
+msgid "Menu Disabled for"
+msgstr "Meniu išjungtas"
+
+#: admin/classes/uipress-app.php:2683
+#, php-format
+msgid "%s menu will be disabled for any users or roles you select"
+msgstr ""
+"%s meniu bus išjungtas visiems jūsų pasirinktiems naudotojams ar vaidmenims"
+
+#: admin/classes/uipress-app.php:2691
+msgid "Logo Light Mode"
+msgstr "Logotipo šviesos režimas"
+
+#: admin/classes/uipress-app.php:2692
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "Nustato administratoriaus juostos logotipą šviesiu režimu."
+
+#: admin/classes/uipress-app.php:2699
+msgid "Logo Dark Mode"
+msgstr "Tamsus logotipo režimas"
+
+#: admin/classes/uipress-app.php:2700
+msgid "Optional dark mode logo for admin bar."
+msgstr "Pasirenkamas tamsaus režimo logotipas administratoriaus juostai."
+
+#: admin/classes/uipress-app.php:2707
+#, php-format
+msgid "Load %s Menu on front end"
+msgstr "Įkelti %s meniu priekinėje dalyje"
+
+#: admin/classes/uipress-app.php:2708
+#, php-format
+msgid ""
+"If enabled, %s menu will load on the front end. Please note, this will not "
+"work on all themes and styling will vary"
+msgstr ""
+"Jei įjungta, %s meniu bus įkeltas priekinėje dalyje. Atminkite, kad tai "
+"neveiks su visomis temomis, o stilius skirsis"
+
+#: admin/classes/uipress-app.php:2716
+#, php-format
+msgid "Only Load %s Menu on front end for"
+msgstr "Tik įkelti %s meniu priekinėje dalyje"
+
+#: admin/classes/uipress-app.php:2717
+msgid "Only load front end menu for selected roles and usernames"
+msgstr "Įkelti tik pasirinktų vaidmenų ir naudotojų vardų sąsajos meniu"
+
+#: admin/classes/uipress-app.php:2725
+msgid "Collapsed Menu Logo Light Mode"
+msgstr "Sutraukto meniu logotipo šviesos režimas"
+
+#: admin/classes/uipress-app.php:2726
+msgid "Optional logo for when the menu is collapsed."
+msgstr "Pasirenkamas logotipas, skirtas, kai meniu sutrauktas."
+
+#: admin/classes/uipress-app.php:2733
+msgid "Collapsed Menu Logo Dark Mode"
+msgstr "Sutraukto meniu logotipo tamsusis režimas"
+
+#: admin/classes/uipress-app.php:2734
+msgid "Optional dark nmode logo for when the menu is collapsed."
+msgstr "Pasirenkamas tamsus nmode logotipas, kai meniu sutrauktas."
+
+#: admin/classes/uipress-app.php:2741
+msgid "Show site title in menu"
+msgstr "Rodyti svetainės pavadinimą meniu"
+
+#: admin/classes/uipress-app.php:2742
+msgid ""
+"If enabled, the site title will be displayed in the menu next to the logo"
+msgstr "Jei įjungta, svetainės pavadinimas bus rodomas meniu šalia logotipo"
+
+#: admin/classes/uipress-app.php:2749 admin/classes/uipress-app.php:2811
+msgid "Disable Search"
+msgstr "Išjungti paiešką"
+
+#: admin/classes/uipress-app.php:2750
+msgid "Disables admin menu search."
+msgstr "Išjungiama administratoriaus meniu paieška."
+
+#: admin/classes/uipress-app.php:2757
+msgid "Set collapsed menu as default"
+msgstr "Nustatyti sutrauktą meniu kaip numatytąjį"
+
+#: admin/classes/uipress-app.php:2758
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"Jei įjungta, meniu bus numatytasis sutrauktas meniu naudotojams, kurie "
+"nenustatė nuostatos."
+
+#: admin/classes/uipress-app.php:2774
+msgid "Creates new admin toolbar."
+msgstr "Sukuria naują administratoriaus įrankių juostą."
+
+#: admin/classes/uipress-app.php:2778
+msgid "Disable ToolBar Module?"
+msgstr "Išjungti įrankių juostos modulį?"
+
+#: admin/classes/uipress-app.php:2779
+msgid ""
+"Creates new admin bar, adds user off canvas menu, builds global search and "
+"notification center."
+msgstr ""
+"Sukuria naują administratoriaus juostą, prideda naudotoją prie drobės meniu, "
+"sukuria pasaulinę paiešką ir pranešimų centrą."
+
+#: admin/classes/uipress-app.php:2786
+msgid "Admin Bar Disabled For"
+msgstr "Administratoriaus juosta išjungta"
+
+#: admin/classes/uipress-app.php:2787
+#, php-format
+msgid "%s toolbar module will be disabled for any users or roles you select"
+msgstr ""
+"%s įrankių juostos modulis bus išjungtas visiems jūsų pasirinktiems "
+"naudotojams ar vaidmenims"
+
+#: admin/classes/uipress-app.php:2795
+msgid "Hide admin bar links (left side)"
+msgstr "Slėpti administratoriaus juostos nuorodas (kairėje pusėje)"
+
+#: admin/classes/uipress-app.php:2796
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"Visiems vartotojams išjungiamos senos nuorodos kairėje administratoriaus "
+"juostos pusėje. Taip pat paslepia vartotojo nuostatas."
+
+#: admin/classes/uipress-app.php:2803
+msgid "Enable floating flyout toolbar"
+msgstr "Įgalinti plūduriuojančią įrankių juostą"
+
+#: admin/classes/uipress-app.php:2804
+msgid "Changes the toolbar to a floating flyout toolbar"
+msgstr "Pakeičia įrankių juostą į slankią išskrendančią įrankių juostą"
+
+#: admin/classes/uipress-app.php:2812
+msgid "Disables search icon and global search function from admin bar."
+msgstr ""
+"Išjungia paieškos piktogramą ir visuotinės paieškos funkciją iš "
+"administratoriaus juostos."
+
+#: admin/classes/uipress-app.php:2819
+msgid "Disable Create Button"
+msgstr "Išjungti kūrimo mygtuką"
+
+#: admin/classes/uipress-app.php:2820
+msgid "Disables the 'create' button in the admin bar."
+msgstr "Išjungiamas mygtukas „sukurti“ administratoriaus juostoje."
+
+#: admin/classes/uipress-app.php:2827
+msgid "Open View Website in new tab"
+msgstr "Atidarykite Peržiūrėti svetainę naujame skirtuke"
+
+#: admin/classes/uipress-app.php:2828
+msgid ""
+"When enabled, clicking on view website or the home button will open in a new "
+"browser tab"
+msgstr ""
+"Kai įjungta, spustelėjus peržiūrėti svetainę arba pagrindinio puslapio "
+"mygtuką atsidarys naujame naršyklės skirtuke"
+
+#: admin/classes/uipress-app.php:2835
+msgid "Disable View Website Button"
+msgstr "Išjungti mygtuką Rodyti svetainę"
+
+#: admin/classes/uipress-app.php:2836
+msgid "Disables the view website link button in the admin bar."
+msgstr ""
+"Išjungiamas svetainės nuorodos peržiūros mygtukas administratoriaus juostoje."
+
+#: admin/classes/uipress-app.php:2843
+#, php-format
+msgid "Load %s admin bar on front end"
+msgstr "Įkelti %s administratoriaus juostą priekinėje dalyje"
+
+#: admin/classes/uipress-app.php:2844
+#, php-format
+msgid ""
+"If enabled, %s toolbar will load on the front end. Please note, this will "
+"not work on all themes and styling will vary"
+msgstr ""
+"Jei įjungta, %s įrankių juosta bus įkelta priekinėje dalyje. Atminkite, kad "
+"tai neveiks su visomis temomis, o stilius skirsis"
+
+#: admin/classes/uipress-app.php:2852
+msgid "Hide admin bar on front end"
+msgstr "Slėpti administratoriaus juostą priekinėje dalyje"
+
+#: admin/classes/uipress-app.php:2853
+msgid "If enabled, front end admin bar will not load."
+msgstr "Jei įjungta, priekinės dalies administratoriaus juosta nebus įkelta."
+
+#: admin/classes/uipress-app.php:2861
+msgid "Disable Notification Center"
+msgstr "Išjungti pranešimų centrą"
+
+#: admin/classes/uipress-app.php:2862
+msgid "If disabled, notifcations will show in the normal way"
+msgstr "Jei išjungta, pranešimai bus rodomi įprastu būdu"
+
+#: admin/classes/uipress-app.php:2870
+msgid "Post Types available in Search"
+msgstr "Paieškoje galimi įrašų tipai"
+
+#: admin/classes/uipress-app.php:2871
+msgid "The global search will only search the selected post types."
+msgstr "Visuotinėje paieškoje bus ieškoma tik pasirinktų įrašų tipų."
+
+#: admin/classes/uipress-app.php:2879
+msgid "Post Types available in create button (new)"
+msgstr "Įrašų tipai galimi kūrimo mygtuku (naujas)"
+
+#: admin/classes/uipress-app.php:2880
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr "Išskleidžiamajame meniu bus rodomi tik pasirinkti įrašų tipai."
+
+#: admin/classes/uipress-app.php:2888
+msgid "Only show notifications to"
+msgstr "Rodyti tik pranešimus"
+
+#: admin/classes/uipress-app.php:2889
+#, php-format
+msgid ""
+"%s will hide all notifications from all users except those selected below"
+msgstr ""
+"%s paslėps visus pranešimus nuo visų vartotojų, išskyrus pasirinktus toliau"
+
+#: admin/classes/uipress-app.php:2897
+msgid "Only show updates to"
+msgstr "Rodyti tik atnaujinimus"
+
+#: admin/classes/uipress-app.php:2898
+#, php-format
+msgid "%s will hide all updates from all users except those selected below"
+msgstr ""
+"%s paslėps visus atnaujinimus nuo visų vartotojų, išskyrus pasirinktus toliau"
+
+#: admin/classes/uipress-app.php:2914
+msgid "Theme"
+msgstr "tema"
+
+#: admin/classes/uipress-app.php:2915 admin/classes/uipress-app.php:2945
+#: admin/classes/uipress-app.php:3000
+msgid "Styles page content."
+msgstr "Stilių puslapio turinys."
+
+#: admin/classes/uipress-app.php:2919
+msgid "Disable Admin Theme Module"
+msgstr "Išjungti administratoriaus temos modulį"
+
+#: admin/classes/uipress-app.php:2920
+msgid "When the theme is disabled, pages will be styles in the original way."
+msgstr "Kai tema išjungta, puslapių stiliai bus originalūs."
+
+#: admin/classes/uipress-app.php:2927
+msgid "Theme Disabled for"
+msgstr "Tema išjungta"
+
+#: admin/classes/uipress-app.php:2928
+msgid ""
+"When the theme is disabled, pages will be styles in the original way for "
+"selected users or roles."
+msgstr ""
+"Kai tema išjungta, puslapiai bus originalūs pasirinktų vartotojų ar vaidmenų "
+"stiliai."
+
+#: admin/classes/uipress-app.php:2949
+msgid "Disable Login Module"
+msgstr "Išjungti prisijungimo modulį"
+
+#: admin/classes/uipress-app.php:2950
+msgid ""
+"When the login module is disabled, the login page will be displayed in the "
+"original way."
+msgstr ""
+"Kai prisijungimo modulis išjungtas, prisijungimo puslapis bus rodomas "
+"originaliu būdu."
+
+#: admin/classes/uipress-app.php:2958
+msgid "Dark Mode"
+msgstr "Tamsusis režimas"
+
+#: admin/classes/uipress-app.php:2959
+msgid "Puts the login page in dark mode for all users."
+msgstr "Visiems vartotojams įjungia prisijungimo puslapį į tamsųjį režimą."
+
+#: admin/classes/uipress-app.php:2966
+msgid "Disable Language Selector"
+msgstr "Išjungti kalbos parinkiklį"
+
+#: admin/classes/uipress-app.php:2967
+msgid "Removes the language selector added to the login page"
+msgstr "Pašalina kalbos parinkiklį, pridėtą prie prisijungimo puslapio"
+
+#: admin/classes/uipress-app.php:2974
+msgid "Login Logo"
+msgstr "Prisijungimo logotipas"
+
+#: admin/classes/uipress-app.php:2975
+msgid "Sets the logo for the login page"
+msgstr "Nustato prisijungimo puslapio logotipą"
+
+#: admin/classes/uipress-app.php:2982
+msgid "Login Background"
+msgstr "Prisijungimo fonas"
+
+#: admin/classes/uipress-app.php:2983
+msgid "Sets an optional background image on the login page."
+msgstr "Nustato pasirenkamą fono vaizdą prisijungimo puslapyje."
+
+#: admin/classes/uipress-app.php:2999
+msgid "Advanced"
+msgstr "Išplėstinė"
+
+#: admin/classes/uipress-app.php:3004
+msgid "Advanced Disabled For"
+msgstr "Išplėstinė neįgaliesiems skirta"
+
+#: admin/classes/uipress-app.php:3005
+msgid "Code added here will not load for any users or roles you select"
+msgstr ""
+"Čia pridėtas kodas nebus įkeltas jokiems jūsų pasirinktiems naudotojams ar "
+"vaidmenims"
+
+#: admin/classes/uipress-app.php:3013
+msgid "Enqueue scripts"
+msgstr "Eilės scenarijai"
+
+#: admin/classes/uipress-app.php:3014
+msgid "Add scripts to the head of every admin page and login page"
+msgstr ""
+"Pridėkite scenarijus prie kiekvieno administratoriaus puslapio ir "
+"prisijungimo puslapio galvos"
+
+#: admin/classes/uipress-app.php:3022
+msgid "Enqueue styles"
+msgstr "Eilių stiliai"
+
+#: admin/classes/uipress-app.php:3023
+msgid "Add stylesheets to the head of every admin page and login page"
+msgstr ""
+"Pridėkite stiliaus lapus prie kiekvieno administratoriaus puslapio ir "
+"prisijungimo puslapio antraštės"
+
+#: admin/classes/uipress-app.php:3031
+msgid "Admin CSS"
+msgstr "Administratoriaus CSS"
+
+#: admin/classes/uipress-app.php:3032
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr ""
+"Čia pridėtas CSS bus įkeltas kiekviename administratoriaus puslapyje ir "
+"prisijungimo puslapyje"
+
+#: admin/classes/uipress-app.php:3041
+msgid "Admin JavaScript"
+msgstr "Admin JavaScript"
+
+#: admin/classes/uipress-app.php:3042
+msgid ""
+"JavaScript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr ""
+"Čia pridėtas JavaScript bus įkeltas kiekviename administratoriaus puslapyje "
+"ir prisijungimo puslapyje"
+
+#: admin/classes/uipress-app.php:3051
+msgid "HTML for document head"
+msgstr "HTML dokumento galvutei"
+
+#: admin/classes/uipress-app.php:3052
+msgid ""
+"Add HTML here to be added to every admin page and login page head section"
+msgstr ""
+"Pridėkite HTML čia, kad būtų pridėta prie kiekvieno administratoriaus "
+"puslapio ir prisijungimo puslapio antraštės"
+
+#: admin/classes/uipress-app.php:3061
+msgid "Safe Mode Key"
+msgstr "Safe Mode klavišas"
+
+#: admin/classes/uipress-app.php:3063
+msgid ""
+"Add a private key to allow you to disable uipress on specific pages with "
+"query paramaters. For example, add '?no_uip=your_key' to a URL and it wil "
+"stop uipress from loading on that page."
+msgstr ""
+"Pridėkite privatų raktą, kad galėtumėte išjungti uipress konkrečiuose "
+"puslapiuose su užklausos parametrais. Pavyzdžiui, prie URL pridėkite „?"
+"no_uip=your_key“ ir tame puslapyje uipress nebebus įkeliamas."
+
+#: admin/classes/update.php:66
+msgid "Welcome to UiPress version "
+msgstr "Sveiki atvykę į UiPress versiją"
+
+#: admin/classes/update.php:69 admin/classes/update.php:101
+msgid ""
+"Would you like to automatically import settings from your older version of "
+"uipress?"
+msgstr ""
+"Ar norėtumėte automatiškai importuoti nustatymus iš senesnės uipress "
+"versijos?"
+
+#: admin/classes/update.php:71
+msgid "Don't show again"
+msgstr "Daugiau nerodyti"
+
+#: admin/classes/update.php:72 admin/classes/update.php:103
+msgid "Import settings"
+msgstr "Importuoti nustatymus"
+
+#: admin/classes/update.php:115
+msgid "Check for updates"
+msgstr "Tikrinti, ar yra atnaujinimų"
+
+#: admin/classes/update.php:141
+msgid "Unable to contact update server"
+msgstr "Nepavyko susisiekti su naujinimo serveriu"
+
+#: admin/classes/update.php:156
+msgid "Update available"
+msgstr "Galimas atnaujinimas"
+
+#: admin/classes/update.php:162
+msgid "No Updates available"
+msgstr "Nėra jokių atnaujinimų"
+
+#: admin/classes/update.php:180
+msgid "Message dismissed"
+msgstr "Pranešimas atmestas"
+
+#: admin/classes/update.php:204
+msgid "No settings to import"
+msgstr "Nėra importuotinų nustatymų"
+
+#: admin/classes/update.php:350
+msgid "Settings imported"
+msgstr "Nustatymai importuoti"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress"
+msgstr "UiPress"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress admin extension with a streamlined dashboard, Google "
+"Analytics & WooCommerce Integration, intuitive media library, dark mode and "
+"much more."
+msgstr ""
+"Galingas „WordPress“ administratoriaus plėtinys su supaprastintu prietaisų "
+"skydeliu, „Google Analytics“ ir „WooCommerce“ integracija, intuityvia "
+"medijos biblioteka, tamsiuoju režimu ir dar daugiau."
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "Administratorius 2020 m"

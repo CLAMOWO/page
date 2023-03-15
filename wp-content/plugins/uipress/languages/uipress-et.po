@@ -1,0 +1,4781 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress\n"
+"POT-Creation-Date: 2022-06-12 12:06+0200\n"
+"PO-Revision-Date: 2022-06-22 20:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: Estonian\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Team: Rubyvio https://rubyvio.com"
+"X-Poedit-Basepath: ..\n"
+"X-Translate-Version: beta; wp-6.0"
+"X-Human revision: none;
+
+#: admin/apps/admin-pages/admin-pages.php:110
+#: admin/apps/menu-creator/menu-creator.php:1304
+msgid "Apply to subsites"
+msgstr "Rakenda alamsaitidele"
+
+#: admin/apps/admin-pages/admin-pages.php:121
+msgid "Menu Icon"
+msgstr "Menüü ikoon"
+
+#: admin/apps/admin-pages/admin-pages.php:131
+msgid "Manually add to menu?"
+msgstr "Kas lisada menüüsse käsitsi?"
+
+#: admin/apps/admin-pages/admin-pages.php:250
+msgid "Admin Pages - Beta"
+msgstr "Administraatori lehed – beeta"
+
+#: admin/apps/admin-pages/admin-pages.php:251
+msgid "Creates custom admin pages."
+msgstr "Loob kohandatud administraatori lehti."
+
+#: admin/apps/admin-pages/admin-pages.php:255
+msgid "Disable custom admin pages?"
+msgstr "Kas keelata kohandatud administraatori lehed?"
+
+#: admin/apps/admin-pages/admin-pages.php:256
+msgid "If disabled, the admin pages will not be available to any users."
+msgstr ""
+"Kui see on keelatud, pole administraatori lehed ühelegi kasutajale saadaval."
+
+#: admin/apps/admin-pages/admin-pages.php:263
+msgid "Admin Page Slug"
+msgstr "Admin Page Slug"
+
+#: admin/apps/admin-pages/admin-pages.php:264
+msgid ""
+"This defaults to admin-pages. Changes to this will need you to resave "
+"permalink structure."
+msgstr ""
+"See vaikimisi on administraatori lehed. Selle muutmiseks peate püsilingi "
+"struktuuri uuesti salvestama."
+
+#: admin/apps/admin-pages/admin-pages.php:271
+msgid "Who can edit and create admin pages?"
+msgstr "Kes saavad administraatorilehti redigeerida ja luua?"
+
+#: admin/apps/admin-pages/admin-pages.php:272
+msgid ""
+"Editing and creation of admin pages will be disabled for the users or roles "
+"you select"
+msgstr ""
+"Administraatori lehtede redigeerimine ja loomine keelatakse teie valitud "
+"kasutajate või rollide jaoks"
+
+#: admin/apps/admin-pages/admin-pages.php:280
+msgid "Who can see admin pages?"
+msgstr "Kes näevad administraatori lehti?"
+
+#: admin/apps/admin-pages/admin-pages.php:281
+msgid "UiPress will only show admin pages for the users or roles you select"
+msgstr ""
+"UiPress näitab ainult teie valitud kasutajate või rollide administraatori "
+"lehti"
+
+#: admin/apps/admin-pages/admin-pages.php:320
+msgctxt "post type general name"
+msgid "Admin Page"
+msgstr "Administraatori leht"
+
+#: admin/apps/admin-pages/admin-pages.php:321
+msgctxt "post type singular name"
+msgid "Admin Page"
+msgstr "Administraatori leht"
+
+#: admin/apps/admin-pages/admin-pages.php:322
+msgctxt "admin menu"
+msgid "Admin Pages"
+msgstr "Administraatori lehed"
+
+#: admin/apps/admin-pages/admin-pages.php:323
+msgctxt "add new on admin bar"
+msgid "Admin Page"
+msgstr "Administraatori leht"
+
+#: admin/apps/admin-pages/admin-pages.php:324
+msgctxt "Admin Page"
+msgid "Add New"
+msgstr "Lisa uus"
+
+#: admin/apps/admin-pages/admin-pages.php:325
+msgid "Add New Admin Page"
+msgstr "Lisa uus administraatori leht"
+
+#: admin/apps/admin-pages/admin-pages.php:326
+msgid "New Admin Page"
+msgstr "Uus administraatori leht"
+
+#: admin/apps/admin-pages/admin-pages.php:327
+msgid "Edit Admin Page"
+msgstr "Redigeeri administraatori lehte"
+
+#: admin/apps/admin-pages/admin-pages.php:328
+msgid "View Admin Page"
+msgstr "Kuva administraatori leht"
+
+#: admin/apps/admin-pages/admin-pages.php:329
+msgid "All Admin Pages"
+msgstr "Kõik administraatori lehed"
+
+#: admin/apps/admin-pages/admin-pages.php:330
+msgid "Search Admin Pages"
+msgstr "Otsige administraatori lehtedelt"
+
+#: admin/apps/admin-pages/admin-pages.php:331
+msgid "No Admin Pages found."
+msgstr "Ühtegi administraatorilehte ei leitud."
+
+#: admin/apps/admin-pages/admin-pages.php:332
+msgid "No Admin Pages found in Trash."
+msgstr "Prügikastist ei leitud ühtegi administraatorilehte."
+
+#: admin/apps/admin-pages/admin-pages.php:336
+#: admin/apps/menu-creator/menu-creator.php:667
+#: admin/apps/users/uip-history.php:161
+msgid "Description."
+msgstr "Kirjeldus."
+
+#: admin/apps/content/content.php:96
+msgid "Content Page"
+msgstr "Sisuleht"
+
+#: admin/apps/content/content.php:97
+msgid "Creates content page"
+msgstr "Loob sisulehe"
+
+#: admin/apps/content/content.php:101
+msgid "Disable Content Page?"
+msgstr "Kas keelata sisuleht?"
+
+#: admin/apps/content/content.php:102
+msgid "If disabled, the content page will not be available to any users."
+msgstr "Kui see on keelatud, pole sisuleht ühelegi kasutajale saadaval."
+
+#: admin/apps/content/content.php:109
+msgid "Content Page Disabled for"
+msgstr "Sisuleht on keelatud"
+
+#: admin/apps/content/content.php:110
+msgid ""
+"When the content page module is disabled, the content page will not be "
+"accesible for the users / roles"
+msgstr ""
+"Kui sisulehe moodul on keelatud, ei ole sisuleht kasutajatele/rollidele "
+"ligipääsetav"
+
+#: admin/apps/content/content.php:118
+msgid "Post types available in content page"
+msgstr "Sisulehel on saadaval postituste tüübid"
+
+#: admin/apps/content/content.php:119
+msgid "Only the selected post types will be available in the content page."
+msgstr "Sisulehel on saadaval ainult valitud postituse tüübid."
+
+#: admin/apps/content/content.php:127
+msgid "Enable private library mode"
+msgstr "Luba privaatteegi režiim"
+
+#: admin/apps/content/content.php:128
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This also includes folders"
+msgstr ""
+"Kui see on lubatud, kuvatakse sisulehel ainult sisu, mille on loonud või "
+"mille on üles laadinud praegu sisse logitud kasutaja. See hõlmab ka kaustu"
+
+#: admin/apps/content/content.php:184
+msgid "Original Title / Value"
+msgstr "Algne pealkiri / väärtus"
+
+#: admin/apps/content/content.php:188 admin/classes/styles.php:693
+msgid "Text"
+msgstr "Tekst"
+
+#: admin/apps/content/content.php:192 admin/apps/content/content.php:2033
+msgid "Date Created"
+msgstr "Loomise kuupäev"
+
+#: admin/apps/content/content.php:196
+msgid "File Extension (attachments only)"
+msgstr "Faililaiend (ainult manused)"
+
+#: admin/apps/content/content.php:200
+msgid "Sequence Number"
+msgstr "Järjestuse number"
+
+#: admin/apps/content/content.php:204
+msgid "Meta Value"
+msgstr "Meta väärtus"
+
+#: admin/apps/content/content.php:208
+msgid "Find and Replace"
+msgstr "Otsige ja asendage"
+
+#: admin/apps/content/content.php:266 admin/classes/uipress-app.php:1731
+#: admin/classes/uipress-app.php:2073
+msgid "No preferences supplied to save"
+msgstr "Salvestamiseks eelistusi ei esitata"
+
+#: admin/apps/content/content.php:288 admin/classes/uipress-app.php:1742
+#: admin/classes/uipress-app.php:2095
+msgid "Preferences saved"
+msgstr "Eelistused salvestatud"
+
+#: admin/apps/content/content.php:291 admin/classes/uipress-app.php:1746
+#: admin/classes/uipress-app.php:2098
+msgid "Unable to save user preferences"
+msgstr "Kasutaja eelistusi ei saa salvestada"
+
+#: admin/apps/content/content.php:320 admin/apps/content/content.php:328
+#: admin/apps/content/content.php:957
+msgid "Unable to save attachment"
+msgstr "Manust ei saa salvestada"
+
+#: admin/apps/content/content.php:337
+msgid "Image Saved"
+msgstr "Pilt salvestatud"
+
+#: admin/apps/content/content.php:370
+msgid "Failed to upload file"
+msgstr "Faili üleslaadimine ebaõnnestus"
+
+#: admin/apps/content/content.php:400
+msgid "Items uploaded"
+msgstr "Üksused üles laaditud"
+
+#: admin/apps/content/content.php:423
+msgid "Views updated"
+msgstr "Vaateid värskendati"
+
+#: admin/apps/content/content.php:455 admin/apps/content/content.php:517
+#: admin/apps/content/content.php:579 admin/apps/content/content.php:769
+#: admin/apps/menu-creator/menu-creator.php:752
+#: admin/apps/menu-creator/menu-creator.php:777
+#: admin/apps/menu-creator/menu-creator.php:814
+#: admin/apps/menu-creator/menu-creator.php:867
+#: admin/apps/menu-creator/menu-creator.php:936
+#: admin/apps/users/uip-user-groups.php:309 admin/classes/folders.php:528
+#: admin/classes/settings.php:308 admin/classes/uipress-app.php:1357
+msgid "Something went wrong"
+msgstr "Midagi läks valesti"
+
+#: admin/apps/content/content.php:460
+msgid "Items duplicated successfully"
+msgstr "Üksuste dubleerimine õnnestus"
+
+#: admin/apps/content/content.php:463
+msgid "Itms couldn't be duplicated"
+msgstr "Üksusi ei saanud dubleerida"
+
+#: admin/apps/content/content.php:501 admin/apps/content/content.php:543
+msgid "No Meta Key provided"
+msgstr "Metavõtit ei pakuta"
+
+#: admin/apps/content/content.php:583
+msgid "Attributes Updated"
+msgstr "Atribuudid uuendatud"
+
+#: admin/apps/content/content.php:774
+msgid "Items deleted successfully"
+msgstr "Üksuste kustutamine õnnestus"
+
+#: admin/apps/content/content.php:777
+msgid "Itms couldn't be deleted"
+msgstr "Üksusi ei saanud kustutada"
+
+#: admin/apps/content/content.php:799 admin/classes/folders.php:452
+#: admin/classes/folders.php:484
+msgid "No content to move"
+msgstr "Pole sisu, mida teisaldada"
+
+#: admin/apps/content/content.php:812 admin/classes/folders.php:466
+#: admin/classes/folders.php:497
+msgid "Content moved"
+msgstr "Sisu teisaldatud"
+
+#: admin/apps/content/content.php:938
+msgid "Unable to update item"
+msgstr "Üksust ei saa värskendada"
+
+#: admin/apps/content/content.php:968
+msgid "Item updated"
+msgstr "Üksust värskendati"
+
+#: admin/apps/content/content.php:1007
+msgid "Items updated"
+msgstr "Üksused värskendatud"
+
+#: admin/apps/content/content.php:1319 admin/apps/content/content.php:1611
+msgid "Content"
+msgstr "Sisu"
+
+#: admin/apps/content/content.php:1362
+#: admin/apps/menu-creator/menu-creator.php:1096
+#: admin/classes/uipress-app.php:1325
+msgid "Pro Feature"
+msgstr "Pro funktsioon"
+
+#: admin/apps/content/content.php:1365
+msgid "Upgrade to UiPress Pro to unlock the content page and content folders"
+msgstr "Sisulehe ja sisukaustade avamiseks minge üle versioonile UiPress Pro"
+
+#: admin/apps/content/content.php:1367
+#: admin/apps/menu-creator/menu-creator.php:1101
+msgid "See UiPress Pro Plans"
+msgstr "Vaadake UiPress Pro plaane"
+
+#: admin/apps/content/content.php:1411
+msgid "Update Tags and Categories"
+msgstr "Värskendage silte ja kategooriaid"
+
+#: admin/apps/content/content.php:1418 admin/apps/content/content.php:1831
+#: admin/apps/content/content.php:1836 admin/apps/content/content.php:2068
+#: admin/apps/content/content.php:2071
+msgid "Categories"
+msgstr "Kategooriad"
+
+#: admin/apps/content/content.php:1419 admin/apps/content/content.php:1837
+#: admin/apps/content/content.php:2072
+msgid "Search categories..."
+msgstr "Otsi kategooriaid..."
+
+#: admin/apps/content/content.php:1424
+msgid "Keep existing categories"
+msgstr "Säilitage olemasolevad kategooriad"
+
+#: admin/apps/content/content.php:1433 admin/apps/content/content.php:1843
+#: admin/apps/content/content.php:1847 admin/apps/content/content.php:2080
+#: admin/apps/content/content.php:2083
+msgid "Tags"
+msgstr "Sildid"
+
+#: admin/apps/content/content.php:1434 admin/apps/content/content.php:1848
+#: admin/apps/content/content.php:2084
+msgid "Search tags..."
+msgstr "Otsi silte..."
+
+#: admin/apps/content/content.php:1439
+msgid "Keep existing tags"
+msgstr "Hoidke olemasolevad sildid alles"
+
+#: admin/apps/content/content.php:1448 admin/apps/content/content.php:1686
+#: admin/classes/uipress-app.php:1373
+msgid "Update"
+msgstr "Värskenda"
+
+#: admin/apps/content/content.php:1465 admin/apps/content/content.php:2567
+msgid "Batch Rename"
+msgstr "Partii ümbernimetamine"
+
+#: admin/apps/content/content.php:1473
+msgid "Attribute to rename"
+msgstr "Atribuut ümbernimetamiseks"
+
+#: admin/apps/content/content.php:1480 admin/apps/content/content.php:2323
+#: admin/apps/menu-creator/menu-creator.php:1151
+#: admin/apps/menu-creator/menu-creator.php:1651
+#: admin/apps/menu-creator/menu-creator.php:1652
+#: admin/apps/users/uip-users.php:311 admin/apps/users/uip-users.php:389
+#: admin/apps/users/uip-users.php:1213 admin/classes/uipress-app.php:1371
+msgid "Name"
+msgstr "Nimi"
+
+#: admin/apps/content/content.php:1481
+msgid "Meta Key"
+msgstr "Meta võti"
+
+#: admin/apps/content/content.php:1482
+msgid "Alt Tag (Attachments only)"
+msgstr "Alt Tag (ainult manused)"
+
+#: admin/apps/content/content.php:1487
+msgid "Meta Key Name"
+msgstr "Meta võtme nimi"
+
+#: admin/apps/content/content.php:1498
+msgid "Filename Structure"
+msgstr "Failinime struktuur"
+
+#: admin/apps/content/content.php:1506
+msgid "Rename Item"
+msgstr "Nimeta üksus ümber"
+
+#: admin/apps/content/content.php:1514 admin/apps/overview/overview.php:812
+msgid "Add"
+msgstr "Lisama"
+
+#: admin/apps/content/content.php:1540
+msgid "New Text"
+msgstr "Uus tekst"
+
+#: admin/apps/content/content.php:1542
+msgid "Date Format"
+msgstr "Kuupäevavorming"
+
+#: admin/apps/content/content.php:1544
+msgid "Start Number"
+msgstr "Stardinumber"
+
+#: admin/apps/content/content.php:1546
+msgid "Meta key Name"
+msgstr "Metavõti Nimi"
+
+#: admin/apps/content/content.php:1548
+msgid "Find"
+msgstr "Otsi"
+
+#: admin/apps/content/content.php:1552
+msgid "Replace"
+msgstr "Asenda"
+
+#: admin/apps/content/content.php:1576 admin/apps/content/content.php:1593
+#: admin/apps/menu-creator/menu-creator.php:1464
+msgid "Preview"
+msgstr "Eelvaade"
+
+#: admin/apps/content/content.php:1579
+msgid "Current"
+msgstr "Praegune"
+
+#: admin/apps/content/content.php:1580
+#: admin/apps/menu-creator/menu-creator.php:1136
+msgid "New"
+msgstr "Uus"
+
+#: admin/apps/content/content.php:1594
+msgid "Rename"
+msgstr "Nimeta ümber"
+
+#: admin/apps/content/content.php:1618 admin/classes/uipress-app.php:1365
+msgid "All Content"
+msgstr "Kogu sisu"
+
+#: admin/apps/content/content.php:1679
+#: admin/apps/menu-creator/menu-creator.php:1225
+#: admin/apps/users/uip-users.php:541
+msgid "Delete"
+msgstr "Kustuta"
+
+#: admin/apps/content/content.php:1684
+msgid "Edit Image"
+msgstr "Redigeeri pilti"
+
+#: admin/apps/content/content.php:1715 admin/apps/users/uip-users.php:309
+msgid "Details"
+msgstr "Üksikasjad"
+
+#: admin/apps/content/content.php:1771 admin/apps/content/content.php:1772
+#: admin/apps/overview/overview.php:715
+msgid "Title"
+msgstr "Pealkiri"
+
+#: admin/apps/content/content.php:1778
+msgid "Alt Text"
+msgstr "Alternatiivne tekst"
+
+#: admin/apps/content/content.php:1779
+msgid "Alt"
+msgstr "Alt"
+
+#: admin/apps/content/content.php:1783 admin/apps/content/content.php:1784
+msgid "Caption"
+msgstr "Pealkiri"
+
+#: admin/apps/content/content.php:1788 admin/apps/content/content.php:1789
+#: admin/apps/users/uip-users.php:1353
+msgid "Description"
+msgstr "Kirjeldus"
+
+#: admin/apps/content/content.php:1799
+msgid "Meta Data"
+msgstr "Metaandmed"
+
+#: admin/apps/content/content.php:1819 admin/apps/content/content.php:1824
+#: admin/apps/content/content.php:2339
+#: admin/apps/menu-creator/menu-creator.php:1155
+#: admin/apps/menu-creator/menu-creator.php:1294
+#: admin/classes/uipress-app.php:1151
+msgid "Status"
+msgstr "Olek"
+
+#: admin/apps/content/content.php:1825
+msgid "Search status..."
+msgstr "Otsingu olek..."
+
+#: admin/apps/content/content.php:1927
+msgid "Filters"
+msgstr "Filtrid"
+
+#: admin/apps/content/content.php:1932
+msgid "Upload"
+msgstr "Laadi üles"
+
+#: admin/apps/content/content.php:1954
+msgid "Items Per Page"
+msgstr "Üksusi lehel"
+
+#: admin/apps/content/content.php:1964
+msgid "Columns"
+msgstr "Veerud"
+
+#: admin/apps/content/content.php:1976
+msgid "Search..."
+msgstr "Otsing..."
+
+#: admin/apps/content/content.php:1984
+msgid "of"
+msgstr "kohta"
+
+#: admin/apps/content/content.php:1987
+msgid "items"
+msgstr "esemed"
+
+#: admin/apps/content/content.php:2011 admin/apps/content/content.php:2014
+msgid "Post Types"
+msgstr "Postituste tüübid"
+
+#: admin/apps/content/content.php:2015
+msgid "Search Post Types..."
+msgstr "Otsi postituste tüüpe..."
+
+#: admin/apps/content/content.php:2022 admin/apps/content/content.php:2025
+msgid "Post Status"
+msgstr "Postituse olek"
+
+#: admin/apps/content/content.php:2026
+msgid "Search Post Statuses..."
+msgstr "Otsi postituste olekuid..."
+
+#: admin/apps/content/content.php:2039
+msgid "Posted On"
+msgstr "Postitatud"
+
+#: admin/apps/content/content.php:2040
+msgid "Posted After"
+msgstr "Postitatud pärast"
+
+#: admin/apps/content/content.php:2041
+msgid "Posted Before"
+msgstr "Postitatud enne"
+
+#: admin/apps/content/content.php:2056 admin/apps/content/content.php:2059
+msgid "Media Types"
+msgstr "Meediumitüübid"
+
+#: admin/apps/content/content.php:2060
+msgid "Search Media Types..."
+msgstr "Otsi meediatüüpe..."
+
+#: admin/apps/content/content.php:2089
+msgid "Clear Filters"
+msgstr "Tühjenda filtrid"
+
+#: admin/apps/content/content.php:2090
+msgid "Save as view"
+msgstr "Salvesta vaatena"
+
+#: admin/apps/content/content.php:2136
+msgid "Posted"
+msgstr "Postitatud"
+
+#: admin/apps/content/content.php:2327
+msgid "Type"
+msgstr "Tüüp"
+
+#: admin/apps/content/content.php:2331
+msgid "Author"
+msgstr "Autor"
+
+#: admin/apps/content/content.php:2335
+#: admin/apps/menu-creator/menu-creator.php:1159
+#: admin/apps/overview/overview.php:904 admin/apps/users/uip-users.php:1333
+msgid "Date"
+msgstr "Kuupäev"
+
+#: admin/apps/content/content.php:2483
+msgid "Load More"
+msgstr "Lae rohkem"
+
+#: admin/apps/content/content.php:2492
+msgid "No content found"
+msgstr "Sisu ei leitud"
+
+#: admin/apps/content/content.php:2511 admin/apps/users/uip-users.php:547
+#: admin/classes/uipress-app.php:1327
+msgid "View"
+msgstr "Vaade"
+
+#: admin/apps/content/content.php:2518
+#: admin/apps/menu-creator/menu-creator.php:1203
+#: admin/apps/users/uip-users.php:523 admin/classes/uipress-app.php:1328
+msgid "Edit"
+msgstr "Muuda"
+
+#: admin/apps/content/content.php:2525
+msgid "Quick Edit"
+msgstr "Kiire redigeerimine"
+
+#: admin/apps/content/content.php:2532
+#: admin/apps/menu-creator/menu-creator.php:1210
+msgid "Duplicate"
+msgstr "Duplikaat"
+
+#: admin/apps/content/content.php:2540
+msgid "Delete Item"
+msgstr "Kustuta üksus"
+
+#: admin/apps/content/content.php:2560
+msgid "items selected"
+msgstr "valitud üksused"
+
+#: admin/apps/content/content.php:2573
+msgid "Categories & Tags"
+msgstr "Kategooriad ja sildid"
+
+#: admin/apps/content/content.php:2579
+msgid "Delete Selected"
+msgstr "Kustuta valitud"
+
+#: admin/apps/content/content.php:2585
+msgid "Clear Selection"
+msgstr "Tühjenda valik"
+
+#: admin/apps/content/content.php:2607
+msgid "Create New View"
+msgstr "Loo uus vaade"
+
+#: admin/apps/content/content.php:2612
+msgid "View name"
+msgstr "Vaata nime"
+
+#: admin/apps/content/content.php:2615
+msgid "View Name"
+msgstr "Kuva nimi"
+
+#: admin/apps/content/content.php:2623
+#: admin/apps/menu-creator/menu-creator.php:1709
+#: admin/apps/overview/overview.php:836 admin/classes/styles.php:437
+msgid "Save"
+msgstr "Salvesta"
+
+#: admin/apps/menu-creator/menu-creator.php:405
+#: admin/apps/menu-creator/menu-creator.php:1044
+#: admin/apps/menu-creator/menu-creator.php:1052
+#: admin/apps/menu-creator/menu-creator.php:1131
+#: admin/apps/menu-creator/menu-creator.php:1699
+msgid "Menu Creator"
+msgstr "Menüü looja"
+
+#: admin/apps/menu-creator/menu-creator.php:406
+msgid "Creates custom admin menus."
+msgstr "Loob kohandatud administraatori menüüd."
+
+#: admin/apps/menu-creator/menu-creator.php:410
+msgid "Disable Menu Creator?"
+msgstr "Kas menüülooja keelata?"
+
+#: admin/apps/menu-creator/menu-creator.php:411
+msgid "If disabled, the menu creator will not be available to any users."
+msgstr "Kui see on keelatud, pole menüü looja ühelegi kasutajale saadaval."
+
+#: admin/apps/menu-creator/menu-creator.php:651
+msgctxt "post type general name"
+msgid "Admin Menu"
+msgstr "Administraatori menüü"
+
+#: admin/apps/menu-creator/menu-creator.php:652
+msgctxt "post type singular name"
+msgid "admin menu"
+msgstr "administraatori menüü"
+
+#: admin/apps/menu-creator/menu-creator.php:653
+msgctxt "admin menu"
+msgid "Admin Menus"
+msgstr "Administraatori menüüd"
+
+#: admin/apps/menu-creator/menu-creator.php:654
+msgctxt "add new on admin bar"
+msgid "Admin Menu"
+msgstr "Administraatori menüü"
+
+#: admin/apps/menu-creator/menu-creator.php:655
+msgctxt "Admin Menu"
+msgid "Add New"
+msgstr "Lisa uus"
+
+#: admin/apps/menu-creator/menu-creator.php:656
+msgid "Add New Admin Menu"
+msgstr "Lisa uus administraatori menüü"
+
+#: admin/apps/menu-creator/menu-creator.php:657
+msgid "New Admin Menu"
+msgstr "Uus administraatori menüü"
+
+#: admin/apps/menu-creator/menu-creator.php:658
+msgid "Edit Admin Menu"
+msgstr "Muuda administraatori menüüd"
+
+#: admin/apps/menu-creator/menu-creator.php:659
+msgid "View Admin Menu"
+msgstr "Kuva administraatori menüü"
+
+#: admin/apps/menu-creator/menu-creator.php:660
+msgid "All Admin Menus"
+msgstr "Kõik administraatori menüüd"
+
+#: admin/apps/menu-creator/menu-creator.php:661
+msgid "Search Admin Menus"
+msgstr "Otsige administraatorimenüüd"
+
+#: admin/apps/menu-creator/menu-creator.php:662
+msgid "No Admin Menus found."
+msgstr "Ühtegi administraatorimenüüd ei leitud."
+
+#: admin/apps/menu-creator/menu-creator.php:663
+msgid "No Admin Menus found in Trash."
+msgstr "Prügikastist ei leitud ühtegi administraatorimenüüd."
+
+#: admin/apps/menu-creator/menu-creator.php:759
+msgid "Status Updated"
+msgstr "Olek uuendatud"
+
+#: admin/apps/menu-creator/menu-creator.php:783
+msgid "You don't have permission to delete this"
+msgstr "Teil pole selle kustutamiseks luba"
+
+#: admin/apps/menu-creator/menu-creator.php:791
+msgid "Unable to delete menu"
+msgstr "Menüüd ei saa kustutada"
+
+#: admin/apps/menu-creator/menu-creator.php:796
+msgid "Menu deleted"
+msgstr "Menüü kustutatud"
+
+#: admin/apps/menu-creator/menu-creator.php:820
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "Menüüd ei saa dubleerida, menüü on rikutud"
+
+#: admin/apps/menu-creator/menu-creator.php:826
+msgid "(copy)"
+msgstr "(koopia)"
+
+#: admin/apps/menu-creator/menu-creator.php:834
+msgid "Unable to duplicate menu"
+msgstr "Menüüd ei saa dubleerida"
+
+#: admin/apps/menu-creator/menu-creator.php:844
+msgid "Menu duplicated"
+msgstr "Menüü dubleeritud"
+
+#: admin/apps/menu-creator/menu-creator.php:873
+msgid "Unable to save, menu is corrupted"
+msgstr "Ei saa salvestada, menüü on rikutud"
+
+#: admin/apps/menu-creator/menu-creator.php:894
+msgid "Unable to save menu"
+msgstr "Menüüd ei saa salvestada"
+
+#: admin/apps/menu-creator/menu-creator.php:917
+msgid "Menu Saved"
+msgstr "Menüü Salvestatud"
+
+#: admin/apps/menu-creator/menu-creator.php:962
+#: admin/apps/users/uip-users.php:1321 admin/classes/settings.php:328
+msgid "User"
+msgstr "Kasutaja"
+
+#: admin/apps/menu-creator/menu-creator.php:977
+#: admin/apps/menu-creator/menu-creator.php:988
+#: admin/apps/users/uip-users.php:1285 admin/classes/settings.php:343
+#: admin/classes/settings.php:354
+msgid "Role"
+msgstr "Roll"
+
+#: admin/apps/menu-creator/menu-creator.php:995 admin/classes/settings.php:361
+msgid "Nothing found for term:"
+msgstr "Terminile ei leitud midagi:"
+
+#: admin/apps/menu-creator/menu-creator.php:1044
+#, php-format
+msgid "%s Menu Creator"
+msgstr "%s Menüü looja"
+
+#: admin/apps/menu-creator/menu-creator.php:1099
+msgid "Upgrade to UiPress Pro to unlock the menu creator"
+msgstr "Menüülooja avamiseks minge üle versioonile UiPress Pro"
+
+#: admin/apps/menu-creator/menu-creator.php:1142
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "Näib, et te pole veel ühtegi administraatorimenüüd loonud"
+
+#: admin/apps/menu-creator/menu-creator.php:1143
+msgid "Create your first admin menu"
+msgstr "Looge oma esimene administraatori menüü"
+
+#: admin/apps/menu-creator/menu-creator.php:1217
+#: admin/apps/menu-creator/menu-creator.php:1718
+#: admin/apps/users/uip-users.php:559 admin/classes/settings.php:248
+#: admin/classes/styles.php:447
+msgid "Export"
+msgstr "Ekspordi"
+
+#: admin/apps/menu-creator/menu-creator.php:1264
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"Menüü looja pole mobiilseadmete jaoks optimeeritud. Parimate tulemuste "
+"saamiseks lülitage suuremale ekraanile"
+
+#: admin/apps/menu-creator/menu-creator.php:1279
+msgid "Menu Items"
+msgstr "Menüüelemendid"
+
+#: admin/apps/menu-creator/menu-creator.php:1283
+msgid "Menu Settings"
+msgstr "Menüü Seaded"
+
+#: admin/apps/menu-creator/menu-creator.php:1314
+#: admin/apps/menu-creator/menu-creator.php:1315
+msgid "Menu Name"
+msgstr "Menüü nimi"
+
+#: admin/apps/menu-creator/menu-creator.php:1319
+msgid "Menu Applies to"
+msgstr "Menüü Kehtib"
+
+#: admin/apps/menu-creator/menu-creator.php:1323
+msgid "Inclusive"
+msgstr "Kaasa arvatud"
+
+#: admin/apps/menu-creator/menu-creator.php:1327
+msgid "Exclusive"
+msgstr "Eksklusiivne"
+
+#: admin/apps/menu-creator/menu-creator.php:1331
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr ""
+"Kaasavas režiimis laaditakse see menüü kõigi allpool valitud kasutajanimede "
+"ja rollide jaoks."
+
+#: admin/apps/menu-creator/menu-creator.php:1334
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"Eksklusiivses režiimis laaditakse see menüü kõigi kasutajate jaoks, välja "
+"arvatud allpool valitud kasutajanimed ja rollid."
+
+#: admin/apps/menu-creator/menu-creator.php:1340
+msgid "Choose users or roles..."
+msgstr "Valige kasutajad või rollid..."
+
+#: admin/apps/menu-creator/menu-creator.php:1342
+msgid "Search roles and users..."
+msgstr "Otsige rolle ja kasutajaid..."
+
+#: admin/apps/menu-creator/menu-creator.php:1351
+msgid "Custom Items"
+msgstr "Kohandatud esemed"
+
+#: admin/apps/menu-creator/menu-creator.php:1355
+msgid "New Separator"
+msgstr "Uus eraldaja"
+
+#: admin/apps/menu-creator/menu-creator.php:1358
+msgid "New Custom Link"
+msgstr "Uus kohandatud link"
+
+#: admin/apps/menu-creator/menu-creator.php:1363
+msgid "Available Menu Items"
+msgstr "Saadaolevad menüüelemendid"
+
+#: admin/apps/menu-creator/menu-creator.php:1370
+msgid "Search menu items"
+msgstr "Otsige menüüelemente"
+
+#: admin/apps/menu-creator/menu-creator.php:1518
+msgid "Add some menu items from the left toolbar to get started"
+msgstr "Alustamiseks lisage vasakpoolselt tööriistaribalt mõned menüüelemendid"
+
+#: admin/apps/menu-creator/menu-creator.php:1537
+msgid "Separator"
+msgstr "Eraldaja"
+
+#: admin/apps/menu-creator/menu-creator.php:1642
+msgid "Edit Menu Item"
+msgstr "Redigeeri menüüelementi"
+
+#: admin/apps/menu-creator/menu-creator.php:1656
+#: admin/apps/menu-creator/menu-creator.php:1657
+msgid "Link"
+msgstr "Link"
+
+#: admin/apps/menu-creator/menu-creator.php:1661
+msgid "Classes"
+msgstr "klassid"
+
+#: admin/apps/menu-creator/menu-creator.php:1663
+msgid "Custom classes"
+msgstr "Kohandatud klassid"
+
+#: admin/apps/menu-creator/menu-creator.php:1667
+msgid "Opens in new tab?"
+msgstr "Kas avaneb uuel vahelehel?"
+
+#: admin/apps/menu-creator/menu-creator.php:1677
+msgid "Icon"
+msgstr "Ikoon"
+
+#: admin/apps/menu-creator/menu-creator.php:1702
+msgid "Back to all menus"
+msgstr "Tagasi kõikidesse menüüdesse"
+
+#: admin/apps/menu-creator/menu-creator.php:1727
+msgid "Import Menu"
+msgstr "Impordi menüü"
+
+#: admin/apps/menu-creator/menu-creator.php:1736 admin/classes/settings.php:265
+msgid "Reset Settings"
+msgstr "Lähtesta seaded"
+
+#: admin/apps/overview/analytics.php:74
+msgid "Analytics account removed"
+msgstr "Analyticsi konto eemaldatud"
+
+#: admin/apps/overview/analytics.php:93
+msgid "Unable to connect account"
+msgstr "Kontot ei saa ühendada"
+
+#: admin/apps/overview/analytics.php:106
+msgid "Analytics account connected"
+msgstr "Analyticsi konto on ühendatud"
+
+#: admin/apps/overview/analytics.php:310 admin/apps/overview/analytics.php:718
+#: admin/apps/overview/overview.php:761
+msgid "Site Users"
+msgstr "Saidi kasutajad"
+
+#: admin/apps/overview/analytics.php:318 admin/apps/overview/overview.php:762
+msgid "Site Users (comparison period)"
+msgstr "Saidi kasutajad (võrdlusperiood)"
+
+#: admin/apps/overview/analytics.php:383 admin/apps/overview/analytics.php:700
+#: admin/apps/overview/overview.php:759
+msgid "Page Views"
+msgstr "Lehekülje vaatamised"
+
+#: admin/apps/overview/analytics.php:391
+msgid "Page Views (comparison period)"
+msgstr "Lehevaatamised (võrdlusperiood)"
+
+#: admin/apps/overview/analytics.php:608 admin/apps/overview/analytics.php:709
+msgid "Page Speed"
+msgstr "Lehekülje kiirus"
+
+#: admin/apps/overview/analytics.php:616
+msgid "Page Speed (comparison period)"
+msgstr "Lehekülje kiirus (võrdlusperiood)"
+
+#: admin/apps/overview/analytics.php:663 admin/apps/overview/analytics.php:703
+#: admin/apps/overview/analytics.php:712 admin/apps/overview/analytics.php:721
+#: admin/apps/overview/analytics.php:730 admin/apps/overview/analytics.php:739
+#: admin/apps/overview/analytics.php:748 admin/apps/overview/analytics.php:757
+#: admin/apps/overview/analytics.php:766 admin/apps/overview/analytics.php:775
+#: admin/apps/overview/analytics.php:784 admin/apps/overview/analytics.php:793
+#: admin/apps/overview/analytics.php:802 admin/apps/overview/analytics.php:811
+#: admin/apps/overview/analytics.php:820 admin/apps/overview/analytics.php:829
+#: admin/apps/overview/analytics.php:838 admin/apps/overview/analytics.php:847
+#: admin/apps/overview/analytics.php:856 admin/apps/overview/analytics.php:865
+#: admin/apps/overview/analytics.php:874 admin/apps/overview/analytics.php:883
+msgid "Analytics"
+msgstr "Analüütika"
+
+#: admin/apps/overview/analytics.php:665
+msgid "Creates the google analytics cards for the overview page."
+msgstr "Loob ülevaatelehe jaoks Google Analyticsi kaardid."
+
+#: admin/apps/overview/analytics.php:681
+msgid "Google Analytics disabled for"
+msgstr "Google Analytics on keelatud"
+
+#: admin/apps/overview/analytics.php:682
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr ""
+"Analytics keelatakse ülevaatelehel kõigi teie valitud kasutajate või rollide "
+"puhul"
+
+#: admin/apps/overview/analytics.php:702
+msgid "Display website page views within the date range."
+msgstr "Kuva veebisaidi lehevaatamised kuupäevavahemikus."
+
+#: admin/apps/overview/analytics.php:711
+msgid "Display website page speed within the date range."
+msgstr "Kuva veebisaidi lehe kiirus kuupäevavahemikus."
+
+#: admin/apps/overview/analytics.php:720
+msgid "Display website users within the date range."
+msgstr "Kuva veebisaidi kasutajad kuupäevavahemikus."
+
+#: admin/apps/overview/analytics.php:727
+msgid "Site visits by device"
+msgstr "Saidikülastused seadme järgi"
+
+#: admin/apps/overview/analytics.php:729
+msgid "Display site usage by device within the date range."
+msgstr "Kuvage saidi kasutus seadmete lõikes kuupäevavahemikus."
+
+#: admin/apps/overview/analytics.php:736 admin/apps/overview/overview.php:841
+msgid "Bounce Rate"
+msgstr "Põrkemäär"
+
+#: admin/apps/overview/analytics.php:738
+msgid "Display site bounce rate within the date range."
+msgstr "Kuva saidi põrkemäär kuupäevavahemikus."
+
+#: admin/apps/overview/analytics.php:745
+msgid "Session Duration"
+msgstr "Seansi kestus"
+
+#: admin/apps/overview/analytics.php:747
+msgid "Display site session duration within the date range."
+msgstr "Kuva saidi seansi kestus kuupäevavahemikus."
+
+#: admin/apps/overview/analytics.php:754
+msgid "Visits by Country"
+msgstr "Külastused riigiti"
+
+#: admin/apps/overview/analytics.php:756
+msgid "Displays country user data within the date range."
+msgstr "Kuvab riigi kasutajaandmeid kuupäevavahemikus."
+
+#: admin/apps/overview/analytics.php:763
+msgid "Traffic Sources"
+msgstr "Liiklusallikad"
+
+#: admin/apps/overview/analytics.php:765
+msgid "Displays traffic source info within the date range."
+msgstr "Kuvab liiklusallika teabe kuupäevavahemikus."
+
+#: admin/apps/overview/analytics.php:772
+msgid "Visits By Page"
+msgstr "Külastused lehe järgi"
+
+#: admin/apps/overview/analytics.php:774
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr "Kuvab kõige populaarsemate saidilehtede liiklust kuupäevavahemikus."
+
+#: admin/apps/overview/analytics.php:781
+msgid "Event Count By Event Name"
+msgstr "Sündmuste arv sündmuse nime järgi"
+
+#: admin/apps/overview/analytics.php:783
+msgid "Display list of events within the date range."
+msgstr "Kuva kuupäevavahemikus olevate sündmuste loend."
+
+#: admin/apps/overview/analytics.php:790
+msgid "Sessions by channel grouping"
+msgstr "Seansid kanalite rühmitamise järgi"
+
+#: admin/apps/overview/analytics.php:792
+msgid "Display sessions by channel grouping within the date range."
+msgstr "Kuva seansid kuupäevavahemikus kanalite rühmitamise järgi."
+
+#: admin/apps/overview/analytics.php:799
+msgid "User in the last 30 minutes"
+msgstr "Kasutaja viimase 30 minuti jooksul"
+
+#: admin/apps/overview/analytics.php:801
+msgid "Displays active users from the last 30 minutes."
+msgstr "Kuvab viimase 30 minuti aktiivsed kasutajad."
+
+#: admin/apps/overview/analytics.php:808
+msgid "Engagement Rate"
+msgstr "Kaasamismäär"
+
+#: admin/apps/overview/analytics.php:810
+msgid "Displays average angagement rate for date range"
+msgstr "Kuvab kuupäevavahemiku keskmise seotuse määra"
+
+#: admin/apps/overview/analytics.php:817 admin/apps/overview/overview.php:783
+msgid "Site Revenue"
+msgstr "Saidi tulud"
+
+#: admin/apps/overview/analytics.php:819
+msgid ""
+"Displays site revenue for date range. The sum of revenue from purchases, "
+"subscriptions, and advertising."
+msgstr ""
+"Kuvab saidi tulu kuupäevavahemikus. Ostudest, tellimustest ja reklaamidest "
+"saadud tulu summa."
+
+#: admin/apps/overview/analytics.php:826
+msgid "New vs Returning Users"
+msgstr "Uued vs naasvad kasutajad"
+
+#: admin/apps/overview/analytics.php:828
+msgid "Displays new vs returning users for the date range."
+msgstr "Kuvab kuupäevavahemiku uued ja naasvad kasutajad."
+
+#: admin/apps/overview/analytics.php:835
+msgid "Top Cities"
+msgstr "Parimad linnad"
+
+#: admin/apps/overview/analytics.php:837
+msgid "Displays page views by city for the date range."
+msgstr "Kuvab kuupäevavahemiku lehevaatamised linnade kaupa."
+
+#: admin/apps/overview/analytics.php:844 admin/apps/overview/overview.php:785
+msgid "Ecommerce Overview"
+msgstr "E-kaubanduse ülevaade"
+
+#: admin/apps/overview/analytics.php:846
+msgid "Displays add to cart, checkout and purchase data for the date range."
+msgstr "Kuvab ostukorvi lisamise, kassa ja ostuandmed kuupäevavahemiku kohta."
+
+#: admin/apps/overview/analytics.php:853 admin/apps/overview/overview.php:781
+#: admin/apps/overview/overview.php:782
+msgid "Conversion Rate"
+msgstr "Konversioonimäär"
+
+#: admin/apps/overview/analytics.php:855
+msgid ""
+"The percentage of active users who made their first purchase for the date "
+"range."
+msgstr ""
+"Aktiivsete kasutajate protsent, kes tegid kuupäevavahemikus oma esimese ostu."
+
+#: admin/apps/overview/analytics.php:862
+msgid "Top Products"
+msgstr "Parimad tooted"
+
+#: admin/apps/overview/analytics.php:864
+msgid "Products with the most sales for for the date range."
+msgstr "Kuupäevavahemikus enim müüdud tooted."
+
+#: admin/apps/overview/analytics.php:871
+msgid "Conversions in the last 30 minutes"
+msgstr "Konversioonid viimase 30 minuti jooksul"
+
+#: admin/apps/overview/analytics.php:873
+msgid "Conversions logged in the last 30 minutes."
+msgstr "Viimase 30 minuti jooksul logitud konversioonid."
+
+#: admin/apps/overview/analytics.php:880
+msgid "Page Views in the last 30 minutes"
+msgstr "Lehevaatamised viimase 30 minuti jooksul"
+
+#: admin/apps/overview/analytics.php:882
+msgid "Page views in the last 30 minutes."
+msgstr "Lehevaatamised viimase 30 minuti jooksul."
+
+#: admin/apps/overview/analytics.php:1013
+msgid "Unable to fetch analytics data at this moment. Please try again later"
+msgstr "Analüütikaandmeid ei saa praegu tuua. Palun proovi hiljem uuesti"
+
+#: admin/apps/overview/overview.php:106 admin/apps/overview/overview.php:1150
+msgid "Overview"
+msgstr "Ülevaade"
+
+#: admin/apps/overview/overview.php:107
+msgid "Creates the overview page."
+msgstr "Loob ülevaatelehe."
+
+#: admin/apps/overview/overview.php:111
+msgid "Disable Overview Page?"
+msgstr "Kas keelata ülevaateleht?"
+
+#: admin/apps/overview/overview.php:112
+msgid "Overview page will be hidden when this option is activated."
+msgstr "Kui see valik on aktiveeritud, siis ülevaateleht peidetakse."
+
+#: admin/apps/overview/overview.php:119
+msgid "Overview Page Disabled For"
+msgstr "Ülevaateleht keelatud"
+
+#: admin/apps/overview/overview.php:120
+msgid "Overview Page will be disabled for any users or roles you select"
+msgstr ""
+"Ülevaateleht keelatakse kõigi teie valitud kasutajate või rollide jaoks"
+
+#: admin/apps/overview/overview.php:128
+msgid "Who can edit the overview page?"
+msgstr "Kes saab ülevaatelehte redigeerida?"
+
+#: admin/apps/overview/overview.php:129
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If none "
+"are chosen it will fall back to administrators only"
+msgstr ""
+"Kõik siin valitud rollid või kasutajad saavad ülevaatelehte redigeerida. Kui "
+"ühtegi neist ei valita, jääb see tagasi ainult administraatoritele"
+
+#: admin/apps/overview/overview.php:137
+msgid "Default report start date"
+msgstr "Vaikimisi aruande alguskuupäev"
+
+#: admin/apps/overview/overview.php:138
+msgid ""
+"By default the overview date range will start 7 days before current date. "
+"Add a number of days between 1 and 90 to change length of date range"
+msgstr ""
+"Vaikimisi algab ülevaate kuupäevavahemik 7 päeva enne praegust kuupäeva. "
+"Kuupäevavahemiku pikkuse muutmiseks lisage päevade arv vahemikus 1 kuni 90"
+
+#: admin/apps/overview/overview.php:146
+msgid "Default report end date offset"
+msgstr "Vaikimisi aruande lõppkuupäeva nihe"
+
+#: admin/apps/overview/overview.php:147
+msgid ""
+"By default the overview date range will end on the current day (0). To end "
+"the report on yesterday for example, enter 1"
+msgstr ""
+"Vaikimisi lõpeb ülevaate kuupäevavahemik jooksval päeval (0). Näiteks eilse "
+"aruande lõpetamiseks sisestage 1"
+
+#: admin/apps/overview/overview.php:155
+msgid "Reporting Currency Symbol"
+msgstr "Aruandevaluuta sümbol"
+
+#: admin/apps/overview/overview.php:156
+msgid ""
+"If you are using google analytics commerce reports, enter the currency "
+"symbol your reports are in here"
+msgstr ""
+"Kui kasutate Google Analyticsi kaubanduse aruandeid, sisestage siia valuuta "
+"sümbol, milles teie aruanded on"
+
+#: admin/apps/overview/overview.php:164
+msgid "Custom welcome message"
+msgstr "Kohandatud tervitussõnum"
+
+#: admin/apps/overview/overview.php:165
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr "Lisage siia kohandatud tervitussõnum, mis kuvatakse ülevaatelehel"
+
+#: admin/apps/overview/overview.php:243 admin/apps/overview/overview.php:384
+#: admin/apps/overview/woocommerce.php:158
+msgid "ago"
+msgstr "tagasi"
+
+#: admin/apps/overview/overview.php:259 admin/apps/overview/overview.php:447
+#: admin/apps/overview/woocommerce.php:183
+#: admin/apps/overview/woocommerce.php:265
+msgid "Posts fetched"
+msgstr "Postitused toodud"
+
+#: admin/apps/overview/overview.php:267
+msgid "No posts posted during the date range."
+msgstr "Kuupäevavahemikus pole postitusi postitatud."
+
+#: admin/apps/overview/overview.php:282
+msgid "Unable to save dash at this time"
+msgstr "Kriipsu ei saa praegu salvestada"
+
+#: admin/apps/overview/overview.php:292
+msgid "Dashboard settings saved"
+msgstr "Armatuurlaua seaded on salvestatud"
+
+#: admin/apps/overview/overview.php:307
+msgid "Dashboard settings reset"
+msgstr "Armatuurlaua seaded lähtestatakse"
+
+#: admin/apps/overview/overview.php:320 admin/apps/overview/overview.php:328
+msgid "Unable to load shortcode at this time"
+msgstr "Lühikoodi ei saa praegu laadida"
+
+#: admin/apps/overview/overview.php:335
+msgid "Shortcode loaded"
+msgstr "Lühikood on laaditud"
+
+#: admin/apps/overview/overview.php:454
+msgid "No comments during the date range."
+msgstr "Kuupäevavahemikus pole kommentaare."
+
+#: admin/apps/overview/overview.php:477
+msgid "Core version"
+msgstr "Põhiversioon"
+
+#: admin/apps/overview/overview.php:482
+msgid "PHP version"
+msgstr "PHP versioon"
+
+#: admin/apps/overview/overview.php:487
+msgid "Active Plugins"
+msgstr "Aktiivsed pistikprogrammid"
+
+#: admin/apps/overview/overview.php:492
+msgid "Inactive Plugins"
+msgstr "Mitteaktiivsed pistikprogrammid"
+
+#: admin/apps/overview/overview.php:497
+msgid "Installed Themes"
+msgstr "Installitud teemad"
+
+#: admin/apps/overview/overview.php:532
+msgid "Unable to fetch quote of the day"
+msgstr "Päeva tsitaati ei saa tuua"
+
+#: admin/apps/overview/overview.php:570
+msgid "Passed Checks"
+msgstr "Läbis kontrollid"
+
+#: admin/apps/overview/overview.php:578
+msgid "Recommended"
+msgstr "Soovitatav"
+
+#: admin/apps/overview/overview.php:586
+msgid "Critical"
+msgstr "Kriitiline"
+
+#: admin/apps/overview/overview.php:597
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "Heitke pilk %d üksusele lehel"
+
+#: admin/apps/overview/overview.php:598
+msgid "Site Health screen"
+msgstr "Saidi tervise ekraan"
+
+#: admin/apps/overview/overview.php:606
+msgid "Device Visits"
+msgstr "Seadme külastused"
+
+#: admin/apps/overview/overview.php:693
+msgid "Card width"
+msgstr "Kaardi laius"
+
+#: admin/apps/overview/overview.php:694
+msgid "Column width"
+msgstr "Veeru laius"
+
+#: admin/apps/overview/overview.php:695
+msgid "Column settings"
+msgstr "Veeru seaded"
+
+#: admin/apps/overview/overview.php:696
+msgid "Column Size"
+msgstr "Veeru suurus"
+
+#: admin/apps/overview/overview.php:697
+msgid "Remove Card"
+msgstr "Eemalda kaart"
+
+#: admin/apps/overview/overview.php:698 admin/apps/overview/overview.php:799
+msgid "Delete Column"
+msgstr "Kustuta veerg"
+
+#: admin/apps/overview/overview.php:699
+msgid "In the"
+msgstr "Aastal"
+
+#: admin/apps/overview/overview.php:700
+msgid "day range"
+msgstr "päevavahemik"
+
+#: admin/apps/overview/overview.php:701
+msgid "xxsmall (1/6)"
+msgstr "xxsmall (1/6)"
+
+#: admin/apps/overview/overview.php:702
+msgid "xsmall (1/5)"
+msgstr "xsmall (1/5)"
+
+#: admin/apps/overview/overview.php:703
+msgid "small (1/4)"
+msgstr "väike (1/4)"
+
+#: admin/apps/overview/overview.php:704
+msgid "small medium (1/3)"
+msgstr "väike keskmine (1/3)"
+
+#: admin/apps/overview/overview.php:705
+msgid "medium (1/2)"
+msgstr "keskmine (1/2)"
+
+#: admin/apps/overview/overview.php:706
+msgid "medium large (2/3)"
+msgstr "keskmine suur (2/3)"
+
+#: admin/apps/overview/overview.php:707
+msgid "large (3/4)"
+msgstr "suur (3/4)"
+
+#: admin/apps/overview/overview.php:708
+msgid "xlarge (1/1)"
+msgstr "xlarge (1/1)"
+
+#: admin/apps/overview/overview.php:709
+msgid "I am an empty column. Drag cards into me."
+msgstr "Olen tühi veerg. Lohistage kaardid minu sisse."
+
+#: admin/apps/overview/overview.php:710
+msgid "Column Added"
+msgstr "Veerg lisatud"
+
+#: admin/apps/overview/overview.php:711
+msgid "Add card"
+msgstr "Lisa kaart"
+
+#: admin/apps/overview/overview.php:712
+msgid "Section added"
+msgstr "Lisatud jaotis"
+
+#: admin/apps/overview/overview.php:713
+msgid "Search Cards"
+msgstr "Otsingukaardid"
+
+#: admin/apps/overview/overview.php:714
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/apps/overview/overview.php:716 admin/apps/overview/overview.php:922
+msgid "Shortcode"
+msgstr "Lühikood"
+
+#: admin/apps/overview/overview.php:717
+msgid "Video URL"
+msgstr "Video URL"
+
+#: admin/apps/overview/overview.php:718
+msgid "Embed Type"
+msgstr "Manustuse tüüp"
+
+#: admin/apps/overview/overview.php:719
+msgid "UiPress Pro feature"
+msgstr "UiPress Pro funktsioon"
+
+#: admin/apps/overview/overview.php:720
+msgid "Upgrade to one of our premium plans to unlock this feature."
+msgstr "Selle funktsiooni avamiseks minge üle ühele meie lisatasuplaanidest."
+
+#: admin/apps/overview/overview.php:721
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/apps/overview/overview.php:722
+msgid "Card Added"
+msgstr "Kaart lisatud"
+
+#: admin/apps/overview/overview.php:723
+msgid "Card Background colour"
+msgstr "Kaardi taustavärv"
+
+#: admin/apps/overview/overview.php:724
+msgid "# Hex code only (#fff)"
+msgstr "# Ainult kuueteistkümnendkood (#fff)"
+
+#: admin/apps/overview/overview.php:725
+msgid "Use light color for text"
+msgstr "Kasutage teksti jaoks heledat värvi"
+
+#: admin/apps/overview/overview.php:726
+msgid "Chart Type"
+msgstr "Diagrammi tüüp"
+
+#: admin/apps/overview/overview.php:727
+msgid "Line Chart"
+msgstr "Joonediagramm"
+
+#: admin/apps/overview/overview.php:728
+msgid "Bar Chart"
+msgstr "Tulpdiagramm"
+
+#: admin/apps/overview/overview.php:729
+msgid "vs previous"
+msgstr "vs eelmine"
+
+#: admin/apps/overview/overview.php:730 admin/apps/overview/overview.php:829
+msgid "days"
+msgstr "päevadel"
+
+#: admin/apps/overview/overview.php:731
+msgid "Doughnut"
+msgstr "Sõõrik"
+
+#: admin/apps/overview/overview.php:732
+msgid "Polar Area"
+msgstr "Polaarala"
+
+#: admin/apps/overview/overview.php:733
+msgid "Bar"
+msgstr "Baar"
+
+#: admin/apps/overview/overview.php:734 admin/apps/overview/overview.php:741
+msgid "Horizontal Bar"
+msgstr "Horisontaalne riba"
+
+#: admin/apps/overview/overview.php:735
+msgid "Country"
+msgstr "Riik"
+
+#: admin/apps/overview/overview.php:736
+msgid "Visits"
+msgstr "Külastused"
+
+#: admin/apps/overview/overview.php:737
+msgid "Change"
+msgstr "Muuda"
+
+#: admin/apps/overview/overview.php:738
+msgid "No Background"
+msgstr "Taust puudub"
+
+#: admin/apps/overview/overview.php:739
+msgid "Hide Map"
+msgstr "Peida kaart"
+
+#: admin/apps/overview/overview.php:740
+msgid "Connect your account to use this card"
+msgstr "Selle kaardi kasutamiseks ühendage oma konto"
+
+#: admin/apps/overview/overview.php:742
+msgid "Hide Chart"
+msgstr "Peida diagramm"
+
+#: admin/apps/overview/overview.php:743
+msgid "Source"
+msgstr "Allikas"
+
+#: admin/apps/overview/overview.php:744
+msgid "Page"
+msgstr "Lehekülg"
+
+#: admin/apps/overview/overview.php:745
+msgid "Product"
+msgstr "Toode"
+
+#: admin/apps/overview/overview.php:746
+msgid "Sold"
+msgstr "Müüdud"
+
+#: admin/apps/overview/overview.php:747
+msgid "Value"
+msgstr "Väärtus"
+
+#: admin/apps/overview/overview.php:748
+msgid "WooCommerce is required to use this card"
+msgstr "Selle kaardi kasutamiseks on nõutav WooCommerce"
+
+#: admin/apps/overview/overview.php:749 admin/classes/uipress-app.php:1380
+msgid "Please select a valid JSON file"
+msgstr "Valige kehtiv JSON-fail"
+
+#: admin/apps/overview/overview.php:750 admin/classes/uipress-app.php:1381
+msgid "File is to big"
+msgstr "Fail on liiga suur"
+
+#: admin/apps/overview/overview.php:751
+msgid "Layout Imported"
+msgstr "Paigutus imporditud"
+
+#: admin/apps/overview/overview.php:752
+msgid "Unable to import layout"
+msgstr "Paigutust ei saa importida"
+
+#: admin/apps/overview/overview.php:753
+msgid "Are you sure you want to clear the current layout? There is no undo."
+msgstr ""
+"Kas olete kindel, et soovite praeguse paigutuse tühjendada? Tagasivõtmist "
+"pole võimalik."
+
+#: admin/apps/overview/overview.php:754
+msgid "Available Cards"
+msgstr "Saadaolevad kaardid"
+
+#: admin/apps/overview/overview.php:755
+msgid "Event Count"
+msgstr "Sündmuste arv"
+
+#: admin/apps/overview/overview.php:756
+msgid "Event Name"
+msgstr "Sündmuse nimi"
+
+#: admin/apps/overview/overview.php:757
+msgid "Channel"
+msgstr "Kanal"
+
+#: admin/apps/overview/overview.php:758
+msgid "Sessions"
+msgstr "Seansid"
+
+#: admin/apps/overview/overview.php:760
+msgid "Page Views  (comparison period)"
+msgstr "Lehevaatamised (võrdlusperiood)"
+
+#: admin/apps/overview/overview.php:763
+msgid "To"
+msgstr "To"
+
+#: admin/apps/overview/overview.php:764
+msgid "From"
+msgstr "Alates"
+
+#: admin/apps/overview/overview.php:765
+msgid "Date Range"
+msgstr "Kuupäevavahemik"
+
+#: admin/apps/overview/overview.php:766
+msgid "Custom Comparison Dates"
+msgstr "Kohandatud võrdluskuupäevad"
+
+#: admin/apps/overview/overview.php:767
+msgid "Apply"
+msgstr "Rakenda"
+
+#: admin/apps/overview/overview.php:768
+msgid "vs"
+msgstr "vs"
+
+#: admin/apps/overview/overview.php:769
+msgid "Custom Range"
+msgstr "Kohandatud vahemik"
+
+#: admin/apps/overview/overview.php:770 admin/classes/uipress-app.php:1397
+msgid "Today"
+msgstr "Täna"
+
+#: admin/apps/overview/overview.php:771 admin/classes/uipress-app.php:1398
+msgid "Yesterday"
+msgstr "eile"
+
+#: admin/apps/overview/overview.php:772
+msgid "Last 7 days"
+msgstr "Viimased 7 päeva"
+
+#: admin/apps/overview/overview.php:773
+msgid "Last 30 days"
+msgstr "Viimased 30 päeva"
+
+#: admin/apps/overview/overview.php:774
+msgid "Last 60 days"
+msgstr "Viimased 60 päeva"
+
+#: admin/apps/overview/overview.php:775
+msgid "Last 90 days"
+msgstr "Viimased 90 päeva"
+
+#: admin/apps/overview/overview.php:776 admin/classes/uipress-app.php:1395
+msgid "This Month"
+msgstr "See kuu"
+
+#: admin/apps/overview/overview.php:777 admin/classes/uipress-app.php:1396
+msgid "Last Month"
+msgstr "Eelmine kuu"
+
+#: admin/apps/overview/overview.php:778
+msgid "Purchases"
+msgstr "Ostud"
+
+#: admin/apps/overview/overview.php:779
+msgid "Added to cart"
+msgstr "Lisatud ostukorvi"
+
+#: admin/apps/overview/overview.php:780
+msgid "Checkout started"
+msgstr "Checkout algas"
+
+#: admin/apps/overview/overview.php:784
+msgid "Site Revenue (comparison)"
+msgstr "Saidi tulu (võrdlus)"
+
+#: admin/apps/overview/overview.php:786
+msgid "Visits By Device"
+msgstr "Külastused seadme järgi"
+
+#: admin/apps/overview/overview.php:787
+msgid "Device Category"
+msgstr "Seadme kategooria"
+
+#: admin/apps/overview/overview.php:788
+msgid "Active Users"
+msgstr "Aktiivsed kasutajad"
+
+#: admin/apps/overview/overview.php:789 admin/apps/overview/overview.php:791
+msgid "Product Name"
+msgstr "tootenimi"
+
+#: admin/apps/overview/overview.php:790
+msgid "Sales"
+msgstr "Müük"
+
+#: admin/apps/overview/overview.php:792
+msgid "Quantity Sold"
+msgstr "Müüdud kogus"
+
+#: admin/apps/overview/overview.php:793 admin/apps/overview/overview.php:807
+msgid "Revenue"
+msgstr "Tulu"
+
+#: admin/apps/overview/overview.php:794
+msgid "Column Removed"
+msgstr "Veerg eemaldatud"
+
+#: admin/apps/overview/overview.php:795
+msgid "Section Removed"
+msgstr "Jaotis eemaldatud"
+
+#: admin/apps/overview/overview.php:796
+msgid "View Plans"
+msgstr "Vaata plaane"
+
+#: admin/apps/overview/overview.php:797
+msgid "Unable to fetch analytics data, please try again later"
+msgstr "Analüütikaandmeid ei saa tuua, proovige hiljem uuesti"
+
+#: admin/apps/overview/overview.php:798
+msgid "Column background colour"
+msgstr "Veeru taustavärv"
+
+#: admin/apps/overview/overview.php:800
+msgid "Hide card title"
+msgstr "Peida kaardi pealkiri"
+
+#: admin/apps/overview/overview.php:801 admin/apps/overview/overview.php:895
+msgid "Site Health"
+msgstr "Saidi tervis"
+
+#: admin/apps/overview/overview.php:802
+msgid "Conversions"
+msgstr "Konversioonid"
+
+#: admin/apps/overview/overview.php:803
+msgid "This card only works with google analytics 4 accounts"
+msgstr "See kaart töötab ainult google analytics 4 kontodega"
+
+#: admin/apps/overview/overview.php:804
+msgid "This card only works with universal analytics propeties."
+msgstr "See kaart töötab ainult universaalsete analüütikaomadustega."
+
+#: admin/apps/overview/overview.php:805
+msgid "Orders"
+msgstr "Tellimused"
+
+#: admin/apps/overview/overview.php:806
+msgid "Orders (comparison period)."
+msgstr "Tellimused (võrdlusperiood)."
+
+#: admin/apps/overview/overview.php:808
+msgid "Revenue (comparison period)."
+msgstr "Tulu (võrdlusperiood)."
+
+#: admin/apps/overview/overview.php:809
+msgid "Current Period"
+msgstr "Praegune periood"
+
+#: admin/apps/overview/overview.php:810
+msgid "Comparison Period"
+msgstr "Võrdlusperiood"
+
+#: admin/apps/overview/overview.php:811
+msgid "Match Card Height"
+msgstr "Sobitage kaardi kõrgus"
+
+#: admin/apps/overview/overview.php:813
+msgid "What would you like to do?"
+msgstr "Mida sa teha tahaksid?"
+
+#: admin/apps/overview/overview.php:814
+msgid "To do"
+msgstr "Tegema"
+
+#: admin/apps/overview/overview.php:815
+msgid "Done"
+msgstr "Valmis"
+
+#: admin/apps/overview/overview.php:816
+msgid "Size"
+msgstr "Suurus"
+
+#: admin/apps/overview/overview.php:817
+msgid "Background Colour"
+msgstr "Taustavärv"
+
+#: admin/apps/overview/overview.php:818
+msgid "Custom CSS class"
+msgstr "Kohandatud CSS-klass"
+
+#: admin/apps/overview/overview.php:819
+msgid "Add New Card"
+msgstr "Lisa uus kaart"
+
+#: admin/apps/overview/overview.php:820 admin/apps/overview/overview.php:1249
+#: admin/classes/settings.php:78 admin/classes/settings.php:91
+#: admin/classes/settings.php:226 admin/classes/uipress-app.php:1406
+msgid "Settings"
+msgstr "Seaded"
+
+#: admin/apps/overview/overview.php:821
+msgid "Card Settings"
+msgstr "Kaardi sätted"
+
+#: admin/apps/overview/overview.php:822
+msgid "Move Column Down"
+msgstr "Liigutage veerg alla"
+
+#: admin/apps/overview/overview.php:823
+msgid "Move Column Up"
+msgstr "Liigutage veerg üles"
+
+#: admin/apps/overview/overview.php:824
+msgid "Add new column"
+msgstr "Lisa uus veerg"
+
+#: admin/apps/overview/overview.php:825
+msgid "Section Settings"
+msgstr "Jaotise sätted"
+
+#: admin/apps/overview/overview.php:826
+msgid "Toggle section visibility"
+msgstr "Lülita jaotise nähtavust"
+
+#: admin/apps/overview/overview.php:827
+msgid "Page Settings"
+msgstr "Lehekülje seaded"
+
+#: admin/apps/overview/overview.php:828
+msgid "In the last"
+msgstr "Viimases"
+
+#: admin/apps/overview/overview.php:830 admin/apps/users/uip-users-ajax.php:662
+msgid "Something has gone wrong"
+msgstr "Midagi läks valesti"
+
+#: admin/apps/overview/overview.php:831
+msgid "Connect your matomo site to use this card"
+msgstr "Selle kaardi kasutamiseks ühendage oma matomo sait"
+
+#: admin/apps/overview/overview.php:832
+msgid "Connect Matomo Analytics"
+msgstr "Ühendage Matomo Analytics"
+
+#: admin/apps/overview/overview.php:833
+msgid "Auth Token"
+msgstr "Auth Token"
+
+#: admin/apps/overview/overview.php:834
+msgid "Matomo Url"
+msgstr "Matomo URL"
+
+#: admin/apps/overview/overview.php:835
+msgid "Matomo Site ID"
+msgstr "Matomo saidi ID"
+
+#: admin/apps/overview/overview.php:837
+msgid "Click below to change matomo account"
+msgstr "Klõpsake allpool, et muuta matomo kontot"
+
+#: admin/apps/overview/overview.php:838
+msgid "Change account"
+msgstr "Muuda kontot"
+
+#: admin/apps/overview/overview.php:839
+msgid "City"
+msgstr "Linn"
+
+#: admin/apps/overview/overview.php:840
+msgid "Average Page Load"
+msgstr "Keskmine lehekoormus"
+
+#: admin/apps/overview/overview.php:842
+msgid "Exit Rate"
+msgstr "Väljumise määr"
+
+#: admin/apps/overview/overview.php:843
+msgid "Average Time On Page"
+msgstr "Keskmine lehel veedetud aeg"
+
+#: admin/apps/overview/overview.php:844
+msgid "Referer"
+msgstr "Viitaja"
+
+#: admin/apps/overview/overview.php:845
+msgid "Section name"
+msgstr "Sektsiooni nimi"
+
+#: admin/apps/overview/overview.php:846
+msgid "Section description"
+msgstr "Jao kirjeldus"
+
+#: admin/apps/overview/overview.php:868
+msgid "Recently Published"
+msgstr "Hiljuti avaldatud"
+
+#: admin/apps/overview/overview.php:870
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr "Kuvage kuupäevavahemikus avaldatud postitused, lehed ja CPT-d."
+
+#: admin/apps/overview/overview.php:871 admin/apps/overview/overview.php:880
+#: admin/apps/overview/overview.php:889 admin/apps/overview/overview.php:898
+#: admin/apps/overview/overview.php:907 admin/apps/overview/overview.php:916
+#: admin/apps/overview/overview.php:925 admin/apps/overview/overview.php:934
+#: admin/apps/overview/overview.php:943 admin/apps/overview/overview.php:952
+#: admin/classes/uipress-app.php:2526
+msgid "General"
+msgstr "Kindral"
+
+#: admin/apps/overview/overview.php:877
+msgid "Recent Comments"
+msgstr "hiljutised kommentaarid"
+
+#: admin/apps/overview/overview.php:879
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr ""
+"Kuvab kuupäevavahemikus avaldatud kommentaaride koguarvu ja hiljutisi "
+"kommentaare."
+
+#: admin/apps/overview/overview.php:886
+msgid "System Info"
+msgstr "Süsteemi teave"
+
+#: admin/apps/overview/overview.php:888
+msgid "Displays info our about your cms and server setup."
+msgstr "Kuvab teavet teie cm-i ja serveri seadistuse kohta."
+
+#: admin/apps/overview/overview.php:897
+msgid "Displays info our about your sites health."
+msgstr "Kuvab teavet teie saitide tervise kohta."
+
+#: admin/apps/overview/overview.php:906
+msgid "Displays current time and date"
+msgstr "Näitab praegust kellaaega ja kuupäeva"
+
+#: admin/apps/overview/overview.php:913
+msgid "Video"
+msgstr "Video"
+
+#: admin/apps/overview/overview.php:915
+msgid "Displays a custom video"
+msgstr "Kuvab kohandatud video"
+
+#: admin/apps/overview/overview.php:924
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "Väljastab kaardile WordPressi lühikoodi"
+
+#: admin/apps/overview/overview.php:931
+msgid "Custom HTML"
+msgstr "Kohandatud HTML"
+
+#: admin/apps/overview/overview.php:933
+msgid "Outputs custom HTML to the card"
+msgstr "Väljastab kaardile kohandatud HTML-i"
+
+#: admin/apps/overview/overview.php:940
+msgid "Quote of the day"
+msgstr "Päeva tsitaat"
+
+#: admin/apps/overview/overview.php:942
+msgid "Shows a random quote of the day"
+msgstr "Näitab juhuslikku päeva tsitaati"
+
+#: admin/apps/overview/overview.php:949
+msgid "To do list"
+msgstr "Nimekiri"
+
+#: admin/apps/overview/overview.php:951
+msgid "A simple todo list card"
+msgstr "Lihtne ülesannete nimekirja kaart"
+
+#: admin/apps/overview/overview.php:1038
+msgid "Hello"
+msgstr "Tere"
+
+#: admin/apps/overview/overview.php:1187
+msgid "Clear Layout"
+msgstr "Tühjenda paigutus"
+
+#: admin/apps/overview/overview.php:1191 admin/apps/overview/overview.php:1234
+msgid "New Section"
+msgstr "Uus jaotis"
+
+#: admin/apps/overview/overview.php:1196 admin/apps/overview/overview.php:1237
+msgid "Save changes"
+msgstr "Salvesta muudatused"
+
+#: admin/apps/overview/overview.php:1240
+msgid "Exit edit mode"
+msgstr "Välju redigeerimisrežiimist"
+
+#: admin/apps/overview/overview.php:1253
+msgid "Editing Mode"
+msgstr "Redigeerimisrežiim"
+
+#: admin/apps/overview/overview.php:1265
+msgid "Disconnect Analytics"
+msgstr "Katkestage Analyticsi ühendus"
+
+#: admin/apps/overview/overview.php:1275
+msgid "Export Layout"
+msgstr "Ekspordi paigutus"
+
+#: admin/apps/overview/overview.php:1284
+msgid "Import Layout"
+msgstr "Impordi paigutus"
+
+#: admin/apps/overview/overview.php:1298 admin/classes/settings.php:258
+#: admin/classes/styles.php:457
+msgid "Unlock Export and Import features with pro"
+msgstr "Avage professionaaliga ekspordi- ja impordifunktsioonid"
+
+#: admin/apps/overview/overview.php:1321
+msgid "Home"
+msgstr "Kodu"
+
+#: admin/apps/overview/overview.php:1369
+msgid "It's a little quiet around here"
+msgstr "Siin on natuke vaikne"
+
+#: admin/apps/overview/overview.php:1371
+msgid ""
+"Looks like you haven't created a dashboard yet. Enter edit mode to get "
+"started or import a default template"
+msgstr ""
+"Näib, et te pole veel juhtpaneeli loonud. Alustamiseks sisenege "
+"muutmisrežiimi või importige vaikemall"
+
+#: admin/apps/overview/overview.php:1374
+msgid "Import default template"
+msgstr "Impordi vaikemall"
+
+#: admin/apps/overview/overview.php:1375
+msgid "Enter edit mode"
+msgstr "Sisenege redigeerimisrežiimi"
+
+#: admin/apps/overview/overview.php:1419
+msgid "Match Column Height"
+msgstr "Sobitage veeru kõrgus"
+
+#: admin/apps/overview/overview.php:1427
+msgid "Hide section title"
+msgstr "Peida jaotise pealkiri"
+
+#: admin/apps/overview/overview.php:1435
+msgid "Section Width"
+msgstr "Sektsiooni laius"
+
+#: admin/apps/overview/overview.php:1452
+msgid "Remove Section"
+msgstr "Eemalda jaotis"
+
+#: admin/apps/overview/woocommerce.php:46
+#: admin/apps/overview/woocommerce.php:125
+#: admin/apps/overview/woocommerce.php:203
+msgid "Woocommerce is required for this widget"
+msgstr "Selle vidina jaoks on nõutav Woocommerce"
+
+#: admin/apps/overview/woocommerce.php:74
+msgid "Total Revenue"
+msgstr "Kogutulu"
+
+#: admin/apps/overview/woocommerce.php:76
+msgid "Display total sales revenue in your store within the date range."
+msgstr "Kuvage oma poe kogu müügitulu kuupäevavahemikus."
+
+#: admin/apps/overview/woocommerce.php:77
+#: admin/apps/overview/woocommerce.php:86
+#: admin/apps/overview/woocommerce.php:95
+#: admin/apps/overview/woocommerce.php:104
+#: admin/apps/overview/woocommerce.php:113
+msgid "Commerce"
+msgstr "Kaubandus"
+
+#: admin/apps/overview/woocommerce.php:83
+msgid "Total Orders"
+msgstr "Tellimusi kokku"
+
+#: admin/apps/overview/woocommerce.php:85
+msgid "Display total orders in your store within the date range."
+msgstr "Kuvage oma poe tellimuste kogusumma kuupäevavahemikus."
+
+#: admin/apps/overview/woocommerce.php:92
+msgid "Average Order Value"
+msgstr "Keskmine tellimuse väärtus"
+
+#: admin/apps/overview/woocommerce.php:94
+msgid "Display average order value in your store within the date range."
+msgstr "Kuvage oma poe keskmine tellimuse väärtus kuupäevavahemikus."
+
+#: admin/apps/overview/woocommerce.php:101
+msgid "Recent Orders"
+msgstr "Viimased tellimused"
+
+#: admin/apps/overview/woocommerce.php:103
+msgid "Display recent orders from your store within the date range."
+msgstr "Kuvage oma poe viimased tellimused kuupäevavahemikus."
+
+#: admin/apps/overview/woocommerce.php:110
+msgid "Popular Products"
+msgstr "Populaarsed tooted"
+
+#: admin/apps/overview/woocommerce.php:112
+msgid "Display top selling products from your store within the date range."
+msgstr "Kuvage oma poe enimmüüdud tooted kuupäevavahemikus."
+
+#: admin/apps/overview/woocommerce.php:191
+msgid "No orders during the date range."
+msgstr "Kuupäevavahemikus tellimusi ei ole."
+
+#: admin/apps/overview/woocommerce.php:272
+msgid "No products sold during the date range."
+msgstr "Kuupäevavahemikus ei müüdud ühtegi toodet."
+
+#: admin/apps/users/uip-history.php:132
+msgid "Once every 1 minutes"
+msgstr "Kord iga 1 minuti järel"
+
+#: admin/apps/users/uip-history.php:145
+msgctxt "post type general name"
+msgid "History"
+msgstr "Ajalugu"
+
+#: admin/apps/users/uip-history.php:146
+msgctxt "post type singular name"
+msgid "history"
+msgstr "ajalugu"
+
+#: admin/apps/users/uip-history.php:147
+msgctxt "admin menu"
+msgid "History"
+msgstr "Ajalugu"
+
+#: admin/apps/users/uip-history.php:148
+msgctxt "add new on admin bar"
+msgid "History"
+msgstr "Ajalugu"
+
+#: admin/apps/users/uip-history.php:149
+msgctxt "history"
+msgid "Add New"
+msgstr "Lisa uus"
+
+#: admin/apps/users/uip-history.php:150
+msgid "Add New History"
+msgstr "Lisa uus ajalugu"
+
+#: admin/apps/users/uip-history.php:151
+msgid "New History"
+msgstr "Uus ajalugu"
+
+#: admin/apps/users/uip-history.php:152
+msgid "Edit History"
+msgstr "Redigeeri ajalugu"
+
+#: admin/apps/users/uip-history.php:153
+msgid "View History"
+msgstr "Vaata ajalugu"
+
+#: admin/apps/users/uip-history.php:154
+msgid "All History"
+msgstr "Kogu ajalugu"
+
+#: admin/apps/users/uip-history.php:155
+msgid "Search History"
+msgstr "Otsinguajalugu"
+
+#: admin/apps/users/uip-history.php:156
+msgid "No History found."
+msgstr "Ajalugu ei leitud."
+
+#: admin/apps/users/uip-history.php:157
+msgid "No History found in Trash."
+msgstr "Prügikastist ajalugu ei leitud."
+
+#: admin/apps/users/uip-user-groups.php:41
+msgctxt "post type general name"
+msgid "Group"
+msgstr "Grupp"
+
+#: admin/apps/users/uip-user-groups.php:42
+msgctxt "post type singular name"
+msgid "Group"
+msgstr "Grupp"
+
+#: admin/apps/users/uip-user-groups.php:43
+msgctxt "admin menu"
+msgid "Groups"
+msgstr "Rühmad"
+
+#: admin/apps/users/uip-user-groups.php:44
+msgctxt "add new on admin bar"
+msgid "Group"
+msgstr "Grupp"
+
+#: admin/apps/users/uip-user-groups.php:45
+msgctxt "Group"
+msgid "Add New"
+msgstr "Lisa uus"
+
+#: admin/apps/users/uip-user-groups.php:46
+#: admin/apps/users/uip-user-groups.php:57
+msgid "Add New Group"
+msgstr "Lisa uus grupp"
+
+#: admin/apps/users/uip-user-groups.php:47
+msgid "New Group"
+msgstr "Uus grupp"
+
+#: admin/apps/users/uip-user-groups.php:48
+msgid "Edit Group"
+msgstr "Redigeeri gruppi"
+
+#: admin/apps/users/uip-user-groups.php:49
+msgid "View Group"
+msgstr "Kuva grupp"
+
+#: admin/apps/users/uip-user-groups.php:50
+msgid "All Groups"
+msgstr "Kõik rühmad"
+
+#: admin/apps/users/uip-user-groups.php:51
+msgid "Search Groups"
+msgstr "Otsi gruppe"
+
+#: admin/apps/users/uip-user-groups.php:52
+msgid "No Groups found."
+msgstr "Gruppe ei leitud."
+
+#: admin/apps/users/uip-user-groups.php:53
+msgid "No Groups found in Trash."
+msgstr "Prügikastist gruppe ei leitud."
+
+#: admin/apps/users/uip-user-groups.php:80
+msgid "No group to delete"
+msgstr "Kustutamiseks pole gruppi"
+
+#: admin/apps/users/uip-user-groups.php:90
+msgid "Unable to delete the group"
+msgstr "Gruppi ei saa kustutada"
+
+#: admin/apps/users/uip-user-groups.php:147
+msgid "Group deleted"
+msgstr "Grupp kustutatud"
+
+#: admin/apps/users/uip-user-groups.php:166
+msgid "Unable to move folder group itself"
+msgstr "Kaustarühma ennast ei saa teisaldada"
+
+#: admin/apps/users/uip-user-groups.php:180
+msgid "Unable to move group"
+msgstr "Gruppi ei saa teisaldada"
+
+#: admin/apps/users/uip-user-groups.php:208
+msgid "Group moved"
+msgstr "Grupp kolis"
+
+#: admin/apps/users/uip-user-groups.php:227
+msgid "No item to move"
+msgstr "Pole üksust, mida teisaldada"
+
+#: admin/apps/users/uip-user-groups.php:241
+msgid "Item moved"
+msgstr "Üksus teisaldatud"
+
+#: admin/apps/users/uip-user-groups.php:259
+msgid "No users to move"
+msgstr "Pole kasutajaid, keda teisaldada"
+
+#: admin/apps/users/uip-user-groups.php:277
+msgid "User moved"
+msgstr "Kasutaja teisaldatud"
+
+#: admin/apps/users/uip-user-groups.php:318
+msgid "Group updated"
+msgstr "Gruppi värskendati"
+
+#: admin/apps/users/uip-user-groups.php:339 admin/classes/folders.php:557
+msgid "Title is required"
+msgstr "Pealkiri on kohustuslik"
+
+#: admin/apps/users/uip-user-groups.php:345 admin/classes/folders.php:563
+msgid "Colour is required"
+msgstr "Värv on nõutav"
+
+#: admin/apps/users/uip-user-groups.php:360
+msgid "Unable to create group"
+msgstr "Gruppi ei saa luua"
+
+#: admin/apps/users/uip-user-groups.php:372
+msgid "Group created"
+msgstr "Grupp loodud"
+
+#: admin/apps/users/uip-users-ajax.php:415
+msgid "Unknown"
+msgstr "Tundmatu"
+
+#: admin/apps/users/uip-users-ajax.php:511
+#: admin/apps/users/uip-users-ajax.php:577
+msgid "You don't have sufficent priviledges to edit users"
+msgstr "Teil pole kasutajate muutmiseks piisavalt õigusi"
+
+#: admin/apps/users/uip-users-ajax.php:517
+#: admin/apps/users/uip-users-ajax.php:1023
+msgid "Email is not valid"
+msgstr "E-post ei kehti"
+
+#: admin/apps/users/uip-users-ajax.php:528
+#: admin/apps/users/uip-users-ajax.php:1016
+msgid "Email already exists"
+msgstr "E-post on juba olemas"
+
+#: admin/apps/users/uip-users-ajax.php:557
+#: admin/apps/users/uip-users-ajax.php:1069
+msgid "User saved"
+msgstr "Kasutaja salvestatud"
+
+#: admin/apps/users/uip-users-ajax.php:583
+msgid "No users sent to update"
+msgstr "Ühtegi kasutajat ei saadetud värskendama"
+
+#: admin/apps/users/uip-users-ajax.php:589
+msgid "No roles sent to update"
+msgstr "Ühtegi rolli värskendamiseks ei saadetud"
+
+#: admin/apps/users/uip-users-ajax.php:610
+msgid "User roles updated"
+msgstr "Kasutajarolle värskendati"
+
+#: admin/apps/users/uip-users-ajax.php:630
+#: admin/apps/users/uip-users-ajax.php:716
+#: admin/apps/users/uip-users-ajax.php:777
+#: admin/apps/users/uip-users-ajax.php:818
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr "Teil pole rollide haldamiseks piisavalt õigusi"
+
+#: admin/apps/users/uip-users-ajax.php:636
+msgid "Original role name required"
+msgstr "Nõutav on rolli algne nimi"
+
+#: admin/apps/users/uip-users-ajax.php:642
+#: admin/apps/users/uip-users-ajax.php:722
+#: admin/apps/users/uip-users-ajax.php:783
+#: admin/apps/users/uip-users-ajax.php:836
+#: admin/apps/users/uip-users-ajax.php:879
+#: admin/apps/users/uip-users-ajax.php:885
+#: admin/apps/users/uip-users-ajax.php:944
+#: admin/apps/users/uip-users-ajax.php:950
+msgid "Role name is required"
+msgstr "Rolli nimi on kohustuslik"
+
+#: admin/apps/users/uip-users-ajax.php:667
+msgid "Role saved"
+msgstr "Roll salvestatud"
+
+#: admin/apps/users/uip-users-ajax.php:686
+msgid "You don't have sufficent priviledges to do this"
+msgstr "Teil pole selleks piisavaid õigusi"
+
+#: admin/apps/users/uip-users-ajax.php:697
+msgid "User logged out everywhere"
+msgstr "Kasutaja logis kõikjalt välja"
+
+#: admin/apps/users/uip-users-ajax.php:728
+msgid "Role label cannot contain spaces"
+msgstr "Rolli silt ei tohi sisaldada tühikuid"
+
+#: admin/apps/users/uip-users-ajax.php:734
+msgid "Role label is required"
+msgstr "Rolli silt on nõutav"
+
+#: admin/apps/users/uip-users-ajax.php:753
+msgid "Unable to add role. Make sure role name is unique"
+msgstr "Rolli ei saa lisada. Veenduge, et rolli nimi oleks kordumatu"
+
+#: admin/apps/users/uip-users-ajax.php:758
+msgid "Role created"
+msgstr "Roll loodud"
+
+#: admin/apps/users/uip-users-ajax.php:792
+#: admin/apps/users/uip-users-ajax.php:843
+msgid "You can't delete a role that is currently assigned to yourself"
+msgstr "Te ei saa praegu teile määratud rolli kustutada"
+
+#: admin/apps/users/uip-users-ajax.php:799
+msgid "Role deleted"
+msgstr "Roll kustutatud"
+
+#: admin/apps/users/uip-users-ajax.php:824
+msgid "No roles to delete"
+msgstr "Kustutatavaid rolle pole"
+
+#: admin/apps/users/uip-users-ajax.php:852
+msgid "Roles deleted"
+msgstr "Rollid kustutatud"
+
+#: admin/apps/users/uip-users-ajax.php:873
+msgid "You don't have sufficent priviledges to add this capability"
+msgstr "Teil pole selle võimaluse lisamiseks piisavaid õigusi"
+
+#: admin/apps/users/uip-users-ajax.php:891
+#: admin/apps/users/uip-users-ajax.php:956
+msgid "Role name cannot contain spaces"
+msgstr "Rolli nimi ei tohi sisaldada tühikuid"
+
+#: admin/apps/users/uip-users-ajax.php:897
+msgid "Capability name cannot contain spaces"
+msgstr "Võimaluse nimi ei tohi sisaldada tühikuid"
+
+#: admin/apps/users/uip-users-ajax.php:912
+msgid "Unable to add capability. Make sure role name is unique"
+msgstr "Võimalust ei saa lisada. Veenduge, et rolli nimi oleks kordumatu"
+
+#: admin/apps/users/uip-users-ajax.php:917
+msgid "Capability added"
+msgstr "Võimalus lisatud"
+
+#: admin/apps/users/uip-users-ajax.php:938
+msgid "You don't have sufficent priviledges to delete this capability"
+msgstr "Teil pole selle võimaluse kustutamiseks piisavaid õigusi"
+
+#: admin/apps/users/uip-users-ajax.php:971
+msgid "Unable to delete capability. Make sure role name is unique"
+msgstr "Võimalust ei saa kustutada. Veenduge, et rolli nimi oleks kordumatu"
+
+#: admin/apps/users/uip-users-ajax.php:976
+msgid "Capability deleted"
+msgstr "Võimalus kustutatud"
+
+#: admin/apps/users/uip-users-ajax.php:996
+msgid "You don't have sufficent priviledges to create users"
+msgstr "Teil pole kasutajate loomiseks piisavalt õigusi"
+
+#: admin/apps/users/uip-users-ajax.php:1003
+msgid "Username already exists"
+msgstr "Kasutajanimi on juba olemas"
+
+#: admin/apps/users/uip-users-ajax.php:1009
+msgid "Username is not valid"
+msgstr "Kasutajanimi ei kehti"
+
+#: admin/apps/users/uip-users-ajax.php:1029
+msgid "Password is required"
+msgstr "Parool on nõutav"
+
+#: admin/apps/users/uip-users-ajax.php:1088
+#: admin/apps/users/uip-users-ajax.php:1127
+msgid "You don't have sufficent priviledges to edit this user"
+msgstr "Teil pole selle kasutaja muutmiseks piisavalt õigusi"
+
+#: admin/apps/users/uip-users-ajax.php:1097
+msgid "Password reset link sent"
+msgstr "Parooli lähtestamise link saadeti"
+
+#: admin/apps/users/uip-users-ajax.php:1101
+msgid "Unable to send password reset email at the moment"
+msgstr "Parooli lähtestamise meili ei saa praegu saata"
+
+#: admin/apps/users/uip-users-ajax.php:1121
+msgid "No users sent to reset passwords!"
+msgstr "Ühtegi kasutajat ei saadetud paroolide lähtestamiseks!"
+
+#: admin/apps/users/uip-users-ajax.php:1141
+msgid "Unable to send password reset email"
+msgstr "Parooli lähtestamise meili ei saa saata"
+
+#: admin/apps/users/uip-users-ajax.php:1142
+#: admin/apps/users/uip-users-ajax.php:1315
+#: admin/apps/users/uip-users-ajax.php:1325
+#, php-format
+msgid "User ID: %s"
+msgstr "Kasutaja ID: %s"
+
+#: admin/apps/users/uip-users-ajax.php:1148
+msgid "Password reset links succesfully sent"
+msgstr "Parooli lähtestamise lingid saadeti edukalt"
+
+#: admin/apps/users/uip-users-ajax.php:1173
+msgid "Subject is required"
+msgstr "Teema on kohustuslik"
+
+#: admin/apps/users/uip-users-ajax.php:1179
+msgid "Reply to email is required"
+msgstr "E-kirjale vastamine on kohustuslik"
+
+#: admin/apps/users/uip-users-ajax.php:1185
+msgid "Message is required"
+msgstr "Sõnum on kohustuslik"
+
+#: admin/apps/users/uip-users-ajax.php:1200
+msgid "No email to send message to."
+msgstr "Pole meilisõnumit, millele sõnumit saata."
+
+#: admin/apps/users/uip-users-ajax.php:1232
+msgid "Unable to send mail at this time"
+msgstr "Meil ei saa praegu saata"
+
+#: admin/apps/users/uip-users-ajax.php:1237
+msgid "Message sent"
+msgstr "Sõnum saadetud"
+
+#: admin/apps/users/uip-users-ajax.php:1261
+msgid "You can't delete yourself!"
+msgstr "Te ei saa ennast kustutada!"
+
+#: admin/apps/users/uip-users-ajax.php:1270
+msgid "User successfully deleted"
+msgstr "Kasutaja kustutamine õnnestus"
+
+#: admin/apps/users/uip-users-ajax.php:1274
+#: admin/apps/users/uip-users-ajax.php:1279
+#: admin/apps/users/uip-users-ajax.php:1305
+msgid "You don't have sufficent priviledges to delete this user"
+msgstr "Teil pole selle kasutaja kustutamiseks piisavalt õigusi"
+
+#: admin/apps/users/uip-users-ajax.php:1299
+msgid "No users sent to delete!"
+msgstr "Ühtegi kasutajat ei saadetud kustutamiseks!"
+
+#: admin/apps/users/uip-users-ajax.php:1314
+msgid "You can't delete yourself"
+msgstr "Te ei saa ennast kustutada"
+
+#: admin/apps/users/uip-users-ajax.php:1324
+msgid "Unable to delete this user"
+msgstr "Seda kasutajat ei saa kustutada"
+
+#: admin/apps/users/uip-users-ajax.php:1331
+msgid "Users successfully deleted"
+msgstr "Kasutajad edukalt kustutatud"
+
+#: admin/apps/users/uip-users.php:53 admin/apps/users/uip-users.php:266
+#: admin/apps/users/uip-users.php:377 admin/apps/users/uip-users.php:1291
+msgid "Users"
+msgstr "Kasutajad"
+
+#: admin/apps/users/uip-users.php:54
+msgid "Creates user management page"
+msgstr "Loob kasutajahalduslehe"
+
+#: admin/apps/users/uip-users.php:58
+msgid "Disable Users Page?"
+msgstr "Kas keelata kasutajate leht?"
+
+#: admin/apps/users/uip-users.php:59
+msgid ""
+"If disabled, the user management page will not be available to any users."
+msgstr ""
+"Kui see on keelatud, pole kasutajahaldusleht ühelegi kasutajale saadaval."
+
+#: admin/apps/users/uip-users.php:66
+msgid "User management page Disabled for"
+msgstr "Kasutajate haldamise leht Keelatud"
+
+#: admin/apps/users/uip-users.php:67
+msgid ""
+"When the user management page module is disabled, the user management page "
+"will not be accesible for the users / roles"
+msgstr ""
+"Kui kasutajahalduslehe moodul on keelatud, ei ole kasutajate halduse leht "
+"kasutajatele/rollidele ligipääsetav"
+
+#: admin/apps/users/uip-users.php:75
+msgid "Enable user activity log?"
+msgstr "Kas lubada kasutaja tegevuste logi?"
+
+#: admin/apps/users/uip-users.php:76
+msgid ""
+"If enabled, uipress will log actions taken by all users, including page "
+"views, comments, post creation etc."
+msgstr ""
+"Kui see on lubatud, logib uipress kõigi kasutajate tehtud toimingud, "
+"sealhulgas lehevaatamised, kommentaarid, postituste loomine jne."
+
+#: admin/apps/users/uip-users.php:84
+msgid "Disable page view logging"
+msgstr "Keela lehevaate logimine"
+
+#: admin/apps/users/uip-users.php:87
+#, php-format
+msgid ""
+"By Default, %s will track page views for logged in users as part of the "
+"activity log. While sometimes useful, this will have the biggest impact on "
+"the log size in the database. Disabling this feature will keep the log "
+"smaller."
+msgstr ""
+"Vaikimisi jälgib %s tegevuste logi osana sisselogitud kasutajate "
+"lehevaatamisi. Kuigi see on mõnikord kasulik, mõjutab see andmebaasi logi "
+"suurust kõige rohkem. Selle funktsiooni keelamisel jääb logi väiksemaks."
+
+#: admin/apps/users/uip-users.php:99
+msgid "Enable recent page view logging"
+msgstr "Luba hiljutise lehevaatamise logimine"
+
+#: admin/apps/users/uip-users.php:100
+#, php-format
+msgid ""
+"Seperate to the main history log, %s will keep 5 recent page views in the "
+"user meta. This can have a small impact on the page load speed."
+msgstr ""
+"Eraldi peamisest ajaloologist säilitab %s kasutaja meta 5 viimast "
+"lehevaatamist. Sellel võib olla väike mõju lehe laadimiskiirusele."
+
+#: admin/apps/users/uip-users.php:108
+msgid "How long to keep history?"
+msgstr "Kui kaua ajalugu säilitada?"
+
+#: admin/apps/users/uip-users.php:109
+msgid ""
+"By default, activity items will be deleted after 60 days, enter the amount "
+"of days to keep items to change this"
+msgstr ""
+"Vaikimisi kustutatakse tegevusüksused 60 päeva pärast. Selle muutmiseks "
+"sisestage päevade arv, mille jooksul üksused säilivad"
+
+#: admin/apps/users/uip-users.php:118
+msgid "Delay history entries?"
+msgstr "Viivitada ajaloo kirjed?"
+
+#: admin/apps/users/uip-users.php:120
+msgid ""
+"Use scheduled tasks to insert the history actions to avoid any extra page "
+"load speed. By default entries are added as they happen, with this enabled "
+"there will be delay of about 10 seconds before actions appear."
+msgstr ""
+"Kasutage ajastatud toiminguid ajalootoimingute sisestamiseks, et vältida "
+"lehe lisakiirust. Vaikimisi lisatakse kirjed, kui need juhtuvad, kui see on "
+"lubatud, kulub toimingute ilmumiseni umbes 10 sekundit."
+
+#: admin/apps/users/uip-users.php:131
+msgid "Anonymize user IP addresses?"
+msgstr "Kas muuta kasutajate IP-aadressid anonüümseks?"
+
+#: admin/apps/users/uip-users.php:132
+msgid ""
+"Each history item logs the users IP address, enable this to anonymize the "
+"address."
+msgstr ""
+"Iga ajalooüksus logib kasutaja IP-aadressi, lubage see aadressi anonüümseks "
+"muutmiseks."
+
+#: admin/apps/users/uip-users.php:217 admin/apps/users/uip-users.php:218
+msgid "User Management"
+msgstr "Kasutajate haldus"
+
+#: admin/apps/users/uip-users.php:270 admin/apps/users/uip-users.php:328
+#: admin/apps/users/uip-users.php:1244
+msgid "Roles"
+msgstr "Rollid"
+
+#: admin/apps/users/uip-users.php:274
+msgid "Activity"
+msgstr "Tegevus"
+
+#: admin/apps/users/uip-users.php:290
+msgid "results"
+msgstr "tulemused"
+
+#: admin/apps/users/uip-users.php:291 admin/apps/users/uip-users.php:316
+msgid "Previous"
+msgstr "Eelmine"
+
+#: admin/apps/users/uip-users.php:292 admin/apps/users/uip-users.php:315
+msgid "Next"
+msgstr "Edasi"
+
+#: admin/apps/users/uip-users.php:293
+msgid "Search users"
+msgstr "Otsige kasutajaid"
+
+#: admin/apps/users/uip-users.php:294
+msgid "Filter by role"
+msgstr "Filtreeri rolli järgi"
+
+#: admin/apps/users/uip-users.php:295
+msgid "Search roles"
+msgstr "Otsi rolle"
+
+#: admin/apps/users/uip-users.php:296
+msgid "Table options"
+msgstr "Tabelivalikud"
+
+#: admin/apps/users/uip-users.php:297
+msgid "Order"
+msgstr "Telli"
+
+#: admin/apps/users/uip-users.php:298
+msgid "Ascending"
+msgstr "Kasvav"
+
+#: admin/apps/users/uip-users.php:299
+msgid "Descending"
+msgstr "Langevad"
+
+#: admin/apps/users/uip-users.php:300
+msgid "Sort By"
+msgstr "Sorteerima"
+
+#: admin/apps/users/uip-users.php:301
+msgid "Per page"
+msgstr "lehekülje kohta"
+
+#: admin/apps/users/uip-users.php:302
+msgid "Fields"
+msgstr "Väljad"
+
+#: admin/apps/users/uip-users.php:303
+msgid "Date created"
+msgstr "Loomise kuupäev"
+
+#: admin/apps/users/uip-users.php:304
+msgid "On"
+msgstr "Peal"
+
+#: admin/apps/users/uip-users.php:305
+msgid "After"
+msgstr "Pärast"
+
+#: admin/apps/users/uip-users.php:306
+msgid "Before"
+msgstr "Enne"
+
+#: admin/apps/users/uip-users.php:307 admin/apps/users/uip-users.php:308
+msgid "Date filters"
+msgstr "Kuupäeva filtrid"
+
+#: admin/apps/users/uip-users.php:310
+msgid "Account created"
+msgstr "Konto loodud"
+
+#: admin/apps/users/uip-users.php:312 admin/apps/users/uip-users.php:326
+#: admin/apps/users/uip-users.php:1219
+msgid "Email"
+msgstr "Meil"
+
+#: admin/apps/users/uip-users.php:313
+msgid "Recent page views"
+msgstr "Viimased lehevaatamised"
+
+#: admin/apps/users/uip-users.php:314
+msgid "Recent activity"
+msgstr "Viimane tegevus"
+
+#: admin/apps/users/uip-users.php:317
+msgid "Last login"
+msgstr "Viimane sisselogimine"
+
+#: admin/apps/users/uip-users.php:318
+msgid "Login location"
+msgstr "Sisselogimiskoht"
+
+#: admin/apps/users/uip-users.php:319
+msgid "No recent activity"
+msgstr "Hiljutine tegevus puudub"
+
+#: admin/apps/users/uip-users.php:320
+msgid "Total posts"
+msgstr "Postitusi kokku"
+
+#: admin/apps/users/uip-users.php:321
+msgid "Total comments"
+msgstr "Kommentaarid kokku"
+
+#: admin/apps/users/uip-users.php:322
+msgid "User Options"
+msgstr "Kasutaja valikud"
+
+#: admin/apps/users/uip-users.php:323 admin/apps/users/uip-users.php:332
+msgid "Edit user"
+msgstr "Muuda kasutajat"
+
+#: admin/apps/users/uip-users.php:324
+msgid "First name"
+msgstr "Eesnimi"
+
+#: admin/apps/users/uip-users.php:325
+msgid "Last name"
+msgstr "Perekonnanimi"
+
+#: admin/apps/users/uip-users.php:327
+msgid "Assign roles"
+msgstr "Määrake rollid"
+
+#: admin/apps/users/uip-users.php:329
+msgid "User notes"
+msgstr "Kasutaja märkused"
+
+#: admin/apps/users/uip-users.php:330
+msgid "Cancel"
+msgstr "Tühista"
+
+#: admin/apps/users/uip-users.php:331
+msgid "Update user"
+msgstr "Värskenda kasutajat"
+
+#: admin/apps/users/uip-users.php:333
+msgid "Send password reset"
+msgstr "Saada parooli lähtestamine"
+
+#: admin/apps/users/uip-users.php:334 admin/apps/users/uip-users.php:342
+msgid "Send message"
+msgstr "Saada sõnum"
+
+#: admin/apps/users/uip-users.php:335
+msgid "Delete user"
+msgstr "Kustuta kasutaja"
+
+#: admin/apps/users/uip-users.php:336
+msgid "Are you sure you want to delete this user?"
+msgstr "Kas olete kindel, et soovite selle kasutaja kustutada?"
+
+#: admin/apps/users/uip-users.php:337
+msgid "Are you sure you want to the selected users?"
+msgstr "Kas olete kindel, et soovite valitud kasutajaid?"
+
+#: admin/apps/users/uip-users.php:338
+msgid ""
+"Are you sure you want to send password reset links to the selected users?"
+msgstr ""
+"Kas olete kindel, et soovite valitud kasutajatele parooli lähtestamise linke "
+"saata?"
+
+#: admin/apps/users/uip-users.php:339
+msgid "Recipient"
+msgstr "Saaja"
+
+#: admin/apps/users/uip-users.php:340
+msgid "Subject"
+msgstr "Teema"
+
+#: admin/apps/users/uip-users.php:341
+msgid "Message"
+msgstr "Sõnum"
+
+#: admin/apps/users/uip-users.php:343
+msgid "Reply to email"
+msgstr "Vasta meilile"
+
+#: admin/apps/users/uip-users.php:344
+msgid "New user"
+msgstr "Uus kasutaja"
+
+#: admin/apps/users/uip-users.php:345
+msgid "Save user"
+msgstr "Salvesta kasutaja"
+
+#: admin/apps/users/uip-users.php:346
+msgid "Password"
+msgstr "Parool"
+
+#: admin/apps/users/uip-users.php:347 admin/apps/users/uip-users.php:1207
+msgid "Username"
+msgstr "Kasutajanimi"
+
+#: admin/apps/users/uip-users.php:348 admin/apps/users/uip-users.php:1279
+msgid "Role name"
+msgstr "Rolli nimi"
+
+#: admin/apps/users/uip-users.php:349
+msgid "Edit role"
+msgstr "Muuda rolli"
+
+#: admin/apps/users/uip-users.php:350
+msgid "Save role"
+msgstr "Salvesta roll"
+
+#: admin/apps/users/uip-users.php:351
+msgid "Capabilities"
+msgstr "Võimalused"
+
+#: admin/apps/users/uip-users.php:353
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"Muudate praegu administraatori rolli. See on tavaliselt saidi kõige olulisem "
+"roll, nii et ärge eemaldage vajalikke võimalusi."
+
+#: admin/apps/users/uip-users.php:356
+msgid "Delete role"
+msgstr "Kustuta roll"
+
+#: admin/apps/users/uip-users.php:357
+msgid "Are you sure you want to delete this role?"
+msgstr "Kas olete kindel, et soovite selle rolli kustutada?"
+
+#: admin/apps/users/uip-users.php:358
+msgid "Are you sure you want to delete these roles?"
+msgstr "Kas olete kindel, et soovite need rollid kustutada?"
+
+#: admin/apps/users/uip-users.php:359
+msgid "Role options"
+msgstr "Rollivalikud"
+
+#: admin/apps/users/uip-users.php:360
+msgid "Clone"
+msgstr "Klooni"
+
+#: admin/apps/users/uip-users.php:361
+msgid "New role"
+msgstr "Uus roll"
+
+#: admin/apps/users/uip-users.php:362
+msgid "Role label"
+msgstr "Rolli silt"
+
+#: admin/apps/users/uip-users.php:363
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "Üks sõna, ilma tühikuteta. Lubatud on allkriipsud ja kriipsud"
+
+#: admin/apps/users/uip-users.php:364
+msgid "copy"
+msgstr "kopeerida"
+
+#: admin/apps/users/uip-users.php:365
+msgid "search roles"
+msgstr "otsi rolle"
+
+#: admin/apps/users/uip-users.php:366
+msgid "Search history"
+msgstr "Otsinguajalugu"
+
+#: admin/apps/users/uip-users.php:367
+msgid "All actions"
+msgstr "Kõik toimingud"
+
+#: admin/apps/users/uip-users.php:368
+msgid "Add custom capability (Single word, no spaces)"
+msgstr "Lisa kohandatud võimalus (üks sõna, tühikuteta)"
+
+#: admin/apps/users/uip-users.php:369
+msgid "Add capability"
+msgstr "Lisage võimalus"
+
+#: admin/apps/users/uip-users.php:370
+msgid "roles selected"
+msgstr "valitud rollid"
+
+#: admin/apps/users/uip-users.php:371
+msgid "Delete selected"
+msgstr "Kustuta valitud"
+
+#: admin/apps/users/uip-users.php:372
+msgid "Deselect"
+msgstr "Tühista valik"
+
+#: admin/apps/users/uip-users.php:373
+msgid "Delete users"
+msgstr "Kustuta kasutajad"
+
+#: admin/apps/users/uip-users.php:374
+msgid "Clear selection"
+msgstr "Tühjenda valik"
+
+#: admin/apps/users/uip-users.php:375
+msgid "recipients"
+msgstr "saajad"
+
+#: admin/apps/users/uip-users.php:376 admin/classes/uipress-app.php:1409
+msgid "users"
+msgstr "kasutajad"
+
+#: admin/apps/users/uip-users.php:378
+msgid "Replace existing roles"
+msgstr "Asendage olemasolevad rollid"
+
+#: admin/apps/users/uip-users.php:379
+msgid "Update roles"
+msgstr "Uuenda rolle"
+
+#: admin/apps/users/uip-users.php:380
+msgid "users selected"
+msgstr "valitud kasutajad"
+
+#: admin/apps/users/uip-users.php:381
+msgid "Choose image"
+msgstr "Valige pilt"
+
+#: admin/apps/users/uip-users.php:382
+msgid "Profile image"
+msgstr "Profiilipilt"
+
+#: admin/apps/users/uip-users.php:383 admin/apps/users/uip-users.php:387
+#: admin/apps/users/uip-users.php:1250
+msgid "Groups"
+msgstr "Rühmad"
+
+#: admin/apps/users/uip-users.php:384
+msgid "All users"
+msgstr "Kõik kasutajad"
+
+#: admin/apps/users/uip-users.php:385
+msgid "No group"
+msgstr "Pole gruppi"
+
+#: admin/apps/users/uip-users.php:386
+msgid "No groups created yet."
+msgstr "Gruppe pole veel loodud."
+
+#: admin/apps/users/uip-users.php:388
+msgid "New group"
+msgstr "Uus grupp"
+
+#: admin/apps/users/uip-users.php:390
+msgid "Color"
+msgstr "Värv"
+
+#: admin/apps/users/uip-users.php:391
+msgid "Create group"
+msgstr "Loo grupp"
+
+#: admin/apps/users/uip-users.php:392
+msgid "Group name"
+msgstr "Grupi nimi"
+
+#: admin/apps/users/uip-users.php:393
+msgid "Edit group"
+msgstr "Redigeeri gruppi"
+
+#: admin/apps/users/uip-users.php:394
+msgid "Update group"
+msgstr "Värskenda gruppi"
+
+#: admin/apps/users/uip-users.php:395
+msgid "Remove from group"
+msgstr "Eemalda grupist"
+
+#: admin/apps/users/uip-users.php:396
+msgid "User groups"
+msgstr "Kasutajarühmad"
+
+#: admin/apps/users/uip-users.php:397
+msgid "Assign groups"
+msgstr "Määrake rühmad"
+
+#: admin/apps/users/uip-users.php:398
+msgid "Search groups"
+msgstr "Otsi gruppe"
+
+#: admin/apps/users/uip-users.php:399
+msgid "Pro feature"
+msgstr "Pro funktsioon"
+
+#: admin/apps/users/uip-users.php:400
+msgid "Upgrade to UiPress Pro to unlock the user management and activity logs"
+msgstr ""
+"Kasutajahaldus- ja tegevuslogide avamiseks minge üle versioonile UiPress Pro"
+
+#: admin/apps/users/uip-users.php:401
+msgid "View Uipress Pro plans"
+msgstr "Vaadake Uipress Pro plaane"
+
+#: admin/apps/users/uip-users.php:402
+msgid "Group icon"
+msgstr "Grupi ikoon"
+
+#: admin/apps/users/uip-users.php:403
+msgid "Logout everywhere else"
+msgstr "Logi välja kõikjal mujal"
+
+#: admin/apps/users/uip-users.php:404
+msgid "Open profile"
+msgstr "Ava profiil"
+
+#: admin/apps/users/uip-users.php:405
+msgid ""
+"Are you sure you want to delete this capability? This will remove the "
+"capability sitewide. Please note not all capabilities can be deleted."
+msgstr ""
+"Kas olete kindel, et soovite selle võimaluse kustutada? See eemaldab "
+"võimaluse kogu saidil. Pange tähele, et kõiki võimalusi ei saa kustutada."
+
+#: admin/apps/users/uip-users.php:517
+msgid "Read"
+msgstr "Lugege"
+
+#: admin/apps/users/uip-users.php:529
+msgid "Publish"
+msgstr "Avalda"
+
+#: admin/apps/users/uip-users.php:535 admin/classes/uipress-app.php:1335
+msgid "Create"
+msgstr "Loo"
+
+#: admin/apps/users/uip-users.php:553
+msgid "Manage"
+msgstr "Halda"
+
+#: admin/apps/users/uip-users.php:565 admin/classes/settings.php:242
+#: admin/classes/styles.php:442
+msgid "Import"
+msgstr "Import"
+
+#: admin/apps/users/uip-users.php:571
+msgid "Custom"
+msgstr "Kohandatud"
+
+#: admin/apps/users/uip-users.php:737
+msgid "User no longer exists"
+msgstr "Kasutajat pole enam olemas"
+
+#: admin/apps/users/uip-users.php:742 admin/apps/users/uip-users.php:1106
+#, php-format
+msgid "%s ago"
+msgstr "%s tagasi"
+
+#: admin/apps/users/uip-users.php:753 admin/apps/users/uip-users.php:1370
+msgid "Page view"
+msgstr "Lehe vaade"
+
+#: admin/apps/users/uip-users.php:755
+msgid "Viewed page"
+msgstr "Vaadatud leht"
+
+#: admin/apps/users/uip-users.php:764 admin/apps/users/uip-users.php:1374
+msgid "Post created"
+msgstr "Postitus loodud"
+
+#: admin/apps/users/uip-users.php:766
+msgid "Created post"
+msgstr "Postitus loodud"
+
+#: admin/apps/users/uip-users.php:769 admin/apps/users/uip-users.php:790
+#: admin/apps/users/uip-users.php:838
+msgid "View page"
+msgstr "Vaata lehte"
+
+#: admin/apps/users/uip-users.php:773 admin/apps/users/uip-users.php:794
+#: admin/apps/users/uip-users.php:811 admin/apps/users/uip-users.php:842
+msgid "Edit page"
+msgstr "Redigeeri lehte"
+
+#: admin/apps/users/uip-users.php:785
+msgid "Post modified"
+msgstr "Postitust muudetud"
+
+#: admin/apps/users/uip-users.php:787
+msgid "Modified post"
+msgstr "Muudetud postitus"
+
+#: admin/apps/users/uip-users.php:806
+msgid "Post moved to trash"
+msgstr "Postitus teisaldati prügikasti"
+
+#: admin/apps/users/uip-users.php:808
+msgid "Moved post to trash"
+msgstr "Postitus teisaldati prügikasti"
+
+#: admin/apps/users/uip-users.php:820 admin/apps/users/uip-users.php:1386
+msgid "Post deleted"
+msgstr "Postitus kustutatud"
+
+#: admin/apps/users/uip-users.php:822
+msgid "Deleted post"
+msgstr "Kustutatud postitus"
+
+#: admin/apps/users/uip-users.php:831 admin/apps/users/uip-users.php:1390
+msgid "Post status change"
+msgstr "Postita oleku muudatus"
+
+#: admin/apps/users/uip-users.php:834
+#, php-format
+msgid "Post status changed from %s to %s"
+msgstr "Postituse olek muudeti %s asemel %s"
+
+#: admin/apps/users/uip-users.php:855
+msgid "Posted a comment"
+msgstr "Postitas kommentaari"
+
+#: admin/apps/users/uip-users.php:857
+msgid "Posted a comment on post"
+msgstr "Postitas postitusele kommentaari"
+
+#: admin/apps/users/uip-users.php:868 admin/apps/users/uip-users.php:898
+msgid "View comment"
+msgstr "Vaata kommentaari"
+
+#: admin/apps/users/uip-users.php:872 admin/apps/users/uip-users.php:902
+msgid "Edit comment"
+msgstr "Muuda kommentaari"
+
+#: admin/apps/users/uip-users.php:884
+msgid "Trashed a comment"
+msgstr "Kommentaar prügikasti"
+
+#: admin/apps/users/uip-users.php:886
+msgid "Moved a comment to the trash"
+msgstr "Kommentaar teisaldati prügikasti"
+
+#: admin/apps/users/uip-users.php:912
+msgid "Deleted a comment"
+msgstr "Kustutas kommentaar"
+
+#: admin/apps/users/uip-users.php:914
+msgid "Permanently deleted a comment"
+msgstr "Kustutas kommentaari jäädavalt"
+
+#: admin/apps/users/uip-users.php:920 admin/apps/users/uip-users.php:1403
+msgid "Plugin activated"
+msgstr "Plugin aktiveeritud"
+
+#: admin/apps/users/uip-users.php:922
+#, php-format
+msgid "A plugin called %s was activated"
+msgstr "Aktiveeriti pistikprogramm nimega %s"
+
+#: admin/apps/users/uip-users.php:928 admin/apps/users/uip-users.php:1407
+msgid "Plugin deactivated"
+msgstr "Plugin deaktiveeritud"
+
+#: admin/apps/users/uip-users.php:930
+#, php-format
+msgid "A plugin called %s was deactivated"
+msgstr "Plugin nimega %s deaktiveeriti"
+
+#: admin/apps/users/uip-users.php:936
+msgid "User logged in"
+msgstr "Kasutaja logis sisse"
+
+#: admin/apps/users/uip-users.php:938
+#, php-format
+msgid "Logged in with ip address %s. Country: %s"
+msgstr "Sisse logitud IP-aadressiga %s. Riik: %s"
+
+#: admin/apps/users/uip-users.php:944
+msgid "User logged out"
+msgstr "Kasutaja logis välja"
+
+#: admin/apps/users/uip-users.php:946
+#, php-format
+msgid "Logged out with ip address %s. Country: %s"
+msgstr "Välja logitud IP-aadressiga %s. Riik: %s"
+
+#: admin/apps/users/uip-users.php:982 admin/apps/users/uip-users.php:988
+#: admin/apps/users/uip-users.php:1002
+msgid "Site option changed"
+msgstr "Saidi valik muudetud"
+
+#: admin/apps/users/uip-users.php:984
+#, php-format
+msgid "Site option (%s) was changed from %s to %s"
+msgstr "Saidi valik (%s) muudeti %s asemel %s"
+
+#: admin/apps/users/uip-users.php:990
+#, php-format
+msgid "Site option was changed. %s"
+msgstr "Saidi valikut muudeti. %s"
+
+#: admin/apps/users/uip-users.php:1004
+#, php-format
+msgid "Site option (%s) was added with a value of (%s)"
+msgstr "Saidivalik (%s) lisati väärtusega (%s)"
+
+#: admin/apps/users/uip-users.php:1010
+msgid "Uploaded attachment"
+msgstr "Manus on üles laaditud"
+
+#: admin/apps/users/uip-users.php:1012
+#, php-format
+msgid "Attachment called (%s) was uploaded to (%s). Attachment ID: %s"
+msgstr "Manus nimega (%s) laaditi üles asukohta (%s). Manuse ID: %s"
+
+#: admin/apps/users/uip-users.php:1021
+msgid "View attachment"
+msgstr "Vaata manust"
+
+#: admin/apps/users/uip-users.php:1029
+msgid "Deleted attachment"
+msgstr "Manus on kustutatud"
+
+#: admin/apps/users/uip-users.php:1031
+#, php-format
+msgid "Attachment called (%s) was deleted. Attachment ID: %s"
+msgstr "Manus nimega (%s) kustutati. Manuse ID: %s"
+
+#: admin/apps/users/uip-users.php:1037 admin/apps/users/uip-users.php:1262
+#: admin/apps/users/uip-users.php:1435
+msgid "User created"
+msgstr "Kasutaja loodud"
+
+#: admin/apps/users/uip-users.php:1039
+#, php-format
+msgid "New user created with username (%s) and email (%s)"
+msgstr "Uus kasutaja loodud kasutajanime (%s) ja e-posti aadressiga (%s)"
+
+#: admin/apps/users/uip-users.php:1045 admin/apps/users/uip-users.php:1439
+msgid "User deleted"
+msgstr "Kasutaja kustutatud"
+
+#: admin/apps/users/uip-users.php:1047
+#, php-format
+msgid "A user with username (%s) and email (%s) was deleted"
+msgstr "Kasutaja kasutajanime (%s) ja e-posti aadressiga (%s) kustutati"
+
+#: admin/apps/users/uip-users.php:1082 admin/apps/users/uip-users.php:1443
+msgid "User updated"
+msgstr "Kasutaja värskendatud"
+
+#: admin/apps/users/uip-users.php:1084
+#, php-format
+msgid "A user with username (%s) and email (%s) was updated from (%s) to (%s)"
+msgstr ""
+"Kasutaja kasutajanime (%s) ja e-posti aadressiga (%s) värskendati väärtuselt "
+"(%s) väärtusele (%s)"
+
+#: admin/apps/users/uip-users.php:1226
+msgid "First Name"
+msgstr "Eesnimi"
+
+#: admin/apps/users/uip-users.php:1232
+msgid "Last Name"
+msgstr "Perekonnanimi"
+
+#: admin/apps/users/uip-users.php:1238
+msgid "Last Login"
+msgstr "Viimane sisselogimine"
+
+#: admin/apps/users/uip-users.php:1256
+msgid "User ID"
+msgstr "kasutaja ID"
+
+#: admin/apps/users/uip-users.php:1298
+msgid "Permissions granted"
+msgstr "Load antud"
+
+#: admin/apps/users/uip-users.php:1315
+msgid "ID"
+msgstr "ID"
+
+#: admin/apps/users/uip-users.php:1327
+msgid "IP Address"
+msgstr "IP-aadress"
+
+#: admin/apps/users/uip-users.php:1340
+msgid "Time"
+msgstr "Aeg"
+
+#: admin/apps/users/uip-users.php:1347
+msgid "Action"
+msgstr "Tegevus"
+
+#: admin/apps/users/uip-users.php:1378
+msgid "Post updated"
+msgstr "Postitust värskendati"
+
+#: admin/apps/users/uip-users.php:1382
+msgid "Post trashed"
+msgstr "Postitus visati prügikasti"
+
+#: admin/apps/users/uip-users.php:1394
+msgid "Trashed comment"
+msgstr "Prügikasti visatud kommentaar"
+
+#: admin/apps/users/uip-users.php:1398
+msgid "Deelete comment"
+msgstr "Kustuta kommentaar"
+
+#: admin/apps/users/uip-users.php:1411
+msgid "User login"
+msgstr "Kasutaja sisselogimine"
+
+#: admin/apps/users/uip-users.php:1415
+msgid "User logout"
+msgstr "Kasutaja väljalogimine"
+
+#: admin/apps/users/uip-users.php:1419
+msgid "Option change"
+msgstr "Valiku muutmine"
+
+#: admin/apps/users/uip-users.php:1423
+msgid "Site option added"
+msgstr "Saidi valik on lisatud"
+
+#: admin/apps/users/uip-users.php:1427
+msgid "Attachmnet uploaded"
+msgstr "Manusevõrk on üles laaditud"
+
+#: admin/apps/users/uip-users.php:1431
+msgid "Attachmnet deleted"
+msgstr "Manusevõrk kustutatud"
+
+#: admin/classes/debug.php:133 admin/classes/debug.php:139
+#: admin/classes/debug.php:161
+msgid "Unable to register UiPress at this time"
+msgstr "UiPressi ei saa praegu registreerida"
+
+#: admin/classes/debug.php:152
+msgid "UiPress succesfully activated"
+msgstr "UiPress on edukalt aktiveeritud"
+
+#: admin/classes/folders.php:112 admin/classes/uipress-app.php:453
+#: admin/classes/uipress-app.php:1367
+msgid "Folders"
+msgstr "Kaustad"
+
+#: admin/classes/folders.php:113
+msgid "Creates media folder system."
+msgstr "Loob meediumikaustade süsteemi."
+
+#: admin/classes/folders.php:117
+msgid "Disable Folders?"
+msgstr "Kas keelata kaustad?"
+
+#: admin/classes/folders.php:118
+msgid "No media folders will be displayed when this option is activated."
+msgstr "Selle valiku aktiveerimisel meediumikaustu ei kuvata."
+
+#: admin/classes/folders.php:125
+msgid "Folders Disabled For"
+msgstr "Kaustad keelatud"
+
+#: admin/classes/folders.php:126
+#, php-format
+msgid "%s folders will be disabled for any users or roles you select"
+msgstr "%s kaustad keelatakse kõigi teie valitud kasutajate või rollide jaoks"
+
+#: admin/classes/folders.php:134
+msgid "Enable folders for post types"
+msgstr "Luba postitustüüpide jaoks kaustad"
+
+#: admin/classes/folders.php:135
+#, php-format
+msgid "%s folders will be enabled post, page and custom post types you choose"
+msgstr ""
+"%s kaustas lubatakse teie valitud postitused, lehe- ja kohandatud "
+"postitustüübid"
+
+#: admin/classes/folders.php:171
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "Tegevused"
+
+#: admin/classes/folders.php:173
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "Menüü"
+
+#: admin/classes/folders.php:311
+msgid "No folder to delete"
+msgstr "Kustutamiseks pole kausta"
+
+#: admin/classes/folders.php:321
+msgid "Unable to delete the folder"
+msgstr "Kausta ei saa kustutada"
+
+#: admin/classes/folders.php:372
+msgid "Folder deleted"
+msgstr "Kaust kustutatud"
+
+#: admin/classes/folders.php:391
+msgid "Unable to move folder into itself"
+msgstr "Kausta ei saa endasse teisaldada"
+
+#: admin/classes/folders.php:405
+msgid "Unable to move folder"
+msgstr "Kausta ei saa teisaldada"
+
+#: admin/classes/folders.php:433
+msgid "Folder moved"
+msgstr "Kaust teisaldati"
+
+#: admin/classes/folders.php:536
+msgid "Folder updated"
+msgstr "Kaust värskendatud"
+
+#: admin/classes/folders.php:578
+msgid "Unable to create folder"
+msgstr "Kausta ei saa luua"
+
+#: admin/classes/folders.php:589
+msgid "Folder created"
+msgstr "Kaust loodud"
+
+#: admin/classes/settings.php:144
+msgid "Unable to save user settings"
+msgstr "Kasutaja seadeid ei saa salvestada"
+
+#: admin/classes/settings.php:150 admin/classes/uipress-app.php:1358
+msgid "Settings saved"
+msgstr "Seaded salvestatud"
+
+#: admin/classes/settings.php:164
+msgid "Settings reset"
+msgstr "Seaded lähtestatakse"
+
+#: admin/classes/settings.php:209 admin/classes/styles.php:432
+msgid "Version"
+msgstr "Versioon"
+
+#: admin/classes/settings.php:230
+msgid "Save settings"
+msgstr "Salvesta sätted"
+
+#: admin/classes/settings.php:413
+msgid "No licence key provided"
+msgstr "Litsentsivõtit pole esitatud"
+
+#: admin/classes/settings.php:445
+msgid "Licence removed"
+msgstr "Litsents eemaldatud"
+
+#: admin/classes/styles.php:138 admin/classes/styles.php:151
+#: admin/classes/styles.php:430
+msgid "Styles"
+msgstr "Stiilid"
+
+#: admin/classes/styles.php:213
+msgid "Unable to fetch themes at this moment. Please try again later"
+msgstr "Teemasid ei saa praegu tuua. Palun proovi hiljem uuesti"
+
+#: admin/classes/styles.php:247
+msgid "Unable to like theme at this moment. Please try again later"
+msgstr "Teema ei saa hetkel meeldida. Palun proovi hiljem uuesti"
+
+#: admin/classes/styles.php:266
+msgid "Unable to save styles"
+msgstr "Stiile ei saa salvestada"
+
+#: admin/classes/styles.php:292
+msgid "Styles saved"
+msgstr "Stiilid on salvestatud"
+
+#: admin/classes/styles.php:411
+msgid ""
+"Uipress styles isn't optimised for mobile devices. Switch to a larger screen "
+"to modify UiPress Styles"
+msgstr ""
+"Uipressi stiilid pole mobiilseadmete jaoks optimeeritud. UiPressi stiilide "
+"muutmiseks lülituge suuremale ekraanile"
+
+#: admin/classes/styles.php:469
+msgid "Clear All"
+msgstr "Kustuta kõik"
+
+#: admin/classes/styles.php:533
+msgid "Global"
+msgstr "Globaalne"
+
+#: admin/classes/styles.php:536
+msgid "Body Background"
+msgstr "Keha taust"
+
+#: admin/classes/styles.php:547
+msgid "Default Background"
+msgstr "Vaike taust"
+
+#: admin/classes/styles.php:558
+msgid "Muted Background"
+msgstr "Vaigistatud taust"
+
+#: admin/classes/styles.php:569
+msgid "Muted Background Accent"
+msgstr "Vaigistatud taustaaktsent"
+
+#: admin/classes/styles.php:580
+msgid "Primary Color"
+msgstr "Esmane värv"
+
+#: admin/classes/styles.php:591
+msgid "Primary Color Wash"
+msgstr "Põhivärvipesu"
+
+#: admin/classes/styles.php:602
+msgid "Primary Color Hover"
+msgstr "Põhivärvi hõljumine"
+
+#: admin/classes/styles.php:613
+msgid "Secondary Color"
+msgstr "Sekundaarne värv"
+
+#: admin/classes/styles.php:624
+msgid "Secondary Color Hover"
+msgstr "Teisese värvi hõljumine"
+
+#: admin/classes/styles.php:635
+msgid "Font"
+msgstr "Font"
+
+#: admin/classes/styles.php:646
+msgid "Border Width"
+msgstr "Piiri laius"
+
+#: admin/classes/styles.php:657
+msgid "Border Radius"
+msgstr "Piiri raadius"
+
+#: admin/classes/styles.php:668
+msgid "Border Colour"
+msgstr "Äärise värv"
+
+#: admin/classes/styles.php:679
+msgid "Notification Background"
+msgstr "Teavitamise taust"
+
+#: admin/classes/styles.php:696
+msgid "Base font size"
+msgstr "Põhifondi suurus"
+
+#: admin/classes/styles.php:707 admin/classes/styles.php:1008
+#: admin/classes/styles.php:1148
+msgid "Text Color"
+msgstr "Teksti värv"
+
+#: admin/classes/styles.php:718
+msgid "Text Emphasis Color"
+msgstr "Teksti rõhutamise värv"
+
+#: admin/classes/styles.php:729
+msgid "Text Muted Color"
+msgstr "Tekst vaigistatud värv"
+
+#: admin/classes/styles.php:745
+msgid "Buttons"
+msgstr "Nupud"
+
+#: admin/classes/styles.php:748
+msgid "Button Border Radius"
+msgstr "Nupu piiri raadius"
+
+#: admin/classes/styles.php:760
+msgid "Button Border Width"
+msgstr "Nupu piiri laius"
+
+#: admin/classes/styles.php:772
+msgid "Default Button Border Colour"
+msgstr "Nupu äärise vaikevärv"
+
+#: admin/classes/styles.php:784
+msgid "Default Button Background Colour"
+msgstr "Nupu vaiketaustavärv"
+
+#: admin/classes/styles.php:796
+msgid "Default Button Hover Background Colour"
+msgstr "Nupu hõljumise vaikevärv"
+
+#: admin/classes/styles.php:808
+msgid "Default Button Text Colour"
+msgstr "Nupu teksti vaikevärv"
+
+#: admin/classes/styles.php:821
+msgid "Primary Button Border Colour"
+msgstr "Nupu äärise põhivärv"
+
+#: admin/classes/styles.php:833
+msgid "Primary Button Background Colour"
+msgstr "Nupu põhivärv"
+
+#: admin/classes/styles.php:845
+msgid "Primary Button Hover Background Colour"
+msgstr "Nupu hõljuki põhivärvi taustavärv"
+
+#: admin/classes/styles.php:857
+msgid "Primary Button Text Colour"
+msgstr "Nupu teksti põhivärv"
+
+#: admin/classes/styles.php:870
+msgid "Danger Button Border Colour"
+msgstr "Ohtliku nupu äärise värv"
+
+#: admin/classes/styles.php:882
+msgid "Danger Button Background Colour"
+msgstr "Ohu nupu taustavärv"
+
+#: admin/classes/styles.php:894
+msgid "Danger Button Hover Background Colour"
+msgstr "Ohu nupu hõljuki taustavärv"
+
+#: admin/classes/styles.php:906
+msgid "Danger Button Text Colour"
+msgstr "Ohu nupu teksti värv"
+
+#: admin/classes/styles.php:919
+msgid "Page Action Button Border Colour"
+msgstr "Lehekülje toimingu nupu äärise värv"
+
+#: admin/classes/styles.php:931
+msgid "Page Action Button Background Colour"
+msgstr "Lehekülje toimingunupu taustavärv"
+
+#: admin/classes/styles.php:943
+msgid "Page Action Button Hover Background Colour"
+msgstr "Lehekülje toimingunupu hõljutuse taustavärv"
+
+#: admin/classes/styles.php:955
+msgid "Page Action Button Text Colour"
+msgstr "Lehekülje toimingu nupu teksti värv"
+
+#: admin/classes/styles.php:973 admin/classes/uipress-app.php:2669
+msgid "Menu"
+msgstr "Menüü"
+
+#: admin/classes/styles.php:975
+msgid "Background Color"
+msgstr "Taustavärv"
+
+#: admin/classes/styles.php:986 admin/classes/styles.php:1170
+msgid "Secondary background Color"
+msgstr "Sekundaarne taustavärv"
+
+#: admin/classes/styles.php:997
+msgid "Button Hover background Color"
+msgstr "Nupu hõljuta taustavärv"
+
+#: admin/classes/styles.php:1019
+msgid "Active Text Color"
+msgstr "Aktiivne tekstivärv"
+
+#: admin/classes/styles.php:1030
+msgid "Active Top Level Item background colour"
+msgstr "Aktiivse tipptaseme üksuse taustavärv"
+
+#: admin/classes/styles.php:1041
+msgid "Search Input background colour"
+msgstr "Otsing Sisesta taustavärv"
+
+#: admin/classes/styles.php:1052
+msgid "Search Input text colour"
+msgstr "Otsing Sisestusteksti värv"
+
+#: admin/classes/styles.php:1063
+msgid "Submenu Text Color"
+msgstr "Alammenüü Teksti värv"
+
+#: admin/classes/styles.php:1074
+msgid "Submenu Active Text Color"
+msgstr "Alammenüü Active Text Color"
+
+#: admin/classes/styles.php:1085
+msgid "Submenu Hover Text Color"
+msgstr "Alammenüü Hover Text Color"
+
+#: admin/classes/styles.php:1096
+msgid "Width"
+msgstr "Laius"
+
+#: admin/classes/styles.php:1108
+msgid "Padding"
+msgstr "Polsterdus"
+
+#: admin/classes/styles.php:1120
+msgid "Logo Height"
+msgstr "Logo kõrgus"
+
+#: admin/classes/styles.php:1134 admin/classes/uipress-app.php:2773
+msgid "Toolbar"
+msgstr "Tööriistariba"
+
+#: admin/classes/styles.php:1137
+msgid "Toolbar Background Color"
+msgstr "Tööriistariba taustavärv"
+
+#: admin/classes/styles.php:1159
+msgid "Link Hover Text Color"
+msgstr "Linki hõljuva teksti värv"
+
+#: admin/classes/styles.php:1183
+msgid "Cards"
+msgstr "Kaardid"
+
+#: admin/classes/styles.php:1186 admin/classes/styles.php:1270
+msgid "Background color"
+msgstr "Taustavärv"
+
+#: admin/classes/styles.php:1198
+msgid "Border color"
+msgstr "Äärise värv"
+
+#: admin/classes/styles.php:1210
+msgid "Border radius"
+msgstr "Piiri raadius"
+
+#: admin/classes/styles.php:1222
+msgid "Shadow spread"
+msgstr "Varjud laiali"
+
+#: admin/classes/styles.php:1234
+msgid "Shadow blur"
+msgstr "Varjude hägusus"
+
+#: admin/classes/styles.php:1246
+msgid "Shadow color"
+msgstr "Varju värv"
+
+#: admin/classes/styles.php:1267 admin/classes/uipress-app.php:2944
+msgid "Login"
+msgstr "Logi sisse"
+
+#: admin/classes/uipress-app.php:268
+msgctxt "post type general name"
+msgid "Folder"
+msgstr "Kaust"
+
+#: admin/classes/uipress-app.php:269
+msgctxt "post type singular name"
+msgid "folder"
+msgstr "kausta"
+
+#: admin/classes/uipress-app.php:270
+msgctxt "admin menu"
+msgid "Folders"
+msgstr "Kaustad"
+
+#: admin/classes/uipress-app.php:271
+msgctxt "add new on admin bar"
+msgid "Folder"
+msgstr "Kaust"
+
+#: admin/classes/uipress-app.php:272
+msgctxt "folder"
+msgid "Add New"
+msgstr "Lisa uus"
+
+#: admin/classes/uipress-app.php:273 admin/classes/uipress-app.php:284
+msgid "Add New Folder"
+msgstr "Lisa uus kaust"
+
+#: admin/classes/uipress-app.php:274 admin/classes/uipress-app.php:1368
+msgid "New Folder"
+msgstr "Uus kaust"
+
+#: admin/classes/uipress-app.php:275 admin/classes/uipress-app.php:1372
+msgid "Edit Folder"
+msgstr "Redigeeri kausta"
+
+#: admin/classes/uipress-app.php:276
+msgid "View Folder"
+msgstr "Kuva kaust"
+
+#: admin/classes/uipress-app.php:277
+msgid "All Folders"
+msgstr "Kõik kaustad"
+
+#: admin/classes/uipress-app.php:278
+msgid "Search Folders"
+msgstr "Otsi kaustadest"
+
+#: admin/classes/uipress-app.php:279
+msgid "No Folders found."
+msgstr "Ühtegi kausta ei leitud."
+
+#: admin/classes/uipress-app.php:280
+msgid "No Folders found in Trash."
+msgstr "Prügikastist kaustu ei leitud."
+
+#: admin/classes/uipress-app.php:1167
+msgid "active"
+msgstr "aktiivne"
+
+#: admin/classes/uipress-app.php:1171
+msgid "inactive"
+msgstr "mitteaktiivne"
+
+#: admin/classes/uipress-app.php:1320
+msgid "Menu Preferences"
+msgstr "Menüü eelistused"
+
+#: admin/classes/uipress-app.php:1321
+msgid "Hide search bar"
+msgstr "Peida otsinguriba"
+
+#: admin/classes/uipress-app.php:1322
+msgid "Hide Icons"
+msgstr "Peida ikoonid"
+
+#: admin/classes/uipress-app.php:1323
+msgid "Show submenu on hover"
+msgstr "Kuva alammenüü hõljutamisel"
+
+#: admin/classes/uipress-app.php:1324
+msgid "Search Menu"
+msgstr "Otsingumenüü"
+
+#: admin/classes/uipress-app.php:1326
+msgid "Search"
+msgstr "Otsing"
+
+#: admin/classes/uipress-app.php:1329
+msgid "Show more"
+msgstr "Näita rohkem"
+
+#: admin/classes/uipress-app.php:1330
+msgid "other matches"
+msgstr "muud vasted"
+
+#: admin/classes/uipress-app.php:1331 admin/classes/uipress-app.php:1359
+msgid "Nothing found"
+msgstr "Ei leitud midagi"
+
+#: admin/classes/uipress-app.php:1332 admin/classes/uipress-app.php:1337
+msgid "View Site"
+msgstr "Vaata saiti"
+
+#: admin/classes/uipress-app.php:1333
+msgid "Dashboard"
+msgstr "Armatuurlaud"
+
+#: admin/classes/uipress-app.php:1334
+msgid "Search Site"
+msgstr "Otsi saidilt"
+
+#: admin/classes/uipress-app.php:1336
+msgid "Create New"
+msgstr "Loo uus"
+
+#: admin/classes/uipress-app.php:1338
+msgid "Updates"
+msgstr "Värskendused"
+
+#: admin/classes/uipress-app.php:1339
+msgid "Preferences"
+msgstr "Eelistused"
+
+#: admin/classes/uipress-app.php:1340
+msgid "Dark mode"
+msgstr "Tume režiim"
+
+#: admin/classes/uipress-app.php:1341
+msgid "Show screen options toggle"
+msgstr "Kuva ekraani valikute lüliti"
+
+#: admin/classes/uipress-app.php:1342
+msgid "Screen options"
+msgstr "Ekraani valikud"
+
+#: admin/classes/uipress-app.php:1343
+msgid "Hide admin bar links (left)"
+msgstr "Peida administraatoririba lingid (vasakul)"
+
+#: admin/classes/uipress-app.php:1344
+msgid "Logout"
+msgstr "Logi välja"
+
+#: admin/classes/uipress-app.php:1345
+msgid "Notifications"
+msgstr "Märguanded"
+
+#: admin/classes/uipress-app.php:1346
+msgid "Hide notification"
+msgstr "Peida teatis"
+
+#: admin/classes/uipress-app.php:1347
+msgid "hidden notifications"
+msgstr "peidetud teatised"
+
+#: admin/classes/uipress-app.php:1348
+msgid "show all"
+msgstr "Näita kõike"
+
+#: admin/classes/uipress-app.php:1349
+msgid "Notifiction Hidden"
+msgstr "Teade peidetud"
+
+#: admin/classes/uipress-app.php:1350
+msgid "Toggle Menu"
+msgstr "Lülitage menüü"
+
+#: admin/classes/uipress-app.php:1351
+msgid "Choose users or roles"
+msgstr "Valige kasutajad või rollid"
+
+#: admin/classes/uipress-app.php:1352
+msgid "Search users and roles"
+msgstr "Otsige kasutajaid ja rolle"
+
+#: admin/classes/uipress-app.php:1353
+msgid "Choose Image"
+msgstr "Valige Pilt"
+
+#: admin/classes/uipress-app.php:1354
+msgid "Choose Post Types"
+msgstr "Valige postituse tüübid"
+
+#: admin/classes/uipress-app.php:1355 admin/classes/uipress-app.php:1356
+msgid "Searach Post Types"
+msgstr "Otsingupostituse tüübid"
+
+#: admin/classes/uipress-app.php:1360
+msgid "Default"
+msgstr "Vaikimisi"
+
+#: admin/classes/uipress-app.php:1361
+msgid "Add File"
+msgstr "Lisa fail"
+
+#: admin/classes/uipress-app.php:1362
+msgid "URL to file"
+msgstr "URL failile"
+
+#: admin/classes/uipress-app.php:1363
+msgid "Remove"
+msgstr "Eemalda"
+
+#: admin/classes/uipress-app.php:1364
+msgid "All media"
+msgstr "Kogu meedia"
+
+#: admin/classes/uipress-app.php:1366
+msgid "No folder"
+msgstr "Pole kausta"
+
+#: admin/classes/uipress-app.php:1369
+msgid "Folder Name"
+msgstr "Kausta nimi"
+
+#: admin/classes/uipress-app.php:1370
+msgid "Colour"
+msgstr "Värv"
+
+#: admin/classes/uipress-app.php:1374
+msgid "1 File"
+msgstr "1 fail"
+
+#: admin/classes/uipress-app.php:1375
+msgid "files"
+msgstr "failid"
+
+#: admin/classes/uipress-app.php:1376
+msgid "You haven't created a folder yet"
+msgstr "Te pole veel kausta loonud"
+
+#: admin/classes/uipress-app.php:1377
+msgid "Remove from folder"
+msgstr "Eemalda kaustast"
+
+#: admin/classes/uipress-app.php:1378
+msgid ""
+"Upgrade to pro to unlock the notification center. View, edit and organise "
+"all your plugin and theme notifications in one place"
+msgstr ""
+"Teavituskeskuse avamiseks minge üle pro versioonile. Vaadake, muutke ja "
+"korraldage kõiki pistikprogrammide ja teemade teatisi ühes kohas"
+
+#: admin/classes/uipress-app.php:1379
+msgid ""
+"Upgrade to pro to gain full control of search results and included post types"
+msgstr ""
+"Minge üle pro versioonile, et saada täielik kontroll otsingutulemuste ja "
+"kaasatud postituste tüüpide üle"
+
+#: admin/classes/uipress-app.php:1382
+msgid "Styles Imported"
+msgstr "Imporditud stiilid"
+
+#: admin/classes/uipress-app.php:1383
+msgid "Settings Imported"
+msgstr "Seaded imporditud"
+
+#: admin/classes/uipress-app.php:1384
+msgid "Remove Licence"
+msgstr "Eemalda litsents"
+
+#: admin/classes/uipress-app.php:1385
+#, php-format
+msgid "%s Pro is active"
+msgstr "%s Pro on aktiivne"
+
+#: admin/classes/uipress-app.php:1386
+#, php-format
+msgid "%s Pro"
+msgstr "%s Pro"
+
+#: admin/classes/uipress-app.php:1387
+msgid "Activate"
+msgstr "Aktiveerige"
+
+#: admin/classes/uipress-app.php:1388
+msgid "Add a pro licence to unlock pro features."
+msgstr "Pro funktsioonide avamiseks lisage professionaali litsents."
+
+#: admin/classes/uipress-app.php:1389
+msgid "Choose Icon"
+msgstr "Valige ikoon"
+
+#: admin/classes/uipress-app.php:1390
+msgid "Are you sure you want to delete this?"
+msgstr "Kas olete kindel, et soovite selle kustutada?"
+
+#: admin/classes/uipress-app.php:1391
+msgid "Import started"
+msgstr "Import algas"
+
+#: admin/classes/uipress-app.php:1392
+msgid "Are you sure you want to reset the settings?"
+msgstr "Kas olete kindel, et soovite seaded lähtestada?"
+
+#: admin/classes/uipress-app.php:1393
+msgid "Last 7 Days"
+msgstr "Viimased 7 päeva"
+
+#: admin/classes/uipress-app.php:1394
+msgid "Last 30 Days"
+msgstr "Viimased 30 päeva"
+
+#: admin/classes/uipress-app.php:1399
+msgid "selected"
+msgstr "valitud"
+
+#: admin/classes/uipress-app.php:1400
+msgid "Theme Library"
+msgstr "Teemaraamatukogu"
+
+#: admin/classes/uipress-app.php:1401
+msgid "Library"
+msgstr "Raamatukogu"
+
+#: admin/classes/uipress-app.php:1402
+msgid "Import Theme"
+msgstr "Impordi teema"
+
+#: admin/classes/uipress-app.php:1403
+msgid "Pro template"
+msgstr "Pro mall"
+
+#: admin/classes/uipress-app.php:1404
+msgid "Theme Imported"
+msgstr "Teema imporditud"
+
+#: admin/classes/uipress-app.php:1405
+msgid "Made by"
+msgstr "Valmistatud"
+
+#: admin/classes/uipress-app.php:1407
+msgid "Failed to fetch folder content"
+msgstr "Kausta sisu toomine ebaõnnestus"
+
+#: admin/classes/uipress-app.php:1408
+msgid "user"
+msgstr "kasutaja"
+
+#: admin/classes/uipress-app.php:1850
+msgid "Unkown Post Type"
+msgstr "Tundmatu postituse tüüp"
+
+#: admin/classes/uipress-app.php:1853
+msgid "Unkown"
+msgstr "Tundmatu"
+
+#: admin/classes/uipress-app.php:1991
+msgid "Core"
+msgstr "Tuum"
+
+#: admin/classes/uipress-app.php:1997
+msgid "Themes"
+msgstr "Teemad"
+
+#: admin/classes/uipress-app.php:2003
+msgid "Plugins"
+msgstr "Pluginad"
+
+#: admin/classes/uipress-app.php:2527
+msgid "General options"
+msgstr "Üldised valikud"
+
+#: admin/classes/uipress-app.php:2532
+msgid "Network Override"
+msgstr "Võrgu alistamine"
+
+#: admin/classes/uipress-app.php:2533
+msgid "If enabled, all settings applied here will be pushed to subsites."
+msgstr ""
+"Kui see on lubatud, lükatakse kõik siin rakendatud seaded alamsaitidele."
+
+#: admin/classes/uipress-app.php:2542
+msgid "Set Dark Mode as Default"
+msgstr "Määrake vaikerežiimiks tume režiim"
+
+#: admin/classes/uipress-app.php:2543
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr ""
+"Kui see on lubatud, on tume režiim vaikimisi tõene nende kasutajate jaoks, "
+"kes pole eelistust määranud."
+
+#: admin/classes/uipress-app.php:2551
+msgid "Set Dark Mode according to prefers color scheme"
+msgstr "Seadistage tumerežiim vastavalt eelistatud värviskeemile"
+
+#: admin/classes/uipress-app.php:2552
+msgid "UiPress will detetct the OS color scheme and update accordingly"
+msgstr "UiPress tuvastab OS-i värviskeemi ja värskendab seda vastavalt"
+
+#: admin/classes/uipress-app.php:2560
+msgid "Disable dark mode"
+msgstr "Keela tume režiim"
+
+#: admin/classes/uipress-app.php:2561
+msgid "If enabled, dark mode switch will not be available."
+msgstr "Kui see on lubatud, pole tumeda režiimi lüliti saadaval."
+
+#: admin/classes/uipress-app.php:2569
+msgid "Set overview page as homepage"
+msgstr "Määra ülevaateleht avaleheks"
+
+#: admin/classes/uipress-app.php:2570
+msgid ""
+"If enabled, the overview page will be the homepage when logging in and when "
+"accessing the admin area."
+msgstr ""
+"Kui see on lubatud, on ülevaateleht sisselogimisel ja administraatorialale "
+"sisenemisel avaleheks."
+
+#: admin/classes/uipress-app.php:2578
+msgid "Set custom page as homepage"
+msgstr "Määra kohandatud leht avaleheks"
+
+#: admin/classes/uipress-app.php:2580
+msgid ""
+"If enabled, the page you choose will be the homepage when logging in and "
+"when accessing the admin area. For admin pages use a relative URL (path "
+"after /wp-admin/), for other pages use an absolute URL"
+msgstr ""
+"Kui see on lubatud, on teie valitud leht sisselogimisel ja "
+"administraatorialale sisenemisel avaleht. Administraatori lehtede jaoks "
+"kasutage suhtelist URL-i (tee pärast /wp-admin/), teiste lehtede jaoks "
+"kasutage absoluutset URL-i"
+
+#: admin/classes/uipress-app.php:2590
+#, php-format
+msgid "Rename %s"
+msgstr "Nimeta %s ümber"
+
+#: admin/classes/uipress-app.php:2591
+#, php-format
+msgid "White label %s by changing the name displayed."
+msgstr "Valge silt %s, muutes kuvatavat nime."
+
+#: admin/classes/uipress-app.php:2599
+#, php-format
+msgid "Rename %s plugin author"
+msgstr "Nimeta %s pistikprogrammi autor ümber"
+
+#: admin/classes/uipress-app.php:2600
+#, php-format
+msgid "White label %s by changing the author in the plugin table."
+msgstr "Valge silt %s, muutes pistikprogrammide tabelis autorit."
+
+#: admin/classes/uipress-app.php:2608
+#, php-format
+msgid "Change %s plugin URL"
+msgstr "Muuda %s pistikprogrammi URL-i"
+
+#: admin/classes/uipress-app.php:2609
+#, php-format
+msgid "White label %s by changing the plugin URL in the plugin table."
+msgstr "Valge silt %s, muutes pistikprogrammide tabelis pistikprogrammi URL-i."
+
+#: admin/classes/uipress-app.php:2617
+msgid "App Icon"
+msgstr "Rakenduse ikoon"
+
+#: admin/classes/uipress-app.php:2618
+#, php-format
+msgid "Replace %s plugin icon with your own"
+msgstr "Asenda %s pistikprogrammi ikoon enda omaga"
+
+#: admin/classes/uipress-app.php:2626
+msgid "Admin Favicon"
+msgstr "Admin Favicon"
+
+#: admin/classes/uipress-app.php:2627
+msgid "Add an image to be used as the site favicon for admin pages."
+msgstr ""
+"Lisage pilt, mida kasutatakse administraatori lehtede saidi faviconina."
+
+#: admin/classes/uipress-app.php:2635
+#, php-format
+msgid "Hide %s from plugin table"
+msgstr "Peida %s pistikprogrammide tabelist"
+
+#: admin/classes/uipress-app.php:2636
+#, php-format
+msgid "If enabled, %s will be hidden from the plugin table"
+msgstr "Kui see on lubatud, peidetakse %s pistikprogrammide tabelist"
+
+#: admin/classes/uipress-app.php:2644
+msgid "Hide Footer"
+msgstr "Peida jalus"
+
+#: admin/classes/uipress-app.php:2645
+msgid "Hide the footer text that shows at the bottom of every admin page"
+msgstr "Peida jaluse tekst, mis kuvatakse iga administraatori lehe allosas"
+
+#: admin/classes/uipress-app.php:2653
+msgid "Footer Text"
+msgstr "Jaluse tekst"
+
+#: admin/classes/uipress-app.php:2654
+msgid "Text entered here will be present at the bottom of admin pages"
+msgstr "Siia sisestatud tekst kuvatakse administraatori lehtede allosas"
+
+#: admin/classes/uipress-app.php:2670 admin/classes/uipress-app.php:2675
+msgid "Creates new admin menu."
+msgstr "Loob uue administraatori menüü."
+
+#: admin/classes/uipress-app.php:2674
+msgid "Disable Admin Menu Module"
+msgstr "Keela administraatori menüü moodul"
+
+#: admin/classes/uipress-app.php:2682
+msgid "Menu Disabled for"
+msgstr "Menüü keelatud"
+
+#: admin/classes/uipress-app.php:2683
+#, php-format
+msgid "%s menu will be disabled for any users or roles you select"
+msgstr "Menüü %s keelatakse kõigi teie valitud kasutajate või rollide jaoks"
+
+#: admin/classes/uipress-app.php:2691
+msgid "Logo Light Mode"
+msgstr "Logo valgusrežiim"
+
+#: admin/classes/uipress-app.php:2692
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "Määrab valgusrežiimis administraatoririba logo."
+
+#: admin/classes/uipress-app.php:2699
+msgid "Logo Dark Mode"
+msgstr "Logo tume režiim"
+
+#: admin/classes/uipress-app.php:2700
+msgid "Optional dark mode logo for admin bar."
+msgstr "Valikuline tumeda režiimi logo administraatoririba jaoks."
+
+#: admin/classes/uipress-app.php:2707
+#, php-format
+msgid "Load %s Menu on front end"
+msgstr "Laadige esiotsa menüü %s"
+
+#: admin/classes/uipress-app.php:2708
+#, php-format
+msgid ""
+"If enabled, %s menu will load on the front end. Please note, this will not "
+"work on all themes and styling will vary"
+msgstr ""
+"Kui see on lubatud, laaditakse %s menüü esiotsa. Pange tähele, et see ei "
+"tööta kõigi teemade puhul ja stiil on erinev"
+
+#: admin/classes/uipress-app.php:2716
+#, php-format
+msgid "Only Load %s Menu on front end for"
+msgstr "Laadi %s menüü ainult esiotsa jaoks"
+
+#: admin/classes/uipress-app.php:2717
+msgid "Only load front end menu for selected roles and usernames"
+msgstr "Laadige esiotsa menüü ainult valitud rollide ja kasutajanimede jaoks"
+
+#: admin/classes/uipress-app.php:2725
+msgid "Collapsed Menu Logo Light Mode"
+msgstr "Ahendatud menüü logo valgusrežiim"
+
+#: admin/classes/uipress-app.php:2726
+msgid "Optional logo for when the menu is collapsed."
+msgstr "Valikuline logo, kui menüü on ahendatud."
+
+#: admin/classes/uipress-app.php:2733
+msgid "Collapsed Menu Logo Dark Mode"
+msgstr "Ahendatud menüü logo tume režiim"
+
+#: admin/classes/uipress-app.php:2734
+msgid "Optional dark nmode logo for when the menu is collapsed."
+msgstr "Valikuline tume nmode logo, kui menüü on ahendatud."
+
+#: admin/classes/uipress-app.php:2741
+msgid "Show site title in menu"
+msgstr "Kuva saidi pealkiri menüüs"
+
+#: admin/classes/uipress-app.php:2742
+msgid ""
+"If enabled, the site title will be displayed in the menu next to the logo"
+msgstr "Kui see on lubatud, kuvatakse saidi pealkiri logo kõrval menüüs"
+
+#: admin/classes/uipress-app.php:2749 admin/classes/uipress-app.php:2811
+msgid "Disable Search"
+msgstr "Keela otsing"
+
+#: admin/classes/uipress-app.php:2750
+msgid "Disables admin menu search."
+msgstr "Keelab administraatori menüü otsingu."
+
+#: admin/classes/uipress-app.php:2757
+msgid "Set collapsed menu as default"
+msgstr "Määra ahendatud menüü vaikeväärtuseks"
+
+#: admin/classes/uipress-app.php:2758
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"Kui see on lubatud, on menüü vaikimisi kahandatud menüü kasutajatele, kes "
+"pole eelistust määranud."
+
+#: admin/classes/uipress-app.php:2774
+msgid "Creates new admin toolbar."
+msgstr "Loob uue administraatori tööriistariba."
+
+#: admin/classes/uipress-app.php:2778
+msgid "Disable ToolBar Module?"
+msgstr "Kas keelata tööriistariba moodul?"
+
+#: admin/classes/uipress-app.php:2779
+msgid ""
+"Creates new admin bar, adds user off canvas menu, builds global search and "
+"notification center."
+msgstr ""
+"Loob uue administraatoririba, lisab kasutaja lõuendi menüüst, loob globaalse "
+"otsingu- ja teavituskeskuse."
+
+#: admin/classes/uipress-app.php:2786
+msgid "Admin Bar Disabled For"
+msgstr "Administraatoririba jaoks keelatud"
+
+#: admin/classes/uipress-app.php:2787
+#, php-format
+msgid "%s toolbar module will be disabled for any users or roles you select"
+msgstr ""
+"%s tööriistariba moodul keelatakse kõigi teie valitud kasutajate või rollide "
+"jaoks"
+
+#: admin/classes/uipress-app.php:2795
+msgid "Hide admin bar links (left side)"
+msgstr "Peida administraatoririba lingid (vasakul)"
+
+#: admin/classes/uipress-app.php:2796
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"Keelab kõigi kasutajate jaoks administraatoririba vasakul küljel olevad "
+"pärandlingid. Peidab ka kasutaja eelistuse."
+
+#: admin/classes/uipress-app.php:2803
+msgid "Enable floating flyout toolbar"
+msgstr "Ujuva väljalennu tööriistariba lubamine"
+
+#: admin/classes/uipress-app.php:2804
+msgid "Changes the toolbar to a floating flyout toolbar"
+msgstr "Muudab tööriistariba ujuvaks väljalendu tööriistaribaks"
+
+#: admin/classes/uipress-app.php:2812
+msgid "Disables search icon and global search function from admin bar."
+msgstr ""
+"Keelab administraatoriribal otsinguikooni ja globaalse otsingu funktsiooni."
+
+#: admin/classes/uipress-app.php:2819
+msgid "Disable Create Button"
+msgstr "Keela loomise nupp"
+
+#: admin/classes/uipress-app.php:2820
+msgid "Disables the 'create' button in the admin bar."
+msgstr "Keelab administraatoriribal nupu Loo."
+
+#: admin/classes/uipress-app.php:2827
+msgid "Open View Website in new tab"
+msgstr "Avage uuel vahekaardil Kuva veebisait"
+
+#: admin/classes/uipress-app.php:2828
+msgid ""
+"When enabled, clicking on view website or the home button will open in a new "
+"browser tab"
+msgstr ""
+"Kui see on lubatud, avaneb veebisaidi vaatamise või kodunupu klõpsamine "
+"brauseri uuel vahekaardil"
+
+#: admin/classes/uipress-app.php:2835
+msgid "Disable View Website Button"
+msgstr "Keela nupp Vaata veebisaiti"
+
+#: admin/classes/uipress-app.php:2836
+msgid "Disables the view website link button in the admin bar."
+msgstr "Keelab administraatoriribal veebisaidi kuvamise lingi nupu."
+
+#: admin/classes/uipress-app.php:2843
+#, php-format
+msgid "Load %s admin bar on front end"
+msgstr "Laadige esiotsa %s administraatoririba"
+
+#: admin/classes/uipress-app.php:2844
+#, php-format
+msgid ""
+"If enabled, %s toolbar will load on the front end. Please note, this will "
+"not work on all themes and styling will vary"
+msgstr ""
+"Kui see on lubatud, laaditakse %s tööriistariba esiküljele. Pange tähele, et "
+"see ei tööta kõigi teemade puhul ja stiil võib olla erinev"
+
+#: admin/classes/uipress-app.php:2852
+msgid "Hide admin bar on front end"
+msgstr "Peida esiküljel administraatoririba"
+
+#: admin/classes/uipress-app.php:2853
+msgid "If enabled, front end admin bar will not load."
+msgstr "Kui see on lubatud, siis esiotsa administraatoririba ei laadita."
+
+#: admin/classes/uipress-app.php:2861
+msgid "Disable Notification Center"
+msgstr "Keela teavituskeskus"
+
+#: admin/classes/uipress-app.php:2862
+msgid "If disabled, notifcations will show in the normal way"
+msgstr "Kui see on keelatud, kuvatakse märguandeid tavapärasel viisil"
+
+#: admin/classes/uipress-app.php:2870
+msgid "Post Types available in Search"
+msgstr "Otsingus on saadaval postituste tüübid"
+
+#: admin/classes/uipress-app.php:2871
+msgid "The global search will only search the selected post types."
+msgstr "Globaalne otsing otsib ainult valitud postitustüüpe."
+
+#: admin/classes/uipress-app.php:2879
+msgid "Post Types available in create button (new)"
+msgstr "Loomisnupul saadaolevad postituste tüübid (uus)"
+
+#: admin/classes/uipress-app.php:2880
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr "Loomise rippmenüüs kuvatakse ainult valitud postituse tüübid."
+
+#: admin/classes/uipress-app.php:2888
+msgid "Only show notifications to"
+msgstr "Kuva ainult märguanded"
+
+#: admin/classes/uipress-app.php:2889
+#, php-format
+msgid ""
+"%s will hide all notifications from all users except those selected below"
+msgstr ""
+"%s peidab kõik märguanded kõigilt kasutajatelt, välja arvatud allpool "
+"valitud kasutajad"
+
+#: admin/classes/uipress-app.php:2897
+msgid "Only show updates to"
+msgstr "Kuva ainult värskendused"
+
+#: admin/classes/uipress-app.php:2898
+#, php-format
+msgid "%s will hide all updates from all users except those selected below"
+msgstr ""
+"%s peidab kõik värskendused kõikide kasutajate eest, välja arvatud need, mis "
+"on allpool valitud"
+
+#: admin/classes/uipress-app.php:2914
+msgid "Theme"
+msgstr "Teema"
+
+#: admin/classes/uipress-app.php:2915 admin/classes/uipress-app.php:2945
+#: admin/classes/uipress-app.php:3000
+msgid "Styles page content."
+msgstr "Stiilide lehe sisu."
+
+#: admin/classes/uipress-app.php:2919
+msgid "Disable Admin Theme Module"
+msgstr "Keela administraatori teemamoodul"
+
+#: admin/classes/uipress-app.php:2920
+msgid "When the theme is disabled, pages will be styles in the original way."
+msgstr "Kui teema on keelatud, on lehtede stiilid algsel viisil."
+
+#: admin/classes/uipress-app.php:2927
+msgid "Theme Disabled for"
+msgstr "Teema keelatud"
+
+#: admin/classes/uipress-app.php:2928
+msgid ""
+"When the theme is disabled, pages will be styles in the original way for "
+"selected users or roles."
+msgstr ""
+"Kui teema on keelatud, on lehed valitud kasutajate või rollide jaoks algsel "
+"viisil stiilid."
+
+#: admin/classes/uipress-app.php:2949
+msgid "Disable Login Module"
+msgstr "Keela sisselogimismoodul"
+
+#: admin/classes/uipress-app.php:2950
+msgid ""
+"When the login module is disabled, the login page will be displayed in the "
+"original way."
+msgstr ""
+"Kui sisselogimismoodul on keelatud, kuvatakse sisselogimisleht algsel viisil."
+
+#: admin/classes/uipress-app.php:2958
+msgid "Dark Mode"
+msgstr "Tume režiim"
+
+#: admin/classes/uipress-app.php:2959
+msgid "Puts the login page in dark mode for all users."
+msgstr "Lülitab sisselogimislehe kõigi kasutajate jaoks pimedasse režiimi."
+
+#: admin/classes/uipress-app.php:2966
+msgid "Disable Language Selector"
+msgstr "Keela keelevalija"
+
+#: admin/classes/uipress-app.php:2967
+msgid "Removes the language selector added to the login page"
+msgstr "Eemaldab sisselogimislehele lisatud keelevalija"
+
+#: admin/classes/uipress-app.php:2974
+msgid "Login Logo"
+msgstr "Logi sisselogimise logo"
+
+#: admin/classes/uipress-app.php:2975
+msgid "Sets the logo for the login page"
+msgstr "Määrab sisselogimislehe logo"
+
+#: admin/classes/uipress-app.php:2982
+msgid "Login Background"
+msgstr "Sisselogimise taust"
+
+#: admin/classes/uipress-app.php:2983
+msgid "Sets an optional background image on the login page."
+msgstr "Määrab sisselogimislehele valikulise taustapildi."
+
+#: admin/classes/uipress-app.php:2999
+msgid "Advanced"
+msgstr "Täpsemalt"
+
+#: admin/classes/uipress-app.php:3004
+msgid "Advanced Disabled For"
+msgstr "Täpsemalt keelatud"
+
+#: admin/classes/uipress-app.php:3005
+msgid "Code added here will not load for any users or roles you select"
+msgstr ""
+"Siia lisatud koodi ei laadita teie valitud kasutajate või rollide puhul"
+
+#: admin/classes/uipress-app.php:3013
+msgid "Enqueue scripts"
+msgstr "Skriptide järjekorda seadmine"
+
+#: admin/classes/uipress-app.php:3014
+msgid "Add scripts to the head of every admin page and login page"
+msgstr "Lisage skriptid iga administraatori lehe ja sisselogimislehe päisesse"
+
+#: admin/classes/uipress-app.php:3022
+msgid "Enqueue styles"
+msgstr "Järjekorra stiilid"
+
+#: admin/classes/uipress-app.php:3023
+msgid "Add stylesheets to the head of every admin page and login page"
+msgstr ""
+"Lisage stiilitabelid iga administraatori lehe ja sisselogimislehe päisesse"
+
+#: admin/classes/uipress-app.php:3031
+msgid "Admin CSS"
+msgstr "Admin CSS"
+
+#: admin/classes/uipress-app.php:3032
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr ""
+"Siia lisatud CSS laaditakse nii igale administraatori lehele kui ka "
+"sisselogimislehele"
+
+#: admin/classes/uipress-app.php:3041
+msgid "Admin JavaScript"
+msgstr "Admin JavaScript"
+
+#: admin/classes/uipress-app.php:3042
+msgid ""
+"JavaScript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr ""
+"Siia lisatud JavaScript laaditakse nii igale administraatori lehele kui ka "
+"sisselogimislehele"
+
+#: admin/classes/uipress-app.php:3051
+msgid "HTML for document head"
+msgstr "HTML dokumendipea jaoks"
+
+#: admin/classes/uipress-app.php:3052
+msgid ""
+"Add HTML here to be added to every admin page and login page head section"
+msgstr ""
+"Lisage siia HTML, et lisada see igale administraatorilehele ja "
+"sisselogimislehe päise jaotisele"
+
+#: admin/classes/uipress-app.php:3061
+msgid "Safe Mode Key"
+msgstr "Turvarežiimi klahv"
+
+#: admin/classes/uipress-app.php:3063
+msgid ""
+"Add a private key to allow you to disable uipress on specific pages with "
+"query paramaters. For example, add '?no_uip=your_key' to a URL and it wil "
+"stop uipress from loading on that page."
+msgstr ""
+"Lisage privaatvõti, et saaksite päringuparameetritega kindlatel lehtedel "
+"uipressi keelata. Näiteks lisage URL-ile \"?no_uip=your_key\" ja see peatab "
+"uipressi laadimise sellel lehel."
+
+#: admin/classes/update.php:66
+msgid "Welcome to UiPress version "
+msgstr "Tere tulemast UiPressi versiooni"
+
+#: admin/classes/update.php:69 admin/classes/update.php:101
+msgid ""
+"Would you like to automatically import settings from your older version of "
+"uipress?"
+msgstr ""
+"Kas soovite seaded automaatselt importida oma vanemast uipressi versioonist?"
+
+#: admin/classes/update.php:71
+msgid "Don't show again"
+msgstr "Ära näita enam"
+
+#: admin/classes/update.php:72 admin/classes/update.php:103
+msgid "Import settings"
+msgstr "Impordi seaded"
+
+#: admin/classes/update.php:115
+msgid "Check for updates"
+msgstr "Kontrolli kas uuendused on saadaval"
+
+#: admin/classes/update.php:141
+msgid "Unable to contact update server"
+msgstr "Värskendusserveriga ei saa ühendust võtta"
+
+#: admin/classes/update.php:156
+msgid "Update available"
+msgstr "Uuendus saadaval"
+
+#: admin/classes/update.php:162
+msgid "No Updates available"
+msgstr "Värskendusi pole saadaval"
+
+#: admin/classes/update.php:180
+msgid "Message dismissed"
+msgstr "Sõnum lükati tagasi"
+
+#: admin/classes/update.php:204
+msgid "No settings to import"
+msgstr "Imporditavaid seadeid pole"
+
+#: admin/classes/update.php:350
+msgid "Settings imported"
+msgstr "Seaded imporditud"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress"
+msgstr "UiPress"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress admin extension with a streamlined dashboard, Google "
+"Analytics & WooCommerce Integration, intuitive media library, dark mode and "
+"much more."
+msgstr ""
+"Võimas WordPressi administraatorilaiendus koos sujuva armatuurlaua, Google "
+"Analyticsi ja WooCommerce'i integratsiooni, intuitiivse meediateegi, tumeda "
+"režiimi ja palju muuga."
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "Administraator 2020"

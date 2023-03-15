@@ -1,0 +1,1306 @@
+/*------------------------------------------------------------------
+Project: DarkMySite
+Version: 0.0.1
+-------------------------------------------------------------------*/
+
+#wpbody-content{
+    padding-bottom: 0;
+}
+#wpfooter{
+    display: none;
+}
+.notice, div.error, div.updated, div.update-nag{
+    display: none !important;
+}
+.darkmysite_main {
+    background: #F0F0F1;
+    margin-left: -20px;
+    padding: 20px;
+    min-height: 100vh;
+    display: flex;
+}
+.darkmysite_sidebar{
+    width: 265px;
+}
+.darkmysite_body{
+    flex: 1;
+    max-width: 945px;
+    background: #fff;
+    padding: 40px;
+}
+
+
+/* ========================
+    Pro Popup Design
+===========================*/
+.darkmysite_pro_popup_container {
+    position: fixed;
+    z-index: 10500;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.darkmysite_pro_popup_container .darkmysite_pro_popup_dark_bg {
+    background: #252F3C;
+    opacity: 0.5;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+}
+.darkmysite_pro_popup_container .darkmysite_pro_popup {
+    background: #ffffff;
+    border-radius: 15px;
+    padding: 40px;
+    width: 457px;
+    text-align: center;
+    position: relative;
+}
+.darkmysite_pro_popup_container .darkmysite_pro_popup img{
+    width: 65px;
+}
+.darkmysite_pro_popup_container .darkmysite_pro_popup h3{
+    margin: 10px 0 0 0;
+    font-size: 18px;
+    color: #252F3C;
+    font-weight: bold;
+}
+.darkmysite_pro_popup_container .darkmysite_pro_popup p{
+    margin: 3px 0 0 0;
+    font-size: 13px;
+    color: #6F727C;
+    font-weight: 500;
+}
+.darkmysite_pro_popup_container .darkmysite_pro_popup .darkmysite_pro_popup_action{
+    margin: 21px 0 0 0;
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+}
+.darkmysite_pro_popup_container .darkmysite_pro_popup .darkmysite_get_pro_btn{
+    text-decoration: none;
+    display: inline-block;
+    margin: 0;
+    cursor: pointer;
+    background: #252F3C;
+    color: #FFFFFF;
+    border-radius: 4px;
+    border: 0;
+    padding: 9px 7px;
+    width: 107px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.darkmysite_pro_popup_container .darkmysite_pro_popup .darkmysite_get_pro_btn:hover{
+    background: #090808;
+}
+.darkmysite_pro_popup_container .darkmysite_pro_popup button.darkmysite_pro_popup_close_btn{
+    text-decoration: none;
+    display: inline-block;
+    margin: 0;
+    cursor: pointer;
+    background: #F1F3F4;
+    color: #787B83;
+    border: 1px solid #EEEDF0;
+    border-radius: 4px;
+    padding: 9px 7px;
+    width: 107px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+/* ========================
+    Switch Preview Design
+===========================*/
+.darkmysite_settings_with_switch_preview{
+    display: flex;
+    gap: 10px;
+}
+.darkmysite_switch_preview{
+    width: 210px;
+    height: 100px;
+    background: #F9FAFB;
+    border: 1px solid #E8EBEE;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.darkmysite_switch_preview.darkmysite_dark_mode_enabled{
+    background: #0F0F0F;
+}
+.darkmysite_switch_preview .darkmysite_switch{
+    display: none;
+}
+.darkmysite_switch_preview .darkmysite_switch.selected{
+    display: inherit;
+}
+.darkmysite_switch_preview_container .darkmysite_copy_customized_shortcode{
+    margin: 10px 0 0 0;
+    width: 100%;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #F9FAFB url(../img/others/shortcode_copy_icon.svg) no-repeat;
+    background-size: 15px;
+    background-position-x: 10px;
+    background-position-y: center;
+    color: #000000;
+    border: 1px solid #EEEDF0;
+    border-radius: 4px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    padding: 8px 14px 8px 35px;
+    font-size: 14px;
+}
+
+
+
+/* ========================
+    Sidebar Design
+===========================*/
+
+.darkmysite_sidebar .darkmysite_logo{
+    margin: 30px 0 30px 0;
+    background: url(../img/darkmysite_logo.svg) no-repeat;
+    background-size: 185px;
+    background-position-x: center;
+    background-position-y: center;
+    height: 45px;
+}
+.darkmysite_dark_mode_enabled .darkmysite_sidebar .darkmysite_logo{
+    margin: 30px 0 30px 0;
+    background: transparent url(../img/darkmysite_logo_dark.svg) no-repeat;
+    background-size: 185px;
+    background-position-x: center;
+    background-position-y: center;
+    height: 45px;
+}
+.darkmysite_sidebar .darkmysite_menu{
+    cursor: pointer;
+    position: relative;
+    padding: 16px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #E0E4E9;
+}
+.darkmysite_sidebar .darkmysite_menu::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 5px;
+    height: 100%;
+    background-color: transparent;
+}
+.darkmysite_sidebar .darkmysite_menu.active{
+    background: #ffffff;
+}
+.darkmysite_sidebar .darkmysite_menu.active::before {
+    background-color: #3F3F3F;
+}
+.darkmysite_sidebar .darkmysite_menu .darkmysite_menu_details p{
+    margin: 0;
+    font-size: 14px;
+    font-weight: 700;
+    color: #121116;
+}
+.darkmysite_sidebar .darkmysite_menu .darkmysite_menu_details span{
+    margin: 0;
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+    color: #72777C;
+}
+.darkmysite_sidebar .darkmysite_menu .darkmysite_menu_icon{
+    width: 27px;
+    height: 27px;
+    background-color: #CAD1D9;
+}
+.darkmysite_dark_mode_enabled .darkmysite_sidebar .darkmysite_menu .darkmysite_menu_icon{
+    background-color: #4a4a4a;
+}
+.darkmysite_sidebar .darkmysite_menu.active .darkmysite_menu_icon{
+    background-color: #121116;
+}
+.darkmysite_dark_mode_enabled .darkmysite_sidebar .darkmysite_menu.active .darkmysite_menu_icon{
+    background-color: #bebebe;
+}
+.darkmysite_sidebar .darkmysite_menu:nth-child(2) .darkmysite_menu_icon{
+    -webkit-mask: url(../img/sidebar/sidebar_menu_control.svg) no-repeat center;
+    mask: url(../img/sidebar/sidebar_menu_control.svg) no-repeat center;
+}
+.darkmysite_sidebar .darkmysite_menu:nth-child(3) .darkmysite_menu_icon{
+    -webkit-mask: url(../img/sidebar/sidebar_menu_admin.svg) no-repeat center;
+    mask: url(../img/sidebar/sidebar_menu_admin.svg) no-repeat center;
+}
+.darkmysite_sidebar .darkmysite_menu:nth-child(4) .darkmysite_menu_icon{
+    -webkit-mask: url(../img/sidebar/sidebar_menu_switch.svg) no-repeat center;
+    mask: url(../img/sidebar/sidebar_menu_switch.svg) no-repeat center;
+}
+.darkmysite_sidebar .darkmysite_menu:nth-child(5) .darkmysite_menu_icon{
+    -webkit-mask: url(../img/sidebar/sidebar_menu_preset.svg) no-repeat center;
+    mask: url(../img/sidebar/sidebar_menu_preset.svg) no-repeat center;
+}
+.darkmysite_sidebar .darkmysite_menu:nth-child(6) .darkmysite_menu_icon{
+    -webkit-mask: url(../img/sidebar/sidebar_menu_image.svg) no-repeat center;
+    mask: url(../img/sidebar/sidebar_menu_image.svg) no-repeat center;
+}
+.darkmysite_sidebar .darkmysite_menu:nth-child(7) .darkmysite_menu_icon{
+    -webkit-mask: url(../img/sidebar/sidebar_menu_video.svg) no-repeat center;
+    mask: url(../img/sidebar/sidebar_menu_video.svg) no-repeat center;
+}
+.darkmysite_sidebar .darkmysite_menu:nth-child(8) .darkmysite_menu_icon{
+    -webkit-mask: url(../img/sidebar/sidebar_menu_advanced.svg) no-repeat center;
+    mask: url(../img/sidebar/sidebar_menu_advanced.svg) no-repeat center;
+}
+
+
+
+
+
+
+
+
+
+/* ========================
+    Body Header Design
+===========================*/
+
+.darkmysite_body_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.darkmysite_body_header .darkmysite_body_header_details{
+    display: flex;
+    align-items: center;
+}
+.darkmysite_body_header .darkmysite_body_header_details .darkmysite_body_header_details_logo{
+    width: 60px;
+    height: 60px;
+    background: #EBEBEB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.darkmysite_body_header .darkmysite_body_header_details .darkmysite_body_header_details_logo img{
+    width: 30px;
+}
+.darkmysite_body_header .darkmysite_body_header_details .darkmysite_body_header_details_headline{
+    margin-left: 15px;
+}
+.darkmysite_body_header .darkmysite_body_header_details .darkmysite_body_header_details_headline h2{
+    margin: 0;
+    font-size: 23px;
+    font-weight: 700;
+    color: #121116;
+}
+.darkmysite_body_header .darkmysite_body_header_details .darkmysite_body_header_details_headline p{
+    margin: 5px 0 0 0;
+    font-size: 16px;
+    font-weight: 400;
+    color: #72777C;
+}
+.darkmysite_body_header .darkmysite_body_header_save_btn{
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #EF5812 url(../img/others/save_icon.svg) no-repeat;
+    background-size: 18px;
+    background-position-x: 12px;
+    background-position-y: center;
+    color: #FFFFFF;
+    border: 1px solid #EF5812;
+    border-radius: 7px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    padding: 8px 14px 8px 42px;
+    font-size: 13px;
+}
+.darkmysite_body_header_separator{
+    position: relative;
+    height: 2px;
+    background: #E8EBEE;
+    margin: 15px 0;
+}
+.darkmysite_dark_mode_enabled .darkmysite_body_header_separator{
+    background: #696969;
+}
+.darkmysite_body_header_separator::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 60px;
+    height: 100%;
+    background-color: #000000;
+}
+.darkmysite_dark_mode_enabled .darkmysite_body_header_separator::before{
+    background: #a5a4a4;
+}
+
+
+
+
+/* ========================
+    Support Msg Design
+===========================*/
+.darkmysite_support_msg_block{
+    margin: 40px 0 15px 0;
+    display: flex;
+    align-items: center;
+    background: #F9FAFB;
+    border: 1px solid #E8EBEE;
+    padding: 15px;
+}
+.darkmysite_support_msg_block .darkmysite_support_msg_block_icon{
+    margin: 0 0 0 10px;
+    display: block;
+    width: 39px;
+    height: 39px;
+    background-color: #121116;
+    -webkit-mask: url(../img/others/info_icon.svg) no-repeat center;
+    mask: url(../img/others/info_icon.svg) no-repeat center;
+}
+.darkmysite_dark_mode_enabled .darkmysite_support_msg_block .darkmysite_support_msg_block_icon{
+    background-color: #818181;
+}
+.darkmysite_support_msg_block .darkmysite_support_msg_block_details{
+    margin: 0 0 0 20px;
+    flex: 1;
+}
+.darkmysite_support_msg_block .darkmysite_support_msg_block_details h4{
+    margin: 0;
+    font-size: 18px;
+    font-weight: 700;
+    color: #000000;
+}
+.darkmysite_support_msg_block .darkmysite_support_msg_block_details p{
+    margin: 5px 0 0 0;
+    font-size: 15px;
+    font-weight: 400;
+    color: #72777C;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.darkmysite_support_msg_block .darkmysite_support_msg_block_details p a{
+    text-decoration: underline;
+    color: #EF5812;
+}
+.darkmysite_support_msg_block .darkmysite_support_msg_block_close_icon{
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+    margin: 0 10px 0 20px;
+    display: block;
+    width: 18px;
+    height: 18px;
+    background-color: #72777C;
+    -webkit-mask: url(../img/others/close_icon.svg) no-repeat center;
+    mask: url(../img/others/close_icon.svg) no-repeat center;
+}
+.darkmysite_dark_mode_enabled .darkmysite_support_msg_block .darkmysite_support_msg_block_close_icon{
+    background-color: #818181;
+}
+
+
+
+/* ========================
+    Section Design
+===========================*/
+
+.darkmysite_section_header{
+    margin: 40px 0 15px 0;
+}
+.darkmysite_section_header h3{
+    margin: 0;
+    font-size: 23px;
+    font-weight: 700;
+    color: #121116;
+}
+.darkmysite_section_header p{
+    margin: 5px 0 0 0;
+    font-size: 16px;
+    font-weight: 400;
+    color: #72777C;
+}
+.darkmysite_section_block{
+    background: #F9FAFB;
+    border: 1px solid #E8EBEE;
+    padding: 25px;
+}
+.darkmysite_section_block_separator{
+    height: 1px;
+    background: #E8EBEE;
+    margin: 20px 0;
+}
+
+
+
+
+
+/* ========================
+    Checkbox Setting Design
+===========================*/
+.darkmysite_checkbox_setting{
+    display: flex;
+    align-items: flex-start;
+}
+.darkmysite_checkbox_setting .darkmysite_checkbox_setting_details{
+    margin: 0 0 0 20px;
+}
+.darkmysite_checkbox_setting .darkmysite_checkbox_setting_details h4{
+    margin: 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: #000000;
+}
+.darkmysite_checkbox_setting .darkmysite_checkbox_setting_details p{
+    margin: 5px 0 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: #72777C;
+}
+.darkmysite_checkbox_setting .darkmysite_checkbox_item{
+    display: inline-block;
+    position: relative;
+    width: 17px;
+    cursor: pointer;
+    margin: 2px 0 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: #43454b;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.darkmysite_checkbox_setting .darkmysite_checkbox_item input[type="checkbox"]{
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+.darkmysite_checkbox_setting .darkmysite_checkbox_item .darkmysite_checkbox_checkmark{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 15px;
+    width: 15px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 0;
+}
+.darkmysite_checkbox_setting .darkmysite_checkbox_item input[type="checkbox"]:checked ~ .darkmysite_checkbox_checkmark {
+    border: 1px solid #000000;
+    background: #000000 url("../img/others/checkbox_tick_icon.svg") no-repeat;
+    background-size: 9px;
+    background-position-x: center;
+    background-position-y: center;
+}
+.darkmysite_checkbox_setting.pro_lock {
+    opacity: 0.3;
+}
+
+
+
+
+/* ========================
+    Switch in Menu Setting Design
+===========================*/
+.darkmysite_switch_in_menu_setting{
+    display: flex;
+    align-items: flex-start;
+}
+.darkmysite_switch_in_menu_setting .darkmysite_switch_in_menu_setting_details{
+    flex: 1;
+    margin: 0 0 0 20px;
+}
+.darkmysite_switch_in_menu_setting .darkmysite_switch_in_menu_setting_details h4{
+    margin: 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: #000000;
+}
+.darkmysite_switch_in_menu_setting .darkmysite_switch_in_menu_setting_details p{
+    margin: 5px 0 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: #72777C;
+}
+.darkmysite_switch_in_menu_setting .darkmysite_checkbox_item{
+    display: inline-block;
+    position: relative;
+    width: 17px;
+    cursor: pointer;
+    margin: 2px 0 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: #43454b;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.darkmysite_switch_in_menu_setting .darkmysite_checkbox_item input[type="checkbox"]{
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+.darkmysite_switch_in_menu_setting .darkmysite_checkbox_item .darkmysite_checkbox_checkmark{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 15px;
+    width: 15px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 0;
+}
+.darkmysite_switch_in_menu_setting .darkmysite_checkbox_item input[type="checkbox"]:checked ~ .darkmysite_checkbox_checkmark {
+    border: 1px solid #000000;
+    background: #000000 url("../img/others/checkbox_tick_icon.svg") no-repeat;
+    background-size: 9px;
+    background-position-x: center;
+    background-position-y: center;
+}
+.darkmysite_switch_in_menu_setting .darkmysite_switch_in_menu_setting_details span{
+    display: block;
+    margin: 5px 0 0 0;
+    font-size: 13px;
+    font-weight: 400;
+    color: #96979b;
+}
+.darkmysite_switch_in_menu_setting .darkmysite_switch_in_menu_setting_details textarea{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    margin: 10px 0 0 0;
+    padding: 4px 12px;
+    font-size: 14px;
+    color: #43454b;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E6;
+    border-radius: 3px;
+    outline: none;
+    box-shadow: none;
+}
+.darkmysite_switch_in_menu_setting .darkmysite_switch_in_menu_setting_details textarea:focus{
+    color: #43454b;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    outline: none;
+    box-shadow: none;
+}
+.darkmysite_switch_in_menu_setting .darkmysite_switch_in_menu_setting_details select{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 10px 0 0 0;
+    padding: 4px 12px;
+    font-size: 14px;
+    color: #43454b;
+    border: 1px solid #E4E4E6;
+    border-radius: 3px;
+    outline: none;
+    box-shadow: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #FFFFFF url("../img/others/select_arrow.svg") no-repeat;
+    background-size: 10px;
+    background-position-x: calc(100% - 20px);
+    background-position-y: center;
+}
+.darkmysite_switch_in_menu_setting .darkmysite_switch_in_menu_setting_details select:focus{
+    color: #43454b;
+    border: 1px solid #000000;
+    outline: none;
+    box-shadow: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #FFFFFF url("../img/others/select_arrow.svg") no-repeat;
+    background-size: 10px;
+    background-position-x: calc(100% - 20px);
+    background-position-y: center;
+}
+
+
+/* ====================================
+    Duplicable Time Range Setting Design
+======================================*/
+.darkmysite_duplicable_time_range_items{
+    margin: 10px 0 0 0;
+}
+.darkmysite_duplicable_time_range_items .darkmysite_duplicable_time_range_item{
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+}
+.darkmysite_duplicable_time_range_items .darkmysite_duplicable_time_range_item p{
+    margin: 0;
+    font-size: 15px;
+    font-weight: 500;
+    color: #222222;
+}
+.darkmysite_duplicable_time_range_items .darkmysite_duplicable_time_range_item input[type="time"]{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 4px 12px;
+    font-size: 14px;
+    color: #43454b;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E6;
+    border-radius: 3px;
+    outline: none;
+    box-shadow: none;
+}
+
+
+
+
+
+
+/* ========================
+    Switch Items Setting Design
+===========================*/
+.darkmysite_switch_items{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+.darkmysite_switch_items .darkmysite_switch_item{
+    position: relative;
+    cursor: pointer;
+    width: 168px;
+    height: 118px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff;
+    border: 1px solid #E8EBEE;
+    border-radius: 10px;
+}
+.darkmysite_dark_mode_enabled .darkmysite_switch_items .darkmysite_switch_item{
+    background: #2d2d2d;
+    border: 1px solid #4a4a4a;
+}
+.darkmysite_switch_items .darkmysite_switch_item.active{
+    border: 1px solid #000000;
+}
+.darkmysite_dark_mode_enabled .darkmysite_switch_items .darkmysite_switch_item.active{
+    border: 1px solid #ffffff;
+}
+.darkmysite_switch_items .darkmysite_switch_item .darkmysite_switch_locked{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #364655;
+    opacity: 0.8;
+    border-radius: 10px;
+}
+.darkmysite_switch_items .darkmysite_switch_item .darkmysite_switch_locked .darkmysite_switch_locked_icon{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 25px;
+    height: 25px;
+    background: transparent url(../img/others/lock_icon.svg) no-repeat;
+    background-size: 19px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+
+
+
+
+/* ========================
+    Color Preset Setting Design
+===========================*/
+.darkmysite_preset_items{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+.darkmysite_preset_items .darkmysite_preset_item{
+    cursor: pointer;
+    width: 170px;
+    height: auto;
+    position: relative;
+}
+.darkmysite_preset_items .darkmysite_preset_item img{
+    width: 100%;
+}
+.darkmysite_preset_items .darkmysite_preset_item .darkmysite_preset_item_active{
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    width: 25px;
+    height: 25px;
+    background: transparent url(../img/others/preset_selected_checkmark.svg) no-repeat;
+    background-size: 25px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+
+
+
+/* ========================
+    Input Setting Design
+===========================*/
+.darkmysite_input_select_setting{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.darkmysite_input_select_setting .darkmysite_input_select_setting_details{
+    margin: 0 15px 0 0;
+}
+.darkmysite_input_select_setting .darkmysite_input_select_setting_details h4{
+    margin: 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: #000000;
+}
+.darkmysite_input_select_setting .darkmysite_input_select_setting_details p{
+    margin: 5px 0 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: #72777C;
+}
+.darkmysite_input_select_setting input[type="text"],
+.darkmysite_input_select_setting input[type="number"],
+.darkmysite_input_select_setting select{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    max-width: 180px;
+    margin: 0;
+    padding: 4px 12px;
+    font-size: 14px;
+    color: #43454b;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E6;
+    border-radius: 3px;
+    outline: none;
+    box-shadow: none;
+}
+.darkmysite_input_select_setting input[type="text"]:focus,
+.darkmysite_input_select_setting input[type="number"]:focus,
+.darkmysite_input_select_setting select:focus{
+    color: #43454b;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    outline: none;
+    box-shadow: none;
+}
+.darkmysite_input_select_setting select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #FFFFFF url("../img/others/select_arrow.svg") no-repeat;
+    background-size: 10px;
+    background-position-x: calc(100% - 20px);
+    background-position-y: center;
+}
+.darkmysite_input_select_setting select:focus{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #FFFFFF url("../img/others/select_arrow.svg") no-repeat;
+    background-size: 10px;
+    background-position-x: calc(100% - 20px);
+    background-position-y: center;
+}
+.darkmysite_input_select_setting input[type="color"] {
+    -webkit-appearance: none;
+    box-shadow: none !important;
+    padding: 0;
+    height: 36px;
+    width: 100%;
+    max-width: 180px;
+    margin: 0;
+    cursor: pointer;
+    outline: none;
+    border: 1px solid #e9ecef;
+}
+.darkmysite_input_select_setting input[type="color"]::-webkit-color-swatch-wrapper {
+    padding: 0;
+}
+.darkmysite_input_select_setting input[type="color"]::-webkit-color-swatch {
+    border-color: transparent;
+    border-radius: 3px;
+}
+.darkmysite_input_select_setting.pro_lock {
+    opacity: 0.3;
+}
+.darkmysite_input_select_setting.pro_lock input,
+.darkmysite_input_select_setting.pro_lock select{
+    pointer-events:none;
+}
+
+
+
+
+
+
+
+/* ========================
+    Checkbox with Input Setting Design
+===========================*/
+.darkmysite_checkbox_input_select_setting{
+    display: flex;
+    align-items: flex-start;
+}
+.darkmysite_checkbox_input_select_setting .darkmysite_checkbox_input_select_setting_details{
+    flex: 1;
+    margin: 0 0 0 20px;
+}
+.darkmysite_checkbox_input_select_setting .darkmysite_checkbox_input_select_setting_details h4{
+    margin: 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: #000000;
+}
+.darkmysite_checkbox_input_select_setting .darkmysite_checkbox_input_select_setting_details p{
+    margin: 5px 0 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: #72777C;
+}
+.darkmysite_checkbox_input_select_setting .darkmysite_checkbox_item{
+    display: inline-block;
+    position: relative;
+    width: 17px;
+    cursor: pointer;
+    margin: 2px 0 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: #43454b;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.darkmysite_checkbox_input_select_setting .darkmysite_checkbox_item input[type="checkbox"]{
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+.darkmysite_checkbox_input_select_setting .darkmysite_checkbox_item .darkmysite_checkbox_checkmark{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 15px;
+    width: 15px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 0;
+}
+.darkmysite_checkbox_input_select_setting .darkmysite_checkbox_item input[type="checkbox"]:checked ~ .darkmysite_checkbox_checkmark {
+    border: 1px solid #000000;
+    background: #000000 url("../img/others/checkbox_tick_icon.svg") no-repeat;
+    background-size: 9px;
+    background-position-x: center;
+    background-position-y: center;
+}
+.darkmysite_checkbox_input_select_setting input[type="text"],
+.darkmysite_checkbox_input_select_setting input[type="number"],
+.darkmysite_checkbox_input_select_setting select{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    max-width: 180px;
+    margin: 0;
+    padding: 4px 12px;
+    font-size: 14px;
+    color: #43454b;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E6;
+    border-radius: 3px;
+    outline: none;
+    box-shadow: none;
+}
+.darkmysite_checkbox_input_select_setting input[type="text"]:focus,
+.darkmysite_checkbox_input_select_setting input[type="number"]:focus,
+.darkmysite_checkbox_input_select_setting select:focus{
+    color: #43454b;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    outline: none;
+    box-shadow: none;
+}
+.darkmysite_checkbox_input_select_setting select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #FFFFFF url("../img/others/select_arrow.svg") no-repeat;
+    background-size: 10px;
+    background-position-x: calc(100% - 20px);
+    background-position-y: center;
+}
+.darkmysite_checkbox_input_select_setting select:focus{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #FFFFFF url("../img/others/select_arrow.svg") no-repeat;
+    background-size: 10px;
+    background-position-x: calc(100% - 20px);
+    background-position-y: center;
+}
+.darkmysite_checkbox_input_select_setting input[type="color"] {
+    -webkit-appearance: none;
+    box-shadow: none !important;
+    padding: 0;
+    height: 36px;
+    width: 100%;
+    max-width: 180px;
+    margin: 0;
+    cursor: pointer;
+    outline: none;
+    border: 1px solid #e9ecef;
+}
+.darkmysite_checkbox_input_select_setting input[type="color"]::-webkit-color-swatch-wrapper {
+    padding: 0;
+}
+.darkmysite_checkbox_input_select_setting input[type="color"]::-webkit-color-swatch {
+    border-color: transparent;
+    border-radius: 3px;
+}
+.darkmysite_checkbox_input_select_setting.pro_lock {
+    opacity: 0.3;
+}
+.darkmysite_checkbox_input_select_setting.pro_lock input,
+.darkmysite_checkbox_input_select_setting.pro_lock select{
+    pointer-events:none;
+}
+
+
+
+
+
+/* ========================
+    TextArea Setting Design
+===========================*/
+.darkmysite_textarea_setting{
+
+}
+.darkmysite_textarea_setting h4{
+    margin: 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: #000000;
+}
+.darkmysite_textarea_setting p{
+    margin: 5px 0 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: #72777C;
+}
+.darkmysite_textarea_setting span{
+    display: block;
+    margin: 5px 0 0 0;
+    font-size: 13px;
+    font-weight: 400;
+    color: #96979b;
+}
+.darkmysite_textarea_setting textarea{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    margin: 10px 0 0 0;
+    padding: 4px 12px;
+    font-size: 14px;
+    color: #43454b;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E6;
+    border-radius: 3px;
+    outline: none;
+    box-shadow: none;
+}
+.darkmysite_textarea_setting textarea:focus{
+    color: #43454b;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    outline: none;
+    box-shadow: none;
+}
+.darkmysite_textarea_setting span.with_checkbox{
+    margin: 10px 0 0 0;
+    font-size: 13px;
+    font-weight: 400;
+    color: #96979b;
+}
+.darkmysite_textarea_setting.pro_lock {
+    opacity: 0.3;
+}
+.darkmysite_textarea_setting.pro_lock textarea{
+    pointer-events:none;
+}
+
+
+
+/* ========================
+    Image Replace Setting Design
+===========================*/
+.darkmysite_image_replace_setting{
+
+}
+.darkmysite_image_replace_setting .darkmysite_image_replace_setting_item{
+    display: flex;
+    align-items: flex-end;
+    margin: 0 0 5px 0;
+}
+.darkmysite_image_replace_setting .darkmysite_image_replace_setting_item h4{
+    margin: 0 0 10px 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: #000000;
+}
+.darkmysite_image_replace_setting .darkmysite_image_replace_setting_item button.add_item{
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+    width: 38px;
+    height: 38px;
+    border: 1px solid #E4E4E6;
+    outline: none;
+    box-shadow: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #f6f8fa url(../img/others/add_icon.svg) no-repeat;
+    background-size: 14px;
+    background-position-x: center;
+    background-position-y: center;
+}
+.darkmysite_image_replace_setting .darkmysite_image_replace_setting_item button.choose_image{
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+    width: 38px;
+    height: 38px;
+    border: 1px solid #E4E4E6;
+    outline: none;
+    box-shadow: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #f6f8fa url(../img/others/add_image_icon.svg) no-repeat;
+    background-size: 14px;
+    background-position-x: center;
+    background-position-y: center;
+}
+.darkmysite_image_replace_setting .darkmysite_image_replace_setting_item button.remove_item{
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+    width: 38px;
+    height: 38px;
+    border: 1px solid #E4E4E6;
+    outline: none;
+    box-shadow: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #f6f8fa url(../img/others/delete_red_icon.svg) no-repeat;
+    background-size: 14px;
+    background-position-x: center;
+    background-position-y: center;
+}
+.darkmysite_image_replace_setting .darkmysite_image_replace_setting_item input{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 4px 12px;
+    font-size: 14px;
+    color: #43454b;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E6;
+    border-radius: 3px;
+    outline: none;
+    box-shadow: none;
+}
+.darkmysite_image_replace_setting .darkmysite_image_replace_setting_item input:focus{
+    color: #43454b;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    outline: none;
+    box-shadow: none;
+}
+.darkmysite_image_replace_setting .darkmysite_image_replace_setting_item_part_0{
+    width: 35%;
+}
+.darkmysite_image_replace_setting .darkmysite_image_replace_setting_item_part_1{
+    margin: 0 0 0 6px;
+}
+.darkmysite_image_replace_setting .darkmysite_image_replace_setting_item_part_2{
+    margin: 0 0 0 40px;
+    width: 35%;
+}
+.darkmysite_image_replace_setting .darkmysite_image_replace_setting_item_part_3{
+    margin: 0 0 0 6px;
+}
+.darkmysite_image_replace_setting .darkmysite_image_replace_setting_item_part_4{
+    margin: 0 0 0 6px;
+}
+.darkmysite_image_replace_setting.pro_lock {
+    opacity: 0.3;
+}
+.darkmysite_image_replace_setting.pro_lock input{
+    pointer-events:none;
+}
+
+
+
+
+/* ========================
+    Video Replace Setting Design
+===========================*/
+.darkmysite_video_replace_setting{
+
+}
+.darkmysite_video_replace_setting .darkmysite_video_replace_setting_item{
+    display: flex;
+    align-items: flex-end;
+    margin: 0 0 5px 0;
+}
+.darkmysite_video_replace_setting .darkmysite_video_replace_setting_item h4{
+    margin: 0 0 10px 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: #000000;
+}
+.darkmysite_video_replace_setting .darkmysite_video_replace_setting_item button.add_item{
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+    width: 38px;
+    height: 38px;
+    border: 1px solid #E4E4E6;
+    outline: none;
+    box-shadow: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #f6f8fa url(../img/others/add_icon.svg) no-repeat;
+    background-size: 14px;
+    background-position-x: center;
+    background-position-y: center;
+}
+.darkmysite_video_replace_setting .darkmysite_video_replace_setting_item button.choose_video{
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+    width: 38px;
+    height: 38px;
+    border: 1px solid #E4E4E6;
+    outline: none;
+    box-shadow: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #f6f8fa url(../img/others/add_video_icon.svg) no-repeat;
+    background-size: 14px;
+    background-position-x: center;
+    background-position-y: center;
+}
+.darkmysite_video_replace_setting .darkmysite_video_replace_setting_item button.remove_item{
+    cursor: pointer;
+    box-sizing: border-box;
+    display: block;
+    width: 38px;
+    height: 38px;
+    border: 1px solid #E4E4E6;
+    outline: none;
+    box-shadow: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #f6f8fa url(../img/others/delete_red_icon.svg) no-repeat;
+    background-size: 14px;
+    background-position-x: center;
+    background-position-y: center;
+}
+.darkmysite_video_replace_setting .darkmysite_video_replace_setting_item input{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 4px 12px;
+    font-size: 14px;
+    color: #43454b;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E6;
+    border-radius: 3px;
+    outline: none;
+    box-shadow: none;
+}
+.darkmysite_video_replace_setting .darkmysite_video_replace_setting_item input:focus{
+    color: #43454b;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    outline: none;
+    box-shadow: none;
+}
+.darkmysite_video_replace_setting .darkmysite_video_replace_setting_item_part_0{
+    width: 35%;
+}
+.darkmysite_video_replace_setting .darkmysite_video_replace_setting_item_part_1{
+    margin: 0 0 0 6px;
+}
+.darkmysite_video_replace_setting .darkmysite_video_replace_setting_item_part_2{
+    margin: 0 0 0 40px;
+    width: 35%;
+}
+.darkmysite_video_replace_setting .darkmysite_video_replace_setting_item_part_3{
+    margin: 0 0 0 6px;
+}
+.darkmysite_video_replace_setting .darkmysite_video_replace_setting_item_part_4{
+    margin: 0 0 0 6px;
+}
+.darkmysite_video_replace_setting.pro_lock {
+    opacity: 0.3;
+}
+.darkmysite_video_replace_setting.pro_lock input{
+    pointer-events:none;
+}
+
+
+
+/* ========================
+    Shortcode Setting Design
+===========================*/
+.darkmysite_shortcode_setting{
+
+}
+.darkmysite_shortcode_setting h4{
+    cursor: pointer;
+    margin: 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: #000000;
+    font-style: italic;
+}
+.darkmysite_shortcode_setting p{
+    margin: 5px 0 0 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: #72777C;
+}

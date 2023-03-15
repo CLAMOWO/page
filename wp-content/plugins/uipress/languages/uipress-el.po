@@ -1,0 +1,4898 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress\n"
+"POT-Creation-Date: 2022-06-12 12:06+0200\n"
+"PO-Revision-Date: 2022-06-22 19:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Team: Rubyvio https://rubyvio.com"
+"X-Poedit-Basepath: ..\n"
+"X-Translate-Version: beta; wp-6.0"
+"X-Human revision: none;
+
+#: admin/apps/admin-pages/admin-pages.php:110
+#: admin/apps/menu-creator/menu-creator.php:1304
+msgid "Apply to subsites"
+msgstr "Εφαρμογή σε δευτερεύοντες ιστότοπους"
+
+#: admin/apps/admin-pages/admin-pages.php:121
+msgid "Menu Icon"
+msgstr "Εικονίδιο μενού"
+
+#: admin/apps/admin-pages/admin-pages.php:131
+msgid "Manually add to menu?"
+msgstr "Μη αυτόματη προσθήκη στο μενού;"
+
+#: admin/apps/admin-pages/admin-pages.php:250
+msgid "Admin Pages - Beta"
+msgstr "Σελίδες διαχειριστή - Beta"
+
+#: admin/apps/admin-pages/admin-pages.php:251
+msgid "Creates custom admin pages."
+msgstr "Δημιουργεί προσαρμοσμένες σελίδες διαχειριστή."
+
+#: admin/apps/admin-pages/admin-pages.php:255
+msgid "Disable custom admin pages?"
+msgstr "Απενεργοποίηση προσαρμοσμένων σελίδων διαχειριστή;"
+
+#: admin/apps/admin-pages/admin-pages.php:256
+msgid "If disabled, the admin pages will not be available to any users."
+msgstr ""
+"Εάν είναι απενεργοποιημένη, οι σελίδες διαχειριστή δεν θα είναι διαθέσιμες "
+"σε κανέναν χρήστη."
+
+#: admin/apps/admin-pages/admin-pages.php:263
+msgid "Admin Page Slug"
+msgstr "Admin Page Slug"
+
+#: admin/apps/admin-pages/admin-pages.php:264
+msgid ""
+"This defaults to admin-pages. Changes to this will need you to resave "
+"permalink structure."
+msgstr ""
+"Αυτό είναι προεπιλογή για τις σελίδες διαχειριστή. Για αλλαγές σε αυτό θα "
+"χρειαστεί να αποθηκεύσετε ξανά τη δομή μόνιμων συνδέσμων."
+
+#: admin/apps/admin-pages/admin-pages.php:271
+msgid "Who can edit and create admin pages?"
+msgstr "Ποιος μπορεί να επεξεργαστεί και να δημιουργήσει σελίδες διαχειριστή;"
+
+#: admin/apps/admin-pages/admin-pages.php:272
+msgid ""
+"Editing and creation of admin pages will be disabled for the users or roles "
+"you select"
+msgstr ""
+"Η επεξεργασία και η δημιουργία σελίδων διαχειριστή θα απενεργοποιηθεί για "
+"τους χρήστες ή τους ρόλους που επιλέγετε"
+
+#: admin/apps/admin-pages/admin-pages.php:280
+msgid "Who can see admin pages?"
+msgstr "Ποιος μπορεί να δει τις σελίδες διαχειριστή;"
+
+#: admin/apps/admin-pages/admin-pages.php:281
+msgid "UiPress will only show admin pages for the users or roles you select"
+msgstr ""
+"Το UiPress θα εμφανίζει μόνο σελίδες διαχειριστή για τους χρήστες ή τους "
+"ρόλους που επιλέγετε"
+
+#: admin/apps/admin-pages/admin-pages.php:320
+msgctxt "post type general name"
+msgid "Admin Page"
+msgstr "Σελίδα διαχειριστή"
+
+#: admin/apps/admin-pages/admin-pages.php:321
+msgctxt "post type singular name"
+msgid "Admin Page"
+msgstr "Σελίδα διαχειριστή"
+
+#: admin/apps/admin-pages/admin-pages.php:322
+msgctxt "admin menu"
+msgid "Admin Pages"
+msgstr "Σελίδες διαχειριστή"
+
+#: admin/apps/admin-pages/admin-pages.php:323
+msgctxt "add new on admin bar"
+msgid "Admin Page"
+msgstr "Σελίδα διαχειριστή"
+
+#: admin/apps/admin-pages/admin-pages.php:324
+msgctxt "Admin Page"
+msgid "Add New"
+msgstr "Προσθεσε νεο"
+
+#: admin/apps/admin-pages/admin-pages.php:325
+msgid "Add New Admin Page"
+msgstr "Προσθήκη νέας σελίδας διαχειριστή"
+
+#: admin/apps/admin-pages/admin-pages.php:326
+msgid "New Admin Page"
+msgstr "Νέα σελίδα διαχειριστή"
+
+#: admin/apps/admin-pages/admin-pages.php:327
+msgid "Edit Admin Page"
+msgstr "Επεξεργασία σελίδας διαχειριστή"
+
+#: admin/apps/admin-pages/admin-pages.php:328
+msgid "View Admin Page"
+msgstr "Προβολή σελίδας διαχειριστή"
+
+#: admin/apps/admin-pages/admin-pages.php:329
+msgid "All Admin Pages"
+msgstr "Όλες οι σελίδες διαχειριστή"
+
+#: admin/apps/admin-pages/admin-pages.php:330
+msgid "Search Admin Pages"
+msgstr "Αναζήτηση σελίδων διαχειριστή"
+
+#: admin/apps/admin-pages/admin-pages.php:331
+msgid "No Admin Pages found."
+msgstr "Δεν βρέθηκαν σελίδες διαχειριστή."
+
+#: admin/apps/admin-pages/admin-pages.php:332
+msgid "No Admin Pages found in Trash."
+msgstr "Δεν βρέθηκαν σελίδες διαχειριστή στον Κάδο απορριμμάτων."
+
+#: admin/apps/admin-pages/admin-pages.php:336
+#: admin/apps/menu-creator/menu-creator.php:667
+#: admin/apps/users/uip-history.php:161
+msgid "Description."
+msgstr "Περιγραφή."
+
+#: admin/apps/content/content.php:96
+msgid "Content Page"
+msgstr "Σελίδα περιεχομένων"
+
+#: admin/apps/content/content.php:97
+msgid "Creates content page"
+msgstr "Δημιουργεί σελίδα περιεχομένου"
+
+#: admin/apps/content/content.php:101
+msgid "Disable Content Page?"
+msgstr "Απενεργοποίηση της σελίδας περιεχομένου;"
+
+#: admin/apps/content/content.php:102
+msgid "If disabled, the content page will not be available to any users."
+msgstr ""
+"Εάν είναι απενεργοποιημένη, η σελίδα περιεχομένου δεν θα είναι διαθέσιμη σε "
+"κανέναν χρήστη."
+
+#: admin/apps/content/content.php:109
+msgid "Content Page Disabled for"
+msgstr "Η σελίδα περιεχομένου απενεργοποιήθηκε για"
+
+#: admin/apps/content/content.php:110
+msgid ""
+"When the content page module is disabled, the content page will not be "
+"accesible for the users / roles"
+msgstr ""
+"Όταν η μονάδα σελίδας περιεχομένου είναι απενεργοποιημένη, η σελίδα "
+"περιεχομένου δεν θα είναι προσβάσιμη για τους χρήστες/ρόλους"
+
+#: admin/apps/content/content.php:118
+msgid "Post types available in content page"
+msgstr "Διαθέσιμοι τύποι αναρτήσεων στη σελίδα περιεχομένου"
+
+#: admin/apps/content/content.php:119
+msgid "Only the selected post types will be available in the content page."
+msgstr ""
+"Μόνο οι επιλεγμένοι τύποι αναρτήσεων θα είναι διαθέσιμοι στη σελίδα "
+"περιεχομένου."
+
+#: admin/apps/content/content.php:127
+msgid "Enable private library mode"
+msgstr "Ενεργοποιήστε τη λειτουργία ιδιωτικής βιβλιοθήκης"
+
+#: admin/apps/content/content.php:128
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This also includes folders"
+msgstr ""
+"Όταν είναι ενεργοποιημένη, η σελίδα περιεχομένου θα εμφανίζει μόνο "
+"περιεχόμενο που δημιουργήθηκε ή ανέβηκε από τον τρέχοντα συνδεδεμένο χρήστη. "
+"Αυτό περιλαμβάνει επίσης φακέλους"
+
+#: admin/apps/content/content.php:184
+msgid "Original Title / Value"
+msgstr "Πρωτότυπος Τίτλος / Αξία"
+
+#: admin/apps/content/content.php:188 admin/classes/styles.php:693
+msgid "Text"
+msgstr "Κείμενο"
+
+#: admin/apps/content/content.php:192 admin/apps/content/content.php:2033
+msgid "Date Created"
+msgstr "Ημερομηνία Δημιουργίας"
+
+#: admin/apps/content/content.php:196
+msgid "File Extension (attachments only)"
+msgstr "Επέκταση αρχείου (μόνο συνημμένα)"
+
+#: admin/apps/content/content.php:200
+msgid "Sequence Number"
+msgstr "Αριθμός ακολουθίας"
+
+#: admin/apps/content/content.php:204
+msgid "Meta Value"
+msgstr "Meta Value"
+
+#: admin/apps/content/content.php:208
+msgid "Find and Replace"
+msgstr "Βρίσκω και αντικαθιστώ"
+
+#: admin/apps/content/content.php:266 admin/classes/uipress-app.php:1731
+#: admin/classes/uipress-app.php:2073
+msgid "No preferences supplied to save"
+msgstr "Δεν παρέχονται προτιμήσεις για αποθήκευση"
+
+#: admin/apps/content/content.php:288 admin/classes/uipress-app.php:1742
+#: admin/classes/uipress-app.php:2095
+msgid "Preferences saved"
+msgstr "Οι προτιμήσεις αποθηκεύτηκαν"
+
+#: admin/apps/content/content.php:291 admin/classes/uipress-app.php:1746
+#: admin/classes/uipress-app.php:2098
+msgid "Unable to save user preferences"
+msgstr "Δεν είναι δυνατή η αποθήκευση των προτιμήσεων χρήστη"
+
+#: admin/apps/content/content.php:320 admin/apps/content/content.php:328
+#: admin/apps/content/content.php:957
+msgid "Unable to save attachment"
+msgstr "Δεν είναι δυνατή η αποθήκευση του συνημμένου"
+
+#: admin/apps/content/content.php:337
+msgid "Image Saved"
+msgstr "Η εικόνα αποθηκεύτηκε"
+
+#: admin/apps/content/content.php:370
+msgid "Failed to upload file"
+msgstr "Η μεταφόρτωση του αρχείου απέτυχε"
+
+#: admin/apps/content/content.php:400
+msgid "Items uploaded"
+msgstr "Αντικείμενα μεταφορτώθηκαν"
+
+#: admin/apps/content/content.php:423
+msgid "Views updated"
+msgstr "Οι προβολές ενημερώθηκαν"
+
+#: admin/apps/content/content.php:455 admin/apps/content/content.php:517
+#: admin/apps/content/content.php:579 admin/apps/content/content.php:769
+#: admin/apps/menu-creator/menu-creator.php:752
+#: admin/apps/menu-creator/menu-creator.php:777
+#: admin/apps/menu-creator/menu-creator.php:814
+#: admin/apps/menu-creator/menu-creator.php:867
+#: admin/apps/menu-creator/menu-creator.php:936
+#: admin/apps/users/uip-user-groups.php:309 admin/classes/folders.php:528
+#: admin/classes/settings.php:308 admin/classes/uipress-app.php:1357
+msgid "Something went wrong"
+msgstr "Κάτι πήγε στραβά"
+
+#: admin/apps/content/content.php:460
+msgid "Items duplicated successfully"
+msgstr "Τα στοιχεία αντιγράφηκαν με επιτυχία"
+
+#: admin/apps/content/content.php:463
+msgid "Itms couldn't be duplicated"
+msgstr "Δεν ήταν δυνατή η αντιγραφή"
+
+#: admin/apps/content/content.php:501 admin/apps/content/content.php:543
+msgid "No Meta Key provided"
+msgstr "Δεν παρέχεται Meta Key"
+
+#: admin/apps/content/content.php:583
+msgid "Attributes Updated"
+msgstr "Τα χαρακτηριστικά ενημερώθηκαν"
+
+#: admin/apps/content/content.php:774
+msgid "Items deleted successfully"
+msgstr "Τα στοιχεία διαγράφηκαν με επιτυχία"
+
+#: admin/apps/content/content.php:777
+msgid "Itms couldn't be deleted"
+msgstr "Δεν ήταν δυνατή η διαγραφή τους"
+
+#: admin/apps/content/content.php:799 admin/classes/folders.php:452
+#: admin/classes/folders.php:484
+msgid "No content to move"
+msgstr "Δεν υπάρχει περιεχόμενο για μετακίνηση"
+
+#: admin/apps/content/content.php:812 admin/classes/folders.php:466
+#: admin/classes/folders.php:497
+msgid "Content moved"
+msgstr "Το περιεχόμενο μετακινήθηκε"
+
+#: admin/apps/content/content.php:938
+msgid "Unable to update item"
+msgstr "Δεν είναι δυνατή η ενημέρωση του στοιχείου"
+
+#: admin/apps/content/content.php:968
+msgid "Item updated"
+msgstr "Το στοιχείο ενημερώθηκε"
+
+#: admin/apps/content/content.php:1007
+msgid "Items updated"
+msgstr "Τα στοιχεία ενημερώθηκαν"
+
+#: admin/apps/content/content.php:1319 admin/apps/content/content.php:1611
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+#: admin/apps/content/content.php:1362
+#: admin/apps/menu-creator/menu-creator.php:1096
+#: admin/classes/uipress-app.php:1325
+msgid "Pro Feature"
+msgstr "Pro χαρακτηριστικό"
+
+#: admin/apps/content/content.php:1365
+msgid "Upgrade to UiPress Pro to unlock the content page and content folders"
+msgstr ""
+"Κάντε αναβάθμιση σε UiPress Pro για να ξεκλειδώσετε τη σελίδα περιεχομένου "
+"και τους φακέλους περιεχομένου"
+
+#: admin/apps/content/content.php:1367
+#: admin/apps/menu-creator/menu-creator.php:1101
+msgid "See UiPress Pro Plans"
+msgstr "Δείτε τα προγράμματα UiPress Pro"
+
+#: admin/apps/content/content.php:1411
+msgid "Update Tags and Categories"
+msgstr "Ενημέρωση ετικετών και κατηγοριών"
+
+#: admin/apps/content/content.php:1418 admin/apps/content/content.php:1831
+#: admin/apps/content/content.php:1836 admin/apps/content/content.php:2068
+#: admin/apps/content/content.php:2071
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: admin/apps/content/content.php:1419 admin/apps/content/content.php:1837
+#: admin/apps/content/content.php:2072
+msgid "Search categories..."
+msgstr "Αναζήτηση κατηγοριών..."
+
+#: admin/apps/content/content.php:1424
+msgid "Keep existing categories"
+msgstr "Διατηρήστε τις υπάρχουσες κατηγορίες"
+
+#: admin/apps/content/content.php:1433 admin/apps/content/content.php:1843
+#: admin/apps/content/content.php:1847 admin/apps/content/content.php:2080
+#: admin/apps/content/content.php:2083
+msgid "Tags"
+msgstr "Ετικέτες"
+
+#: admin/apps/content/content.php:1434 admin/apps/content/content.php:1848
+#: admin/apps/content/content.php:2084
+msgid "Search tags..."
+msgstr "Αναζήτηση ετικετών..."
+
+#: admin/apps/content/content.php:1439
+msgid "Keep existing tags"
+msgstr "Διατηρήστε τις υπάρχουσες ετικέτες"
+
+#: admin/apps/content/content.php:1448 admin/apps/content/content.php:1686
+#: admin/classes/uipress-app.php:1373
+msgid "Update"
+msgstr "Εκσυγχρονίζω"
+
+#: admin/apps/content/content.php:1465 admin/apps/content/content.php:2567
+msgid "Batch Rename"
+msgstr "Μετονομασία παρτίδας"
+
+#: admin/apps/content/content.php:1473
+msgid "Attribute to rename"
+msgstr "Χαρακτηριστικό για μετονομασία"
+
+#: admin/apps/content/content.php:1480 admin/apps/content/content.php:2323
+#: admin/apps/menu-creator/menu-creator.php:1151
+#: admin/apps/menu-creator/menu-creator.php:1651
+#: admin/apps/menu-creator/menu-creator.php:1652
+#: admin/apps/users/uip-users.php:311 admin/apps/users/uip-users.php:389
+#: admin/apps/users/uip-users.php:1213 admin/classes/uipress-app.php:1371
+msgid "Name"
+msgstr "Ονομα"
+
+#: admin/apps/content/content.php:1481
+msgid "Meta Key"
+msgstr "Meta Key"
+
+#: admin/apps/content/content.php:1482
+msgid "Alt Tag (Attachments only)"
+msgstr "Alt Tag (μόνο συνημμένα)"
+
+#: admin/apps/content/content.php:1487
+msgid "Meta Key Name"
+msgstr "Όνομα κλειδιού Meta"
+
+#: admin/apps/content/content.php:1498
+msgid "Filename Structure"
+msgstr "Δομή ονόματος αρχείου"
+
+#: admin/apps/content/content.php:1506
+msgid "Rename Item"
+msgstr "Μετονομασία στοιχείου"
+
+#: admin/apps/content/content.php:1514 admin/apps/overview/overview.php:812
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: admin/apps/content/content.php:1540
+msgid "New Text"
+msgstr "Νέο Κείμενο"
+
+#: admin/apps/content/content.php:1542
+msgid "Date Format"
+msgstr "Μορφή ημερομηνίας"
+
+#: admin/apps/content/content.php:1544
+msgid "Start Number"
+msgstr "Αριθμός έναρξης"
+
+#: admin/apps/content/content.php:1546
+msgid "Meta key Name"
+msgstr "Meta κλειδί Όνομα"
+
+#: admin/apps/content/content.php:1548
+msgid "Find"
+msgstr "Εύρημα"
+
+#: admin/apps/content/content.php:1552
+msgid "Replace"
+msgstr "Αντικαθιστώ"
+
+#: admin/apps/content/content.php:1576 admin/apps/content/content.php:1593
+#: admin/apps/menu-creator/menu-creator.php:1464
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: admin/apps/content/content.php:1579
+msgid "Current"
+msgstr "Ρεύμα"
+
+#: admin/apps/content/content.php:1580
+#: admin/apps/menu-creator/menu-creator.php:1136
+msgid "New"
+msgstr "Νέος"
+
+#: admin/apps/content/content.php:1594
+msgid "Rename"
+msgstr "Μετονομάζω"
+
+#: admin/apps/content/content.php:1618 admin/classes/uipress-app.php:1365
+msgid "All Content"
+msgstr "Όλο το περιεχόμενο"
+
+#: admin/apps/content/content.php:1679
+#: admin/apps/menu-creator/menu-creator.php:1225
+#: admin/apps/users/uip-users.php:541
+msgid "Delete"
+msgstr "Διαγράφω"
+
+#: admin/apps/content/content.php:1684
+msgid "Edit Image"
+msgstr "Επεξεργασία εικόνας"
+
+#: admin/apps/content/content.php:1715 admin/apps/users/uip-users.php:309
+msgid "Details"
+msgstr "Λεπτομέριες"
+
+#: admin/apps/content/content.php:1771 admin/apps/content/content.php:1772
+#: admin/apps/overview/overview.php:715
+msgid "Title"
+msgstr "Τίτλος"
+
+#: admin/apps/content/content.php:1778
+msgid "Alt Text"
+msgstr "Εναλλακτικό κείμενο"
+
+#: admin/apps/content/content.php:1779
+msgid "Alt"
+msgstr "Alt"
+
+#: admin/apps/content/content.php:1783 admin/apps/content/content.php:1784
+msgid "Caption"
+msgstr "Λεζάντα"
+
+#: admin/apps/content/content.php:1788 admin/apps/content/content.php:1789
+#: admin/apps/users/uip-users.php:1353
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: admin/apps/content/content.php:1799
+msgid "Meta Data"
+msgstr "Μεταδεδομένα"
+
+#: admin/apps/content/content.php:1819 admin/apps/content/content.php:1824
+#: admin/apps/content/content.php:2339
+#: admin/apps/menu-creator/menu-creator.php:1155
+#: admin/apps/menu-creator/menu-creator.php:1294
+#: admin/classes/uipress-app.php:1151
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: admin/apps/content/content.php:1825
+msgid "Search status..."
+msgstr "Κατάσταση αναζήτησης..."
+
+#: admin/apps/content/content.php:1927
+msgid "Filters"
+msgstr "Φίλτρα"
+
+#: admin/apps/content/content.php:1932
+msgid "Upload"
+msgstr "Μεταφόρτωση"
+
+#: admin/apps/content/content.php:1954
+msgid "Items Per Page"
+msgstr "Αντικείμενα ανά σελίδα"
+
+#: admin/apps/content/content.php:1964
+msgid "Columns"
+msgstr "Στήλες"
+
+#: admin/apps/content/content.php:1976
+msgid "Search..."
+msgstr "Αναζήτηση..."
+
+#: admin/apps/content/content.php:1984
+msgid "of"
+msgstr "του"
+
+#: admin/apps/content/content.php:1987
+msgid "items"
+msgstr "είδη"
+
+#: admin/apps/content/content.php:2011 admin/apps/content/content.php:2014
+msgid "Post Types"
+msgstr "Τύποι αναρτήσεων"
+
+#: admin/apps/content/content.php:2015
+msgid "Search Post Types..."
+msgstr "Αναζήτηση τύπων αναρτήσεων..."
+
+#: admin/apps/content/content.php:2022 admin/apps/content/content.php:2025
+msgid "Post Status"
+msgstr "Κατάσταση ανάρτησης"
+
+#: admin/apps/content/content.php:2026
+msgid "Search Post Statuses..."
+msgstr "Αναζήτηση καταστάσεων ανάρτησης..."
+
+#: admin/apps/content/content.php:2039
+msgid "Posted On"
+msgstr "Δημοσιεύτηκε στις"
+
+#: admin/apps/content/content.php:2040
+msgid "Posted After"
+msgstr "Δημοσιεύτηκε μετά"
+
+#: admin/apps/content/content.php:2041
+msgid "Posted Before"
+msgstr "Δημοσιεύτηκε πριν"
+
+#: admin/apps/content/content.php:2056 admin/apps/content/content.php:2059
+msgid "Media Types"
+msgstr "Τύποι μέσων"
+
+#: admin/apps/content/content.php:2060
+msgid "Search Media Types..."
+msgstr "Αναζήτηση τύπων μέσων..."
+
+#: admin/apps/content/content.php:2089
+msgid "Clear Filters"
+msgstr "Διαγραφή φίλτρων"
+
+#: admin/apps/content/content.php:2090
+msgid "Save as view"
+msgstr "Αποθήκευση ως προβολή"
+
+#: admin/apps/content/content.php:2136
+msgid "Posted"
+msgstr "Δημοσιεύτηκε"
+
+#: admin/apps/content/content.php:2327
+msgid "Type"
+msgstr "Τύπος"
+
+#: admin/apps/content/content.php:2331
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: admin/apps/content/content.php:2335
+#: admin/apps/menu-creator/menu-creator.php:1159
+#: admin/apps/overview/overview.php:904 admin/apps/users/uip-users.php:1333
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: admin/apps/content/content.php:2483
+msgid "Load More"
+msgstr "Φόρτωσε περισσότερα"
+
+#: admin/apps/content/content.php:2492
+msgid "No content found"
+msgstr "Δεν βρέθηκε περιεχόμενο"
+
+#: admin/apps/content/content.php:2511 admin/apps/users/uip-users.php:547
+#: admin/classes/uipress-app.php:1327
+msgid "View"
+msgstr "Θέα"
+
+#: admin/apps/content/content.php:2518
+#: admin/apps/menu-creator/menu-creator.php:1203
+#: admin/apps/users/uip-users.php:523 admin/classes/uipress-app.php:1328
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: admin/apps/content/content.php:2525
+msgid "Quick Edit"
+msgstr "Γρήγορη επεξεργασία"
+
+#: admin/apps/content/content.php:2532
+#: admin/apps/menu-creator/menu-creator.php:1210
+msgid "Duplicate"
+msgstr "Αντίγραφο"
+
+#: admin/apps/content/content.php:2540
+msgid "Delete Item"
+msgstr "Διαγραφή Αντικειμένου"
+
+#: admin/apps/content/content.php:2560
+msgid "items selected"
+msgstr "επιλεγμένα στοιχεία"
+
+#: admin/apps/content/content.php:2573
+msgid "Categories & Tags"
+msgstr "Κατηγορίες & Ετικέτες"
+
+#: admin/apps/content/content.php:2579
+msgid "Delete Selected"
+msgstr "Διαγραφή επιλεγμένων"
+
+#: admin/apps/content/content.php:2585
+msgid "Clear Selection"
+msgstr "Καθαρή επιλογή"
+
+#: admin/apps/content/content.php:2607
+msgid "Create New View"
+msgstr "Δημιουργία νέας προβολής"
+
+#: admin/apps/content/content.php:2612
+msgid "View name"
+msgstr "Προβολή ονόματος"
+
+#: admin/apps/content/content.php:2615
+msgid "View Name"
+msgstr "Προβολή ονόματος"
+
+#: admin/apps/content/content.php:2623
+#: admin/apps/menu-creator/menu-creator.php:1709
+#: admin/apps/overview/overview.php:836 admin/classes/styles.php:437
+msgid "Save"
+msgstr "Αποθηκεύσετε"
+
+#: admin/apps/menu-creator/menu-creator.php:405
+#: admin/apps/menu-creator/menu-creator.php:1044
+#: admin/apps/menu-creator/menu-creator.php:1052
+#: admin/apps/menu-creator/menu-creator.php:1131
+#: admin/apps/menu-creator/menu-creator.php:1699
+msgid "Menu Creator"
+msgstr "Δημιουργός μενού"
+
+#: admin/apps/menu-creator/menu-creator.php:406
+msgid "Creates custom admin menus."
+msgstr "Δημιουργεί προσαρμοσμένα μενού διαχειριστή."
+
+#: admin/apps/menu-creator/menu-creator.php:410
+msgid "Disable Menu Creator?"
+msgstr "Απενεργοποίηση Δημιουργού Μενού;"
+
+#: admin/apps/menu-creator/menu-creator.php:411
+msgid "If disabled, the menu creator will not be available to any users."
+msgstr ""
+"Εάν είναι απενεργοποιημένο, ο δημιουργός μενού δεν θα είναι διαθέσιμος σε "
+"κανέναν χρήστη."
+
+#: admin/apps/menu-creator/menu-creator.php:651
+msgctxt "post type general name"
+msgid "Admin Menu"
+msgstr "Μενού διαχειριστή"
+
+#: admin/apps/menu-creator/menu-creator.php:652
+msgctxt "post type singular name"
+msgid "admin menu"
+msgstr "μενού διαχειριστή"
+
+#: admin/apps/menu-creator/menu-creator.php:653
+msgctxt "admin menu"
+msgid "Admin Menus"
+msgstr "Μενού διαχειριστή"
+
+#: admin/apps/menu-creator/menu-creator.php:654
+msgctxt "add new on admin bar"
+msgid "Admin Menu"
+msgstr "Μενού διαχειριστή"
+
+#: admin/apps/menu-creator/menu-creator.php:655
+msgctxt "Admin Menu"
+msgid "Add New"
+msgstr "Προσθεσε νεο"
+
+#: admin/apps/menu-creator/menu-creator.php:656
+msgid "Add New Admin Menu"
+msgstr "Προσθήκη νέου μενού διαχειριστή"
+
+#: admin/apps/menu-creator/menu-creator.php:657
+msgid "New Admin Menu"
+msgstr "Νέο μενού διαχειριστή"
+
+#: admin/apps/menu-creator/menu-creator.php:658
+msgid "Edit Admin Menu"
+msgstr "Επεξεργασία μενού διαχειριστή"
+
+#: admin/apps/menu-creator/menu-creator.php:659
+msgid "View Admin Menu"
+msgstr "Προβολή μενού διαχειριστή"
+
+#: admin/apps/menu-creator/menu-creator.php:660
+msgid "All Admin Menus"
+msgstr "Όλα τα μενού διαχειριστή"
+
+#: admin/apps/menu-creator/menu-creator.php:661
+msgid "Search Admin Menus"
+msgstr "Αναζήτηση στα μενού διαχειριστή"
+
+#: admin/apps/menu-creator/menu-creator.php:662
+msgid "No Admin Menus found."
+msgstr "Δεν βρέθηκαν μενού διαχειριστή."
+
+#: admin/apps/menu-creator/menu-creator.php:663
+msgid "No Admin Menus found in Trash."
+msgstr "Δεν βρέθηκαν μενού διαχειριστή στον Κάδο απορριμμάτων."
+
+#: admin/apps/menu-creator/menu-creator.php:759
+msgid "Status Updated"
+msgstr "Κατάσταση Ενημερώθηκε"
+
+#: admin/apps/menu-creator/menu-creator.php:783
+msgid "You don't have permission to delete this"
+msgstr "Δεν έχετε άδεια να το διαγράψετε"
+
+#: admin/apps/menu-creator/menu-creator.php:791
+msgid "Unable to delete menu"
+msgstr "Δεν είναι δυνατή η διαγραφή του μενού"
+
+#: admin/apps/menu-creator/menu-creator.php:796
+msgid "Menu deleted"
+msgstr "Το μενού διαγράφηκε"
+
+#: admin/apps/menu-creator/menu-creator.php:820
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "Δεν είναι δυνατή η αναπαραγωγή του μενού, το μενού είναι κατεστραμμένο"
+
+#: admin/apps/menu-creator/menu-creator.php:826
+msgid "(copy)"
+msgstr "(αντίγραφο)"
+
+#: admin/apps/menu-creator/menu-creator.php:834
+msgid "Unable to duplicate menu"
+msgstr "Δεν είναι δυνατή η αναπαραγωγή του μενού"
+
+#: admin/apps/menu-creator/menu-creator.php:844
+msgid "Menu duplicated"
+msgstr "Το μενού είναι διπλό"
+
+#: admin/apps/menu-creator/menu-creator.php:873
+msgid "Unable to save, menu is corrupted"
+msgstr "Δεν είναι δυνατή η αποθήκευση, το μενού είναι κατεστραμμένο"
+
+#: admin/apps/menu-creator/menu-creator.php:894
+msgid "Unable to save menu"
+msgstr "Δεν είναι δυνατή η αποθήκευση του μενού"
+
+#: admin/apps/menu-creator/menu-creator.php:917
+msgid "Menu Saved"
+msgstr "Μενού Αποθηκευμένο"
+
+#: admin/apps/menu-creator/menu-creator.php:962
+#: admin/apps/users/uip-users.php:1321 admin/classes/settings.php:328
+msgid "User"
+msgstr "Χρήστης"
+
+#: admin/apps/menu-creator/menu-creator.php:977
+#: admin/apps/menu-creator/menu-creator.php:988
+#: admin/apps/users/uip-users.php:1285 admin/classes/settings.php:343
+#: admin/classes/settings.php:354
+msgid "Role"
+msgstr "Ρόλος"
+
+#: admin/apps/menu-creator/menu-creator.php:995 admin/classes/settings.php:361
+msgid "Nothing found for term:"
+msgstr "Δεν βρέθηκε τίποτα για τον όρο:"
+
+#: admin/apps/menu-creator/menu-creator.php:1044
+#, php-format
+msgid "%s Menu Creator"
+msgstr "Δημιουργός μενού %s"
+
+#: admin/apps/menu-creator/menu-creator.php:1099
+msgid "Upgrade to UiPress Pro to unlock the menu creator"
+msgstr ""
+"Κάντε αναβάθμιση σε UiPress Pro για να ξεκλειδώσετε τον δημιουργό μενού"
+
+#: admin/apps/menu-creator/menu-creator.php:1142
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "Φαίνεται ότι δεν έχετε δημιουργήσει ακόμη κανένα μενού διαχειριστή"
+
+#: admin/apps/menu-creator/menu-creator.php:1143
+msgid "Create your first admin menu"
+msgstr "Δημιουργήστε το πρώτο σας μενού διαχειριστή"
+
+#: admin/apps/menu-creator/menu-creator.php:1217
+#: admin/apps/menu-creator/menu-creator.php:1718
+#: admin/apps/users/uip-users.php:559 admin/classes/settings.php:248
+#: admin/classes/styles.php:447
+msgid "Export"
+msgstr "Εξαγωγή"
+
+#: admin/apps/menu-creator/menu-creator.php:1264
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"Ο δημιουργός μενού δεν έχει βελτιστοποιηθεί για κινητές συσκευές. Για "
+"καλύτερα αποτελέσματα, μεταβείτε σε μεγαλύτερη οθόνη"
+
+#: admin/apps/menu-creator/menu-creator.php:1279
+msgid "Menu Items"
+msgstr "Στοιχεία μενού"
+
+#: admin/apps/menu-creator/menu-creator.php:1283
+msgid "Menu Settings"
+msgstr "Ρυθμίσεις μενού"
+
+#: admin/apps/menu-creator/menu-creator.php:1314
+#: admin/apps/menu-creator/menu-creator.php:1315
+msgid "Menu Name"
+msgstr "Όνομα μενού"
+
+#: admin/apps/menu-creator/menu-creator.php:1319
+msgid "Menu Applies to"
+msgstr "Μενού Ισχύει για"
+
+#: admin/apps/menu-creator/menu-creator.php:1323
+msgid "Inclusive"
+msgstr "Περιεκτικός"
+
+#: admin/apps/menu-creator/menu-creator.php:1327
+msgid "Exclusive"
+msgstr "Αποκλειστικός"
+
+#: admin/apps/menu-creator/menu-creator.php:1331
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr ""
+"Στη λειτουργία συμπερίληψης, αυτό το μενού θα φορτώσει για όλα τα ονόματα "
+"χρήστη και τους ρόλους που επιλέγονται παρακάτω."
+
+#: admin/apps/menu-creator/menu-creator.php:1334
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"Στην Αποκλειστική λειτουργία, αυτό το μενού θα φορτωθεί για κάθε χρήστη "
+"εκτός από τα ονόματα χρήστη και τους ρόλους που επιλέγονται παρακάτω."
+
+#: admin/apps/menu-creator/menu-creator.php:1340
+msgid "Choose users or roles..."
+msgstr "Επιλέξτε χρήστες ή ρόλους..."
+
+#: admin/apps/menu-creator/menu-creator.php:1342
+msgid "Search roles and users..."
+msgstr "Αναζήτηση ρόλων και χρηστών..."
+
+#: admin/apps/menu-creator/menu-creator.php:1351
+msgid "Custom Items"
+msgstr "Προσαρμοσμένα είδη"
+
+#: admin/apps/menu-creator/menu-creator.php:1355
+msgid "New Separator"
+msgstr "Νέος διαχωριστής"
+
+#: admin/apps/menu-creator/menu-creator.php:1358
+msgid "New Custom Link"
+msgstr "Νέος προσαρμοσμένος σύνδεσμος"
+
+#: admin/apps/menu-creator/menu-creator.php:1363
+msgid "Available Menu Items"
+msgstr "Διαθέσιμα στοιχεία μενού"
+
+#: admin/apps/menu-creator/menu-creator.php:1370
+msgid "Search menu items"
+msgstr "Αναζήτηση στοιχείων μενού"
+
+#: admin/apps/menu-creator/menu-creator.php:1518
+msgid "Add some menu items from the left toolbar to get started"
+msgstr ""
+"Προσθέστε μερικά στοιχεία μενού από την αριστερή γραμμή εργαλείων για να "
+"ξεκινήσετε"
+
+#: admin/apps/menu-creator/menu-creator.php:1537
+msgid "Separator"
+msgstr "Διαχωριστής"
+
+#: admin/apps/menu-creator/menu-creator.php:1642
+msgid "Edit Menu Item"
+msgstr "Επεξεργασία στοιχείου μενού"
+
+#: admin/apps/menu-creator/menu-creator.php:1656
+#: admin/apps/menu-creator/menu-creator.php:1657
+msgid "Link"
+msgstr "Σύνδεσμος"
+
+#: admin/apps/menu-creator/menu-creator.php:1661
+msgid "Classes"
+msgstr "Τάξεις"
+
+#: admin/apps/menu-creator/menu-creator.php:1663
+msgid "Custom classes"
+msgstr "Προσαρμοσμένα μαθήματα"
+
+#: admin/apps/menu-creator/menu-creator.php:1667
+msgid "Opens in new tab?"
+msgstr "Ανοίγει σε νέα καρτέλα;"
+
+#: admin/apps/menu-creator/menu-creator.php:1677
+msgid "Icon"
+msgstr "Εικόνισμα"
+
+#: admin/apps/menu-creator/menu-creator.php:1702
+msgid "Back to all menus"
+msgstr "Επιστροφή σε όλα τα μενού"
+
+#: admin/apps/menu-creator/menu-creator.php:1727
+msgid "Import Menu"
+msgstr "Μενού εισαγωγής"
+
+#: admin/apps/menu-creator/menu-creator.php:1736 admin/classes/settings.php:265
+msgid "Reset Settings"
+msgstr "Επαναφορά ρυθμίσεων"
+
+#: admin/apps/overview/analytics.php:74
+msgid "Analytics account removed"
+msgstr "Ο λογαριασμός Analytics καταργήθηκε"
+
+#: admin/apps/overview/analytics.php:93
+msgid "Unable to connect account"
+msgstr "Δεν είναι δυνατή η σύνδεση του λογαριασμού"
+
+#: admin/apps/overview/analytics.php:106
+msgid "Analytics account connected"
+msgstr "Συνδέθηκε ο λογαριασμός Analytics"
+
+#: admin/apps/overview/analytics.php:310 admin/apps/overview/analytics.php:718
+#: admin/apps/overview/overview.php:761
+msgid "Site Users"
+msgstr "Χρήστες ιστότοπου"
+
+#: admin/apps/overview/analytics.php:318 admin/apps/overview/overview.php:762
+msgid "Site Users (comparison period)"
+msgstr "Χρήστες ιστότοπου (περίοδος σύγκρισης)"
+
+#: admin/apps/overview/analytics.php:383 admin/apps/overview/analytics.php:700
+#: admin/apps/overview/overview.php:759
+msgid "Page Views"
+msgstr "Προβολές σελίδας"
+
+#: admin/apps/overview/analytics.php:391
+msgid "Page Views (comparison period)"
+msgstr "Προβολές σελίδας (συγκριτική περίοδος)"
+
+#: admin/apps/overview/analytics.php:608 admin/apps/overview/analytics.php:709
+msgid "Page Speed"
+msgstr "Ταχύτητα σελίδας"
+
+#: admin/apps/overview/analytics.php:616
+msgid "Page Speed (comparison period)"
+msgstr "Ταχύτητα σελίδας (περίοδος σύγκρισης)"
+
+#: admin/apps/overview/analytics.php:663 admin/apps/overview/analytics.php:703
+#: admin/apps/overview/analytics.php:712 admin/apps/overview/analytics.php:721
+#: admin/apps/overview/analytics.php:730 admin/apps/overview/analytics.php:739
+#: admin/apps/overview/analytics.php:748 admin/apps/overview/analytics.php:757
+#: admin/apps/overview/analytics.php:766 admin/apps/overview/analytics.php:775
+#: admin/apps/overview/analytics.php:784 admin/apps/overview/analytics.php:793
+#: admin/apps/overview/analytics.php:802 admin/apps/overview/analytics.php:811
+#: admin/apps/overview/analytics.php:820 admin/apps/overview/analytics.php:829
+#: admin/apps/overview/analytics.php:838 admin/apps/overview/analytics.php:847
+#: admin/apps/overview/analytics.php:856 admin/apps/overview/analytics.php:865
+#: admin/apps/overview/analytics.php:874 admin/apps/overview/analytics.php:883
+msgid "Analytics"
+msgstr "Analytics"
+
+#: admin/apps/overview/analytics.php:665
+msgid "Creates the google analytics cards for the overview page."
+msgstr "Δημιουργεί τις κάρτες google analytics για τη σελίδα επισκόπησης."
+
+#: admin/apps/overview/analytics.php:681
+msgid "Google Analytics disabled for"
+msgstr "Το Google Analytics απενεργοποιήθηκε για"
+
+#: admin/apps/overview/analytics.php:682
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr ""
+"Το Analytics θα απενεργοποιηθεί στη σελίδα επισκόπησης για τυχόν χρήστες ή "
+"ρόλους που θα επιλέξετε"
+
+#: admin/apps/overview/analytics.php:702
+msgid "Display website page views within the date range."
+msgstr "Εμφάνιση προβολών σελίδων ιστότοπου εντός του εύρους ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:711
+msgid "Display website page speed within the date range."
+msgstr "Εμφάνιση ταχύτητας σελίδας ιστότοπου εντός του εύρους ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:720
+msgid "Display website users within the date range."
+msgstr "Εμφάνιση χρηστών του ιστότοπου εντός του εύρους ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:727
+msgid "Site visits by device"
+msgstr "Επισκέψεις στον ιστότοπο ανά συσκευή"
+
+#: admin/apps/overview/analytics.php:729
+msgid "Display site usage by device within the date range."
+msgstr "Εμφάνιση χρήσης ιστότοπου ανά συσκευή εντός του εύρους ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:736 admin/apps/overview/overview.php:841
+msgid "Bounce Rate"
+msgstr "Ποσοστό αναπήδησης"
+
+#: admin/apps/overview/analytics.php:738
+msgid "Display site bounce rate within the date range."
+msgstr "Εμφάνιση ποσοστού εγκατάλειψης ιστότοπου εντός του εύρους ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:745
+msgid "Session Duration"
+msgstr "Διάρκεια συνεδρίας"
+
+#: admin/apps/overview/analytics.php:747
+msgid "Display site session duration within the date range."
+msgstr ""
+"Εμφάνιση της διάρκειας περιόδου σύνδεσης ιστότοπου εντός του εύρους "
+"ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:754
+msgid "Visits by Country"
+msgstr "Επισκέψεις ανά χώρα"
+
+#: admin/apps/overview/analytics.php:756
+msgid "Displays country user data within the date range."
+msgstr "Εμφανίζει δεδομένα χρήστη χώρας εντός του εύρους ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:763
+msgid "Traffic Sources"
+msgstr "Πηγές επισκεψιμότητας"
+
+#: admin/apps/overview/analytics.php:765
+msgid "Displays traffic source info within the date range."
+msgstr "Εμφανίζει πληροφορίες πηγής κυκλοφορίας εντός του εύρους ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:772
+msgid "Visits By Page"
+msgstr "Επισκέψεις κατά σελίδα"
+
+#: admin/apps/overview/analytics.php:774
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr ""
+"Εμφανίζει την επισκεψιμότητα για τις πιο δημοφιλείς σελίδες ιστότοπου εντός "
+"του εύρους ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:781
+msgid "Event Count By Event Name"
+msgstr "Καταμέτρηση συμβάντων κατά όνομα συμβάντος"
+
+#: admin/apps/overview/analytics.php:783
+msgid "Display list of events within the date range."
+msgstr "Εμφάνιση λίστας συμβάντων εντός του εύρους ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:790
+msgid "Sessions by channel grouping"
+msgstr "Συνεδρίες ανά ομαδοποίηση καναλιών"
+
+#: admin/apps/overview/analytics.php:792
+msgid "Display sessions by channel grouping within the date range."
+msgstr ""
+"Εμφάνιση περιόδων σύνδεσης ανά ομαδοποίηση καναλιών εντός του εύρους "
+"ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:799
+msgid "User in the last 30 minutes"
+msgstr "Χρήστης τα τελευταία 30 λεπτά"
+
+#: admin/apps/overview/analytics.php:801
+msgid "Displays active users from the last 30 minutes."
+msgstr "Εμφανίζει ενεργούς χρήστες από τα τελευταία 30 λεπτά."
+
+#: admin/apps/overview/analytics.php:808
+msgid "Engagement Rate"
+msgstr "Ποσοστό αφοσίωσης"
+
+#: admin/apps/overview/analytics.php:810
+msgid "Displays average angagement rate for date range"
+msgstr "Εμφανίζει το μέσο ποσοστό angagement για το εύρος ημερομηνιών"
+
+#: admin/apps/overview/analytics.php:817 admin/apps/overview/overview.php:783
+msgid "Site Revenue"
+msgstr "Έσοδα τοποθεσίας"
+
+#: admin/apps/overview/analytics.php:819
+msgid ""
+"Displays site revenue for date range. The sum of revenue from purchases, "
+"subscriptions, and advertising."
+msgstr ""
+"Εμφανίζει τα έσοδα του ιστότοπου για το εύρος ημερομηνιών. Το άθροισμα των "
+"εσόδων από αγορές, συνδρομές και διαφημίσεις."
+
+#: admin/apps/overview/analytics.php:826
+msgid "New vs Returning Users"
+msgstr "Νέοι έναντι επανερχόμενων χρηστών"
+
+#: admin/apps/overview/analytics.php:828
+msgid "Displays new vs returning users for the date range."
+msgstr "Εμφανίζει νέους χρήστες έναντι επανερχόμενων για το εύρος ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:835
+msgid "Top Cities"
+msgstr "Κορυφαίες πόλεις"
+
+#: admin/apps/overview/analytics.php:837
+msgid "Displays page views by city for the date range."
+msgstr "Εμφανίζει προβολές σελίδας ανά πόλη για το εύρος ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:844 admin/apps/overview/overview.php:785
+msgid "Ecommerce Overview"
+msgstr "Επισκόπηση ηλεκτρονικού εμπορίου"
+
+#: admin/apps/overview/analytics.php:846
+msgid "Displays add to cart, checkout and purchase data for the date range."
+msgstr ""
+"Εμφανίζει δεδομένα προσθήκης στο καλάθι αγορών, αγορών και αγορών για το "
+"εύρος ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:853 admin/apps/overview/overview.php:781
+#: admin/apps/overview/overview.php:782
+msgid "Conversion Rate"
+msgstr "Συναλλαγματική ισοτιμία"
+
+#: admin/apps/overview/analytics.php:855
+msgid ""
+"The percentage of active users who made their first purchase for the date "
+"range."
+msgstr ""
+"Το ποσοστό των ενεργών χρηστών που πραγματοποίησαν την πρώτη τους αγορά για "
+"το εύρος ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:862
+msgid "Top Products"
+msgstr "Κορυφαία Προϊόντα"
+
+#: admin/apps/overview/analytics.php:864
+msgid "Products with the most sales for for the date range."
+msgstr "Προϊόντα με τις περισσότερες πωλήσεις για το εύρος ημερομηνιών."
+
+#: admin/apps/overview/analytics.php:871
+msgid "Conversions in the last 30 minutes"
+msgstr "Μετατροπές τα τελευταία 30 λεπτά"
+
+#: admin/apps/overview/analytics.php:873
+msgid "Conversions logged in the last 30 minutes."
+msgstr "Μετατροπές που καταγράφηκαν τα τελευταία 30 λεπτά."
+
+#: admin/apps/overview/analytics.php:880
+msgid "Page Views in the last 30 minutes"
+msgstr "Προβολές σελίδας τα τελευταία 30 λεπτά"
+
+#: admin/apps/overview/analytics.php:882
+msgid "Page views in the last 30 minutes."
+msgstr "Προβολές σελίδας τα τελευταία 30 λεπτά."
+
+#: admin/apps/overview/analytics.php:1013
+msgid "Unable to fetch analytics data at this moment. Please try again later"
+msgstr ""
+"Δεν είναι δυνατή η ανάκτηση δεδομένων αναλυτικών στοιχείων αυτήν τη στιγμή. "
+"Παρακαλώ προσπαθήστε ξανά αργότερα"
+
+#: admin/apps/overview/overview.php:106 admin/apps/overview/overview.php:1150
+msgid "Overview"
+msgstr "ΣΦΑΙΡΙΚΗ ΕΙΚΟΝΑ"
+
+#: admin/apps/overview/overview.php:107
+msgid "Creates the overview page."
+msgstr "Δημιουργεί τη σελίδα επισκόπησης."
+
+#: admin/apps/overview/overview.php:111
+msgid "Disable Overview Page?"
+msgstr "Απενεργοποίηση σελίδας επισκόπησης;"
+
+#: admin/apps/overview/overview.php:112
+msgid "Overview page will be hidden when this option is activated."
+msgstr "Η σελίδα επισκόπησης θα είναι κρυφή όταν ενεργοποιηθεί αυτή η επιλογή."
+
+#: admin/apps/overview/overview.php:119
+msgid "Overview Page Disabled For"
+msgstr "Η σελίδα επισκόπησης απενεργοποιήθηκε για"
+
+#: admin/apps/overview/overview.php:120
+msgid "Overview Page will be disabled for any users or roles you select"
+msgstr ""
+"Η Σελίδα επισκόπησης θα απενεργοποιηθεί για οποιονδήποτε χρήστη ή ρόλο "
+"επιλέγετε"
+
+#: admin/apps/overview/overview.php:128
+msgid "Who can edit the overview page?"
+msgstr "Ποιος μπορεί να επεξεργαστεί τη σελίδα επισκόπησης;"
+
+#: admin/apps/overview/overview.php:129
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If none "
+"are chosen it will fall back to administrators only"
+msgstr ""
+"Οποιοσδήποτε ρόλος ή χρήστης επιλεγεί εδώ θα μπορεί να επεξεργαστεί τη "
+"σελίδα επισκόπησης. Εάν δεν επιλεγεί κανένα, θα επιστρέψει μόνο στους "
+"διαχειριστές"
+
+#: admin/apps/overview/overview.php:137
+msgid "Default report start date"
+msgstr "Προεπιλεγμένη ημερομηνία έναρξης αναφοράς"
+
+#: admin/apps/overview/overview.php:138
+msgid ""
+"By default the overview date range will start 7 days before current date. "
+"Add a number of days between 1 and 90 to change length of date range"
+msgstr ""
+"Από προεπιλογή, το εύρος ημερομηνιών επισκόπησης θα ξεκινά 7 ημέρες πριν από "
+"την τρέχουσα ημερομηνία. Προσθέστε έναν αριθμό ημερών μεταξύ 1 και 90 για να "
+"αλλάξετε τη διάρκεια του εύρους ημερομηνιών"
+
+#: admin/apps/overview/overview.php:146
+msgid "Default report end date offset"
+msgstr "Μετατόπιση προεπιλεγμένης ημερομηνίας λήξης αναφοράς"
+
+#: admin/apps/overview/overview.php:147
+msgid ""
+"By default the overview date range will end on the current day (0). To end "
+"the report on yesterday for example, enter 1"
+msgstr ""
+"Από προεπιλογή, το εύρος ημερομηνιών επισκόπησης θα λήξει την τρέχουσα ημέρα "
+"(0). Για να τερματίσετε την αναφορά χθες, για παράδειγμα, πληκτρολογήστε 1"
+
+#: admin/apps/overview/overview.php:155
+msgid "Reporting Currency Symbol"
+msgstr "Σύμβολο νομίσματος αναφοράς"
+
+#: admin/apps/overview/overview.php:156
+msgid ""
+"If you are using google analytics commerce reports, enter the currency "
+"symbol your reports are in here"
+msgstr ""
+"Εάν χρησιμοποιείτε εμπορικές αναφορές google analytics, εισαγάγετε το "
+"σύμβολο νομίσματος στο οποίο βρίσκονται οι αναφορές σας εδώ"
+
+#: admin/apps/overview/overview.php:164
+msgid "Custom welcome message"
+msgstr "Προσαρμοσμένο μήνυμα καλωσορίσματος"
+
+#: admin/apps/overview/overview.php:165
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr ""
+"Προσθέστε ένα προσαρμοσμένο μήνυμα καλωσορίσματος εδώ για να εμφανίζεται στη "
+"σελίδα επισκόπησης"
+
+#: admin/apps/overview/overview.php:243 admin/apps/overview/overview.php:384
+#: admin/apps/overview/woocommerce.php:158
+msgid "ago"
+msgstr "πριν"
+
+#: admin/apps/overview/overview.php:259 admin/apps/overview/overview.php:447
+#: admin/apps/overview/woocommerce.php:183
+#: admin/apps/overview/woocommerce.php:265
+msgid "Posts fetched"
+msgstr "Οι αναρτήσεις ελήφθησαν"
+
+#: admin/apps/overview/overview.php:267
+msgid "No posts posted during the date range."
+msgstr "Δεν δημοσιεύτηκαν αναρτήσεις κατά το εύρος ημερομηνιών."
+
+#: admin/apps/overview/overview.php:282
+msgid "Unable to save dash at this time"
+msgstr "Δεν είναι δυνατή η αποθήκευση της παύλας αυτήν τη στιγμή"
+
+#: admin/apps/overview/overview.php:292
+msgid "Dashboard settings saved"
+msgstr "Οι ρυθμίσεις του πίνακα ελέγχου αποθηκεύτηκαν"
+
+#: admin/apps/overview/overview.php:307
+msgid "Dashboard settings reset"
+msgstr "Επαναφορά των ρυθμίσεων του ταμπλό"
+
+#: admin/apps/overview/overview.php:320 admin/apps/overview/overview.php:328
+msgid "Unable to load shortcode at this time"
+msgstr "Δεν είναι δυνατή η φόρτωση του σύντομου κώδικα αυτήν τη στιγμή"
+
+#: admin/apps/overview/overview.php:335
+msgid "Shortcode loaded"
+msgstr "Ο σύντομος κωδικός φορτώθηκε"
+
+#: admin/apps/overview/overview.php:454
+msgid "No comments during the date range."
+msgstr "Δεν υπάρχουν σχόλια κατά το εύρος ημερομηνιών."
+
+#: admin/apps/overview/overview.php:477
+msgid "Core version"
+msgstr "Βασική έκδοση"
+
+#: admin/apps/overview/overview.php:482
+msgid "PHP version"
+msgstr "Έκδοση PHP"
+
+#: admin/apps/overview/overview.php:487
+msgid "Active Plugins"
+msgstr "Ενεργά πρόσθετα"
+
+#: admin/apps/overview/overview.php:492
+msgid "Inactive Plugins"
+msgstr "Ανενεργά πρόσθετα"
+
+#: admin/apps/overview/overview.php:497
+msgid "Installed Themes"
+msgstr "Εγκατεστημένα θέματα"
+
+#: admin/apps/overview/overview.php:532
+msgid "Unable to fetch quote of the day"
+msgstr "Δεν είναι δυνατή η ανάκτηση της προσφοράς της ημέρας"
+
+#: admin/apps/overview/overview.php:570
+msgid "Passed Checks"
+msgstr "Περασμένοι έλεγχοι"
+
+#: admin/apps/overview/overview.php:578
+msgid "Recommended"
+msgstr "Συνιστάται"
+
+#: admin/apps/overview/overview.php:586
+msgid "Critical"
+msgstr "Κρίσιμος"
+
+#: admin/apps/overview/overview.php:597
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "Ρίξτε μια ματιά στα %d στοιχεία στο"
+
+#: admin/apps/overview/overview.php:598
+msgid "Site Health screen"
+msgstr "Οθόνη Υγείας τοποθεσίας"
+
+#: admin/apps/overview/overview.php:606
+msgid "Device Visits"
+msgstr "Επισκέψεις συσκευής"
+
+#: admin/apps/overview/overview.php:693
+msgid "Card width"
+msgstr "Πλάτος κάρτας"
+
+#: admin/apps/overview/overview.php:694
+msgid "Column width"
+msgstr "Πλάτος στήλης"
+
+#: admin/apps/overview/overview.php:695
+msgid "Column settings"
+msgstr "Ρυθμίσεις στηλών"
+
+#: admin/apps/overview/overview.php:696
+msgid "Column Size"
+msgstr "Μέγεθος στήλης"
+
+#: admin/apps/overview/overview.php:697
+msgid "Remove Card"
+msgstr "Αφαίρεση κάρτας"
+
+#: admin/apps/overview/overview.php:698 admin/apps/overview/overview.php:799
+msgid "Delete Column"
+msgstr "Διαγραφή στήλης"
+
+#: admin/apps/overview/overview.php:699
+msgid "In the"
+msgstr "Στο"
+
+#: admin/apps/overview/overview.php:700
+msgid "day range"
+msgstr "εύρος ημέρας"
+
+#: admin/apps/overview/overview.php:701
+msgid "xxsmall (1/6)"
+msgstr "xxsmall (1/6)"
+
+#: admin/apps/overview/overview.php:702
+msgid "xsmall (1/5)"
+msgstr "xsmall (1/5)"
+
+#: admin/apps/overview/overview.php:703
+msgid "small (1/4)"
+msgstr "μικρό (1/4)"
+
+#: admin/apps/overview/overview.php:704
+msgid "small medium (1/3)"
+msgstr "μικρό μεσαίο (1/3)"
+
+#: admin/apps/overview/overview.php:705
+msgid "medium (1/2)"
+msgstr "μέτρια (1/2)"
+
+#: admin/apps/overview/overview.php:706
+msgid "medium large (2/3)"
+msgstr "μεσαίο μεγάλο (2/3)"
+
+#: admin/apps/overview/overview.php:707
+msgid "large (3/4)"
+msgstr "μεγάλο (3/4)"
+
+#: admin/apps/overview/overview.php:708
+msgid "xlarge (1/1)"
+msgstr "xlarge (1/1)"
+
+#: admin/apps/overview/overview.php:709
+msgid "I am an empty column. Drag cards into me."
+msgstr "Είμαι μια άδεια στήλη. Σύρετε κάρτες μέσα μου."
+
+#: admin/apps/overview/overview.php:710
+msgid "Column Added"
+msgstr "Στήλη προστέθηκε"
+
+#: admin/apps/overview/overview.php:711
+msgid "Add card"
+msgstr "Προσθήκη κάρτας"
+
+#: admin/apps/overview/overview.php:712
+msgid "Section added"
+msgstr "Το τμήμα προστέθηκε"
+
+#: admin/apps/overview/overview.php:713
+msgid "Search Cards"
+msgstr "Αναζήτηση καρτών"
+
+#: admin/apps/overview/overview.php:714
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/apps/overview/overview.php:716 admin/apps/overview/overview.php:922
+msgid "Shortcode"
+msgstr "Σύντομος κωδικός"
+
+#: admin/apps/overview/overview.php:717
+msgid "Video URL"
+msgstr "URL βίντεο"
+
+#: admin/apps/overview/overview.php:718
+msgid "Embed Type"
+msgstr "Τύπος ενσωμάτωσης"
+
+#: admin/apps/overview/overview.php:719
+msgid "UiPress Pro feature"
+msgstr "Λειτουργία UiPress Pro"
+
+#: admin/apps/overview/overview.php:720
+msgid "Upgrade to one of our premium plans to unlock this feature."
+msgstr ""
+"Κάντε αναβάθμιση σε ένα από τα premium σχέδιά μας για να ξεκλειδώσετε αυτήν "
+"τη δυνατότητα."
+
+#: admin/apps/overview/overview.php:721
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/apps/overview/overview.php:722
+msgid "Card Added"
+msgstr "Προστέθηκε κάρτα"
+
+#: admin/apps/overview/overview.php:723
+msgid "Card Background colour"
+msgstr "Χρώμα φόντου κάρτας"
+
+#: admin/apps/overview/overview.php:724
+msgid "# Hex code only (#fff)"
+msgstr "# Μόνο δεκαεξαδικός κωδικός (#fff)"
+
+#: admin/apps/overview/overview.php:725
+msgid "Use light color for text"
+msgstr "Χρησιμοποιήστε ανοιχτόχρωμα για κείμενο"
+
+#: admin/apps/overview/overview.php:726
+msgid "Chart Type"
+msgstr "Τύπος γραφήματος"
+
+#: admin/apps/overview/overview.php:727
+msgid "Line Chart"
+msgstr "Γράφημα γραμμής"
+
+#: admin/apps/overview/overview.php:728
+msgid "Bar Chart"
+msgstr "Ραβδόγραμμα"
+
+#: admin/apps/overview/overview.php:729
+msgid "vs previous"
+msgstr "έναντι προηγούμενων"
+
+#: admin/apps/overview/overview.php:730 admin/apps/overview/overview.php:829
+msgid "days"
+msgstr "ημέρες"
+
+#: admin/apps/overview/overview.php:731
+msgid "Doughnut"
+msgstr "Ντόνατ"
+
+#: admin/apps/overview/overview.php:732
+msgid "Polar Area"
+msgstr "Πολική περιοχή"
+
+#: admin/apps/overview/overview.php:733
+msgid "Bar"
+msgstr "Μπαρ"
+
+#: admin/apps/overview/overview.php:734 admin/apps/overview/overview.php:741
+msgid "Horizontal Bar"
+msgstr "Οριζόντια μπάρα"
+
+#: admin/apps/overview/overview.php:735
+msgid "Country"
+msgstr "Χώρα"
+
+#: admin/apps/overview/overview.php:736
+msgid "Visits"
+msgstr "Επισκέψεις"
+
+#: admin/apps/overview/overview.php:737
+msgid "Change"
+msgstr "Αλλαγή"
+
+#: admin/apps/overview/overview.php:738
+msgid "No Background"
+msgstr "Χωρίς φόντο"
+
+#: admin/apps/overview/overview.php:739
+msgid "Hide Map"
+msgstr "Απόκρυψη χάρτη"
+
+#: admin/apps/overview/overview.php:740
+msgid "Connect your account to use this card"
+msgstr "Συνδέστε τον λογαριασμό σας για να χρησιμοποιήσετε αυτήν την κάρτα"
+
+#: admin/apps/overview/overview.php:742
+msgid "Hide Chart"
+msgstr "Απόκρυψη γραφήματος"
+
+#: admin/apps/overview/overview.php:743
+msgid "Source"
+msgstr "Πηγή"
+
+#: admin/apps/overview/overview.php:744
+msgid "Page"
+msgstr "Σελίδα"
+
+#: admin/apps/overview/overview.php:745
+msgid "Product"
+msgstr "Προϊόν"
+
+#: admin/apps/overview/overview.php:746
+msgid "Sold"
+msgstr "Πωληθεί"
+
+#: admin/apps/overview/overview.php:747
+msgid "Value"
+msgstr "αξία"
+
+#: admin/apps/overview/overview.php:748
+msgid "WooCommerce is required to use this card"
+msgstr "Για τη χρήση αυτής της κάρτας απαιτείται το WooCommerce"
+
+#: admin/apps/overview/overview.php:749 admin/classes/uipress-app.php:1380
+msgid "Please select a valid JSON file"
+msgstr "Επιλέξτε ένα έγκυρο αρχείο JSON"
+
+#: admin/apps/overview/overview.php:750 admin/classes/uipress-app.php:1381
+msgid "File is to big"
+msgstr "Το αρχείο είναι πολύ μεγάλο"
+
+#: admin/apps/overview/overview.php:751
+msgid "Layout Imported"
+msgstr "Διάταξη Εισήχθη"
+
+#: admin/apps/overview/overview.php:752
+msgid "Unable to import layout"
+msgstr "Δεν είναι δυνατή η εισαγωγή διάταξης"
+
+#: admin/apps/overview/overview.php:753
+msgid "Are you sure you want to clear the current layout? There is no undo."
+msgstr ""
+"Είστε βέβαιοι ότι θέλετε να διαγράψετε την τρέχουσα διάταξη; Δεν υπάρχει "
+"αναίρεση."
+
+#: admin/apps/overview/overview.php:754
+msgid "Available Cards"
+msgstr "Διαθέσιμες κάρτες"
+
+#: admin/apps/overview/overview.php:755
+msgid "Event Count"
+msgstr "Καταμέτρηση συμβάντων"
+
+#: admin/apps/overview/overview.php:756
+msgid "Event Name"
+msgstr "Όνομα συμβάντος"
+
+#: admin/apps/overview/overview.php:757
+msgid "Channel"
+msgstr "Κανάλι"
+
+#: admin/apps/overview/overview.php:758
+msgid "Sessions"
+msgstr "Συνεδρίες"
+
+#: admin/apps/overview/overview.php:760
+msgid "Page Views  (comparison period)"
+msgstr "Προβολές σελίδας (συγκριτική περίοδος)"
+
+#: admin/apps/overview/overview.php:763
+msgid "To"
+msgstr "Προς την"
+
+#: admin/apps/overview/overview.php:764
+msgid "From"
+msgstr "Από"
+
+#: admin/apps/overview/overview.php:765
+msgid "Date Range"
+msgstr "Εύρος ημερομηνιών"
+
+#: admin/apps/overview/overview.php:766
+msgid "Custom Comparison Dates"
+msgstr "Προσαρμοσμένες ημερομηνίες σύγκρισης"
+
+#: admin/apps/overview/overview.php:767
+msgid "Apply"
+msgstr "Ισχύουν"
+
+#: admin/apps/overview/overview.php:768
+msgid "vs"
+msgstr "vs"
+
+#: admin/apps/overview/overview.php:769
+msgid "Custom Range"
+msgstr "Προσαρμοσμένο εύρος"
+
+#: admin/apps/overview/overview.php:770 admin/classes/uipress-app.php:1397
+msgid "Today"
+msgstr "Σήμερα"
+
+#: admin/apps/overview/overview.php:771 admin/classes/uipress-app.php:1398
+msgid "Yesterday"
+msgstr "Εχθές"
+
+#: admin/apps/overview/overview.php:772
+msgid "Last 7 days"
+msgstr "Τελευταίες 7 μέρες"
+
+#: admin/apps/overview/overview.php:773
+msgid "Last 30 days"
+msgstr "Τελευταίες 30 ημέρες"
+
+#: admin/apps/overview/overview.php:774
+msgid "Last 60 days"
+msgstr "Τελευταίες 60 ημέρες"
+
+#: admin/apps/overview/overview.php:775
+msgid "Last 90 days"
+msgstr "Τελευταίες 90 ημέρες"
+
+#: admin/apps/overview/overview.php:776 admin/classes/uipress-app.php:1395
+msgid "This Month"
+msgstr "Αυτο το μηνα"
+
+#: admin/apps/overview/overview.php:777 admin/classes/uipress-app.php:1396
+msgid "Last Month"
+msgstr "Τον προηγούμενο μήνα"
+
+#: admin/apps/overview/overview.php:778
+msgid "Purchases"
+msgstr "Ψώνια"
+
+#: admin/apps/overview/overview.php:779
+msgid "Added to cart"
+msgstr "Προστέθηκε στο καλάθι"
+
+#: admin/apps/overview/overview.php:780
+msgid "Checkout started"
+msgstr "Το ταμείο ξεκίνησε"
+
+#: admin/apps/overview/overview.php:784
+msgid "Site Revenue (comparison)"
+msgstr "Έσοδα ιστότοπου (σύγκριση)"
+
+#: admin/apps/overview/overview.php:786
+msgid "Visits By Device"
+msgstr "Επισκέψεις ανά συσκευή"
+
+#: admin/apps/overview/overview.php:787
+msgid "Device Category"
+msgstr "Κατηγορία συσκευής"
+
+#: admin/apps/overview/overview.php:788
+msgid "Active Users"
+msgstr "Ενεργοί χρήστες"
+
+#: admin/apps/overview/overview.php:789 admin/apps/overview/overview.php:791
+msgid "Product Name"
+msgstr "Ονομασία προϊόντος"
+
+#: admin/apps/overview/overview.php:790
+msgid "Sales"
+msgstr "Εκπτώσεις"
+
+#: admin/apps/overview/overview.php:792
+msgid "Quantity Sold"
+msgstr "Ποσότητα που πουλήθηκε"
+
+#: admin/apps/overview/overview.php:793 admin/apps/overview/overview.php:807
+msgid "Revenue"
+msgstr "Εσοδα"
+
+#: admin/apps/overview/overview.php:794
+msgid "Column Removed"
+msgstr "Η στήλη καταργήθηκε"
+
+#: admin/apps/overview/overview.php:795
+msgid "Section Removed"
+msgstr "Το τμήμα καταργήθηκε"
+
+#: admin/apps/overview/overview.php:796
+msgid "View Plans"
+msgstr "Προβολή σχεδίων"
+
+#: admin/apps/overview/overview.php:797
+msgid "Unable to fetch analytics data, please try again later"
+msgstr ""
+"Δεν είναι δυνατή η ανάκτηση δεδομένων αναλυτικών στοιχείων, δοκιμάστε ξανά "
+"αργότερα"
+
+#: admin/apps/overview/overview.php:798
+msgid "Column background colour"
+msgstr "Χρώμα φόντου στήλης"
+
+#: admin/apps/overview/overview.php:800
+msgid "Hide card title"
+msgstr "Απόκρυψη τίτλου κάρτας"
+
+#: admin/apps/overview/overview.php:801 admin/apps/overview/overview.php:895
+msgid "Site Health"
+msgstr "Υγεία τοποθεσίας"
+
+#: admin/apps/overview/overview.php:802
+msgid "Conversions"
+msgstr "Μετατροπές"
+
+#: admin/apps/overview/overview.php:803
+msgid "This card only works with google analytics 4 accounts"
+msgstr "Αυτή η κάρτα λειτουργεί μόνο με λογαριασμούς google analytics 4"
+
+#: admin/apps/overview/overview.php:804
+msgid "This card only works with universal analytics propeties."
+msgstr ""
+"Αυτή η κάρτα λειτουργεί μόνο με καθολικές ιδιότητες αναλυτικών στοιχείων."
+
+#: admin/apps/overview/overview.php:805
+msgid "Orders"
+msgstr "Παραγγελίες"
+
+#: admin/apps/overview/overview.php:806
+msgid "Orders (comparison period)."
+msgstr "Παραγγελίες (περίοδος σύγκρισης)."
+
+#: admin/apps/overview/overview.php:808
+msgid "Revenue (comparison period)."
+msgstr "Έσοδα (συγκριτική περίοδος)."
+
+#: admin/apps/overview/overview.php:809
+msgid "Current Period"
+msgstr "Τωρινή περίοδος"
+
+#: admin/apps/overview/overview.php:810
+msgid "Comparison Period"
+msgstr "Περίοδος σύγκρισης"
+
+#: admin/apps/overview/overview.php:811
+msgid "Match Card Height"
+msgstr "Ύψος κάρτας αγώνα"
+
+#: admin/apps/overview/overview.php:813
+msgid "What would you like to do?"
+msgstr "Τι θα ήθελες να κάνεις?"
+
+#: admin/apps/overview/overview.php:814
+msgid "To do"
+msgstr "Να κάνω"
+
+#: admin/apps/overview/overview.php:815
+msgid "Done"
+msgstr "Ολοκληρώθηκε"
+
+#: admin/apps/overview/overview.php:816
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: admin/apps/overview/overview.php:817
+msgid "Background Colour"
+msgstr "Χρώμα φόντου"
+
+#: admin/apps/overview/overview.php:818
+msgid "Custom CSS class"
+msgstr "Προσαρμοσμένη κλάση CSS"
+
+#: admin/apps/overview/overview.php:819
+msgid "Add New Card"
+msgstr "Προσθήκη νέας κάρτας"
+
+#: admin/apps/overview/overview.php:820 admin/apps/overview/overview.php:1249
+#: admin/classes/settings.php:78 admin/classes/settings.php:91
+#: admin/classes/settings.php:226 admin/classes/uipress-app.php:1406
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: admin/apps/overview/overview.php:821
+msgid "Card Settings"
+msgstr "Ρυθμίσεις κάρτας"
+
+#: admin/apps/overview/overview.php:822
+msgid "Move Column Down"
+msgstr "Μετακίνηση στήλης προς τα κάτω"
+
+#: admin/apps/overview/overview.php:823
+msgid "Move Column Up"
+msgstr "Μετακίνηση στήλης επάνω"
+
+#: admin/apps/overview/overview.php:824
+msgid "Add new column"
+msgstr "Προσθήκη νέας στήλης"
+
+#: admin/apps/overview/overview.php:825
+msgid "Section Settings"
+msgstr "Ρυθμίσεις ενότητας"
+
+#: admin/apps/overview/overview.php:826
+msgid "Toggle section visibility"
+msgstr "Εναλλαγή ορατότητας ενότητας"
+
+#: admin/apps/overview/overview.php:827
+msgid "Page Settings"
+msgstr "Ρυθμίσεις σελίδας"
+
+#: admin/apps/overview/overview.php:828
+msgid "In the last"
+msgstr "Στο τέλος"
+
+#: admin/apps/overview/overview.php:830 admin/apps/users/uip-users-ajax.php:662
+msgid "Something has gone wrong"
+msgstr "Κάτι πήγε στραβά"
+
+#: admin/apps/overview/overview.php:831
+msgid "Connect your matomo site to use this card"
+msgstr ""
+"Συνδέστε τον ιστότοπό σας στο matomo για να χρησιμοποιήσετε αυτήν την κάρτα"
+
+#: admin/apps/overview/overview.php:832
+msgid "Connect Matomo Analytics"
+msgstr "Συνδέστε το Matomo Analytics"
+
+#: admin/apps/overview/overview.php:833
+msgid "Auth Token"
+msgstr "Token Auth"
+
+#: admin/apps/overview/overview.php:834
+msgid "Matomo Url"
+msgstr "Matomo Url"
+
+#: admin/apps/overview/overview.php:835
+msgid "Matomo Site ID"
+msgstr "Αναγνωριστικό τοποθεσίας Matomo"
+
+#: admin/apps/overview/overview.php:837
+msgid "Click below to change matomo account"
+msgstr "Κάντε κλικ παρακάτω για να αλλάξετε τον λογαριασμό matomo"
+
+#: admin/apps/overview/overview.php:838
+msgid "Change account"
+msgstr "Αλλαγή λογαριασμού"
+
+#: admin/apps/overview/overview.php:839
+msgid "City"
+msgstr "Πόλη"
+
+#: admin/apps/overview/overview.php:840
+msgid "Average Page Load"
+msgstr "Μέσος φόρτος σελίδας"
+
+#: admin/apps/overview/overview.php:842
+msgid "Exit Rate"
+msgstr "Ποσοστό εξόδου"
+
+#: admin/apps/overview/overview.php:843
+msgid "Average Time On Page"
+msgstr "Μέσος χρόνος στη σελίδα"
+
+#: admin/apps/overview/overview.php:844
+msgid "Referer"
+msgstr "Παραπομπή"
+
+#: admin/apps/overview/overview.php:845
+msgid "Section name"
+msgstr "Όνομα ενότητας"
+
+#: admin/apps/overview/overview.php:846
+msgid "Section description"
+msgstr "Περιγραφή ενότητας"
+
+#: admin/apps/overview/overview.php:868
+msgid "Recently Published"
+msgstr "Δημοσιεύθηκε πρόσφατα"
+
+#: admin/apps/overview/overview.php:870
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr ""
+"Εμφάνιση αναρτήσεων, σελίδων και CPT που δημοσιεύονται εντός του εύρους "
+"ημερομηνιών."
+
+#: admin/apps/overview/overview.php:871 admin/apps/overview/overview.php:880
+#: admin/apps/overview/overview.php:889 admin/apps/overview/overview.php:898
+#: admin/apps/overview/overview.php:907 admin/apps/overview/overview.php:916
+#: admin/apps/overview/overview.php:925 admin/apps/overview/overview.php:934
+#: admin/apps/overview/overview.php:943 admin/apps/overview/overview.php:952
+#: admin/classes/uipress-app.php:2526
+msgid "General"
+msgstr "Γενικός"
+
+#: admin/apps/overview/overview.php:877
+msgid "Recent Comments"
+msgstr "πρόσφατα σχόλια"
+
+#: admin/apps/overview/overview.php:879
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr ""
+"Εμφανίζει τα συνολικά σχόλια και τα πρόσφατα σχόλια που δημοσιεύτηκαν εντός "
+"του εύρους ημερομηνιών."
+
+#: admin/apps/overview/overview.php:886
+msgid "System Info"
+msgstr "Πληροφορίες συστήματος"
+
+#: admin/apps/overview/overview.php:888
+msgid "Displays info our about your cms and server setup."
+msgstr ""
+"Εμφανίζει τις πληροφορίες μας σχετικά με το cms και τη ρύθμιση του "
+"διακομιστή σας."
+
+#: admin/apps/overview/overview.php:897
+msgid "Displays info our about your sites health."
+msgstr "Εμφανίζει τις πληροφορίες μας σχετικά με την υγεία των ιστότοπών σας."
+
+#: admin/apps/overview/overview.php:906
+msgid "Displays current time and date"
+msgstr "Εμφανίζει την τρέχουσα ώρα και ημερομηνία"
+
+#: admin/apps/overview/overview.php:913
+msgid "Video"
+msgstr "βίντεο"
+
+#: admin/apps/overview/overview.php:915
+msgid "Displays a custom video"
+msgstr "Εμφανίζει ένα προσαρμοσμένο βίντεο"
+
+#: admin/apps/overview/overview.php:924
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "Εξάγει έναν σύντομο κώδικα WordPress στην κάρτα"
+
+#: admin/apps/overview/overview.php:931
+msgid "Custom HTML"
+msgstr "Προσαρμοσμένο HTML"
+
+#: admin/apps/overview/overview.php:933
+msgid "Outputs custom HTML to the card"
+msgstr "Εξάγει προσαρμοσμένο HTML στην κάρτα"
+
+#: admin/apps/overview/overview.php:940
+msgid "Quote of the day"
+msgstr "Το απόφθεγμα της ημέρας"
+
+#: admin/apps/overview/overview.php:942
+msgid "Shows a random quote of the day"
+msgstr "Εμφανίζει ένα τυχαίο απόσπασμα της ημέρας"
+
+#: admin/apps/overview/overview.php:949
+msgid "To do list"
+msgstr "Λίστα εκκρεμοτήτων"
+
+#: admin/apps/overview/overview.php:951
+msgid "A simple todo list card"
+msgstr "Μια απλή κάρτα λίστας εργασιών"
+
+#: admin/apps/overview/overview.php:1038
+msgid "Hello"
+msgstr "Χαίρετε"
+
+#: admin/apps/overview/overview.php:1187
+msgid "Clear Layout"
+msgstr "Διαγραφή διάταξης"
+
+#: admin/apps/overview/overview.php:1191 admin/apps/overview/overview.php:1234
+msgid "New Section"
+msgstr "Νέα Ενότητα"
+
+#: admin/apps/overview/overview.php:1196 admin/apps/overview/overview.php:1237
+msgid "Save changes"
+msgstr "Αποθήκευσε τις αλλαγές"
+
+#: admin/apps/overview/overview.php:1240
+msgid "Exit edit mode"
+msgstr "Έξοδος από τη λειτουργία επεξεργασίας"
+
+#: admin/apps/overview/overview.php:1253
+msgid "Editing Mode"
+msgstr "Λειτουργία επεξεργασίας"
+
+#: admin/apps/overview/overview.php:1265
+msgid "Disconnect Analytics"
+msgstr "Αποσυνδέστε το Analytics"
+
+#: admin/apps/overview/overview.php:1275
+msgid "Export Layout"
+msgstr "Εξαγωγή διάταξης"
+
+#: admin/apps/overview/overview.php:1284
+msgid "Import Layout"
+msgstr "Εισαγωγή διάταξης"
+
+#: admin/apps/overview/overview.php:1298 admin/classes/settings.php:258
+#: admin/classes/styles.php:457
+msgid "Unlock Export and Import features with pro"
+msgstr "Ξεκλειδώστε τις δυνατότητες εξαγωγής και εισαγωγής με το pro"
+
+#: admin/apps/overview/overview.php:1321
+msgid "Home"
+msgstr "Σπίτι"
+
+#: admin/apps/overview/overview.php:1369
+msgid "It's a little quiet around here"
+msgstr "Έχει λίγη ησυχία εδώ γύρω"
+
+#: admin/apps/overview/overview.php:1371
+msgid ""
+"Looks like you haven't created a dashboard yet. Enter edit mode to get "
+"started or import a default template"
+msgstr ""
+"Φαίνεται ότι δεν έχετε δημιουργήσει ακόμη πίνακα ελέγχου. Εισαγάγετε τη "
+"λειτουργία επεξεργασίας για να ξεκινήσετε ή εισαγάγετε ένα προεπιλεγμένο "
+"πρότυπο"
+
+#: admin/apps/overview/overview.php:1374
+msgid "Import default template"
+msgstr "Εισαγωγή προεπιλεγμένου προτύπου"
+
+#: admin/apps/overview/overview.php:1375
+msgid "Enter edit mode"
+msgstr "Μπείτε στη λειτουργία επεξεργασίας"
+
+#: admin/apps/overview/overview.php:1419
+msgid "Match Column Height"
+msgstr "Ταίριασμα ύψους στήλης"
+
+#: admin/apps/overview/overview.php:1427
+msgid "Hide section title"
+msgstr "Απόκρυψη τίτλου ενότητας"
+
+#: admin/apps/overview/overview.php:1435
+msgid "Section Width"
+msgstr "Πλάτος τμήματος"
+
+#: admin/apps/overview/overview.php:1452
+msgid "Remove Section"
+msgstr "Αφαίρεση ενότητας"
+
+#: admin/apps/overview/woocommerce.php:46
+#: admin/apps/overview/woocommerce.php:125
+#: admin/apps/overview/woocommerce.php:203
+msgid "Woocommerce is required for this widget"
+msgstr "Το Woocommerce απαιτείται για αυτό το γραφικό στοιχείο"
+
+#: admin/apps/overview/woocommerce.php:74
+msgid "Total Revenue"
+msgstr "Τα συνολικά έσοδα"
+
+#: admin/apps/overview/woocommerce.php:76
+msgid "Display total sales revenue in your store within the date range."
+msgstr ""
+"Εμφανίστε τα συνολικά έσοδα από τις πωλήσεις στο κατάστημά σας εντός του "
+"εύρους ημερομηνιών."
+
+#: admin/apps/overview/woocommerce.php:77
+#: admin/apps/overview/woocommerce.php:86
+#: admin/apps/overview/woocommerce.php:95
+#: admin/apps/overview/woocommerce.php:104
+#: admin/apps/overview/woocommerce.php:113
+msgid "Commerce"
+msgstr "Εμπόριο"
+
+#: admin/apps/overview/woocommerce.php:83
+msgid "Total Orders"
+msgstr "Σύνολο παραγγελιών"
+
+#: admin/apps/overview/woocommerce.php:85
+msgid "Display total orders in your store within the date range."
+msgstr ""
+"Εμφάνιση συνολικών παραγγελιών στο κατάστημά σας εντός του εύρους "
+"ημερομηνιών."
+
+#: admin/apps/overview/woocommerce.php:92
+msgid "Average Order Value"
+msgstr "Μέση Αξία Παραγγελίας"
+
+#: admin/apps/overview/woocommerce.php:94
+msgid "Display average order value in your store within the date range."
+msgstr ""
+"Εμφανίστε τη μέση αξία παραγγελίας στο κατάστημά σας εντός του εύρους "
+"ημερομηνιών."
+
+#: admin/apps/overview/woocommerce.php:101
+msgid "Recent Orders"
+msgstr "πρόσφατες παραγγελίες"
+
+#: admin/apps/overview/woocommerce.php:103
+msgid "Display recent orders from your store within the date range."
+msgstr ""
+"Εμφάνιση πρόσφατων παραγγελιών από το κατάστημά σας εντός του εύρους "
+"ημερομηνιών."
+
+#: admin/apps/overview/woocommerce.php:110
+msgid "Popular Products"
+msgstr "Δημοφιλή Προϊόντα"
+
+#: admin/apps/overview/woocommerce.php:112
+msgid "Display top selling products from your store within the date range."
+msgstr ""
+"Εμφάνιση προϊόντων με τις μεγαλύτερες πωλήσεις από το κατάστημά σας εντός "
+"του εύρους ημερομηνιών."
+
+#: admin/apps/overview/woocommerce.php:191
+msgid "No orders during the date range."
+msgstr "Δεν υπάρχουν παραγγελίες κατά το εύρος ημερομηνιών."
+
+#: admin/apps/overview/woocommerce.php:272
+msgid "No products sold during the date range."
+msgstr "Δεν πωλήθηκαν προϊόντα κατά το εύρος ημερομηνιών."
+
+#: admin/apps/users/uip-history.php:132
+msgid "Once every 1 minutes"
+msgstr "Μία φορά κάθε 1 λεπτό"
+
+#: admin/apps/users/uip-history.php:145
+msgctxt "post type general name"
+msgid "History"
+msgstr "Ιστορία"
+
+#: admin/apps/users/uip-history.php:146
+msgctxt "post type singular name"
+msgid "history"
+msgstr "ιστορία"
+
+#: admin/apps/users/uip-history.php:147
+msgctxt "admin menu"
+msgid "History"
+msgstr "Ιστορία"
+
+#: admin/apps/users/uip-history.php:148
+msgctxt "add new on admin bar"
+msgid "History"
+msgstr "Ιστορία"
+
+#: admin/apps/users/uip-history.php:149
+msgctxt "history"
+msgid "Add New"
+msgstr "Προσθεσε νεο"
+
+#: admin/apps/users/uip-history.php:150
+msgid "Add New History"
+msgstr "Προσθήκη νέου ιστορικού"
+
+#: admin/apps/users/uip-history.php:151
+msgid "New History"
+msgstr "Νέα Ιστορία"
+
+#: admin/apps/users/uip-history.php:152
+msgid "Edit History"
+msgstr "Επεξεργασία ιστορικού"
+
+#: admin/apps/users/uip-history.php:153
+msgid "View History"
+msgstr "Προβολή Ιστορικού"
+
+#: admin/apps/users/uip-history.php:154
+msgid "All History"
+msgstr "Όλη η Ιστορία"
+
+#: admin/apps/users/uip-history.php:155
+msgid "Search History"
+msgstr "Ιστορικό αναζήτησης"
+
+#: admin/apps/users/uip-history.php:156
+msgid "No History found."
+msgstr "Δεν βρέθηκε ιστορικό."
+
+#: admin/apps/users/uip-history.php:157
+msgid "No History found in Trash."
+msgstr "Δεν βρέθηκε ιστορικό στον Κάδο απορριμμάτων."
+
+#: admin/apps/users/uip-user-groups.php:41
+msgctxt "post type general name"
+msgid "Group"
+msgstr "Ομάδα"
+
+#: admin/apps/users/uip-user-groups.php:42
+msgctxt "post type singular name"
+msgid "Group"
+msgstr "Ομάδα"
+
+#: admin/apps/users/uip-user-groups.php:43
+msgctxt "admin menu"
+msgid "Groups"
+msgstr "Ομάδες"
+
+#: admin/apps/users/uip-user-groups.php:44
+msgctxt "add new on admin bar"
+msgid "Group"
+msgstr "Ομάδα"
+
+#: admin/apps/users/uip-user-groups.php:45
+msgctxt "Group"
+msgid "Add New"
+msgstr "Προσθεσε νεο"
+
+#: admin/apps/users/uip-user-groups.php:46
+#: admin/apps/users/uip-user-groups.php:57
+msgid "Add New Group"
+msgstr "Προσθήκη νέας ομάδας"
+
+#: admin/apps/users/uip-user-groups.php:47
+msgid "New Group"
+msgstr "Νέα ομάδα"
+
+#: admin/apps/users/uip-user-groups.php:48
+msgid "Edit Group"
+msgstr "Επεξεργασία ομάδας"
+
+#: admin/apps/users/uip-user-groups.php:49
+msgid "View Group"
+msgstr "Προβολή ομάδας"
+
+#: admin/apps/users/uip-user-groups.php:50
+msgid "All Groups"
+msgstr "Όλες οι Ομάδες"
+
+#: admin/apps/users/uip-user-groups.php:51
+msgid "Search Groups"
+msgstr "Αναζήτηση Ομάδων"
+
+#: admin/apps/users/uip-user-groups.php:52
+msgid "No Groups found."
+msgstr "Δεν βρέθηκαν ομάδες."
+
+#: admin/apps/users/uip-user-groups.php:53
+msgid "No Groups found in Trash."
+msgstr "Δεν βρέθηκαν ομάδες στον Κάδο απορριμμάτων."
+
+#: admin/apps/users/uip-user-groups.php:80
+msgid "No group to delete"
+msgstr "Δεν υπάρχει ομάδα προς διαγραφή"
+
+#: admin/apps/users/uip-user-groups.php:90
+msgid "Unable to delete the group"
+msgstr "Δεν είναι δυνατή η διαγραφή της ομάδας"
+
+#: admin/apps/users/uip-user-groups.php:147
+msgid "Group deleted"
+msgstr "Η ομάδα διαγράφηκε"
+
+#: admin/apps/users/uip-user-groups.php:166
+msgid "Unable to move folder group itself"
+msgstr "Δεν είναι δυνατή η μετακίνηση της ίδιας της ομάδας φακέλων"
+
+#: admin/apps/users/uip-user-groups.php:180
+msgid "Unable to move group"
+msgstr "Δεν είναι δυνατή η μετακίνηση της ομάδας"
+
+#: admin/apps/users/uip-user-groups.php:208
+msgid "Group moved"
+msgstr "Η ομάδα μετακινήθηκε"
+
+#: admin/apps/users/uip-user-groups.php:227
+msgid "No item to move"
+msgstr "Δεν υπάρχει αντικείμενο για μετακίνηση"
+
+#: admin/apps/users/uip-user-groups.php:241
+msgid "Item moved"
+msgstr "Το στοιχείο μετακινήθηκε"
+
+#: admin/apps/users/uip-user-groups.php:259
+msgid "No users to move"
+msgstr "Δεν υπάρχουν χρήστες για μετακίνηση"
+
+#: admin/apps/users/uip-user-groups.php:277
+msgid "User moved"
+msgstr "Ο χρήστης μετακινήθηκε"
+
+#: admin/apps/users/uip-user-groups.php:318
+msgid "Group updated"
+msgstr "Η ομάδα ενημερώθηκε"
+
+#: admin/apps/users/uip-user-groups.php:339 admin/classes/folders.php:557
+msgid "Title is required"
+msgstr "Απαιτείται τίτλος"
+
+#: admin/apps/users/uip-user-groups.php:345 admin/classes/folders.php:563
+msgid "Colour is required"
+msgstr "Χρώμα απαιτείται"
+
+#: admin/apps/users/uip-user-groups.php:360
+msgid "Unable to create group"
+msgstr "Δεν είναι δυνατή η δημιουργία ομάδας"
+
+#: admin/apps/users/uip-user-groups.php:372
+msgid "Group created"
+msgstr "Η ομάδα δημιουργήθηκε"
+
+#: admin/apps/users/uip-users-ajax.php:415
+msgid "Unknown"
+msgstr "Αγνωστος"
+
+#: admin/apps/users/uip-users-ajax.php:511
+#: admin/apps/users/uip-users-ajax.php:577
+msgid "You don't have sufficent priviledges to edit users"
+msgstr "Δεν έχετε επαρκή δικαιώματα για να επεξεργαστείτε χρήστες"
+
+#: admin/apps/users/uip-users-ajax.php:517
+#: admin/apps/users/uip-users-ajax.php:1023
+msgid "Email is not valid"
+msgstr "Το email δεν είναι έγκυρο"
+
+#: admin/apps/users/uip-users-ajax.php:528
+#: admin/apps/users/uip-users-ajax.php:1016
+msgid "Email already exists"
+msgstr "Το email υπάρχει ήδη"
+
+#: admin/apps/users/uip-users-ajax.php:557
+#: admin/apps/users/uip-users-ajax.php:1069
+msgid "User saved"
+msgstr "Ο χρήστης αποθηκεύτηκε"
+
+#: admin/apps/users/uip-users-ajax.php:583
+msgid "No users sent to update"
+msgstr "Δεν έχουν σταλεί χρήστες για ενημέρωση"
+
+#: admin/apps/users/uip-users-ajax.php:589
+msgid "No roles sent to update"
+msgstr "Δεν στάλθηκαν ρόλοι για ενημέρωση"
+
+#: admin/apps/users/uip-users-ajax.php:610
+msgid "User roles updated"
+msgstr "Οι ρόλοι των χρηστών ενημερώθηκαν"
+
+#: admin/apps/users/uip-users-ajax.php:630
+#: admin/apps/users/uip-users-ajax.php:716
+#: admin/apps/users/uip-users-ajax.php:777
+#: admin/apps/users/uip-users-ajax.php:818
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr "Δεν έχετε αρκετά προνόμια για να διαχειριστείτε ρόλους"
+
+#: admin/apps/users/uip-users-ajax.php:636
+msgid "Original role name required"
+msgstr "Απαιτείται αρχικό όνομα ρόλου"
+
+#: admin/apps/users/uip-users-ajax.php:642
+#: admin/apps/users/uip-users-ajax.php:722
+#: admin/apps/users/uip-users-ajax.php:783
+#: admin/apps/users/uip-users-ajax.php:836
+#: admin/apps/users/uip-users-ajax.php:879
+#: admin/apps/users/uip-users-ajax.php:885
+#: admin/apps/users/uip-users-ajax.php:944
+#: admin/apps/users/uip-users-ajax.php:950
+msgid "Role name is required"
+msgstr "Απαιτείται όνομα ρόλου"
+
+#: admin/apps/users/uip-users-ajax.php:667
+msgid "Role saved"
+msgstr "Ο ρόλος αποθηκεύτηκε"
+
+#: admin/apps/users/uip-users-ajax.php:686
+msgid "You don't have sufficent priviledges to do this"
+msgstr "Δεν έχετε αρκετά προνόμια για να το κάνετε αυτό"
+
+#: admin/apps/users/uip-users-ajax.php:697
+msgid "User logged out everywhere"
+msgstr "Ο χρήστης αποσυνδέθηκε παντού"
+
+#: admin/apps/users/uip-users-ajax.php:728
+msgid "Role label cannot contain spaces"
+msgstr "Η ετικέτα ρόλου δεν μπορεί να περιέχει κενά"
+
+#: admin/apps/users/uip-users-ajax.php:734
+msgid "Role label is required"
+msgstr "Απαιτείται ετικέτα ρόλου"
+
+#: admin/apps/users/uip-users-ajax.php:753
+msgid "Unable to add role. Make sure role name is unique"
+msgstr ""
+"Δεν είναι δυνατή η προσθήκη ρόλου. Βεβαιωθείτε ότι το όνομα ρόλου είναι "
+"μοναδικό"
+
+#: admin/apps/users/uip-users-ajax.php:758
+msgid "Role created"
+msgstr "Δημιουργήθηκε ο ρόλος"
+
+#: admin/apps/users/uip-users-ajax.php:792
+#: admin/apps/users/uip-users-ajax.php:843
+msgid "You can't delete a role that is currently assigned to yourself"
+msgstr ""
+"Δεν μπορείτε να διαγράψετε έναν ρόλο που έχει εκχωρηθεί αυτήν τη στιγμή στον "
+"εαυτό σας"
+
+#: admin/apps/users/uip-users-ajax.php:799
+msgid "Role deleted"
+msgstr "Ο ρόλος διαγράφηκε"
+
+#: admin/apps/users/uip-users-ajax.php:824
+msgid "No roles to delete"
+msgstr "Δεν υπάρχουν ρόλοι προς διαγραφή"
+
+#: admin/apps/users/uip-users-ajax.php:852
+msgid "Roles deleted"
+msgstr "Οι ρόλοι διαγράφηκαν"
+
+#: admin/apps/users/uip-users-ajax.php:873
+msgid "You don't have sufficent priviledges to add this capability"
+msgstr "Δεν έχετε επαρκή δικαιώματα για να προσθέσετε αυτήν τη δυνατότητα"
+
+#: admin/apps/users/uip-users-ajax.php:891
+#: admin/apps/users/uip-users-ajax.php:956
+msgid "Role name cannot contain spaces"
+msgstr "Το όνομα του ρόλου δεν μπορεί να περιέχει κενά"
+
+#: admin/apps/users/uip-users-ajax.php:897
+msgid "Capability name cannot contain spaces"
+msgstr "Το όνομα της δυνατότητας δεν μπορεί να περιέχει κενά"
+
+#: admin/apps/users/uip-users-ajax.php:912
+msgid "Unable to add capability. Make sure role name is unique"
+msgstr ""
+"Δεν είναι δυνατή η προσθήκη δυνατότητας. Βεβαιωθείτε ότι το όνομα ρόλου "
+"είναι μοναδικό"
+
+#: admin/apps/users/uip-users-ajax.php:917
+msgid "Capability added"
+msgstr "Προστέθηκε δυνατότητα"
+
+#: admin/apps/users/uip-users-ajax.php:938
+msgid "You don't have sufficent priviledges to delete this capability"
+msgstr "Δεν έχετε επαρκή δικαιώματα για να διαγράψετε αυτήν τη δυνατότητα"
+
+#: admin/apps/users/uip-users-ajax.php:971
+msgid "Unable to delete capability. Make sure role name is unique"
+msgstr ""
+"Δεν είναι δυνατή η διαγραφή της δυνατότητας. Βεβαιωθείτε ότι το όνομα ρόλου "
+"είναι μοναδικό"
+
+#: admin/apps/users/uip-users-ajax.php:976
+msgid "Capability deleted"
+msgstr "Η δυνατότητα διαγράφηκε"
+
+#: admin/apps/users/uip-users-ajax.php:996
+msgid "You don't have sufficent priviledges to create users"
+msgstr "Δεν έχετε επαρκή δικαιώματα για να δημιουργήσετε χρήστες"
+
+#: admin/apps/users/uip-users-ajax.php:1003
+msgid "Username already exists"
+msgstr "Το όνομα χρήστη υπάρχει ήδη"
+
+#: admin/apps/users/uip-users-ajax.php:1009
+msgid "Username is not valid"
+msgstr "Το όνομα χρήστη δεν είναι έγκυρο"
+
+#: admin/apps/users/uip-users-ajax.php:1029
+msgid "Password is required"
+msgstr "Απαιτείται κωδικός"
+
+#: admin/apps/users/uip-users-ajax.php:1088
+#: admin/apps/users/uip-users-ajax.php:1127
+msgid "You don't have sufficent priviledges to edit this user"
+msgstr "Δεν έχετε επαρκή δικαιώματα για να επεξεργαστείτε αυτόν τον χρήστη"
+
+#: admin/apps/users/uip-users-ajax.php:1097
+msgid "Password reset link sent"
+msgstr "Ο σύνδεσμος επαναφοράς κωδικού πρόσβασης εστάλη"
+
+#: admin/apps/users/uip-users-ajax.php:1101
+msgid "Unable to send password reset email at the moment"
+msgstr ""
+"Δεν είναι δυνατή η αποστολή email επαναφοράς κωδικού πρόσβασης αυτήν τη "
+"στιγμή"
+
+#: admin/apps/users/uip-users-ajax.php:1121
+msgid "No users sent to reset passwords!"
+msgstr "Δεν εστάλησαν χρήστες για επαναφορά κωδικών πρόσβασης!"
+
+#: admin/apps/users/uip-users-ajax.php:1141
+msgid "Unable to send password reset email"
+msgstr "Δεν είναι δυνατή η αποστολή email επαναφοράς κωδικού πρόσβασης"
+
+#: admin/apps/users/uip-users-ajax.php:1142
+#: admin/apps/users/uip-users-ajax.php:1315
+#: admin/apps/users/uip-users-ajax.php:1325
+#, php-format
+msgid "User ID: %s"
+msgstr "Αναγνωριστικό χρήστη: %s"
+
+#: admin/apps/users/uip-users-ajax.php:1148
+msgid "Password reset links succesfully sent"
+msgstr "Οι σύνδεσμοι επαναφοράς κωδικού πρόσβασης στάλθηκαν με επιτυχία"
+
+#: admin/apps/users/uip-users-ajax.php:1173
+msgid "Subject is required"
+msgstr "Το θέμα είναι υποχρεωτικό"
+
+#: admin/apps/users/uip-users-ajax.php:1179
+msgid "Reply to email is required"
+msgstr "Απαιτείται απάντηση στο email"
+
+#: admin/apps/users/uip-users-ajax.php:1185
+msgid "Message is required"
+msgstr "Απαιτείται μήνυμα"
+
+#: admin/apps/users/uip-users-ajax.php:1200
+msgid "No email to send message to."
+msgstr "Δεν υπάρχει email για αποστολή μηνύματος."
+
+#: admin/apps/users/uip-users-ajax.php:1232
+msgid "Unable to send mail at this time"
+msgstr "Δεν είναι δυνατή η αποστολή αλληλογραφίας αυτήν τη στιγμή"
+
+#: admin/apps/users/uip-users-ajax.php:1237
+msgid "Message sent"
+msgstr "Το μήνυμα στάλθηκε"
+
+#: admin/apps/users/uip-users-ajax.php:1261
+msgid "You can't delete yourself!"
+msgstr "Δεν μπορείτε να διαγράψετε τον εαυτό σας!"
+
+#: admin/apps/users/uip-users-ajax.php:1270
+msgid "User successfully deleted"
+msgstr "Ο χρήστης διαγράφηκε με επιτυχία"
+
+#: admin/apps/users/uip-users-ajax.php:1274
+#: admin/apps/users/uip-users-ajax.php:1279
+#: admin/apps/users/uip-users-ajax.php:1305
+msgid "You don't have sufficent priviledges to delete this user"
+msgstr "Δεν έχετε επαρκή δικαιώματα για να διαγράψετε αυτόν τον χρήστη"
+
+#: admin/apps/users/uip-users-ajax.php:1299
+msgid "No users sent to delete!"
+msgstr "Δεν εστάλησαν χρήστες για διαγραφή!"
+
+#: admin/apps/users/uip-users-ajax.php:1314
+msgid "You can't delete yourself"
+msgstr "Δεν μπορείτε να διαγράψετε τον εαυτό σας"
+
+#: admin/apps/users/uip-users-ajax.php:1324
+msgid "Unable to delete this user"
+msgstr "Δεν είναι δυνατή η διαγραφή αυτού του χρήστη"
+
+#: admin/apps/users/uip-users-ajax.php:1331
+msgid "Users successfully deleted"
+msgstr "Οι χρήστες διαγράφηκαν με επιτυχία"
+
+#: admin/apps/users/uip-users.php:53 admin/apps/users/uip-users.php:266
+#: admin/apps/users/uip-users.php:377 admin/apps/users/uip-users.php:1291
+msgid "Users"
+msgstr "Χρήστες"
+
+#: admin/apps/users/uip-users.php:54
+msgid "Creates user management page"
+msgstr "Δημιουργεί σελίδα διαχείρισης χρηστών"
+
+#: admin/apps/users/uip-users.php:58
+msgid "Disable Users Page?"
+msgstr "Απενεργοποίηση της σελίδας χρηστών;"
+
+#: admin/apps/users/uip-users.php:59
+msgid ""
+"If disabled, the user management page will not be available to any users."
+msgstr ""
+"Εάν είναι απενεργοποιημένη, η σελίδα διαχείρισης χρηστών δεν θα είναι "
+"διαθέσιμη σε κανέναν χρήστη."
+
+#: admin/apps/users/uip-users.php:66
+msgid "User management page Disabled for"
+msgstr "Απενεργοποιήθηκε η σελίδα διαχείρισης χρηστών για"
+
+#: admin/apps/users/uip-users.php:67
+msgid ""
+"When the user management page module is disabled, the user management page "
+"will not be accesible for the users / roles"
+msgstr ""
+"Όταν η ενότητα σελίδας διαχείρισης χρηστών είναι απενεργοποιημένη, η σελίδα "
+"διαχείρισης χρηστών δεν θα είναι προσβάσιμη για τους χρήστες/ρόλους"
+
+#: admin/apps/users/uip-users.php:75
+msgid "Enable user activity log?"
+msgstr "Ενεργοποίηση αρχείου καταγραφής δραστηριότητας χρήστη;"
+
+#: admin/apps/users/uip-users.php:76
+msgid ""
+"If enabled, uipress will log actions taken by all users, including page "
+"views, comments, post creation etc."
+msgstr ""
+"Εάν είναι ενεργοποιημένο, το uipress θα καταγράφει τις ενέργειες που "
+"πραγματοποιήθηκαν από όλους τους χρήστες, συμπεριλαμβανομένων των προβολών "
+"σελίδας, των σχολίων, της δημιουργίας αναρτήσεων κ.λπ."
+
+#: admin/apps/users/uip-users.php:84
+msgid "Disable page view logging"
+msgstr "Απενεργοποίηση καταγραφής προβολής σελίδας"
+
+#: admin/apps/users/uip-users.php:87
+#, php-format
+msgid ""
+"By Default, %s will track page views for logged in users as part of the "
+"activity log. While sometimes useful, this will have the biggest impact on "
+"the log size in the database. Disabling this feature will keep the log "
+"smaller."
+msgstr ""
+"Από προεπιλογή, το %s θα παρακολουθεί τις προβολές σελίδας για συνδεδεμένους "
+"χρήστες ως μέρος του αρχείου καταγραφής δραστηριοτήτων. Αν και μερικές φορές "
+"είναι χρήσιμο, αυτό θα έχει τον μεγαλύτερο αντίκτυπο στο μέγεθος του αρχείου "
+"καταγραφής στη βάση δεδομένων. Η απενεργοποίηση αυτής της δυνατότητας θα "
+"διατηρήσει το αρχείο καταγραφής μικρότερο."
+
+#: admin/apps/users/uip-users.php:99
+msgid "Enable recent page view logging"
+msgstr "Ενεργοποίηση της καταγραφής πρόσφατης προβολής σελίδας"
+
+#: admin/apps/users/uip-users.php:100
+#, php-format
+msgid ""
+"Seperate to the main history log, %s will keep 5 recent page views in the "
+"user meta. This can have a small impact on the page load speed."
+msgstr ""
+"Ανεξάρτητα από το κύριο αρχείο καταγραφής ιστορικού, το %s θα διατηρήσει 5 "
+"πρόσφατες προβολές σελίδας στο meta χρήστη. Αυτό μπορεί να έχει μικρό "
+"αντίκτυπο στην ταχύτητα φόρτωσης της σελίδας."
+
+#: admin/apps/users/uip-users.php:108
+msgid "How long to keep history?"
+msgstr "Πόσο καιρό να διατηρηθεί η ιστορία;"
+
+#: admin/apps/users/uip-users.php:109
+msgid ""
+"By default, activity items will be deleted after 60 days, enter the amount "
+"of days to keep items to change this"
+msgstr ""
+"Από προεπιλογή, τα στοιχεία δραστηριότητας θα διαγραφούν μετά από 60 ημέρες. "
+"Εισαγάγετε τον αριθμό των ημερών για να διατηρήσετε τα στοιχεία για να το "
+"αλλάξετε"
+
+#: admin/apps/users/uip-users.php:118
+msgid "Delay history entries?"
+msgstr "Καθυστέρηση καταχωρήσεων ιστορικού;"
+
+#: admin/apps/users/uip-users.php:120
+msgid ""
+"Use scheduled tasks to insert the history actions to avoid any extra page "
+"load speed. By default entries are added as they happen, with this enabled "
+"there will be delay of about 10 seconds before actions appear."
+msgstr ""
+"Χρησιμοποιήστε προγραμματισμένες εργασίες για να εισαγάγετε τις ενέργειες "
+"ιστορικού για να αποφύγετε τυχόν επιπλέον ταχύτητα φόρτωσης σελίδας. Από "
+"προεπιλογή, οι καταχωρήσεις προστίθενται όπως συμβαίνουν, με αυτό το "
+"ενεργοποιημένο, θα υπάρχει καθυστέρηση περίπου 10 δευτερολέπτων πριν "
+"εμφανιστούν οι ενέργειες."
+
+#: admin/apps/users/uip-users.php:131
+msgid "Anonymize user IP addresses?"
+msgstr "Ανωνυμοποίηση διευθύνσεων IP χρηστών;"
+
+#: admin/apps/users/uip-users.php:132
+msgid ""
+"Each history item logs the users IP address, enable this to anonymize the "
+"address."
+msgstr ""
+"Κάθε στοιχείο ιστορικού καταγράφει τη διεύθυνση IP των χρηστών, "
+"ενεργοποιώντας το για να ανωνυμοποιήσετε τη διεύθυνση."
+
+#: admin/apps/users/uip-users.php:217 admin/apps/users/uip-users.php:218
+msgid "User Management"
+msgstr "Διαχείριση χρηστών"
+
+#: admin/apps/users/uip-users.php:270 admin/apps/users/uip-users.php:328
+#: admin/apps/users/uip-users.php:1244
+msgid "Roles"
+msgstr "Ρόλοι"
+
+#: admin/apps/users/uip-users.php:274
+msgid "Activity"
+msgstr "Δραστηριότητα"
+
+#: admin/apps/users/uip-users.php:290
+msgid "results"
+msgstr "Αποτελέσματα"
+
+#: admin/apps/users/uip-users.php:291 admin/apps/users/uip-users.php:316
+msgid "Previous"
+msgstr "Προηγούμενος"
+
+#: admin/apps/users/uip-users.php:292 admin/apps/users/uip-users.php:315
+msgid "Next"
+msgstr "Επόμενο"
+
+#: admin/apps/users/uip-users.php:293
+msgid "Search users"
+msgstr "Αναζήτηση χρηστών"
+
+#: admin/apps/users/uip-users.php:294
+msgid "Filter by role"
+msgstr "Φιλτράρισμα ανά ρόλο"
+
+#: admin/apps/users/uip-users.php:295
+msgid "Search roles"
+msgstr "Αναζήτηση ρόλων"
+
+#: admin/apps/users/uip-users.php:296
+msgid "Table options"
+msgstr "Επιλογές τραπεζιού"
+
+#: admin/apps/users/uip-users.php:297
+msgid "Order"
+msgstr "Σειρά"
+
+#: admin/apps/users/uip-users.php:298
+msgid "Ascending"
+msgstr "Αύξουσα"
+
+#: admin/apps/users/uip-users.php:299
+msgid "Descending"
+msgstr "Φθίνων"
+
+#: admin/apps/users/uip-users.php:300
+msgid "Sort By"
+msgstr "Ταξινόμηση κατά"
+
+#: admin/apps/users/uip-users.php:301
+msgid "Per page"
+msgstr "Ανά σελίδα"
+
+#: admin/apps/users/uip-users.php:302
+msgid "Fields"
+msgstr "Πεδία"
+
+#: admin/apps/users/uip-users.php:303
+msgid "Date created"
+msgstr "Ημερομηνία Δημιουργίας"
+
+#: admin/apps/users/uip-users.php:304
+msgid "On"
+msgstr "Επί"
+
+#: admin/apps/users/uip-users.php:305
+msgid "After"
+msgstr "Μετά"
+
+#: admin/apps/users/uip-users.php:306
+msgid "Before"
+msgstr "Πριν"
+
+#: admin/apps/users/uip-users.php:307 admin/apps/users/uip-users.php:308
+msgid "Date filters"
+msgstr "Φίλτρα ημερομηνίας"
+
+#: admin/apps/users/uip-users.php:310
+msgid "Account created"
+msgstr "Ο λογαριασμός δημιουργήθηκε"
+
+#: admin/apps/users/uip-users.php:312 admin/apps/users/uip-users.php:326
+#: admin/apps/users/uip-users.php:1219
+msgid "Email"
+msgstr "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
+
+#: admin/apps/users/uip-users.php:313
+msgid "Recent page views"
+msgstr "Πρόσφατες προβολές σελίδας"
+
+#: admin/apps/users/uip-users.php:314
+msgid "Recent activity"
+msgstr "Πρόσφατη Δραστηριότητα"
+
+#: admin/apps/users/uip-users.php:317
+msgid "Last login"
+msgstr "Τελευταία είσοδος"
+
+#: admin/apps/users/uip-users.php:318
+msgid "Login location"
+msgstr "Θέση σύνδεσης"
+
+#: admin/apps/users/uip-users.php:319
+msgid "No recent activity"
+msgstr "Καμία πρόσφατη δραστηριότητα"
+
+#: admin/apps/users/uip-users.php:320
+msgid "Total posts"
+msgstr "Σύνολο αναρτήσεων"
+
+#: admin/apps/users/uip-users.php:321
+msgid "Total comments"
+msgstr "Σύνολο σχολίων"
+
+#: admin/apps/users/uip-users.php:322
+msgid "User Options"
+msgstr "Επιλογές χρήστη"
+
+#: admin/apps/users/uip-users.php:323 admin/apps/users/uip-users.php:332
+msgid "Edit user"
+msgstr "Επεξεργασία χρήστη"
+
+#: admin/apps/users/uip-users.php:324
+msgid "First name"
+msgstr "Ονομα"
+
+#: admin/apps/users/uip-users.php:325
+msgid "Last name"
+msgstr "Επίθετο"
+
+#: admin/apps/users/uip-users.php:327
+msgid "Assign roles"
+msgstr "Αναθέστε ρόλους"
+
+#: admin/apps/users/uip-users.php:329
+msgid "User notes"
+msgstr "Σημειώσεις χρήστη"
+
+#: admin/apps/users/uip-users.php:330
+msgid "Cancel"
+msgstr "Ματαίωση"
+
+#: admin/apps/users/uip-users.php:331
+msgid "Update user"
+msgstr "Ενημέρωση χρήστη"
+
+#: admin/apps/users/uip-users.php:333
+msgid "Send password reset"
+msgstr "Αποστολή επαναφοράς κωδικού πρόσβασης"
+
+#: admin/apps/users/uip-users.php:334 admin/apps/users/uip-users.php:342
+msgid "Send message"
+msgstr "Να στείλετε μήνυμα"
+
+#: admin/apps/users/uip-users.php:335
+msgid "Delete user"
+msgstr "Διαγραφή χρήστη"
+
+#: admin/apps/users/uip-users.php:336
+msgid "Are you sure you want to delete this user?"
+msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον χρήστη;"
+
+#: admin/apps/users/uip-users.php:337
+msgid "Are you sure you want to the selected users?"
+msgstr "Είστε βέβαιοι ότι θέλετε στους επιλεγμένους χρήστες;"
+
+#: admin/apps/users/uip-users.php:338
+msgid ""
+"Are you sure you want to send password reset links to the selected users?"
+msgstr ""
+"Είστε βέβαιοι ότι θέλετε να στείλετε συνδέσμους επαναφοράς κωδικού πρόσβασης "
+"στους επιλεγμένους χρήστες;"
+
+#: admin/apps/users/uip-users.php:339
+msgid "Recipient"
+msgstr "Παραλήπτης"
+
+#: admin/apps/users/uip-users.php:340
+msgid "Subject"
+msgstr "Θέμα"
+
+#: admin/apps/users/uip-users.php:341
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: admin/apps/users/uip-users.php:343
+msgid "Reply to email"
+msgstr "Απάντηση στο email"
+
+#: admin/apps/users/uip-users.php:344
+msgid "New user"
+msgstr "Νέος χρήστης"
+
+#: admin/apps/users/uip-users.php:345
+msgid "Save user"
+msgstr "Αποθήκευση χρήστη"
+
+#: admin/apps/users/uip-users.php:346
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+#: admin/apps/users/uip-users.php:347 admin/apps/users/uip-users.php:1207
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: admin/apps/users/uip-users.php:348 admin/apps/users/uip-users.php:1279
+msgid "Role name"
+msgstr "Όνομα ρόλου"
+
+#: admin/apps/users/uip-users.php:349
+msgid "Edit role"
+msgstr "Επεξεργασία ρόλου"
+
+#: admin/apps/users/uip-users.php:350
+msgid "Save role"
+msgstr "Αποθήκευση ρόλου"
+
+#: admin/apps/users/uip-users.php:351
+msgid "Capabilities"
+msgstr "Δυνατότητες"
+
+#: admin/apps/users/uip-users.php:353
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"Αυτήν τη στιγμή επεξεργάζεστε τον ρόλο του διαχειριστή. Αυτός είναι συνήθως "
+"ο πιο σημαντικός ρόλος στον ιστότοπο, γι' αυτό φροντίστε να μην αφαιρέσετε "
+"τις απαραίτητες δυνατότητες."
+
+#: admin/apps/users/uip-users.php:356
+msgid "Delete role"
+msgstr "Διαγραφή ρόλου"
+
+#: admin/apps/users/uip-users.php:357
+msgid "Are you sure you want to delete this role?"
+msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον ρόλο;"
+
+#: admin/apps/users/uip-users.php:358
+msgid "Are you sure you want to delete these roles?"
+msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτούς τους ρόλους;"
+
+#: admin/apps/users/uip-users.php:359
+msgid "Role options"
+msgstr "Επιλογές ρόλων"
+
+#: admin/apps/users/uip-users.php:360
+msgid "Clone"
+msgstr "Κλώνος"
+
+#: admin/apps/users/uip-users.php:361
+msgid "New role"
+msgstr "Νέος ρόλος"
+
+#: admin/apps/users/uip-users.php:362
+msgid "Role label"
+msgstr "Ετικέτα ρόλου"
+
+#: admin/apps/users/uip-users.php:363
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "Μία λέξη, χωρίς κενά. Επιτρέπονται οι κάτω παύλες και οι παύλες"
+
+#: admin/apps/users/uip-users.php:364
+msgid "copy"
+msgstr "αντίγραφο"
+
+#: admin/apps/users/uip-users.php:365
+msgid "search roles"
+msgstr "ρόλους αναζήτησης"
+
+#: admin/apps/users/uip-users.php:366
+msgid "Search history"
+msgstr "Ιστορικό αναζήτησης"
+
+#: admin/apps/users/uip-users.php:367
+msgid "All actions"
+msgstr "Όλες οι ενέργειες"
+
+#: admin/apps/users/uip-users.php:368
+msgid "Add custom capability (Single word, no spaces)"
+msgstr "Προσθήκη προσαρμοσμένης δυνατότητας (Μία λέξη, χωρίς κενά)"
+
+#: admin/apps/users/uip-users.php:369
+msgid "Add capability"
+msgstr "Προσθήκη ικανότητας"
+
+#: admin/apps/users/uip-users.php:370
+msgid "roles selected"
+msgstr "επιλεγμένους ρόλους"
+
+#: admin/apps/users/uip-users.php:371
+msgid "Delete selected"
+msgstr "Διαγραφή επιλεγμένων"
+
+#: admin/apps/users/uip-users.php:372
+msgid "Deselect"
+msgstr "Αποεπιλογή"
+
+#: admin/apps/users/uip-users.php:373
+msgid "Delete users"
+msgstr "Διαγραφή χρηστών"
+
+#: admin/apps/users/uip-users.php:374
+msgid "Clear selection"
+msgstr "Καθαρή επιλογή"
+
+#: admin/apps/users/uip-users.php:375
+msgid "recipients"
+msgstr "αποδέκτες"
+
+#: admin/apps/users/uip-users.php:376 admin/classes/uipress-app.php:1409
+msgid "users"
+msgstr "χρήστες"
+
+#: admin/apps/users/uip-users.php:378
+msgid "Replace existing roles"
+msgstr "Αντικαταστήστε τους υπάρχοντες ρόλους"
+
+#: admin/apps/users/uip-users.php:379
+msgid "Update roles"
+msgstr "Ενημέρωση ρόλων"
+
+#: admin/apps/users/uip-users.php:380
+msgid "users selected"
+msgstr "επιλεγμένους χρήστες"
+
+#: admin/apps/users/uip-users.php:381
+msgid "Choose image"
+msgstr "Επιλέξτε εικόνα"
+
+#: admin/apps/users/uip-users.php:382
+msgid "Profile image"
+msgstr "Εικόνα προφίλ"
+
+#: admin/apps/users/uip-users.php:383 admin/apps/users/uip-users.php:387
+#: admin/apps/users/uip-users.php:1250
+msgid "Groups"
+msgstr "Ομάδες"
+
+#: admin/apps/users/uip-users.php:384
+msgid "All users"
+msgstr "Ολοι οι χρήστες"
+
+#: admin/apps/users/uip-users.php:385
+msgid "No group"
+msgstr "Καμία ομάδα"
+
+#: admin/apps/users/uip-users.php:386
+msgid "No groups created yet."
+msgstr "Δεν έχουν δημιουργηθεί ακόμη ομάδες."
+
+#: admin/apps/users/uip-users.php:388
+msgid "New group"
+msgstr "Νέα ομάδα"
+
+#: admin/apps/users/uip-users.php:390
+msgid "Color"
+msgstr "Χρώμα"
+
+#: admin/apps/users/uip-users.php:391
+msgid "Create group"
+msgstr "Δημιουργησε ΟΜΑΔΑ"
+
+#: admin/apps/users/uip-users.php:392
+msgid "Group name"
+msgstr "Ονομα ομάδας"
+
+#: admin/apps/users/uip-users.php:393
+msgid "Edit group"
+msgstr "Επεξεργασία ομάδας"
+
+#: admin/apps/users/uip-users.php:394
+msgid "Update group"
+msgstr "Ενημέρωση ομάδας"
+
+#: admin/apps/users/uip-users.php:395
+msgid "Remove from group"
+msgstr "Αφαίρεση από την ομάδα"
+
+#: admin/apps/users/uip-users.php:396
+msgid "User groups"
+msgstr "Ομάδες χρηστών"
+
+#: admin/apps/users/uip-users.php:397
+msgid "Assign groups"
+msgstr "Ορίστε ομάδες"
+
+#: admin/apps/users/uip-users.php:398
+msgid "Search groups"
+msgstr "Αναζήτηση ομάδων"
+
+#: admin/apps/users/uip-users.php:399
+msgid "Pro feature"
+msgstr "Pro χαρακτηριστικό"
+
+#: admin/apps/users/uip-users.php:400
+msgid "Upgrade to UiPress Pro to unlock the user management and activity logs"
+msgstr ""
+"Κάντε αναβάθμιση σε UiPress Pro για να ξεκλειδώσετε τα αρχεία καταγραφής "
+"διαχείρισης χρηστών και δραστηριοτήτων"
+
+#: admin/apps/users/uip-users.php:401
+msgid "View Uipress Pro plans"
+msgstr "Δείτε τα προγράμματα Uipress Pro"
+
+#: admin/apps/users/uip-users.php:402
+msgid "Group icon"
+msgstr "Εικονίδιο ομάδας"
+
+#: admin/apps/users/uip-users.php:403
+msgid "Logout everywhere else"
+msgstr "Αποσύνδεση οπουδήποτε αλλού"
+
+#: admin/apps/users/uip-users.php:404
+msgid "Open profile"
+msgstr "Άνοιγμα προφίλ"
+
+#: admin/apps/users/uip-users.php:405
+msgid ""
+"Are you sure you want to delete this capability? This will remove the "
+"capability sitewide. Please note not all capabilities can be deleted."
+msgstr ""
+"Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη δυνατότητα; Αυτό θα "
+"καταργήσει τη δυνατότητα σε όλο τον ιστότοπο. Λάβετε υπόψη ότι δεν μπορούν "
+"να διαγραφούν όλες οι δυνατότητες."
+
+#: admin/apps/users/uip-users.php:517
+msgid "Read"
+msgstr "Ανάγνωση"
+
+#: admin/apps/users/uip-users.php:529
+msgid "Publish"
+msgstr "Δημοσιεύω"
+
+#: admin/apps/users/uip-users.php:535 admin/classes/uipress-app.php:1335
+msgid "Create"
+msgstr "Δημιουργώ"
+
+#: admin/apps/users/uip-users.php:553
+msgid "Manage"
+msgstr "Διαχειρίζονται"
+
+#: admin/apps/users/uip-users.php:565 admin/classes/settings.php:242
+#: admin/classes/styles.php:442
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: admin/apps/users/uip-users.php:571
+msgid "Custom"
+msgstr "Εθιμο"
+
+#: admin/apps/users/uip-users.php:737
+msgid "User no longer exists"
+msgstr "Ο χρήστης δεν υπάρχει πλέον"
+
+#: admin/apps/users/uip-users.php:742 admin/apps/users/uip-users.php:1106
+#, php-format
+msgid "%s ago"
+msgstr "πριν από %s"
+
+#: admin/apps/users/uip-users.php:753 admin/apps/users/uip-users.php:1370
+msgid "Page view"
+msgstr "Προβολή σελίδας"
+
+#: admin/apps/users/uip-users.php:755
+msgid "Viewed page"
+msgstr "Προβολή σελίδας"
+
+#: admin/apps/users/uip-users.php:764 admin/apps/users/uip-users.php:1374
+msgid "Post created"
+msgstr "Η ανάρτηση δημιουργήθηκε"
+
+#: admin/apps/users/uip-users.php:766
+msgid "Created post"
+msgstr "Δημιουργήθηκε ανάρτηση"
+
+#: admin/apps/users/uip-users.php:769 admin/apps/users/uip-users.php:790
+#: admin/apps/users/uip-users.php:838
+msgid "View page"
+msgstr "Προβολή σελίδας"
+
+#: admin/apps/users/uip-users.php:773 admin/apps/users/uip-users.php:794
+#: admin/apps/users/uip-users.php:811 admin/apps/users/uip-users.php:842
+msgid "Edit page"
+msgstr "Επεξεργασία σελίδας"
+
+#: admin/apps/users/uip-users.php:785
+msgid "Post modified"
+msgstr "Η ανάρτηση τροποποιήθηκε"
+
+#: admin/apps/users/uip-users.php:787
+msgid "Modified post"
+msgstr "Τροποποιημένη ανάρτηση"
+
+#: admin/apps/users/uip-users.php:806
+msgid "Post moved to trash"
+msgstr "Η ανάρτηση μετακινήθηκε στον κάδο απορριμμάτων"
+
+#: admin/apps/users/uip-users.php:808
+msgid "Moved post to trash"
+msgstr "Η ανάρτηση μετακινήθηκε στον κάδο απορριμμάτων"
+
+#: admin/apps/users/uip-users.php:820 admin/apps/users/uip-users.php:1386
+msgid "Post deleted"
+msgstr "Η ανάρτηση διαγράφηκε"
+
+#: admin/apps/users/uip-users.php:822
+msgid "Deleted post"
+msgstr "Διαγραμμένη ανάρτηση"
+
+#: admin/apps/users/uip-users.php:831 admin/apps/users/uip-users.php:1390
+msgid "Post status change"
+msgstr "Αλλαγή κατάστασης ανάρτησης"
+
+#: admin/apps/users/uip-users.php:834
+#, php-format
+msgid "Post status changed from %s to %s"
+msgstr "Η κατάσταση ανάρτησης άλλαξε από %s σε %s"
+
+#: admin/apps/users/uip-users.php:855
+msgid "Posted a comment"
+msgstr "Δημοσίευσε ένα σχόλιο"
+
+#: admin/apps/users/uip-users.php:857
+msgid "Posted a comment on post"
+msgstr "Δημοσίευσε ένα σχόλιο στην ανάρτηση"
+
+#: admin/apps/users/uip-users.php:868 admin/apps/users/uip-users.php:898
+msgid "View comment"
+msgstr "Προβολή σχολίου"
+
+#: admin/apps/users/uip-users.php:872 admin/apps/users/uip-users.php:902
+msgid "Edit comment"
+msgstr "Επεξεργασία σχολίου"
+
+#: admin/apps/users/uip-users.php:884
+msgid "Trashed a comment"
+msgstr "Διαγράφηκε ένα σχόλιο στον κάδο απορριμμάτων"
+
+#: admin/apps/users/uip-users.php:886
+msgid "Moved a comment to the trash"
+msgstr "Μετακίνησε ένα σχόλιο στον κάδο απορριμμάτων"
+
+#: admin/apps/users/uip-users.php:912
+msgid "Deleted a comment"
+msgstr "Διέγραψε ένα σχόλιο"
+
+#: admin/apps/users/uip-users.php:914
+msgid "Permanently deleted a comment"
+msgstr "Διέγραψε οριστικά ένα σχόλιο"
+
+#: admin/apps/users/uip-users.php:920 admin/apps/users/uip-users.php:1403
+msgid "Plugin activated"
+msgstr "Το πρόσθετο ενεργοποιήθηκε"
+
+#: admin/apps/users/uip-users.php:922
+#, php-format
+msgid "A plugin called %s was activated"
+msgstr "Ενεργοποιήθηκε μια προσθήκη που ονομάζεται %s"
+
+#: admin/apps/users/uip-users.php:928 admin/apps/users/uip-users.php:1407
+msgid "Plugin deactivated"
+msgstr "Η προσθήκη απενεργοποιήθηκε"
+
+#: admin/apps/users/uip-users.php:930
+#, php-format
+msgid "A plugin called %s was deactivated"
+msgstr "Μια προσθήκη που ονομάζεται %s απενεργοποιήθηκε"
+
+#: admin/apps/users/uip-users.php:936
+msgid "User logged in"
+msgstr "Χρήστης που είναι συνδεδεμένος"
+
+#: admin/apps/users/uip-users.php:938
+#, php-format
+msgid "Logged in with ip address %s. Country: %s"
+msgstr "Συνδεθήκατε με διεύθυνση IP %s. Χώρα: %s"
+
+#: admin/apps/users/uip-users.php:944
+msgid "User logged out"
+msgstr "Ο χρήστης αποσυνδέθηκε"
+
+#: admin/apps/users/uip-users.php:946
+#, php-format
+msgid "Logged out with ip address %s. Country: %s"
+msgstr "Έγινε αποσύνδεση με διεύθυνση IP %s. Χώρα: %s"
+
+#: admin/apps/users/uip-users.php:982 admin/apps/users/uip-users.php:988
+#: admin/apps/users/uip-users.php:1002
+msgid "Site option changed"
+msgstr "Η επιλογή τοποθεσίας άλλαξε"
+
+#: admin/apps/users/uip-users.php:984
+#, php-format
+msgid "Site option (%s) was changed from %s to %s"
+msgstr "Η επιλογή ιστότοπου (%s) άλλαξε από %s σε %s"
+
+#: admin/apps/users/uip-users.php:990
+#, php-format
+msgid "Site option was changed. %s"
+msgstr "Η επιλογή τοποθεσίας άλλαξε. %μικρό"
+
+#: admin/apps/users/uip-users.php:1004
+#, php-format
+msgid "Site option (%s) was added with a value of (%s)"
+msgstr "Η επιλογή ιστότοπου (%s) προστέθηκε με τιμή (%s)"
+
+#: admin/apps/users/uip-users.php:1010
+msgid "Uploaded attachment"
+msgstr "Ανέβηκε συνημμένο"
+
+#: admin/apps/users/uip-users.php:1012
+#, php-format
+msgid "Attachment called (%s) was uploaded to (%s). Attachment ID: %s"
+msgstr ""
+"Το συνημμένο που ονομάζεται (%s) μεταφορτώθηκε στο (%s). Αναγνωριστικό "
+"συνημμένου: %s"
+
+#: admin/apps/users/uip-users.php:1021
+msgid "View attachment"
+msgstr "Προβολή συνημμένου"
+
+#: admin/apps/users/uip-users.php:1029
+msgid "Deleted attachment"
+msgstr "Διαγραμμένο συνημμένο"
+
+#: admin/apps/users/uip-users.php:1031
+#, php-format
+msgid "Attachment called (%s) was deleted. Attachment ID: %s"
+msgstr ""
+"Το συνημμένο που ονομάζεται (%s) διαγράφηκε. Αναγνωριστικό συνημμένου: %s"
+
+#: admin/apps/users/uip-users.php:1037 admin/apps/users/uip-users.php:1262
+#: admin/apps/users/uip-users.php:1435
+msgid "User created"
+msgstr "Ο χρήστης δημιουργήθηκε"
+
+#: admin/apps/users/uip-users.php:1039
+#, php-format
+msgid "New user created with username (%s) and email (%s)"
+msgstr "Δημιουργήθηκε νέος χρήστης με όνομα χρήστη (%s) και email (%s)"
+
+#: admin/apps/users/uip-users.php:1045 admin/apps/users/uip-users.php:1439
+msgid "User deleted"
+msgstr "Ο χρήστης διαγράφηκε"
+
+#: admin/apps/users/uip-users.php:1047
+#, php-format
+msgid "A user with username (%s) and email (%s) was deleted"
+msgstr "Ένας χρήστης με όνομα χρήστη (%s) και email (%s) διαγράφηκε"
+
+#: admin/apps/users/uip-users.php:1082 admin/apps/users/uip-users.php:1443
+msgid "User updated"
+msgstr "Ο χρήστης ενημερώθηκε"
+
+#: admin/apps/users/uip-users.php:1084
+#, php-format
+msgid "A user with username (%s) and email (%s) was updated from (%s) to (%s)"
+msgstr ""
+"Ένας χρήστης με όνομα χρήστη (%s) και email (%s) ενημερώθηκε από (%s) σε (%s)"
+
+#: admin/apps/users/uip-users.php:1226
+msgid "First Name"
+msgstr "Ονομα"
+
+#: admin/apps/users/uip-users.php:1232
+msgid "Last Name"
+msgstr "Επίθετο"
+
+#: admin/apps/users/uip-users.php:1238
+msgid "Last Login"
+msgstr "Τελευταία είσοδος"
+
+#: admin/apps/users/uip-users.php:1256
+msgid "User ID"
+msgstr "ταυτότητα χρήστη"
+
+#: admin/apps/users/uip-users.php:1298
+msgid "Permissions granted"
+msgstr "Χορηγήθηκαν άδειες"
+
+#: admin/apps/users/uip-users.php:1315
+msgid "ID"
+msgstr "ταυτότητα"
+
+#: admin/apps/users/uip-users.php:1327
+msgid "IP Address"
+msgstr "Διεύθυνση IP"
+
+#: admin/apps/users/uip-users.php:1340
+msgid "Time"
+msgstr "χρόνος"
+
+#: admin/apps/users/uip-users.php:1347
+msgid "Action"
+msgstr "Δράση"
+
+#: admin/apps/users/uip-users.php:1378
+msgid "Post updated"
+msgstr "Η ανάρτηση ενημερώθηκε"
+
+#: admin/apps/users/uip-users.php:1382
+msgid "Post trashed"
+msgstr "Η ανάρτηση μεταφέρθηκε στον κάδο απορριμμάτων"
+
+#: admin/apps/users/uip-users.php:1394
+msgid "Trashed comment"
+msgstr "Σχόλιο στα σκουπίδια"
+
+#: admin/apps/users/uip-users.php:1398
+msgid "Deelete comment"
+msgstr "Διαγραφή σχολίου"
+
+#: admin/apps/users/uip-users.php:1411
+msgid "User login"
+msgstr "Σύνδεση χρήστη"
+
+#: admin/apps/users/uip-users.php:1415
+msgid "User logout"
+msgstr "Αποσύνδεση χρήστη"
+
+#: admin/apps/users/uip-users.php:1419
+msgid "Option change"
+msgstr "Αλλαγή επιλογής"
+
+#: admin/apps/users/uip-users.php:1423
+msgid "Site option added"
+msgstr "Προστέθηκε η επιλογή τοποθεσίας"
+
+#: admin/apps/users/uip-users.php:1427
+msgid "Attachmnet uploaded"
+msgstr "Το Attachmnet ανέβηκε"
+
+#: admin/apps/users/uip-users.php:1431
+msgid "Attachmnet deleted"
+msgstr "Το συνημμένο δίκτυο διαγράφηκε"
+
+#: admin/classes/debug.php:133 admin/classes/debug.php:139
+#: admin/classes/debug.php:161
+msgid "Unable to register UiPress at this time"
+msgstr "Δεν είναι δυνατή η εγγραφή του UiPress αυτήν τη στιγμή"
+
+#: admin/classes/debug.php:152
+msgid "UiPress succesfully activated"
+msgstr "Το UiPress ενεργοποιήθηκε με επιτυχία"
+
+#: admin/classes/folders.php:112 admin/classes/uipress-app.php:453
+#: admin/classes/uipress-app.php:1367
+msgid "Folders"
+msgstr "Φάκελοι"
+
+#: admin/classes/folders.php:113
+msgid "Creates media folder system."
+msgstr "Δημιουργεί σύστημα φακέλων πολυμέσων."
+
+#: admin/classes/folders.php:117
+msgid "Disable Folders?"
+msgstr "Απενεργοποίηση φακέλων;"
+
+#: admin/classes/folders.php:118
+msgid "No media folders will be displayed when this option is activated."
+msgstr ""
+"Δεν θα εμφανίζονται φάκελοι πολυμέσων όταν ενεργοποιηθεί αυτή η επιλογή."
+
+#: admin/classes/folders.php:125
+msgid "Folders Disabled For"
+msgstr "Απενεργοποιημένοι φάκελοι για"
+
+#: admin/classes/folders.php:126
+#, php-format
+msgid "%s folders will be disabled for any users or roles you select"
+msgstr ""
+"Οι φάκελοι %s θα απενεργοποιηθούν για οποιονδήποτε χρήστη ή ρόλο επιλέγετε"
+
+#: admin/classes/folders.php:134
+msgid "Enable folders for post types"
+msgstr "Ενεργοποίηση φακέλων για τύπους αναρτήσεων"
+
+#: admin/classes/folders.php:135
+#, php-format
+msgid "%s folders will be enabled post, page and custom post types you choose"
+msgstr ""
+"Οι φάκελοι %s θα ενεργοποιηθούν οι τύποι ανάρτησης, σελίδας και "
+"προσαρμοσμένων αναρτήσεων που επιλέγετε"
+
+#: admin/classes/folders.php:171
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: admin/classes/folders.php:173
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "Μενού"
+
+#: admin/classes/folders.php:311
+msgid "No folder to delete"
+msgstr "Δεν υπάρχει φάκελος για διαγραφή"
+
+#: admin/classes/folders.php:321
+msgid "Unable to delete the folder"
+msgstr "Δεν είναι δυνατή η διαγραφή του φακέλου"
+
+#: admin/classes/folders.php:372
+msgid "Folder deleted"
+msgstr "Ο φάκελος διαγράφηκε"
+
+#: admin/classes/folders.php:391
+msgid "Unable to move folder into itself"
+msgstr "Δεν είναι δυνατή η μετακίνηση του φακέλου στον εαυτό του"
+
+#: admin/classes/folders.php:405
+msgid "Unable to move folder"
+msgstr "Δεν είναι δυνατή η μετακίνηση του φακέλου"
+
+#: admin/classes/folders.php:433
+msgid "Folder moved"
+msgstr "Ο φάκελος μετακινήθηκε"
+
+#: admin/classes/folders.php:536
+msgid "Folder updated"
+msgstr "Ο φάκελος ενημερώθηκε"
+
+#: admin/classes/folders.php:578
+msgid "Unable to create folder"
+msgstr "Δεν είναι δυνατή η δημιουργία φακέλου"
+
+#: admin/classes/folders.php:589
+msgid "Folder created"
+msgstr "Ο φάκελος δημιουργήθηκε"
+
+#: admin/classes/settings.php:144
+msgid "Unable to save user settings"
+msgstr "Δεν είναι δυνατή η αποθήκευση των ρυθμίσεων χρήστη"
+
+#: admin/classes/settings.php:150 admin/classes/uipress-app.php:1358
+msgid "Settings saved"
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν"
+
+#: admin/classes/settings.php:164
+msgid "Settings reset"
+msgstr "Επαναφορά ρυθμίσεων"
+
+#: admin/classes/settings.php:209 admin/classes/styles.php:432
+msgid "Version"
+msgstr "Εκδοχή"
+
+#: admin/classes/settings.php:230
+msgid "Save settings"
+msgstr "Αποθήκευση ρυθμίσεων"
+
+#: admin/classes/settings.php:413
+msgid "No licence key provided"
+msgstr "Δεν παρέχεται κλειδί άδειας χρήσης"
+
+#: admin/classes/settings.php:445
+msgid "Licence removed"
+msgstr "Η άδεια καταργήθηκε"
+
+#: admin/classes/styles.php:138 admin/classes/styles.php:151
+#: admin/classes/styles.php:430
+msgid "Styles"
+msgstr "Στυλ"
+
+#: admin/classes/styles.php:213
+msgid "Unable to fetch themes at this moment. Please try again later"
+msgstr ""
+"Δεν είναι δυνατή η ανάκτηση θεμάτων αυτήν τη στιγμή. Παρακαλώ προσπαθήστε "
+"ξανά αργότερα"
+
+#: admin/classes/styles.php:247
+msgid "Unable to like theme at this moment. Please try again later"
+msgstr ""
+"Δεν μπορώ να μου αρέσει το θέμα αυτήν τη στιγμή. Παρακαλώ προσπαθήστε ξανά "
+"αργότερα"
+
+#: admin/classes/styles.php:266
+msgid "Unable to save styles"
+msgstr "Δεν είναι δυνατή η αποθήκευση στυλ"
+
+#: admin/classes/styles.php:292
+msgid "Styles saved"
+msgstr "Τα στυλ αποθηκεύτηκαν"
+
+#: admin/classes/styles.php:411
+msgid ""
+"Uipress styles isn't optimised for mobile devices. Switch to a larger screen "
+"to modify UiPress Styles"
+msgstr ""
+"Τα στυλ Uipress δεν είναι βελτιστοποιημένα για κινητές συσκευές. Μεταβείτε "
+"σε μεγαλύτερη οθόνη για να τροποποιήσετε τα στυλ UiPress"
+
+#: admin/classes/styles.php:469
+msgid "Clear All"
+msgstr "Τα καθαρίζω όλα"
+
+#: admin/classes/styles.php:533
+msgid "Global"
+msgstr "Παγκόσμια"
+
+#: admin/classes/styles.php:536
+msgid "Body Background"
+msgstr "Φόντο σώματος"
+
+#: admin/classes/styles.php:547
+msgid "Default Background"
+msgstr "Προεπιλεγμένο φόντο"
+
+#: admin/classes/styles.php:558
+msgid "Muted Background"
+msgstr "Σίγαση φόντου"
+
+#: admin/classes/styles.php:569
+msgid "Muted Background Accent"
+msgstr "Προφορά σε σίγαση φόντου"
+
+#: admin/classes/styles.php:580
+msgid "Primary Color"
+msgstr "Πρωτεύον χρώμα"
+
+#: admin/classes/styles.php:591
+msgid "Primary Color Wash"
+msgstr "Πλύσιμο Πρωτεύοντος Χρώματος"
+
+#: admin/classes/styles.php:602
+msgid "Primary Color Hover"
+msgstr "Κύριο χρώμα Hover"
+
+#: admin/classes/styles.php:613
+msgid "Secondary Color"
+msgstr "Δευτερεύον Χρώμα"
+
+#: admin/classes/styles.php:624
+msgid "Secondary Color Hover"
+msgstr "Δευτερεύον Color Hover"
+
+#: admin/classes/styles.php:635
+msgid "Font"
+msgstr "Γραμματοσειρά"
+
+#: admin/classes/styles.php:646
+msgid "Border Width"
+msgstr "Πλάτος περιγράμματος"
+
+#: admin/classes/styles.php:657
+msgid "Border Radius"
+msgstr "Ακτίνα συνόρων"
+
+#: admin/classes/styles.php:668
+msgid "Border Colour"
+msgstr "Χρώμα περιγράμματος"
+
+#: admin/classes/styles.php:679
+msgid "Notification Background"
+msgstr "Υπόβαθρο ειδοποίησης"
+
+#: admin/classes/styles.php:696
+msgid "Base font size"
+msgstr "Βασικό μέγεθος γραμματοσειράς"
+
+#: admin/classes/styles.php:707 admin/classes/styles.php:1008
+#: admin/classes/styles.php:1148
+msgid "Text Color"
+msgstr "Χρώμα κειμένου"
+
+#: admin/classes/styles.php:718
+msgid "Text Emphasis Color"
+msgstr "Έμφαση κειμένου Χρώμα"
+
+#: admin/classes/styles.php:729
+msgid "Text Muted Color"
+msgstr "Χρώμα σε σίγαση κειμένου"
+
+#: admin/classes/styles.php:745
+msgid "Buttons"
+msgstr "Κουμπιά"
+
+#: admin/classes/styles.php:748
+msgid "Button Border Radius"
+msgstr "Ακτίνα περιγράμματος κουμπιού"
+
+#: admin/classes/styles.php:760
+msgid "Button Border Width"
+msgstr "Πλάτος περιγράμματος κουμπιού"
+
+#: admin/classes/styles.php:772
+msgid "Default Button Border Colour"
+msgstr "Προεπιλεγμένο χρώμα περιγράμματος κουμπιού"
+
+#: admin/classes/styles.php:784
+msgid "Default Button Background Colour"
+msgstr "Χρώμα φόντου προεπιλεγμένου κουμπιού"
+
+#: admin/classes/styles.php:796
+msgid "Default Button Hover Background Colour"
+msgstr "Χρώμα φόντου αιώρησης προεπιλεγμένου κουμπιού"
+
+#: admin/classes/styles.php:808
+msgid "Default Button Text Colour"
+msgstr "Χρώμα κειμένου προεπιλεγμένου κουμπιού"
+
+#: admin/classes/styles.php:821
+msgid "Primary Button Border Colour"
+msgstr "Χρώμα περιγράμματος κύριου κουμπιού"
+
+#: admin/classes/styles.php:833
+msgid "Primary Button Background Colour"
+msgstr "Χρώμα φόντου κύριου κουμπιού"
+
+#: admin/classes/styles.php:845
+msgid "Primary Button Hover Background Colour"
+msgstr "Χρώμα φόντου αιώρησης του κύριου κουμπιού"
+
+#: admin/classes/styles.php:857
+msgid "Primary Button Text Colour"
+msgstr "Χρώμα κειμένου κύριου κουμπιού"
+
+#: admin/classes/styles.php:870
+msgid "Danger Button Border Colour"
+msgstr "Χρώμα περιγράμματος κουμπιού κινδύνου"
+
+#: admin/classes/styles.php:882
+msgid "Danger Button Background Colour"
+msgstr "Χρώμα φόντου κουμπιού κινδύνου"
+
+#: admin/classes/styles.php:894
+msgid "Danger Button Hover Background Colour"
+msgstr "Χρώμα φόντου αιώρησης κουμπιού κινδύνου"
+
+#: admin/classes/styles.php:906
+msgid "Danger Button Text Colour"
+msgstr "Χρώμα κειμένου κουμπιού κινδύνου"
+
+#: admin/classes/styles.php:919
+msgid "Page Action Button Border Colour"
+msgstr "Χρώμα περιγράμματος κουμπιού δράσης σελίδας"
+
+#: admin/classes/styles.php:931
+msgid "Page Action Button Background Colour"
+msgstr "Χρώμα φόντου κουμπιού δράσης σελίδας"
+
+#: admin/classes/styles.php:943
+msgid "Page Action Button Hover Background Colour"
+msgstr "Κουμπί δράσης σελίδας Τοποθετήστε το δείκτη του ποντικιού Χρώμα φόντου"
+
+#: admin/classes/styles.php:955
+msgid "Page Action Button Text Colour"
+msgstr "Χρώμα κειμένου κουμπιού δράσης σελίδας"
+
+#: admin/classes/styles.php:973 admin/classes/uipress-app.php:2669
+msgid "Menu"
+msgstr "Μενού"
+
+#: admin/classes/styles.php:975
+msgid "Background Color"
+msgstr "Χρώμα του φόντου"
+
+#: admin/classes/styles.php:986 admin/classes/styles.php:1170
+msgid "Secondary background Color"
+msgstr "Χρώμα δευτερεύοντος φόντου"
+
+#: admin/classes/styles.php:997
+msgid "Button Hover background Color"
+msgstr "Χρώμα φόντου αιώρησης κουμπιού"
+
+#: admin/classes/styles.php:1019
+msgid "Active Text Color"
+msgstr "Ενεργό χρώμα κειμένου"
+
+#: admin/classes/styles.php:1030
+msgid "Active Top Level Item background colour"
+msgstr "Ενεργό χρώμα φόντου στοιχείου ανώτατου επιπέδου"
+
+#: admin/classes/styles.php:1041
+msgid "Search Input background colour"
+msgstr "Αναζήτηση Εισαγωγή χρώματος φόντου"
+
+#: admin/classes/styles.php:1052
+msgid "Search Input text colour"
+msgstr "Αναζήτηση Εισαγωγή χρώματος κειμένου"
+
+#: admin/classes/styles.php:1063
+msgid "Submenu Text Color"
+msgstr "Χρώμα κειμένου υπομενού"
+
+#: admin/classes/styles.php:1074
+msgid "Submenu Active Text Color"
+msgstr "Υπομενού Ενεργό χρώμα κειμένου"
+
+#: admin/classes/styles.php:1085
+msgid "Submenu Hover Text Color"
+msgstr "Υπομενού Hover Text Color"
+
+#: admin/classes/styles.php:1096
+msgid "Width"
+msgstr "Πλάτος"
+
+#: admin/classes/styles.php:1108
+msgid "Padding"
+msgstr "Υλικό παραγεμίσματος"
+
+#: admin/classes/styles.php:1120
+msgid "Logo Height"
+msgstr "Ύψος λογότυπου"
+
+#: admin/classes/styles.php:1134 admin/classes/uipress-app.php:2773
+msgid "Toolbar"
+msgstr "Γραμμή εργαλείων"
+
+#: admin/classes/styles.php:1137
+msgid "Toolbar Background Color"
+msgstr "Χρώμα φόντου γραμμής εργαλείων"
+
+#: admin/classes/styles.php:1159
+msgid "Link Hover Text Color"
+msgstr "Χρώμα κειμένου Hover Link"
+
+#: admin/classes/styles.php:1183
+msgid "Cards"
+msgstr "Καρτέλλες"
+
+#: admin/classes/styles.php:1186 admin/classes/styles.php:1270
+msgid "Background color"
+msgstr "Χρώμα του φόντου"
+
+#: admin/classes/styles.php:1198
+msgid "Border color"
+msgstr "Χρώμα πλαισίου"
+
+#: admin/classes/styles.php:1210
+msgid "Border radius"
+msgstr "Ακτίνα συνόρων"
+
+#: admin/classes/styles.php:1222
+msgid "Shadow spread"
+msgstr "Σκιά απλώνεται"
+
+#: admin/classes/styles.php:1234
+msgid "Shadow blur"
+msgstr "Θάμπωμα σκιάς"
+
+#: admin/classes/styles.php:1246
+msgid "Shadow color"
+msgstr "Χρώμα σκιάς"
+
+#: admin/classes/styles.php:1267 admin/classes/uipress-app.php:2944
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: admin/classes/uipress-app.php:268
+msgctxt "post type general name"
+msgid "Folder"
+msgstr "Ντοσιέ"
+
+#: admin/classes/uipress-app.php:269
+msgctxt "post type singular name"
+msgid "folder"
+msgstr "ντοσιέ"
+
+#: admin/classes/uipress-app.php:270
+msgctxt "admin menu"
+msgid "Folders"
+msgstr "Φάκελοι"
+
+#: admin/classes/uipress-app.php:271
+msgctxt "add new on admin bar"
+msgid "Folder"
+msgstr "Ντοσιέ"
+
+#: admin/classes/uipress-app.php:272
+msgctxt "folder"
+msgid "Add New"
+msgstr "Προσθεσε νεο"
+
+#: admin/classes/uipress-app.php:273 admin/classes/uipress-app.php:284
+msgid "Add New Folder"
+msgstr "Προσθήκη νέου φακέλου"
+
+#: admin/classes/uipress-app.php:274 admin/classes/uipress-app.php:1368
+msgid "New Folder"
+msgstr "Νέος φάκελος"
+
+#: admin/classes/uipress-app.php:275 admin/classes/uipress-app.php:1372
+msgid "Edit Folder"
+msgstr "Επεξεργασία φακέλου"
+
+#: admin/classes/uipress-app.php:276
+msgid "View Folder"
+msgstr "Προβολή φακέλου"
+
+#: admin/classes/uipress-app.php:277
+msgid "All Folders"
+msgstr "Όλοι οι φάκελοι"
+
+#: admin/classes/uipress-app.php:278
+msgid "Search Folders"
+msgstr "Αναζήτηση φακέλων"
+
+#: admin/classes/uipress-app.php:279
+msgid "No Folders found."
+msgstr "Δεν βρέθηκαν φάκελοι."
+
+#: admin/classes/uipress-app.php:280
+msgid "No Folders found in Trash."
+msgstr "Δεν βρέθηκαν φάκελοι στον Κάδο απορριμμάτων."
+
+#: admin/classes/uipress-app.php:1167
+msgid "active"
+msgstr "ενεργός"
+
+#: admin/classes/uipress-app.php:1171
+msgid "inactive"
+msgstr "αδρανής"
+
+#: admin/classes/uipress-app.php:1320
+msgid "Menu Preferences"
+msgstr "Προτιμήσεις μενού"
+
+#: admin/classes/uipress-app.php:1321
+msgid "Hide search bar"
+msgstr "Απόκρυψη γραμμής αναζήτησης"
+
+#: admin/classes/uipress-app.php:1322
+msgid "Hide Icons"
+msgstr "Απόκρυψη εικονιδίων"
+
+#: admin/classes/uipress-app.php:1323
+msgid "Show submenu on hover"
+msgstr "Εμφάνιση υπομενού στο δείκτη του ποντικιού"
+
+#: admin/classes/uipress-app.php:1324
+msgid "Search Menu"
+msgstr "Μενού αναζήτησης"
+
+#: admin/classes/uipress-app.php:1326
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: admin/classes/uipress-app.php:1329
+msgid "Show more"
+msgstr "Δείτε περισσότερα"
+
+#: admin/classes/uipress-app.php:1330
+msgid "other matches"
+msgstr "άλλα ματς"
+
+#: admin/classes/uipress-app.php:1331 admin/classes/uipress-app.php:1359
+msgid "Nothing found"
+msgstr "Δεν βρέθηκε τίποτα"
+
+#: admin/classes/uipress-app.php:1332 admin/classes/uipress-app.php:1337
+msgid "View Site"
+msgstr "Προβολή ιστότοπου"
+
+#: admin/classes/uipress-app.php:1333
+msgid "Dashboard"
+msgstr "Ταμπλό"
+
+#: admin/classes/uipress-app.php:1334
+msgid "Search Site"
+msgstr "Αναζήτηση ιστότοπου"
+
+#: admin/classes/uipress-app.php:1336
+msgid "Create New"
+msgstr "Δημιουργία νέου"
+
+#: admin/classes/uipress-app.php:1338
+msgid "Updates"
+msgstr "Ενημερώσεις"
+
+#: admin/classes/uipress-app.php:1339
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+#: admin/classes/uipress-app.php:1340
+msgid "Dark mode"
+msgstr "Σκοτεινή λειτουργία"
+
+#: admin/classes/uipress-app.php:1341
+msgid "Show screen options toggle"
+msgstr "Εμφάνιση εναλλαγής επιλογών οθόνης"
+
+#: admin/classes/uipress-app.php:1342
+msgid "Screen options"
+msgstr "Επιλογές οθόνης"
+
+#: admin/classes/uipress-app.php:1343
+msgid "Hide admin bar links (left)"
+msgstr "Απόκρυψη συνδέσμων γραμμής διαχειριστή (αριστερά)"
+
+#: admin/classes/uipress-app.php:1344
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: admin/classes/uipress-app.php:1345
+msgid "Notifications"
+msgstr "Ειδοποιήσεις"
+
+#: admin/classes/uipress-app.php:1346
+msgid "Hide notification"
+msgstr "Απόκρυψη ειδοποίησης"
+
+#: admin/classes/uipress-app.php:1347
+msgid "hidden notifications"
+msgstr "κρυφές ειδοποιήσεις"
+
+#: admin/classes/uipress-app.php:1348
+msgid "show all"
+msgstr "προβολή όλων"
+
+#: admin/classes/uipress-app.php:1349
+msgid "Notifiction Hidden"
+msgstr "Η ειδοποίηση είναι κρυφή"
+
+#: admin/classes/uipress-app.php:1350
+msgid "Toggle Menu"
+msgstr "Εναλλαγή μενού"
+
+#: admin/classes/uipress-app.php:1351
+msgid "Choose users or roles"
+msgstr "Επιλέξτε χρήστες ή ρόλους"
+
+#: admin/classes/uipress-app.php:1352
+msgid "Search users and roles"
+msgstr "Αναζήτηση χρηστών και ρόλων"
+
+#: admin/classes/uipress-app.php:1353
+msgid "Choose Image"
+msgstr "Επιλέξτε Εικόνα"
+
+#: admin/classes/uipress-app.php:1354
+msgid "Choose Post Types"
+msgstr "Επιλέξτε Τύποι αναρτήσεων"
+
+#: admin/classes/uipress-app.php:1355 admin/classes/uipress-app.php:1356
+msgid "Searach Post Types"
+msgstr "Αναζήτηση τύπων αναρτήσεων"
+
+#: admin/classes/uipress-app.php:1360
+msgid "Default"
+msgstr "Προκαθορισμένο"
+
+#: admin/classes/uipress-app.php:1361
+msgid "Add File"
+msgstr "Προσθήκη αρχείου"
+
+#: admin/classes/uipress-app.php:1362
+msgid "URL to file"
+msgstr "URL σε αρχείο"
+
+#: admin/classes/uipress-app.php:1363
+msgid "Remove"
+msgstr "Αφαιρώ"
+
+#: admin/classes/uipress-app.php:1364
+msgid "All media"
+msgstr "Όλα τα μέσα"
+
+#: admin/classes/uipress-app.php:1366
+msgid "No folder"
+msgstr "Χωρίς φάκελο"
+
+#: admin/classes/uipress-app.php:1369
+msgid "Folder Name"
+msgstr "Ονομα φακέλου"
+
+#: admin/classes/uipress-app.php:1370
+msgid "Colour"
+msgstr "Χρώμα"
+
+#: admin/classes/uipress-app.php:1374
+msgid "1 File"
+msgstr "1 Αρχείο"
+
+#: admin/classes/uipress-app.php:1375
+msgid "files"
+msgstr "αρχεία"
+
+#: admin/classes/uipress-app.php:1376
+msgid "You haven't created a folder yet"
+msgstr "Δεν έχετε δημιουργήσει ακόμη φάκελο"
+
+#: admin/classes/uipress-app.php:1377
+msgid "Remove from folder"
+msgstr "Αφαίρεση από το φάκελο"
+
+#: admin/classes/uipress-app.php:1378
+msgid ""
+"Upgrade to pro to unlock the notification center. View, edit and organise "
+"all your plugin and theme notifications in one place"
+msgstr ""
+"Κάντε αναβάθμιση σε pro για να ξεκλειδώσετε το κέντρο ειδοποιήσεων. "
+"Προβάλετε, επεξεργαστείτε και οργανώστε όλες τις ειδοποιήσεις προσθηκών και "
+"θεμάτων σε ένα μέρος"
+
+#: admin/classes/uipress-app.php:1379
+msgid ""
+"Upgrade to pro to gain full control of search results and included post types"
+msgstr ""
+"Κάντε αναβάθμιση σε pro για να αποκτήσετε τον πλήρη έλεγχο των αποτελεσμάτων "
+"αναζήτησης και των τύπων αναρτήσεων που περιλαμβάνονται"
+
+#: admin/classes/uipress-app.php:1382
+msgid "Styles Imported"
+msgstr "Στυλ που εισάγονται"
+
+#: admin/classes/uipress-app.php:1383
+msgid "Settings Imported"
+msgstr "Ρυθμίσεις εισαγωγής"
+
+#: admin/classes/uipress-app.php:1384
+msgid "Remove Licence"
+msgstr "Κατάργηση άδειας"
+
+#: admin/classes/uipress-app.php:1385
+#, php-format
+msgid "%s Pro is active"
+msgstr "Το %s Pro είναι ενεργό"
+
+#: admin/classes/uipress-app.php:1386
+#, php-format
+msgid "%s Pro"
+msgstr "%s Pro"
+
+#: admin/classes/uipress-app.php:1387
+msgid "Activate"
+msgstr "Θέτω εις ενέργειαν"
+
+#: admin/classes/uipress-app.php:1388
+msgid "Add a pro licence to unlock pro features."
+msgstr ""
+"Προσθέστε μια επαγγελματική άδεια για να ξεκλειδώσετε τις επαγγελματικές "
+"λειτουργίες."
+
+#: admin/classes/uipress-app.php:1389
+msgid "Choose Icon"
+msgstr "Επιλέξτε Εικονίδιο"
+
+#: admin/classes/uipress-app.php:1390
+msgid "Are you sure you want to delete this?"
+msgstr "Είστε βέβαιοι ότι θέλετε να το διαγράψετε;"
+
+#: admin/classes/uipress-app.php:1391
+msgid "Import started"
+msgstr "Η εισαγωγή ξεκίνησε"
+
+#: admin/classes/uipress-app.php:1392
+msgid "Are you sure you want to reset the settings?"
+msgstr "Είστε βέβαιοι ότι θέλετε να επαναφέρετε τις ρυθμίσεις;"
+
+#: admin/classes/uipress-app.php:1393
+msgid "Last 7 Days"
+msgstr "Τελευταίες 7 ημέρες"
+
+#: admin/classes/uipress-app.php:1394
+msgid "Last 30 Days"
+msgstr "Τελευταίες 30 ημέρες"
+
+#: admin/classes/uipress-app.php:1399
+msgid "selected"
+msgstr "επιλεγμένο"
+
+#: admin/classes/uipress-app.php:1400
+msgid "Theme Library"
+msgstr "Θεματική Βιβλιοθήκη"
+
+#: admin/classes/uipress-app.php:1401
+msgid "Library"
+msgstr "Βιβλιοθήκη"
+
+#: admin/classes/uipress-app.php:1402
+msgid "Import Theme"
+msgstr "Εισαγωγή θέματος"
+
+#: admin/classes/uipress-app.php:1403
+msgid "Pro template"
+msgstr "Pro πρότυπο"
+
+#: admin/classes/uipress-app.php:1404
+msgid "Theme Imported"
+msgstr "Το θέμα έχει εισαχθεί"
+
+#: admin/classes/uipress-app.php:1405
+msgid "Made by"
+msgstr "Φτιαγμένο από"
+
+#: admin/classes/uipress-app.php:1407
+msgid "Failed to fetch folder content"
+msgstr "Αποτυχία λήψης περιεχομένου φακέλου"
+
+#: admin/classes/uipress-app.php:1408
+msgid "user"
+msgstr "χρήστης"
+
+#: admin/classes/uipress-app.php:1850
+msgid "Unkown Post Type"
+msgstr "Άγνωστος τύπος ανάρτησης"
+
+#: admin/classes/uipress-app.php:1853
+msgid "Unkown"
+msgstr "Άγνωστο"
+
+#: admin/classes/uipress-app.php:1991
+msgid "Core"
+msgstr "Πυρήνας"
+
+#: admin/classes/uipress-app.php:1997
+msgid "Themes"
+msgstr "Θέματα"
+
+#: admin/classes/uipress-app.php:2003
+msgid "Plugins"
+msgstr "Πρόσθετα"
+
+#: admin/classes/uipress-app.php:2527
+msgid "General options"
+msgstr "Γενικές επιλογές"
+
+#: admin/classes/uipress-app.php:2532
+msgid "Network Override"
+msgstr "Παράκαμψη δικτύου"
+
+#: admin/classes/uipress-app.php:2533
+msgid "If enabled, all settings applied here will be pushed to subsites."
+msgstr ""
+"Εάν είναι ενεργοποιημένη, όλες οι ρυθμίσεις που εφαρμόζονται εδώ θα "
+"προωθηθούν στους δευτερεύοντες ιστότοπους."
+
+#: admin/classes/uipress-app.php:2542
+msgid "Set Dark Mode as Default"
+msgstr "Ορίστε τη Dark Mode ως προεπιλογή"
+
+#: admin/classes/uipress-app.php:2543
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr ""
+"Εάν είναι ενεργοποιημένη, η σκοτεινή λειτουργία θα είναι από προεπιλογή "
+"αληθής για χρήστες που δεν έχουν ορίσει κάποια προτίμηση."
+
+#: admin/classes/uipress-app.php:2551
+msgid "Set Dark Mode according to prefers color scheme"
+msgstr "Ρυθμίστε τη Dark Mode σύμφωνα με τον προτιμώμενο συνδυασμό χρωμάτων"
+
+#: admin/classes/uipress-app.php:2552
+msgid "UiPress will detetct the OS color scheme and update accordingly"
+msgstr ""
+"Το UiPress θα εντοπίσει το συνδυασμό χρωμάτων του λειτουργικού συστήματος "
+"και θα ενημερώσει ανάλογα"
+
+#: admin/classes/uipress-app.php:2560
+msgid "Disable dark mode"
+msgstr "Απενεργοποιήστε τη σκοτεινή λειτουργία"
+
+#: admin/classes/uipress-app.php:2561
+msgid "If enabled, dark mode switch will not be available."
+msgstr ""
+"Εάν είναι ενεργοποιημένο, ο διακόπτης σκοτεινής λειτουργίας δεν θα είναι "
+"διαθέσιμος."
+
+#: admin/classes/uipress-app.php:2569
+msgid "Set overview page as homepage"
+msgstr "Ορισμός σελίδας επισκόπησης ως αρχικής σελίδας"
+
+#: admin/classes/uipress-app.php:2570
+msgid ""
+"If enabled, the overview page will be the homepage when logging in and when "
+"accessing the admin area."
+msgstr ""
+"Εάν είναι ενεργοποιημένη, η σελίδα επισκόπησης θα είναι η αρχική σελίδα κατά "
+"τη σύνδεση και κατά την πρόσβαση στην περιοχή διαχειριστή."
+
+#: admin/classes/uipress-app.php:2578
+msgid "Set custom page as homepage"
+msgstr "Ορισμός προσαρμοσμένης σελίδας ως αρχικής σελίδας"
+
+#: admin/classes/uipress-app.php:2580
+msgid ""
+"If enabled, the page you choose will be the homepage when logging in and "
+"when accessing the admin area. For admin pages use a relative URL (path "
+"after /wp-admin/), for other pages use an absolute URL"
+msgstr ""
+"Εάν είναι ενεργοποιημένη, η σελίδα που θα επιλέξετε θα είναι η αρχική σελίδα "
+"κατά τη σύνδεση και κατά την πρόσβαση στην περιοχή διαχειριστή. Για σελίδες "
+"διαχειριστή χρησιμοποιήστε μια σχετική διεύθυνση URL (διαδρομή μετά το /wp-"
+"admin/), για άλλες σελίδες χρησιμοποιήστε μια απόλυτη διεύθυνση URL"
+
+#: admin/classes/uipress-app.php:2590
+#, php-format
+msgid "Rename %s"
+msgstr "Μετονομασία %s"
+
+#: admin/classes/uipress-app.php:2591
+#, php-format
+msgid "White label %s by changing the name displayed."
+msgstr "Λευκή ετικέτα %s αλλάζοντας το εμφανιζόμενο όνομα."
+
+#: admin/classes/uipress-app.php:2599
+#, php-format
+msgid "Rename %s plugin author"
+msgstr "Μετονομασία του συγγραφέα προσθήκης %s"
+
+#: admin/classes/uipress-app.php:2600
+#, php-format
+msgid "White label %s by changing the author in the plugin table."
+msgstr "Λευκή ετικέτα %s αλλάζοντας τον συγγραφέα στον πίνακα προσθηκών."
+
+#: admin/classes/uipress-app.php:2608
+#, php-format
+msgid "Change %s plugin URL"
+msgstr "Αλλαγή διεύθυνσης URL προσθήκης %s"
+
+#: admin/classes/uipress-app.php:2609
+#, php-format
+msgid "White label %s by changing the plugin URL in the plugin table."
+msgstr ""
+"Λευκή ετικέτα %s αλλάζοντας τη διεύθυνση URL της προσθήκης στον πίνακα "
+"προσθηκών."
+
+#: admin/classes/uipress-app.php:2617
+msgid "App Icon"
+msgstr "Εικονίδιο εφαρμογής"
+
+#: admin/classes/uipress-app.php:2618
+#, php-format
+msgid "Replace %s plugin icon with your own"
+msgstr "Αντικαταστήστε το εικονίδιο προσθήκης %s με το δικό σας"
+
+#: admin/classes/uipress-app.php:2626
+msgid "Admin Favicon"
+msgstr "Διαχειριστής Favicon"
+
+#: admin/classes/uipress-app.php:2627
+msgid "Add an image to be used as the site favicon for admin pages."
+msgstr ""
+"Προσθέστε μια εικόνα που θα χρησιμοποιηθεί ως favicon ιστότοπου για σελίδες "
+"διαχειριστή."
+
+#: admin/classes/uipress-app.php:2635
+#, php-format
+msgid "Hide %s from plugin table"
+msgstr "Απόκρυψη %s από τον πίνακα προσθηκών"
+
+#: admin/classes/uipress-app.php:2636
+#, php-format
+msgid "If enabled, %s will be hidden from the plugin table"
+msgstr ""
+"Εάν είναι ενεργοποιημένο, το %s θα είναι κρυφό από τον πίνακα προσθηκών"
+
+#: admin/classes/uipress-app.php:2644
+msgid "Hide Footer"
+msgstr "Απόκρυψη υποσέλιδου"
+
+#: admin/classes/uipress-app.php:2645
+msgid "Hide the footer text that shows at the bottom of every admin page"
+msgstr ""
+"Απόκρυψη του κειμένου υποσέλιδου που εμφανίζεται στο κάτω μέρος κάθε σελίδας "
+"διαχειριστή"
+
+#: admin/classes/uipress-app.php:2653
+msgid "Footer Text"
+msgstr "Κείμενο υποσέλιδου"
+
+#: admin/classes/uipress-app.php:2654
+msgid "Text entered here will be present at the bottom of admin pages"
+msgstr ""
+"Το κείμενο που εισάγεται εδώ θα υπάρχει στο κάτω μέρος των σελίδων "
+"διαχειριστή"
+
+#: admin/classes/uipress-app.php:2670 admin/classes/uipress-app.php:2675
+msgid "Creates new admin menu."
+msgstr "Δημιουργεί νέο μενού διαχειριστή."
+
+#: admin/classes/uipress-app.php:2674
+msgid "Disable Admin Menu Module"
+msgstr "Απενεργοποιήστε τη μονάδα μενού διαχειριστή"
+
+#: admin/classes/uipress-app.php:2682
+msgid "Menu Disabled for"
+msgstr "Μενού Απενεργοποιημένο για"
+
+#: admin/classes/uipress-app.php:2683
+#, php-format
+msgid "%s menu will be disabled for any users or roles you select"
+msgstr ""
+"Το μενού %s θα απενεργοποιηθεί για οποιονδήποτε χρήστη ή ρόλο επιλέγετε"
+
+#: admin/classes/uipress-app.php:2691
+msgid "Logo Light Mode"
+msgstr "Λειτουργία φωτός λογότυπου"
+
+#: admin/classes/uipress-app.php:2692
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "Ορίζει το λογότυπο για τη γραμμή διαχειριστή σε λειτουργία φωτός."
+
+#: admin/classes/uipress-app.php:2699
+msgid "Logo Dark Mode"
+msgstr "Λογότυπο Dark Mode"
+
+#: admin/classes/uipress-app.php:2700
+msgid "Optional dark mode logo for admin bar."
+msgstr "Προαιρετικό λογότυπο σκοτεινής λειτουργίας για τη γραμμή διαχειριστή."
+
+#: admin/classes/uipress-app.php:2707
+#, php-format
+msgid "Load %s Menu on front end"
+msgstr "Φόρτωση του μενού %s στη διεπαφή"
+
+#: admin/classes/uipress-app.php:2708
+#, php-format
+msgid ""
+"If enabled, %s menu will load on the front end. Please note, this will not "
+"work on all themes and styling will vary"
+msgstr ""
+"Εάν είναι ενεργοποιημένο, το μενού %s θα φορτωθεί στη διεπαφή. Λάβετε υπόψη "
+"ότι αυτό δεν θα λειτουργήσει σε όλα τα θέματα και το στυλ θα ποικίλλει"
+
+#: admin/classes/uipress-app.php:2716
+#, php-format
+msgid "Only Load %s Menu on front end for"
+msgstr "Φόρτωση μόνο %s μενού στη διεπαφή για"
+
+#: admin/classes/uipress-app.php:2717
+msgid "Only load front end menu for selected roles and usernames"
+msgstr ""
+"Φορτώστε το μενού της διεπαφής μόνο για επιλεγμένους ρόλους και ονόματα "
+"χρήστη"
+
+#: admin/classes/uipress-app.php:2725
+msgid "Collapsed Menu Logo Light Mode"
+msgstr "Λειτουργία φωτός λογότυπου συμπτυγμένου μενού"
+
+#: admin/classes/uipress-app.php:2726
+msgid "Optional logo for when the menu is collapsed."
+msgstr "Προαιρετικό λογότυπο για όταν το μενού συμπτύσσεται."
+
+#: admin/classes/uipress-app.php:2733
+msgid "Collapsed Menu Logo Dark Mode"
+msgstr "Σκοτεινή λειτουργία λογότυπου συμπτυγμένου μενού"
+
+#: admin/classes/uipress-app.php:2734
+msgid "Optional dark nmode logo for when the menu is collapsed."
+msgstr "Προαιρετικό λογότυπο σκούρου nmode για όταν το μενού συμπτύσσεται."
+
+#: admin/classes/uipress-app.php:2741
+msgid "Show site title in menu"
+msgstr "Εμφάνιση του τίτλου του ιστότοπου στο μενού"
+
+#: admin/classes/uipress-app.php:2742
+msgid ""
+"If enabled, the site title will be displayed in the menu next to the logo"
+msgstr ""
+"Εάν είναι ενεργοποιημένο, ο τίτλος του ιστότοπου θα εμφανίζεται στο μενού "
+"δίπλα στο λογότυπο"
+
+#: admin/classes/uipress-app.php:2749 admin/classes/uipress-app.php:2811
+msgid "Disable Search"
+msgstr "Απενεργοποίηση αναζήτησης"
+
+#: admin/classes/uipress-app.php:2750
+msgid "Disables admin menu search."
+msgstr "Απενεργοποιεί την αναζήτηση μενού διαχειριστή."
+
+#: admin/classes/uipress-app.php:2757
+msgid "Set collapsed menu as default"
+msgstr "Ορίστε το συμπτυγμένο μενού ως προεπιλογή"
+
+#: admin/classes/uipress-app.php:2758
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"Εάν είναι ενεργοποιημένο, το μενού θα είναι προεπιλεγμένο στο συρρικνωμένο "
+"μενού για χρήστες που δεν έχουν ορίσει κάποια προτίμηση.."
+
+#: admin/classes/uipress-app.php:2774
+msgid "Creates new admin toolbar."
+msgstr "Δημιουργεί νέα γραμμή εργαλείων διαχειριστή."
+
+#: admin/classes/uipress-app.php:2778
+msgid "Disable ToolBar Module?"
+msgstr "Απενεργοποίηση μονάδας ToolBar;"
+
+#: admin/classes/uipress-app.php:2779
+msgid ""
+"Creates new admin bar, adds user off canvas menu, builds global search and "
+"notification center."
+msgstr ""
+"Δημιουργεί νέα γραμμή διαχειριστή, προσθέτει το μενού χρήστη εκτός καμβά, "
+"δημιουργεί παγκόσμιο κέντρο αναζήτησης και ειδοποιήσεων."
+
+#: admin/classes/uipress-app.php:2786
+msgid "Admin Bar Disabled For"
+msgstr "Η γραμμή διαχειριστή είναι απενεργοποιημένη για"
+
+#: admin/classes/uipress-app.php:2787
+#, php-format
+msgid "%s toolbar module will be disabled for any users or roles you select"
+msgstr ""
+"Η ενότητα %s της γραμμής εργαλείων θα απενεργοποιηθεί για οποιονδήποτε "
+"χρήστη ή ρόλο επιλέγετε"
+
+#: admin/classes/uipress-app.php:2795
+msgid "Hide admin bar links (left side)"
+msgstr "Απόκρυψη συνδέσμων γραμμής διαχειριστή (αριστερή πλευρά)"
+
+#: admin/classes/uipress-app.php:2796
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"Απενεργοποιεί τους συνδέσμους παλαιού τύπου στην αριστερή πλευρά της γραμμής "
+"διαχειριστή για όλους τους χρήστες. Επίσης αποκρύπτει την προτίμηση χρήστη."
+
+#: admin/classes/uipress-app.php:2803
+msgid "Enable floating flyout toolbar"
+msgstr "Ενεργοποίηση αιωρούμενης γραμμής εργαλείων flyout"
+
+#: admin/classes/uipress-app.php:2804
+msgid "Changes the toolbar to a floating flyout toolbar"
+msgstr "Αλλάζει τη γραμμή εργαλείων σε μια πλωτή γραμμή εργαλείων flyout"
+
+#: admin/classes/uipress-app.php:2812
+msgid "Disables search icon and global search function from admin bar."
+msgstr ""
+"Απενεργοποιεί το εικονίδιο αναζήτησης και τη λειτουργία καθολικής αναζήτησης "
+"από τη γραμμή διαχειριστή."
+
+#: admin/classes/uipress-app.php:2819
+msgid "Disable Create Button"
+msgstr "Απενεργοποιήστε το κουμπί δημιουργίας"
+
+#: admin/classes/uipress-app.php:2820
+msgid "Disables the 'create' button in the admin bar."
+msgstr "Απενεργοποιεί το κουμπί «δημιουργία» στη γραμμή διαχειριστή."
+
+#: admin/classes/uipress-app.php:2827
+msgid "Open View Website in new tab"
+msgstr "Ανοίξτε την Προβολή ιστότοπου σε νέα καρτέλα"
+
+#: admin/classes/uipress-app.php:2828
+msgid ""
+"When enabled, clicking on view website or the home button will open in a new "
+"browser tab"
+msgstr ""
+"Όταν είναι ενεργοποιημένο, κάνοντας κλικ στην προβολή ιστότοπου ή στο κουμπί "
+"αρχικής σελίδας θα ανοίξει σε μια νέα καρτέλα του προγράμματος περιήγησης"
+
+#: admin/classes/uipress-app.php:2835
+msgid "Disable View Website Button"
+msgstr "Απενεργοποιήστε το κουμπί προβολής ιστότοπου"
+
+#: admin/classes/uipress-app.php:2836
+msgid "Disables the view website link button in the admin bar."
+msgstr ""
+"Απενεργοποιεί το κουμπί προβολής συνδέσμου ιστότοπου στη γραμμή διαχειριστή."
+
+#: admin/classes/uipress-app.php:2843
+#, php-format
+msgid "Load %s admin bar on front end"
+msgstr "Φορτώστε τη γραμμή διαχειριστή %s στη διεπαφή"
+
+#: admin/classes/uipress-app.php:2844
+#, php-format
+msgid ""
+"If enabled, %s toolbar will load on the front end. Please note, this will "
+"not work on all themes and styling will vary"
+msgstr ""
+"Εάν είναι ενεργοποιημένη, η γραμμή εργαλείων %s θα φορτωθεί στο μπροστινό "
+"μέρος. Λάβετε υπόψη ότι αυτό δεν θα λειτουργήσει σε όλα τα θέματα και το "
+"στυλ θα ποικίλλει"
+
+#: admin/classes/uipress-app.php:2852
+msgid "Hide admin bar on front end"
+msgstr "Απόκρυψη της γραμμής διαχειριστή στο μπροστινό μέρος"
+
+#: admin/classes/uipress-app.php:2853
+msgid "If enabled, front end admin bar will not load."
+msgstr ""
+"Εάν είναι ενεργοποιημένη, η γραμμή διαχειριστή της διεπαφής δεν θα φορτωθεί."
+
+#: admin/classes/uipress-app.php:2861
+msgid "Disable Notification Center"
+msgstr "Απενεργοποιήστε το Κέντρο ειδοποιήσεων"
+
+#: admin/classes/uipress-app.php:2862
+msgid "If disabled, notifcations will show in the normal way"
+msgstr ""
+"Εάν είναι απενεργοποιημένη, οι ειδοποιήσεις θα εμφανίζονται με τον κανονικό "
+"τρόπο"
+
+#: admin/classes/uipress-app.php:2870
+msgid "Post Types available in Search"
+msgstr "Τύποι αναρτήσεων διαθέσιμοι στην Αναζήτηση"
+
+#: admin/classes/uipress-app.php:2871
+msgid "The global search will only search the selected post types."
+msgstr ""
+"Η καθολική αναζήτηση θα αναζητήσει μόνο τους επιλεγμένους τύπους αναρτήσεων."
+
+#: admin/classes/uipress-app.php:2879
+msgid "Post Types available in create button (new)"
+msgstr "Τύποι αναρτήσεων διαθέσιμοι στο κουμπί δημιουργίας (νέο)"
+
+#: admin/classes/uipress-app.php:2880
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr ""
+"Μόνο οι επιλεγμένοι τύποι αναρτήσεων θα εμφανίζονται στο αναπτυσσόμενο μενού "
+"δημιουργίας."
+
+#: admin/classes/uipress-app.php:2888
+msgid "Only show notifications to"
+msgstr "Εμφάνιση ειδοποιήσεων μόνο σε"
+
+#: admin/classes/uipress-app.php:2889
+#, php-format
+msgid ""
+"%s will hide all notifications from all users except those selected below"
+msgstr ""
+"Το %s θα αποκρύψει όλες τις ειδοποιήσεις από όλους τους χρήστες εκτός από "
+"αυτές που επιλέγονται παρακάτω"
+
+#: admin/classes/uipress-app.php:2897
+msgid "Only show updates to"
+msgstr "Εμφάνιση ενημερώσεων μόνο σε"
+
+#: admin/classes/uipress-app.php:2898
+#, php-format
+msgid "%s will hide all updates from all users except those selected below"
+msgstr ""
+"Το %s θα αποκρύψει όλες τις ενημερώσεις από όλους τους χρήστες εκτός από "
+"αυτές που επιλέγονται παρακάτω"
+
+#: admin/classes/uipress-app.php:2914
+msgid "Theme"
+msgstr "Θέμα"
+
+#: admin/classes/uipress-app.php:2915 admin/classes/uipress-app.php:2945
+#: admin/classes/uipress-app.php:3000
+msgid "Styles page content."
+msgstr "Περιεχόμενο σελίδας στυλ."
+
+#: admin/classes/uipress-app.php:2919
+msgid "Disable Admin Theme Module"
+msgstr "Απενεργοποιήστε τη μονάδα θέματος διαχειριστή"
+
+#: admin/classes/uipress-app.php:2920
+msgid "When the theme is disabled, pages will be styles in the original way."
+msgstr ""
+"Όταν το θέμα είναι απενεργοποιημένο, οι σελίδες θα είναι στυλ με τον αρχικό "
+"τρόπο."
+
+#: admin/classes/uipress-app.php:2927
+msgid "Theme Disabled for"
+msgstr "Θέμα Απενεργοποιημένο για"
+
+#: admin/classes/uipress-app.php:2928
+msgid ""
+"When the theme is disabled, pages will be styles in the original way for "
+"selected users or roles."
+msgstr ""
+"Όταν το θέμα είναι απενεργοποιημένο, οι σελίδες θα είναι στυλ με τον αρχικό "
+"τρόπο για επιλεγμένους χρήστες ή ρόλους."
+
+#: admin/classes/uipress-app.php:2949
+msgid "Disable Login Module"
+msgstr "Απενεργοποιήστε τη μονάδα σύνδεσης"
+
+#: admin/classes/uipress-app.php:2950
+msgid ""
+"When the login module is disabled, the login page will be displayed in the "
+"original way."
+msgstr ""
+"Όταν η μονάδα σύνδεσης είναι απενεργοποιημένη, η σελίδα σύνδεσης θα "
+"εμφανίζεται με τον αρχικό τρόπο."
+
+#: admin/classes/uipress-app.php:2958
+msgid "Dark Mode"
+msgstr "Σκοτεινή λειτουργία"
+
+#: admin/classes/uipress-app.php:2959
+msgid "Puts the login page in dark mode for all users."
+msgstr ""
+"Θέτει τη σελίδα σύνδεσης σε σκοτεινή λειτουργία για όλους τους χρήστες."
+
+#: admin/classes/uipress-app.php:2966
+msgid "Disable Language Selector"
+msgstr "Απενεργοποιήστε τον επιλογέα γλώσσας"
+
+#: admin/classes/uipress-app.php:2967
+msgid "Removes the language selector added to the login page"
+msgstr "Καταργεί τον επιλογέα γλώσσας που προστέθηκε στη σελίδα σύνδεσης"
+
+#: admin/classes/uipress-app.php:2974
+msgid "Login Logo"
+msgstr "Λογότυπο σύνδεσης"
+
+#: admin/classes/uipress-app.php:2975
+msgid "Sets the logo for the login page"
+msgstr "Ορίζει το λογότυπο για τη σελίδα σύνδεσης"
+
+#: admin/classes/uipress-app.php:2982
+msgid "Login Background"
+msgstr "Σύνδεση φόντο"
+
+#: admin/classes/uipress-app.php:2983
+msgid "Sets an optional background image on the login page."
+msgstr "Ορίζει μια προαιρετική εικόνα φόντου στη σελίδα σύνδεσης."
+
+#: admin/classes/uipress-app.php:2999
+msgid "Advanced"
+msgstr "Προχωρημένος"
+
+#: admin/classes/uipress-app.php:3004
+msgid "Advanced Disabled For"
+msgstr "Για προχωρημένους απενεργοποιημένο για"
+
+#: admin/classes/uipress-app.php:3005
+msgid "Code added here will not load for any users or roles you select"
+msgstr ""
+"Ο κώδικας που προστέθηκε εδώ δεν θα φορτωθεί για χρήστες ή ρόλους που θα "
+"επιλέξετε"
+
+#: admin/classes/uipress-app.php:3013
+msgid "Enqueue scripts"
+msgstr "Κάνε ουρά σενάρια"
+
+#: admin/classes/uipress-app.php:3014
+msgid "Add scripts to the head of every admin page and login page"
+msgstr ""
+"Προσθέστε σενάρια στην κεφαλή κάθε σελίδας διαχειριστή και σελίδας σύνδεσης"
+
+#: admin/classes/uipress-app.php:3022
+msgid "Enqueue styles"
+msgstr "Στυλ σε ουρά"
+
+#: admin/classes/uipress-app.php:3023
+msgid "Add stylesheets to the head of every admin page and login page"
+msgstr ""
+"Προσθέστε φύλλα στυλ στην κεφαλή κάθε σελίδας διαχειριστή και σελίδας "
+"σύνδεσης"
+
+#: admin/classes/uipress-app.php:3031
+msgid "Admin CSS"
+msgstr "Διαχειριστής CSS"
+
+#: admin/classes/uipress-app.php:3032
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr ""
+"Το CSS που προστέθηκε εδώ θα φορτωθεί σε κάθε σελίδα διαχειριστή καθώς και "
+"στη σελίδα σύνδεσης"
+
+#: admin/classes/uipress-app.php:3041
+msgid "Admin JavaScript"
+msgstr "Διαχειριστής JavaScript"
+
+#: admin/classes/uipress-app.php:3042
+msgid ""
+"JavaScript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr ""
+"Το JavaScript που προστέθηκε εδώ θα φορτωθεί σε κάθε σελίδα διαχειριστή "
+"καθώς και στη σελίδα σύνδεσης"
+
+#: admin/classes/uipress-app.php:3051
+msgid "HTML for document head"
+msgstr "HTML για την κεφαλή εγγράφου"
+
+#: admin/classes/uipress-app.php:3052
+msgid ""
+"Add HTML here to be added to every admin page and login page head section"
+msgstr ""
+"Προσθέστε HTML εδώ για προσθήκη σε κάθε σελίδα διαχειριστή και ενότητα "
+"κεφαλίδας σελίδας σύνδεσης"
+
+#: admin/classes/uipress-app.php:3061
+msgid "Safe Mode Key"
+msgstr "Πλήκτρο ασφαλούς λειτουργίας"
+
+#: admin/classes/uipress-app.php:3063
+msgid ""
+"Add a private key to allow you to disable uipress on specific pages with "
+"query paramaters. For example, add '?no_uip=your_key' to a URL and it wil "
+"stop uipress from loading on that page."
+msgstr ""
+"Προσθέστε ένα ιδιωτικό κλειδί για να μπορείτε να απενεργοποιήσετε το uipress "
+"σε συγκεκριμένες σελίδες με παραμέτρους ερωτήματος. Για παράδειγμα, "
+"προσθέστε το '?no_uip=your_key' σε μια διεύθυνση URL και θα σταματήσει τη "
+"φόρτωση του uipress σε αυτήν τη σελίδα."
+
+#: admin/classes/update.php:66
+msgid "Welcome to UiPress version "
+msgstr "Καλώς ήρθατε στην έκδοση UiPress"
+
+#: admin/classes/update.php:69 admin/classes/update.php:101
+msgid ""
+"Would you like to automatically import settings from your older version of "
+"uipress?"
+msgstr ""
+"Θέλετε να εισάγετε αυτόματα ρυθμίσεις από την παλαιότερη έκδοση του uipress;"
+
+#: admin/classes/update.php:71
+msgid "Don't show again"
+msgstr "Μην εμφανιστείτε ξανά"
+
+#: admin/classes/update.php:72 admin/classes/update.php:103
+msgid "Import settings"
+msgstr "Ρυθμίσεις εισαγωγής"
+
+#: admin/classes/update.php:115
+msgid "Check for updates"
+msgstr "Ελεγχος για ενημερώσεις"
+
+#: admin/classes/update.php:141
+msgid "Unable to contact update server"
+msgstr "Δεν είναι δυνατή η επικοινωνία με τον διακομιστή ενημέρωσης"
+
+#: admin/classes/update.php:156
+msgid "Update available"
+msgstr "Διαθέσιμη ενημέρωση"
+
+#: admin/classes/update.php:162
+msgid "No Updates available"
+msgstr "Δεν υπάρχουν διαθέσιμες ενημερώσεις"
+
+#: admin/classes/update.php:180
+msgid "Message dismissed"
+msgstr "Το μήνυμα απορρίφθηκε"
+
+#: admin/classes/update.php:204
+msgid "No settings to import"
+msgstr "Δεν υπάρχουν ρυθμίσεις για εισαγωγή"
+
+#: admin/classes/update.php:350
+msgid "Settings imported"
+msgstr "Οι ρυθμίσεις εισήχθησαν"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress"
+msgstr "UiPress"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress admin extension with a streamlined dashboard, Google "
+"Analytics & WooCommerce Integration, intuitive media library, dark mode and "
+"much more."
+msgstr ""
+"Ισχυρή επέκταση διαχειριστή WordPress με βελτιωμένο πίνακα ελέγχου, "
+"ενσωμάτωση Google Analytics & WooCommerce, διαισθητική βιβλιοθήκη πολυμέσων, "
+"σκοτεινή λειτουργία και πολλά άλλα."
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "Διαχειριστής 2020"

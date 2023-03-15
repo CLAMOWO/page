@@ -1,0 +1,4816 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress\n"
+"POT-Creation-Date: 2022-06-12 12:06+0200\n"
+"PO-Revision-Date: 2022-06-22 20:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Ukrainian (Ukraine)\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Team: Rubyvio https://rubyvio.com"
+"X-Poedit-Basepath: ..\n"
+"X-Translate-Version: beta; wp-6.0"
+"X-Human revision: none;
+
+#: admin/apps/admin-pages/admin-pages.php:110
+#: admin/apps/menu-creator/menu-creator.php:1304
+msgid "Apply to subsites"
+msgstr "Подайте заявку на підсайти"
+
+#: admin/apps/admin-pages/admin-pages.php:121
+msgid "Menu Icon"
+msgstr "Значок меню"
+
+#: admin/apps/admin-pages/admin-pages.php:131
+msgid "Manually add to menu?"
+msgstr "Додати в меню вручну?"
+
+#: admin/apps/admin-pages/admin-pages.php:250
+msgid "Admin Pages - Beta"
+msgstr "Сторінки адміністратора - бета-версія"
+
+#: admin/apps/admin-pages/admin-pages.php:251
+msgid "Creates custom admin pages."
+msgstr "Створює спеціальні сторінки адміністратора."
+
+#: admin/apps/admin-pages/admin-pages.php:255
+msgid "Disable custom admin pages?"
+msgstr "Вимкнути спеціальні сторінки адміністратора?"
+
+#: admin/apps/admin-pages/admin-pages.php:256
+msgid "If disabled, the admin pages will not be available to any users."
+msgstr ""
+"Якщо вимкнено, сторінки адміністратора не будуть доступні жодним "
+"користувачам."
+
+#: admin/apps/admin-pages/admin-pages.php:263
+msgid "Admin Page Slug"
+msgstr "Слаг сторінки адміністратора"
+
+#: admin/apps/admin-pages/admin-pages.php:264
+msgid ""
+"This defaults to admin-pages. Changes to this will need you to resave "
+"permalink structure."
+msgstr ""
+"За замовчуванням це сторінки адміністратора. Зміни до цього вимагатимуть "
+"перезбереження структури постійного посилання."
+
+#: admin/apps/admin-pages/admin-pages.php:271
+msgid "Who can edit and create admin pages?"
+msgstr "Хто може редагувати та створювати сторінки адміністратора?"
+
+#: admin/apps/admin-pages/admin-pages.php:272
+msgid ""
+"Editing and creation of admin pages will be disabled for the users or roles "
+"you select"
+msgstr ""
+"Редагування та створення сторінок адміністратора буде вимкнено для вибраних "
+"користувачів або ролей"
+
+#: admin/apps/admin-pages/admin-pages.php:280
+msgid "Who can see admin pages?"
+msgstr "Хто може бачити сторінки адміністратора?"
+
+#: admin/apps/admin-pages/admin-pages.php:281
+msgid "UiPress will only show admin pages for the users or roles you select"
+msgstr ""
+"UiPress показуватиме лише сторінки адміністратора для вибраних користувачів "
+"або ролей"
+
+#: admin/apps/admin-pages/admin-pages.php:320
+msgctxt "post type general name"
+msgid "Admin Page"
+msgstr "Сторінка адміністратора"
+
+#: admin/apps/admin-pages/admin-pages.php:321
+msgctxt "post type singular name"
+msgid "Admin Page"
+msgstr "Сторінка адміністратора"
+
+#: admin/apps/admin-pages/admin-pages.php:322
+msgctxt "admin menu"
+msgid "Admin Pages"
+msgstr "Сторінки адміністратора"
+
+#: admin/apps/admin-pages/admin-pages.php:323
+msgctxt "add new on admin bar"
+msgid "Admin Page"
+msgstr "Сторінка адміністратора"
+
+#: admin/apps/admin-pages/admin-pages.php:324
+msgctxt "Admin Page"
+msgid "Add New"
+msgstr "Додати новий"
+
+#: admin/apps/admin-pages/admin-pages.php:325
+msgid "Add New Admin Page"
+msgstr "Додати нову сторінку адміністратора"
+
+#: admin/apps/admin-pages/admin-pages.php:326
+msgid "New Admin Page"
+msgstr "Нова сторінка адміністратора"
+
+#: admin/apps/admin-pages/admin-pages.php:327
+msgid "Edit Admin Page"
+msgstr "Редагувати сторінку адміністратора"
+
+#: admin/apps/admin-pages/admin-pages.php:328
+msgid "View Admin Page"
+msgstr "Переглянути сторінку адміністратора"
+
+#: admin/apps/admin-pages/admin-pages.php:329
+msgid "All Admin Pages"
+msgstr "Усі сторінки адміністратора"
+
+#: admin/apps/admin-pages/admin-pages.php:330
+msgid "Search Admin Pages"
+msgstr "Пошук на сторінках адміністратора"
+
+#: admin/apps/admin-pages/admin-pages.php:331
+msgid "No Admin Pages found."
+msgstr "Сторінок адміністратора не знайдено."
+
+#: admin/apps/admin-pages/admin-pages.php:332
+msgid "No Admin Pages found in Trash."
+msgstr "У кошику не знайдено сторінок адміністратора."
+
+#: admin/apps/admin-pages/admin-pages.php:336
+#: admin/apps/menu-creator/menu-creator.php:667
+#: admin/apps/users/uip-history.php:161
+msgid "Description."
+msgstr "Опис."
+
+#: admin/apps/content/content.php:96
+msgid "Content Page"
+msgstr "Сторінка вмісту"
+
+#: admin/apps/content/content.php:97
+msgid "Creates content page"
+msgstr "Створює сторінку вмісту"
+
+#: admin/apps/content/content.php:101
+msgid "Disable Content Page?"
+msgstr "Вимкнути сторінку вмісту?"
+
+#: admin/apps/content/content.php:102
+msgid "If disabled, the content page will not be available to any users."
+msgstr "Якщо вимкнено, сторінка вмісту не буде доступна жодним користувачам."
+
+#: admin/apps/content/content.php:109
+msgid "Content Page Disabled for"
+msgstr "Сторінка вмісту вимкнена для"
+
+#: admin/apps/content/content.php:110
+msgid ""
+"When the content page module is disabled, the content page will not be "
+"accesible for the users / roles"
+msgstr ""
+"Коли модуль сторінки вмісту вимкнено, сторінка вмісту не буде доступна для "
+"користувачів/ролей"
+
+#: admin/apps/content/content.php:118
+msgid "Post types available in content page"
+msgstr "Типи публікацій доступні на сторінці вмісту"
+
+#: admin/apps/content/content.php:119
+msgid "Only the selected post types will be available in the content page."
+msgstr "На сторінці вмісту будуть доступні лише вибрані типи публікацій."
+
+#: admin/apps/content/content.php:127
+msgid "Enable private library mode"
+msgstr "Увімкнути режим приватної бібліотеки"
+
+#: admin/apps/content/content.php:128
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This also includes folders"
+msgstr ""
+"Якщо ввімкнено, на сторінці вмісту відображатиметься лише вміст, створений "
+"або завантажений користувачем, який увійшов у систему. Це також включає папки"
+
+#: admin/apps/content/content.php:184
+msgid "Original Title / Value"
+msgstr "Оригінальна назва / значення"
+
+#: admin/apps/content/content.php:188 admin/classes/styles.php:693
+msgid "Text"
+msgstr "Текст"
+
+#: admin/apps/content/content.php:192 admin/apps/content/content.php:2033
+msgid "Date Created"
+msgstr "Дата створення"
+
+#: admin/apps/content/content.php:196
+msgid "File Extension (attachments only)"
+msgstr "Розширення файлу (лише вкладення)"
+
+#: admin/apps/content/content.php:200
+msgid "Sequence Number"
+msgstr "Порядковий номер"
+
+#: admin/apps/content/content.php:204
+msgid "Meta Value"
+msgstr "Метацінність"
+
+#: admin/apps/content/content.php:208
+msgid "Find and Replace"
+msgstr "Знайти та замінити"
+
+#: admin/apps/content/content.php:266 admin/classes/uipress-app.php:1731
+#: admin/classes/uipress-app.php:2073
+msgid "No preferences supplied to save"
+msgstr "Немає налаштувань для збереження"
+
+#: admin/apps/content/content.php:288 admin/classes/uipress-app.php:1742
+#: admin/classes/uipress-app.php:2095
+msgid "Preferences saved"
+msgstr "Налаштування збережено"
+
+#: admin/apps/content/content.php:291 admin/classes/uipress-app.php:1746
+#: admin/classes/uipress-app.php:2098
+msgid "Unable to save user preferences"
+msgstr "Не вдається зберегти налаштування користувача"
+
+#: admin/apps/content/content.php:320 admin/apps/content/content.php:328
+#: admin/apps/content/content.php:957
+msgid "Unable to save attachment"
+msgstr "Не вдається зберегти вкладений файл"
+
+#: admin/apps/content/content.php:337
+msgid "Image Saved"
+msgstr "Зображення збережено"
+
+#: admin/apps/content/content.php:370
+msgid "Failed to upload file"
+msgstr "Не вдалося завантажити файл"
+
+#: admin/apps/content/content.php:400
+msgid "Items uploaded"
+msgstr "Елементи завантажено"
+
+#: admin/apps/content/content.php:423
+msgid "Views updated"
+msgstr "Перегляди оновлено"
+
+#: admin/apps/content/content.php:455 admin/apps/content/content.php:517
+#: admin/apps/content/content.php:579 admin/apps/content/content.php:769
+#: admin/apps/menu-creator/menu-creator.php:752
+#: admin/apps/menu-creator/menu-creator.php:777
+#: admin/apps/menu-creator/menu-creator.php:814
+#: admin/apps/menu-creator/menu-creator.php:867
+#: admin/apps/menu-creator/menu-creator.php:936
+#: admin/apps/users/uip-user-groups.php:309 admin/classes/folders.php:528
+#: admin/classes/settings.php:308 admin/classes/uipress-app.php:1357
+msgid "Something went wrong"
+msgstr "Щось пішло не так"
+
+#: admin/apps/content/content.php:460
+msgid "Items duplicated successfully"
+msgstr "Елементи успішно скопійовано"
+
+#: admin/apps/content/content.php:463
+msgid "Itms couldn't be duplicated"
+msgstr "Його не вдалося скопіювати"
+
+#: admin/apps/content/content.php:501 admin/apps/content/content.php:543
+msgid "No Meta Key provided"
+msgstr "Метаключ не надається"
+
+#: admin/apps/content/content.php:583
+msgid "Attributes Updated"
+msgstr "Атрибути оновлено"
+
+#: admin/apps/content/content.php:774
+msgid "Items deleted successfully"
+msgstr "Елементи успішно видалено"
+
+#: admin/apps/content/content.php:777
+msgid "Itms couldn't be deleted"
+msgstr "Не вдалося видалити елементи"
+
+#: admin/apps/content/content.php:799 admin/classes/folders.php:452
+#: admin/classes/folders.php:484
+msgid "No content to move"
+msgstr "Немає вмісту для переміщення"
+
+#: admin/apps/content/content.php:812 admin/classes/folders.php:466
+#: admin/classes/folders.php:497
+msgid "Content moved"
+msgstr "Вміст переміщено"
+
+#: admin/apps/content/content.php:938
+msgid "Unable to update item"
+msgstr "Не вдається оновити елемент"
+
+#: admin/apps/content/content.php:968
+msgid "Item updated"
+msgstr "Елемент оновлено"
+
+#: admin/apps/content/content.php:1007
+msgid "Items updated"
+msgstr "Елементи оновлено"
+
+#: admin/apps/content/content.php:1319 admin/apps/content/content.php:1611
+msgid "Content"
+msgstr "Зміст"
+
+#: admin/apps/content/content.php:1362
+#: admin/apps/menu-creator/menu-creator.php:1096
+#: admin/classes/uipress-app.php:1325
+msgid "Pro Feature"
+msgstr "Профільна функція"
+
+#: admin/apps/content/content.php:1365
+msgid "Upgrade to UiPress Pro to unlock the content page and content folders"
+msgstr ""
+"Оновіть до UiPress Pro, щоб розблокувати сторінку вмісту та папки вмісту"
+
+#: admin/apps/content/content.php:1367
+#: admin/apps/menu-creator/menu-creator.php:1101
+msgid "See UiPress Pro Plans"
+msgstr "Перегляньте плани UiPress Pro"
+
+#: admin/apps/content/content.php:1411
+msgid "Update Tags and Categories"
+msgstr "Оновлення тегів і категорій"
+
+#: admin/apps/content/content.php:1418 admin/apps/content/content.php:1831
+#: admin/apps/content/content.php:1836 admin/apps/content/content.php:2068
+#: admin/apps/content/content.php:2071
+msgid "Categories"
+msgstr "Категорії"
+
+#: admin/apps/content/content.php:1419 admin/apps/content/content.php:1837
+#: admin/apps/content/content.php:2072
+msgid "Search categories..."
+msgstr "Шукати категорії..."
+
+#: admin/apps/content/content.php:1424
+msgid "Keep existing categories"
+msgstr "Зберігайте наявні категорії"
+
+#: admin/apps/content/content.php:1433 admin/apps/content/content.php:1843
+#: admin/apps/content/content.php:1847 admin/apps/content/content.php:2080
+#: admin/apps/content/content.php:2083
+msgid "Tags"
+msgstr "Мітки"
+
+#: admin/apps/content/content.php:1434 admin/apps/content/content.php:1848
+#: admin/apps/content/content.php:2084
+msgid "Search tags..."
+msgstr "Шукати теги..."
+
+#: admin/apps/content/content.php:1439
+msgid "Keep existing tags"
+msgstr "Зберігайте наявні теги"
+
+#: admin/apps/content/content.php:1448 admin/apps/content/content.php:1686
+#: admin/classes/uipress-app.php:1373
+msgid "Update"
+msgstr "Оновлення"
+
+#: admin/apps/content/content.php:1465 admin/apps/content/content.php:2567
+msgid "Batch Rename"
+msgstr "Пакетне перейменування"
+
+#: admin/apps/content/content.php:1473
+msgid "Attribute to rename"
+msgstr "Атрибут для перейменування"
+
+#: admin/apps/content/content.php:1480 admin/apps/content/content.php:2323
+#: admin/apps/menu-creator/menu-creator.php:1151
+#: admin/apps/menu-creator/menu-creator.php:1651
+#: admin/apps/menu-creator/menu-creator.php:1652
+#: admin/apps/users/uip-users.php:311 admin/apps/users/uip-users.php:389
+#: admin/apps/users/uip-users.php:1213 admin/classes/uipress-app.php:1371
+msgid "Name"
+msgstr "Ім'я"
+
+#: admin/apps/content/content.php:1481
+msgid "Meta Key"
+msgstr "Мета-ключ"
+
+#: admin/apps/content/content.php:1482
+msgid "Alt Tag (Attachments only)"
+msgstr "Альтернативний тег (лише вкладені файли)"
+
+#: admin/apps/content/content.php:1487
+msgid "Meta Key Name"
+msgstr "Назва мета-ключа"
+
+#: admin/apps/content/content.php:1498
+msgid "Filename Structure"
+msgstr "Структура імені файлу"
+
+#: admin/apps/content/content.php:1506
+msgid "Rename Item"
+msgstr "Перейменувати елемент"
+
+#: admin/apps/content/content.php:1514 admin/apps/overview/overview.php:812
+msgid "Add"
+msgstr "Додати"
+
+#: admin/apps/content/content.php:1540
+msgid "New Text"
+msgstr "Новий текст"
+
+#: admin/apps/content/content.php:1542
+msgid "Date Format"
+msgstr "Формат дати"
+
+#: admin/apps/content/content.php:1544
+msgid "Start Number"
+msgstr "Стартовий номер"
+
+#: admin/apps/content/content.php:1546
+msgid "Meta key Name"
+msgstr "Назва мета-ключа"
+
+#: admin/apps/content/content.php:1548
+msgid "Find"
+msgstr "Знайти"
+
+#: admin/apps/content/content.php:1552
+msgid "Replace"
+msgstr "Замінити"
+
+#: admin/apps/content/content.php:1576 admin/apps/content/content.php:1593
+#: admin/apps/menu-creator/menu-creator.php:1464
+msgid "Preview"
+msgstr "Попередній перегляд"
+
+#: admin/apps/content/content.php:1579
+msgid "Current"
+msgstr "Поточний"
+
+#: admin/apps/content/content.php:1580
+#: admin/apps/menu-creator/menu-creator.php:1136
+msgid "New"
+msgstr "Новий"
+
+#: admin/apps/content/content.php:1594
+msgid "Rename"
+msgstr "Перейменувати"
+
+#: admin/apps/content/content.php:1618 admin/classes/uipress-app.php:1365
+msgid "All Content"
+msgstr "Весь вміст"
+
+#: admin/apps/content/content.php:1679
+#: admin/apps/menu-creator/menu-creator.php:1225
+#: admin/apps/users/uip-users.php:541
+msgid "Delete"
+msgstr "Видалити"
+
+#: admin/apps/content/content.php:1684
+msgid "Edit Image"
+msgstr "Редагувати зображення"
+
+#: admin/apps/content/content.php:1715 admin/apps/users/uip-users.php:309
+msgid "Details"
+msgstr "Деталі"
+
+#: admin/apps/content/content.php:1771 admin/apps/content/content.php:1772
+#: admin/apps/overview/overview.php:715
+msgid "Title"
+msgstr "Назва"
+
+#: admin/apps/content/content.php:1778
+msgid "Alt Text"
+msgstr "Альтернативний текст"
+
+#: admin/apps/content/content.php:1779
+msgid "Alt"
+msgstr "Альт"
+
+#: admin/apps/content/content.php:1783 admin/apps/content/content.php:1784
+msgid "Caption"
+msgstr "Заголовок"
+
+#: admin/apps/content/content.php:1788 admin/apps/content/content.php:1789
+#: admin/apps/users/uip-users.php:1353
+msgid "Description"
+msgstr "Опис"
+
+#: admin/apps/content/content.php:1799
+msgid "Meta Data"
+msgstr "Метадані"
+
+#: admin/apps/content/content.php:1819 admin/apps/content/content.php:1824
+#: admin/apps/content/content.php:2339
+#: admin/apps/menu-creator/menu-creator.php:1155
+#: admin/apps/menu-creator/menu-creator.php:1294
+#: admin/classes/uipress-app.php:1151
+msgid "Status"
+msgstr "Статус"
+
+#: admin/apps/content/content.php:1825
+msgid "Search status..."
+msgstr "Статус пошуку..."
+
+#: admin/apps/content/content.php:1927
+msgid "Filters"
+msgstr "фільтри"
+
+#: admin/apps/content/content.php:1932
+msgid "Upload"
+msgstr "Завантажити"
+
+#: admin/apps/content/content.php:1954
+msgid "Items Per Page"
+msgstr "Елементів на сторінку"
+
+#: admin/apps/content/content.php:1964
+msgid "Columns"
+msgstr "Колонки"
+
+#: admin/apps/content/content.php:1976
+msgid "Search..."
+msgstr "Шукати..."
+
+#: admin/apps/content/content.php:1984
+msgid "of"
+msgstr "з"
+
+#: admin/apps/content/content.php:1987
+msgid "items"
+msgstr "предметів"
+
+#: admin/apps/content/content.php:2011 admin/apps/content/content.php:2014
+msgid "Post Types"
+msgstr "Типи постів"
+
+#: admin/apps/content/content.php:2015
+msgid "Search Post Types..."
+msgstr "Шукати типи публікацій..."
+
+#: admin/apps/content/content.php:2022 admin/apps/content/content.php:2025
+msgid "Post Status"
+msgstr "Статус публікації"
+
+#: admin/apps/content/content.php:2026
+msgid "Search Post Statuses..."
+msgstr "Шукати статуси публікацій..."
+
+#: admin/apps/content/content.php:2039
+msgid "Posted On"
+msgstr "Опубліковано"
+
+#: admin/apps/content/content.php:2040
+msgid "Posted After"
+msgstr "Опубліковано після"
+
+#: admin/apps/content/content.php:2041
+msgid "Posted Before"
+msgstr "Опубліковано раніше"
+
+#: admin/apps/content/content.php:2056 admin/apps/content/content.php:2059
+msgid "Media Types"
+msgstr "Типи медіа"
+
+#: admin/apps/content/content.php:2060
+msgid "Search Media Types..."
+msgstr "Шукати типи медіа..."
+
+#: admin/apps/content/content.php:2089
+msgid "Clear Filters"
+msgstr "Очистити фільтри"
+
+#: admin/apps/content/content.php:2090
+msgid "Save as view"
+msgstr "Зберегти як перегляд"
+
+#: admin/apps/content/content.php:2136
+msgid "Posted"
+msgstr "Опубліковано"
+
+#: admin/apps/content/content.php:2327
+msgid "Type"
+msgstr "Тип"
+
+#: admin/apps/content/content.php:2331
+msgid "Author"
+msgstr "Автор"
+
+#: admin/apps/content/content.php:2335
+#: admin/apps/menu-creator/menu-creator.php:1159
+#: admin/apps/overview/overview.php:904 admin/apps/users/uip-users.php:1333
+msgid "Date"
+msgstr "Дата"
+
+#: admin/apps/content/content.php:2483
+msgid "Load More"
+msgstr "Завантажити ще"
+
+#: admin/apps/content/content.php:2492
+msgid "No content found"
+msgstr "Вміст не знайдено"
+
+#: admin/apps/content/content.php:2511 admin/apps/users/uip-users.php:547
+#: admin/classes/uipress-app.php:1327
+msgid "View"
+msgstr "Переглянути"
+
+#: admin/apps/content/content.php:2518
+#: admin/apps/menu-creator/menu-creator.php:1203
+#: admin/apps/users/uip-users.php:523 admin/classes/uipress-app.php:1328
+msgid "Edit"
+msgstr "Редагувати"
+
+#: admin/apps/content/content.php:2525
+msgid "Quick Edit"
+msgstr "Швидке редагування"
+
+#: admin/apps/content/content.php:2532
+#: admin/apps/menu-creator/menu-creator.php:1210
+msgid "Duplicate"
+msgstr "Дублікат"
+
+#: admin/apps/content/content.php:2540
+msgid "Delete Item"
+msgstr "Видалити елемент"
+
+#: admin/apps/content/content.php:2560
+msgid "items selected"
+msgstr "вибрані елементи"
+
+#: admin/apps/content/content.php:2573
+msgid "Categories & Tags"
+msgstr "Категорії та теги"
+
+#: admin/apps/content/content.php:2579
+msgid "Delete Selected"
+msgstr "Видалити вибране"
+
+#: admin/apps/content/content.php:2585
+msgid "Clear Selection"
+msgstr "Очистити виділення"
+
+#: admin/apps/content/content.php:2607
+msgid "Create New View"
+msgstr "Створити новий перегляд"
+
+#: admin/apps/content/content.php:2612
+msgid "View name"
+msgstr "Переглянути назву"
+
+#: admin/apps/content/content.php:2615
+msgid "View Name"
+msgstr "Переглянути ім'я"
+
+#: admin/apps/content/content.php:2623
+#: admin/apps/menu-creator/menu-creator.php:1709
+#: admin/apps/overview/overview.php:836 admin/classes/styles.php:437
+msgid "Save"
+msgstr "Зберегти"
+
+#: admin/apps/menu-creator/menu-creator.php:405
+#: admin/apps/menu-creator/menu-creator.php:1044
+#: admin/apps/menu-creator/menu-creator.php:1052
+#: admin/apps/menu-creator/menu-creator.php:1131
+#: admin/apps/menu-creator/menu-creator.php:1699
+msgid "Menu Creator"
+msgstr "Творець меню"
+
+#: admin/apps/menu-creator/menu-creator.php:406
+msgid "Creates custom admin menus."
+msgstr "Створює спеціальні меню адміністратора."
+
+#: admin/apps/menu-creator/menu-creator.php:410
+msgid "Disable Menu Creator?"
+msgstr "Вимкнути конструктор меню?"
+
+#: admin/apps/menu-creator/menu-creator.php:411
+msgid "If disabled, the menu creator will not be available to any users."
+msgstr ""
+"Якщо вимкнено, конструктор меню не буде доступний для жодного користувача."
+
+#: admin/apps/menu-creator/menu-creator.php:651
+msgctxt "post type general name"
+msgid "Admin Menu"
+msgstr "Меню адміністратора"
+
+#: admin/apps/menu-creator/menu-creator.php:652
+msgctxt "post type singular name"
+msgid "admin menu"
+msgstr "меню адміністратора"
+
+#: admin/apps/menu-creator/menu-creator.php:653
+msgctxt "admin menu"
+msgid "Admin Menus"
+msgstr "Меню адміністратора"
+
+#: admin/apps/menu-creator/menu-creator.php:654
+msgctxt "add new on admin bar"
+msgid "Admin Menu"
+msgstr "Меню адміністратора"
+
+#: admin/apps/menu-creator/menu-creator.php:655
+msgctxt "Admin Menu"
+msgid "Add New"
+msgstr "Додати новий"
+
+#: admin/apps/menu-creator/menu-creator.php:656
+msgid "Add New Admin Menu"
+msgstr "Додати нове меню адміністратора"
+
+#: admin/apps/menu-creator/menu-creator.php:657
+msgid "New Admin Menu"
+msgstr "Нове меню адміністратора"
+
+#: admin/apps/menu-creator/menu-creator.php:658
+msgid "Edit Admin Menu"
+msgstr "Редагувати меню адміністратора"
+
+#: admin/apps/menu-creator/menu-creator.php:659
+msgid "View Admin Menu"
+msgstr "Переглянути меню адміністратора"
+
+#: admin/apps/menu-creator/menu-creator.php:660
+msgid "All Admin Menus"
+msgstr "Усі меню адміністратора"
+
+#: admin/apps/menu-creator/menu-creator.php:661
+msgid "Search Admin Menus"
+msgstr "Пошук у меню адміністратора"
+
+#: admin/apps/menu-creator/menu-creator.php:662
+msgid "No Admin Menus found."
+msgstr "Меню адміністратора не знайдено."
+
+#: admin/apps/menu-creator/menu-creator.php:663
+msgid "No Admin Menus found in Trash."
+msgstr "У кошику не знайдено меню адміністратора."
+
+#: admin/apps/menu-creator/menu-creator.php:759
+msgid "Status Updated"
+msgstr "Статус Оновлено"
+
+#: admin/apps/menu-creator/menu-creator.php:783
+msgid "You don't have permission to delete this"
+msgstr "У вас немає дозволу видалити це"
+
+#: admin/apps/menu-creator/menu-creator.php:791
+msgid "Unable to delete menu"
+msgstr "Не вдається видалити меню"
+
+#: admin/apps/menu-creator/menu-creator.php:796
+msgid "Menu deleted"
+msgstr "Меню видалено"
+
+#: admin/apps/menu-creator/menu-creator.php:820
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "Не вдається скопіювати меню, меню пошкоджене"
+
+#: admin/apps/menu-creator/menu-creator.php:826
+msgid "(copy)"
+msgstr "(копія)"
+
+#: admin/apps/menu-creator/menu-creator.php:834
+msgid "Unable to duplicate menu"
+msgstr "Не вдається скопіювати меню"
+
+#: admin/apps/menu-creator/menu-creator.php:844
+msgid "Menu duplicated"
+msgstr "Меню дублюється"
+
+#: admin/apps/menu-creator/menu-creator.php:873
+msgid "Unable to save, menu is corrupted"
+msgstr "Не вдається зберегти, меню пошкоджено"
+
+#: admin/apps/menu-creator/menu-creator.php:894
+msgid "Unable to save menu"
+msgstr "Не вдається зберегти меню"
+
+#: admin/apps/menu-creator/menu-creator.php:917
+msgid "Menu Saved"
+msgstr "Меню збережено"
+
+#: admin/apps/menu-creator/menu-creator.php:962
+#: admin/apps/users/uip-users.php:1321 admin/classes/settings.php:328
+msgid "User"
+msgstr "Користувач"
+
+#: admin/apps/menu-creator/menu-creator.php:977
+#: admin/apps/menu-creator/menu-creator.php:988
+#: admin/apps/users/uip-users.php:1285 admin/classes/settings.php:343
+#: admin/classes/settings.php:354
+msgid "Role"
+msgstr "Роль"
+
+#: admin/apps/menu-creator/menu-creator.php:995 admin/classes/settings.php:361
+msgid "Nothing found for term:"
+msgstr "За терміном нічого не знайдено:"
+
+#: admin/apps/menu-creator/menu-creator.php:1044
+#, php-format
+msgid "%s Menu Creator"
+msgstr "Творець меню %s"
+
+#: admin/apps/menu-creator/menu-creator.php:1099
+msgid "Upgrade to UiPress Pro to unlock the menu creator"
+msgstr "Оновіть до UiPress Pro, щоб розблокувати конструктор меню"
+
+#: admin/apps/menu-creator/menu-creator.php:1142
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "Схоже, ви ще не створили жодного меню адміністратора"
+
+#: admin/apps/menu-creator/menu-creator.php:1143
+msgid "Create your first admin menu"
+msgstr "Створіть своє перше меню адміністратора"
+
+#: admin/apps/menu-creator/menu-creator.php:1217
+#: admin/apps/menu-creator/menu-creator.php:1718
+#: admin/apps/users/uip-users.php:559 admin/classes/settings.php:248
+#: admin/classes/styles.php:447
+msgid "Export"
+msgstr "Експорт"
+
+#: admin/apps/menu-creator/menu-creator.php:1264
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"Конструктор меню не оптимізовано для мобільних пристроїв. Щоб отримати "
+"найкращі результати, перейдіть на більший екран"
+
+#: admin/apps/menu-creator/menu-creator.php:1279
+msgid "Menu Items"
+msgstr "Пункти меню"
+
+#: admin/apps/menu-creator/menu-creator.php:1283
+msgid "Menu Settings"
+msgstr "Налаштування меню"
+
+#: admin/apps/menu-creator/menu-creator.php:1314
+#: admin/apps/menu-creator/menu-creator.php:1315
+msgid "Menu Name"
+msgstr "Назва меню"
+
+#: admin/apps/menu-creator/menu-creator.php:1319
+msgid "Menu Applies to"
+msgstr "Меню стосується"
+
+#: admin/apps/menu-creator/menu-creator.php:1323
+msgid "Inclusive"
+msgstr "Включно"
+
+#: admin/apps/menu-creator/menu-creator.php:1327
+msgid "Exclusive"
+msgstr "Ексклюзив"
+
+#: admin/apps/menu-creator/menu-creator.php:1331
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr ""
+"У включеному режимі це меню завантажиться для всіх імен користувачів і ролей,"
+" вибраних нижче."
+
+#: admin/apps/menu-creator/menu-creator.php:1334
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"У ексклюзивному режимі це меню завантажуватиметься для кожного користувача, "
+"крім тих імен користувачів та ролей, вибраних нижче."
+
+#: admin/apps/menu-creator/menu-creator.php:1340
+msgid "Choose users or roles..."
+msgstr "Виберіть користувачів або ролі..."
+
+#: admin/apps/menu-creator/menu-creator.php:1342
+msgid "Search roles and users..."
+msgstr "Шукати ролі та користувачів..."
+
+#: admin/apps/menu-creator/menu-creator.php:1351
+msgid "Custom Items"
+msgstr "Спеціальні елементи"
+
+#: admin/apps/menu-creator/menu-creator.php:1355
+msgid "New Separator"
+msgstr "Новий роздільник"
+
+#: admin/apps/menu-creator/menu-creator.php:1358
+msgid "New Custom Link"
+msgstr "Нове користувацьке посилання"
+
+#: admin/apps/menu-creator/menu-creator.php:1363
+msgid "Available Menu Items"
+msgstr "Доступні пункти меню"
+
+#: admin/apps/menu-creator/menu-creator.php:1370
+msgid "Search menu items"
+msgstr "Пункти меню пошуку"
+
+#: admin/apps/menu-creator/menu-creator.php:1518
+msgid "Add some menu items from the left toolbar to get started"
+msgstr "Щоб почати, додайте кілька пунктів меню з лівої панелі інструментів"
+
+#: admin/apps/menu-creator/menu-creator.php:1537
+msgid "Separator"
+msgstr "Роздільник"
+
+#: admin/apps/menu-creator/menu-creator.php:1642
+msgid "Edit Menu Item"
+msgstr "Редагувати пункт меню"
+
+#: admin/apps/menu-creator/menu-creator.php:1656
+#: admin/apps/menu-creator/menu-creator.php:1657
+msgid "Link"
+msgstr "Посилання"
+
+#: admin/apps/menu-creator/menu-creator.php:1661
+msgid "Classes"
+msgstr "Заняття"
+
+#: admin/apps/menu-creator/menu-creator.php:1663
+msgid "Custom classes"
+msgstr "Спеціальні класи"
+
+#: admin/apps/menu-creator/menu-creator.php:1667
+msgid "Opens in new tab?"
+msgstr "Відкривається в новій вкладці?"
+
+#: admin/apps/menu-creator/menu-creator.php:1677
+msgid "Icon"
+msgstr "значок"
+
+#: admin/apps/menu-creator/menu-creator.php:1702
+msgid "Back to all menus"
+msgstr "Назад до всіх меню"
+
+#: admin/apps/menu-creator/menu-creator.php:1727
+msgid "Import Menu"
+msgstr "Меню імпорту"
+
+#: admin/apps/menu-creator/menu-creator.php:1736 admin/classes/settings.php:265
+msgid "Reset Settings"
+msgstr "Скинути налаштування"
+
+#: admin/apps/overview/analytics.php:74
+msgid "Analytics account removed"
+msgstr "Обліковий запис Analytics видалено"
+
+#: admin/apps/overview/analytics.php:93
+msgid "Unable to connect account"
+msgstr "Не вдається підключити обліковий запис"
+
+#: admin/apps/overview/analytics.php:106
+msgid "Analytics account connected"
+msgstr "Обліковий запис Analytics підключено"
+
+#: admin/apps/overview/analytics.php:310 admin/apps/overview/analytics.php:718
+#: admin/apps/overview/overview.php:761
+msgid "Site Users"
+msgstr "Користувачі сайту"
+
+#: admin/apps/overview/analytics.php:318 admin/apps/overview/overview.php:762
+msgid "Site Users (comparison period)"
+msgstr "Користувачі сайту (період порівняння)"
+
+#: admin/apps/overview/analytics.php:383 admin/apps/overview/analytics.php:700
+#: admin/apps/overview/overview.php:759
+msgid "Page Views"
+msgstr "Перегляди сторінки"
+
+#: admin/apps/overview/analytics.php:391
+msgid "Page Views (comparison period)"
+msgstr "Перегляди сторінки (період порівняння)"
+
+#: admin/apps/overview/analytics.php:608 admin/apps/overview/analytics.php:709
+msgid "Page Speed"
+msgstr "Швидкість сторінки"
+
+#: admin/apps/overview/analytics.php:616
+msgid "Page Speed (comparison period)"
+msgstr "Швидкість сторінки (період порівняння)"
+
+#: admin/apps/overview/analytics.php:663 admin/apps/overview/analytics.php:703
+#: admin/apps/overview/analytics.php:712 admin/apps/overview/analytics.php:721
+#: admin/apps/overview/analytics.php:730 admin/apps/overview/analytics.php:739
+#: admin/apps/overview/analytics.php:748 admin/apps/overview/analytics.php:757
+#: admin/apps/overview/analytics.php:766 admin/apps/overview/analytics.php:775
+#: admin/apps/overview/analytics.php:784 admin/apps/overview/analytics.php:793
+#: admin/apps/overview/analytics.php:802 admin/apps/overview/analytics.php:811
+#: admin/apps/overview/analytics.php:820 admin/apps/overview/analytics.php:829
+#: admin/apps/overview/analytics.php:838 admin/apps/overview/analytics.php:847
+#: admin/apps/overview/analytics.php:856 admin/apps/overview/analytics.php:865
+#: admin/apps/overview/analytics.php:874 admin/apps/overview/analytics.php:883
+msgid "Analytics"
+msgstr "Аналітика"
+
+#: admin/apps/overview/analytics.php:665
+msgid "Creates the google analytics cards for the overview page."
+msgstr "Створює картки аналітики Google для сторінки огляду."
+
+#: admin/apps/overview/analytics.php:681
+msgid "Google Analytics disabled for"
+msgstr "Google Analytics вимкнено для"
+
+#: admin/apps/overview/analytics.php:682
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr ""
+"Analytics буде вимкнено на сторінці огляду для всіх вибраних користувачів "
+"або ролей"
+
+#: admin/apps/overview/analytics.php:702
+msgid "Display website page views within the date range."
+msgstr "Відображати перегляди сторінок веб-сайту в межах діапазону дат."
+
+#: admin/apps/overview/analytics.php:711
+msgid "Display website page speed within the date range."
+msgstr "Відображати швидкість сторінки веб-сайту в межах діапазону дат."
+
+#: admin/apps/overview/analytics.php:720
+msgid "Display website users within the date range."
+msgstr "Відображати користувачів веб-сайту в межах діапазону дат."
+
+#: admin/apps/overview/analytics.php:727
+msgid "Site visits by device"
+msgstr "Відвідування сайту за пристроєм"
+
+#: admin/apps/overview/analytics.php:729
+msgid "Display site usage by device within the date range."
+msgstr "Показувати використання сайту за пристроями в межах діапазону дат."
+
+#: admin/apps/overview/analytics.php:736 admin/apps/overview/overview.php:841
+msgid "Bounce Rate"
+msgstr "Показник відмов"
+
+#: admin/apps/overview/analytics.php:738
+msgid "Display site bounce rate within the date range."
+msgstr "Показувати показник відмов сайту в межах діапазону дат."
+
+#: admin/apps/overview/analytics.php:745
+msgid "Session Duration"
+msgstr "Тривалість сеансу"
+
+#: admin/apps/overview/analytics.php:747
+msgid "Display site session duration within the date range."
+msgstr "Відображати тривалість сеансу сайту в межах діапазону дат."
+
+#: admin/apps/overview/analytics.php:754
+msgid "Visits by Country"
+msgstr "Відвідування за країнами"
+
+#: admin/apps/overview/analytics.php:756
+msgid "Displays country user data within the date range."
+msgstr "Відображає дані користувача країни в межах діапазону дат."
+
+#: admin/apps/overview/analytics.php:763
+msgid "Traffic Sources"
+msgstr "Джерела трафіку"
+
+#: admin/apps/overview/analytics.php:765
+msgid "Displays traffic source info within the date range."
+msgstr "Відображає інформацію про джерело трафіку в межах діапазону дат."
+
+#: admin/apps/overview/analytics.php:772
+msgid "Visits By Page"
+msgstr "Відвідування сторінкою"
+
+#: admin/apps/overview/analytics.php:774
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr ""
+"Відображає трафік для найбільш популярних сторінок сайту за діапазон дат."
+
+#: admin/apps/overview/analytics.php:781
+msgid "Event Count By Event Name"
+msgstr "Кількість подій за назвою події"
+
+#: admin/apps/overview/analytics.php:783
+msgid "Display list of events within the date range."
+msgstr "Показати список подій у межах діапазону дат."
+
+#: admin/apps/overview/analytics.php:790
+msgid "Sessions by channel grouping"
+msgstr "Сеанси за групуванням каналів"
+
+#: admin/apps/overview/analytics.php:792
+msgid "Display sessions by channel grouping within the date range."
+msgstr "Відображати сеанси за групуванням каналів у межах діапазону дат."
+
+#: admin/apps/overview/analytics.php:799
+msgid "User in the last 30 minutes"
+msgstr "Користувач за останні 30 хвилин"
+
+#: admin/apps/overview/analytics.php:801
+msgid "Displays active users from the last 30 minutes."
+msgstr "Показує активних користувачів за останні 30 хвилин."
+
+#: admin/apps/overview/analytics.php:808
+msgid "Engagement Rate"
+msgstr "Коефіцієнт залучення"
+
+#: admin/apps/overview/analytics.php:810
+msgid "Displays average angagement rate for date range"
+msgstr "Показує середній рівень взаємодії для діапазону дат"
+
+#: admin/apps/overview/analytics.php:817 admin/apps/overview/overview.php:783
+msgid "Site Revenue"
+msgstr "Дохід від сайту"
+
+#: admin/apps/overview/analytics.php:819
+msgid ""
+"Displays site revenue for date range. The sum of revenue from purchases, "
+"subscriptions, and advertising."
+msgstr ""
+"Показує дохід сайту за діапазон дат. Сума доходу від покупок, підписок і "
+"реклами."
+
+#: admin/apps/overview/analytics.php:826
+msgid "New vs Returning Users"
+msgstr "Нові та користувачі, які повернулися"
+
+#: admin/apps/overview/analytics.php:828
+msgid "Displays new vs returning users for the date range."
+msgstr ""
+"Відображає нових користувачів і користувачів, які повернулися за діапазон "
+"дат."
+
+#: admin/apps/overview/analytics.php:835
+msgid "Top Cities"
+msgstr "Найпопулярніші міста"
+
+#: admin/apps/overview/analytics.php:837
+msgid "Displays page views by city for the date range."
+msgstr "Відображає перегляди сторінок за містами для діапазону дат."
+
+#: admin/apps/overview/analytics.php:844 admin/apps/overview/overview.php:785
+msgid "Ecommerce Overview"
+msgstr "Огляд електронної комерції"
+
+#: admin/apps/overview/analytics.php:846
+msgid "Displays add to cart, checkout and purchase data for the date range."
+msgstr ""
+"Відображає дані про додавання в кошик, оформлення та покупки за діапазон дат."
+
+#: admin/apps/overview/analytics.php:853 admin/apps/overview/overview.php:781
+#: admin/apps/overview/overview.php:782
+msgid "Conversion Rate"
+msgstr "Обмінний курс"
+
+#: admin/apps/overview/analytics.php:855
+msgid ""
+"The percentage of active users who made their first purchase for the date "
+"range."
+msgstr ""
+"Відсоток активних користувачів, які зробили першу покупку за діапазон дат."
+
+#: admin/apps/overview/analytics.php:862
+msgid "Top Products"
+msgstr "Найпопулярніші продукти"
+
+#: admin/apps/overview/analytics.php:864
+msgid "Products with the most sales for for the date range."
+msgstr "Продукти з найбільшою кількістю продажів за діапазон дат."
+
+#: admin/apps/overview/analytics.php:871
+msgid "Conversions in the last 30 minutes"
+msgstr "Конверсії за останні 30 хвилин"
+
+#: admin/apps/overview/analytics.php:873
+msgid "Conversions logged in the last 30 minutes."
+msgstr "Конверсії, зареєстровані за останні 30 хвилин."
+
+#: admin/apps/overview/analytics.php:880
+msgid "Page Views in the last 30 minutes"
+msgstr "Перегляди сторінки за останні 30 хвилин"
+
+#: admin/apps/overview/analytics.php:882
+msgid "Page views in the last 30 minutes."
+msgstr "Перегляди сторінки за останні 30 хвилин."
+
+#: admin/apps/overview/analytics.php:1013
+msgid "Unable to fetch analytics data at this moment. Please try again later"
+msgstr ""
+"Наразі неможливо отримати аналітичні дані. Будь-ласка спробуйте пізніше"
+
+#: admin/apps/overview/overview.php:106 admin/apps/overview/overview.php:1150
+msgid "Overview"
+msgstr "Огляд"
+
+#: admin/apps/overview/overview.php:107
+msgid "Creates the overview page."
+msgstr "Створює сторінку огляду."
+
+#: admin/apps/overview/overview.php:111
+msgid "Disable Overview Page?"
+msgstr "Вимкнути сторінку огляду?"
+
+#: admin/apps/overview/overview.php:112
+msgid "Overview page will be hidden when this option is activated."
+msgstr "Сторінка огляду буде прихована, коли цю опцію буде активовано."
+
+#: admin/apps/overview/overview.php:119
+msgid "Overview Page Disabled For"
+msgstr "Сторінка огляду вимкнена для"
+
+#: admin/apps/overview/overview.php:120
+msgid "Overview Page will be disabled for any users or roles you select"
+msgstr "Сторінка огляду буде вимкнена для всіх вибраних користувачів або ролей"
+
+#: admin/apps/overview/overview.php:128
+msgid "Who can edit the overview page?"
+msgstr "Хто може редагувати сторінку огляду?"
+
+#: admin/apps/overview/overview.php:129
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If none "
+"are chosen it will fall back to administrators only"
+msgstr ""
+"Будь-яка роль або користувач, вибрані тут, зможуть редагувати сторінку "
+"огляду. Якщо жодного не буде вибрано, він повернеться лише до адміністраторів"
+
+#: admin/apps/overview/overview.php:137
+msgid "Default report start date"
+msgstr "Дата початку звіту за умовчанням"
+
+#: admin/apps/overview/overview.php:138
+msgid ""
+"By default the overview date range will start 7 days before current date. "
+"Add a number of days between 1 and 90 to change length of date range"
+msgstr ""
+"За умовчанням оглядовий діапазон дат почнеться за 7 днів до поточної дати. "
+"Щоб змінити тривалість діапазону дат, додайте кількість днів від 1 до 90"
+
+#: admin/apps/overview/overview.php:146
+msgid "Default report end date offset"
+msgstr "Зміщення дати завершення звіту за умовчанням"
+
+#: admin/apps/overview/overview.php:147
+msgid ""
+"By default the overview date range will end on the current day (0). To end "
+"the report on yesterday for example, enter 1"
+msgstr ""
+"За замовчуванням діапазон дат огляду закінчується поточного дня (0). Щоб "
+"завершити звіт за вчорашній день, наприклад, введіть 1"
+
+#: admin/apps/overview/overview.php:155
+msgid "Reporting Currency Symbol"
+msgstr "Символ валюти звітності"
+
+#: admin/apps/overview/overview.php:156
+msgid ""
+"If you are using google analytics commerce reports, enter the currency "
+"symbol your reports are in here"
+msgstr ""
+"Якщо ви використовуєте комерційні звіти Google Analytics, введіть символ "
+"валюти, у якому містяться ваші звіти"
+
+#: admin/apps/overview/overview.php:164
+msgid "Custom welcome message"
+msgstr "Персональне вітальне повідомлення"
+
+#: admin/apps/overview/overview.php:165
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr ""
+"Додайте тут власне вітальне повідомлення, яке відображатиметься на сторінці "
+"огляду"
+
+#: admin/apps/overview/overview.php:243 admin/apps/overview/overview.php:384
+#: admin/apps/overview/woocommerce.php:158
+msgid "ago"
+msgstr "тому"
+
+#: admin/apps/overview/overview.php:259 admin/apps/overview/overview.php:447
+#: admin/apps/overview/woocommerce.php:183
+#: admin/apps/overview/woocommerce.php:265
+msgid "Posts fetched"
+msgstr "Публікації отримано"
+
+#: admin/apps/overview/overview.php:267
+msgid "No posts posted during the date range."
+msgstr "Немає публікацій протягом діапазону дат."
+
+#: admin/apps/overview/overview.php:282
+msgid "Unable to save dash at this time"
+msgstr "Наразі неможливо зберегти тире"
+
+#: admin/apps/overview/overview.php:292
+msgid "Dashboard settings saved"
+msgstr "Налаштування інформаційної панелі збережено"
+
+#: admin/apps/overview/overview.php:307
+msgid "Dashboard settings reset"
+msgstr "Скидання налаштувань приладової панелі"
+
+#: admin/apps/overview/overview.php:320 admin/apps/overview/overview.php:328
+msgid "Unable to load shortcode at this time"
+msgstr "Наразі неможливо завантажити короткий код"
+
+#: admin/apps/overview/overview.php:335
+msgid "Shortcode loaded"
+msgstr "Шорткод завантажено"
+
+#: admin/apps/overview/overview.php:454
+msgid "No comments during the date range."
+msgstr "Немає коментарів протягом діапазону дат."
+
+#: admin/apps/overview/overview.php:477
+msgid "Core version"
+msgstr "Основна версія"
+
+#: admin/apps/overview/overview.php:482
+msgid "PHP version"
+msgstr "Версія PHP"
+
+#: admin/apps/overview/overview.php:487
+msgid "Active Plugins"
+msgstr "Активні плагіни"
+
+#: admin/apps/overview/overview.php:492
+msgid "Inactive Plugins"
+msgstr "Неактивні плагіни"
+
+#: admin/apps/overview/overview.php:497
+msgid "Installed Themes"
+msgstr "Встановлені теми"
+
+#: admin/apps/overview/overview.php:532
+msgid "Unable to fetch quote of the day"
+msgstr "Не вдається отримати цитату дня"
+
+#: admin/apps/overview/overview.php:570
+msgid "Passed Checks"
+msgstr "Пройшли перевірки"
+
+#: admin/apps/overview/overview.php:578
+msgid "Recommended"
+msgstr "Рекомендовано"
+
+#: admin/apps/overview/overview.php:586
+msgid "Critical"
+msgstr "Критично"
+
+#: admin/apps/overview/overview.php:597
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "Подивіться на %d елементів на"
+
+#: admin/apps/overview/overview.php:598
+msgid "Site Health screen"
+msgstr "Екран здоров'я сайту"
+
+#: admin/apps/overview/overview.php:606
+msgid "Device Visits"
+msgstr "Відвідування пристрою"
+
+#: admin/apps/overview/overview.php:693
+msgid "Card width"
+msgstr "Ширина карти"
+
+#: admin/apps/overview/overview.php:694
+msgid "Column width"
+msgstr "Ширина стовпчика"
+
+#: admin/apps/overview/overview.php:695
+msgid "Column settings"
+msgstr "Налаштування стовпців"
+
+#: admin/apps/overview/overview.php:696
+msgid "Column Size"
+msgstr "Розмір колонки"
+
+#: admin/apps/overview/overview.php:697
+msgid "Remove Card"
+msgstr "Видалити картку"
+
+#: admin/apps/overview/overview.php:698 admin/apps/overview/overview.php:799
+msgid "Delete Column"
+msgstr "Видалити стовпець"
+
+#: admin/apps/overview/overview.php:699
+msgid "In the"
+msgstr "В"
+
+#: admin/apps/overview/overview.php:700
+msgid "day range"
+msgstr "денний діапазон"
+
+#: admin/apps/overview/overview.php:701
+msgid "xxsmall (1/6)"
+msgstr "xxsmall (1/6)"
+
+#: admin/apps/overview/overview.php:702
+msgid "xsmall (1/5)"
+msgstr "xsmall (1/5)"
+
+#: admin/apps/overview/overview.php:703
+msgid "small (1/4)"
+msgstr "маленький (1/4)"
+
+#: admin/apps/overview/overview.php:704
+msgid "small medium (1/3)"
+msgstr "малий середній (1/3)"
+
+#: admin/apps/overview/overview.php:705
+msgid "medium (1/2)"
+msgstr "середній (1/2)"
+
+#: admin/apps/overview/overview.php:706
+msgid "medium large (2/3)"
+msgstr "середній великий (2/3)"
+
+#: admin/apps/overview/overview.php:707
+msgid "large (3/4)"
+msgstr "великий (3/4)"
+
+#: admin/apps/overview/overview.php:708
+msgid "xlarge (1/1)"
+msgstr "xlarge (1/1)"
+
+#: admin/apps/overview/overview.php:709
+msgid "I am an empty column. Drag cards into me."
+msgstr "Я порожня колонка. Перетягніть картки в мене."
+
+#: admin/apps/overview/overview.php:710
+msgid "Column Added"
+msgstr "Колонка додана"
+
+#: admin/apps/overview/overview.php:711
+msgid "Add card"
+msgstr "Додати картку"
+
+#: admin/apps/overview/overview.php:712
+msgid "Section added"
+msgstr "Розділ додано"
+
+#: admin/apps/overview/overview.php:713
+msgid "Search Cards"
+msgstr "Пошук карток"
+
+#: admin/apps/overview/overview.php:714
+msgid "Pro"
+msgstr "професіонал"
+
+#: admin/apps/overview/overview.php:716 admin/apps/overview/overview.php:922
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: admin/apps/overview/overview.php:717
+msgid "Video URL"
+msgstr "URL-адреса відео"
+
+#: admin/apps/overview/overview.php:718
+msgid "Embed Type"
+msgstr "Тип вставки"
+
+#: admin/apps/overview/overview.php:719
+msgid "UiPress Pro feature"
+msgstr "Функція UiPress Pro"
+
+#: admin/apps/overview/overview.php:720
+msgid "Upgrade to one of our premium plans to unlock this feature."
+msgstr ""
+"Перейдіть до одного з наших преміальних планів, щоб розблокувати цю функцію."
+
+#: admin/apps/overview/overview.php:721
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/apps/overview/overview.php:722
+msgid "Card Added"
+msgstr "Картка додана"
+
+#: admin/apps/overview/overview.php:723
+msgid "Card Background colour"
+msgstr "Колір тла картки"
+
+#: admin/apps/overview/overview.php:724
+msgid "# Hex code only (#fff)"
+msgstr "# Тільки шістнадцятковий код (#fff)"
+
+#: admin/apps/overview/overview.php:725
+msgid "Use light color for text"
+msgstr "Використовуйте світлий колір для тексту"
+
+#: admin/apps/overview/overview.php:726
+msgid "Chart Type"
+msgstr "Тип діаграми"
+
+#: admin/apps/overview/overview.php:727
+msgid "Line Chart"
+msgstr "Лінійна діаграма"
+
+#: admin/apps/overview/overview.php:728
+msgid "Bar Chart"
+msgstr "Гістограма"
+
+#: admin/apps/overview/overview.php:729
+msgid "vs previous"
+msgstr "порівняно з попереднім"
+
+#: admin/apps/overview/overview.php:730 admin/apps/overview/overview.php:829
+msgid "days"
+msgstr "днів"
+
+#: admin/apps/overview/overview.php:731
+msgid "Doughnut"
+msgstr "Пончик"
+
+#: admin/apps/overview/overview.php:732
+msgid "Polar Area"
+msgstr "Полярна область"
+
+#: admin/apps/overview/overview.php:733
+msgid "Bar"
+msgstr "Бар"
+
+#: admin/apps/overview/overview.php:734 admin/apps/overview/overview.php:741
+msgid "Horizontal Bar"
+msgstr "Горизонтальна смуга"
+
+#: admin/apps/overview/overview.php:735
+msgid "Country"
+msgstr "Країна"
+
+#: admin/apps/overview/overview.php:736
+msgid "Visits"
+msgstr "Відвідування"
+
+#: admin/apps/overview/overview.php:737
+msgid "Change"
+msgstr "Змінити"
+
+#: admin/apps/overview/overview.php:738
+msgid "No Background"
+msgstr "Без фону"
+
+#: admin/apps/overview/overview.php:739
+msgid "Hide Map"
+msgstr "Сховати карту"
+
+#: admin/apps/overview/overview.php:740
+msgid "Connect your account to use this card"
+msgstr "Підключіть свій обліковий запис, щоб використовувати цю картку"
+
+#: admin/apps/overview/overview.php:742
+msgid "Hide Chart"
+msgstr "Сховати діаграму"
+
+#: admin/apps/overview/overview.php:743
+msgid "Source"
+msgstr "Джерело"
+
+#: admin/apps/overview/overview.php:744
+msgid "Page"
+msgstr "Сторінка"
+
+#: admin/apps/overview/overview.php:745
+msgid "Product"
+msgstr "Продукт"
+
+#: admin/apps/overview/overview.php:746
+msgid "Sold"
+msgstr "Продано"
+
+#: admin/apps/overview/overview.php:747
+msgid "Value"
+msgstr "Значення"
+
+#: admin/apps/overview/overview.php:748
+msgid "WooCommerce is required to use this card"
+msgstr "Щоб використовувати цю картку, потрібно WooCommerce"
+
+#: admin/apps/overview/overview.php:749 admin/classes/uipress-app.php:1380
+msgid "Please select a valid JSON file"
+msgstr "Виберіть дійсний файл JSON"
+
+#: admin/apps/overview/overview.php:750 admin/classes/uipress-app.php:1381
+msgid "File is to big"
+msgstr "Файл дуже великий"
+
+#: admin/apps/overview/overview.php:751
+msgid "Layout Imported"
+msgstr "Макет імпортований"
+
+#: admin/apps/overview/overview.php:752
+msgid "Unable to import layout"
+msgstr "Не вдається імпортувати макет"
+
+#: admin/apps/overview/overview.php:753
+msgid "Are you sure you want to clear the current layout? There is no undo."
+msgstr "Ви впевнені, що хочете очистити поточний макет? Немає скасування."
+
+#: admin/apps/overview/overview.php:754
+msgid "Available Cards"
+msgstr "Доступні картки"
+
+#: admin/apps/overview/overview.php:755
+msgid "Event Count"
+msgstr "Кількість подій"
+
+#: admin/apps/overview/overview.php:756
+msgid "Event Name"
+msgstr "Назва події"
+
+#: admin/apps/overview/overview.php:757
+msgid "Channel"
+msgstr "канал"
+
+#: admin/apps/overview/overview.php:758
+msgid "Sessions"
+msgstr "Сесії"
+
+#: admin/apps/overview/overview.php:760
+msgid "Page Views  (comparison period)"
+msgstr "Перегляди сторінки (період порівняння)"
+
+#: admin/apps/overview/overview.php:763
+msgid "To"
+msgstr "До"
+
+#: admin/apps/overview/overview.php:764
+msgid "From"
+msgstr "Від"
+
+#: admin/apps/overview/overview.php:765
+msgid "Date Range"
+msgstr "Проміжок часу"
+
+#: admin/apps/overview/overview.php:766
+msgid "Custom Comparison Dates"
+msgstr "Спеціальні дати порівняння"
+
+#: admin/apps/overview/overview.php:767
+msgid "Apply"
+msgstr "Застосувати"
+
+#: admin/apps/overview/overview.php:768
+msgid "vs"
+msgstr "проти"
+
+#: admin/apps/overview/overview.php:769
+msgid "Custom Range"
+msgstr "Спеціальний діапазон"
+
+#: admin/apps/overview/overview.php:770 admin/classes/uipress-app.php:1397
+msgid "Today"
+msgstr "Сьогодні"
+
+#: admin/apps/overview/overview.php:771 admin/classes/uipress-app.php:1398
+msgid "Yesterday"
+msgstr "Вчора"
+
+#: admin/apps/overview/overview.php:772
+msgid "Last 7 days"
+msgstr "Останні 7 днів"
+
+#: admin/apps/overview/overview.php:773
+msgid "Last 30 days"
+msgstr "Останні 30 днів"
+
+#: admin/apps/overview/overview.php:774
+msgid "Last 60 days"
+msgstr "Останні 60 днів"
+
+#: admin/apps/overview/overview.php:775
+msgid "Last 90 days"
+msgstr "Останні 90 днів"
+
+#: admin/apps/overview/overview.php:776 admin/classes/uipress-app.php:1395
+msgid "This Month"
+msgstr "Цього місяця"
+
+#: admin/apps/overview/overview.php:777 admin/classes/uipress-app.php:1396
+msgid "Last Month"
+msgstr "Минулого місяця"
+
+#: admin/apps/overview/overview.php:778
+msgid "Purchases"
+msgstr "Покупки"
+
+#: admin/apps/overview/overview.php:779
+msgid "Added to cart"
+msgstr "Додано в кошик"
+
+#: admin/apps/overview/overview.php:780
+msgid "Checkout started"
+msgstr "Оформлення розпочато"
+
+#: admin/apps/overview/overview.php:784
+msgid "Site Revenue (comparison)"
+msgstr "Дохід сайту (порівняння)"
+
+#: admin/apps/overview/overview.php:786
+msgid "Visits By Device"
+msgstr "Відвідування за пристроєм"
+
+#: admin/apps/overview/overview.php:787
+msgid "Device Category"
+msgstr "Категорія пристрою"
+
+#: admin/apps/overview/overview.php:788
+msgid "Active Users"
+msgstr "Активні користувачі"
+
+#: admin/apps/overview/overview.php:789 admin/apps/overview/overview.php:791
+msgid "Product Name"
+msgstr "Назва продукту"
+
+#: admin/apps/overview/overview.php:790
+msgid "Sales"
+msgstr "Продажі"
+
+#: admin/apps/overview/overview.php:792
+msgid "Quantity Sold"
+msgstr "Продана кількість"
+
+#: admin/apps/overview/overview.php:793 admin/apps/overview/overview.php:807
+msgid "Revenue"
+msgstr "Дохід"
+
+#: admin/apps/overview/overview.php:794
+msgid "Column Removed"
+msgstr "Стовпець вилучено"
+
+#: admin/apps/overview/overview.php:795
+msgid "Section Removed"
+msgstr "Розділ видалено"
+
+#: admin/apps/overview/overview.php:796
+msgid "View Plans"
+msgstr "Переглянути плани"
+
+#: admin/apps/overview/overview.php:797
+msgid "Unable to fetch analytics data, please try again later"
+msgstr "Не вдається отримати аналітичні дані. Спробуйте пізніше"
+
+#: admin/apps/overview/overview.php:798
+msgid "Column background colour"
+msgstr "Колір фону стовпця"
+
+#: admin/apps/overview/overview.php:800
+msgid "Hide card title"
+msgstr "Приховати назву картки"
+
+#: admin/apps/overview/overview.php:801 admin/apps/overview/overview.php:895
+msgid "Site Health"
+msgstr "Здоров'я сайту"
+
+#: admin/apps/overview/overview.php:802
+msgid "Conversions"
+msgstr "Конверсії"
+
+#: admin/apps/overview/overview.php:803
+msgid "This card only works with google analytics 4 accounts"
+msgstr "Ця картка працює лише з обліковими записами Google Analytics 4"
+
+#: admin/apps/overview/overview.php:804
+msgid "This card only works with universal analytics propeties."
+msgstr "Ця картка працює лише з універсальними аналітичними властивостями."
+
+#: admin/apps/overview/overview.php:805
+msgid "Orders"
+msgstr "Замовлення"
+
+#: admin/apps/overview/overview.php:806
+msgid "Orders (comparison period)."
+msgstr "Замовлення (період порівняння)."
+
+#: admin/apps/overview/overview.php:808
+msgid "Revenue (comparison period)."
+msgstr "Дохід (період порівняння)."
+
+#: admin/apps/overview/overview.php:809
+msgid "Current Period"
+msgstr "Поточний період"
+
+#: admin/apps/overview/overview.php:810
+msgid "Comparison Period"
+msgstr "Період порівняння"
+
+#: admin/apps/overview/overview.php:811
+msgid "Match Card Height"
+msgstr "Висота карти матчу"
+
+#: admin/apps/overview/overview.php:813
+msgid "What would you like to do?"
+msgstr "Чим би ти хотів зайнятись?"
+
+#: admin/apps/overview/overview.php:814
+msgid "To do"
+msgstr "Зробити"
+
+#: admin/apps/overview/overview.php:815
+msgid "Done"
+msgstr "Готово"
+
+#: admin/apps/overview/overview.php:816
+msgid "Size"
+msgstr "Розмір"
+
+#: admin/apps/overview/overview.php:817
+msgid "Background Colour"
+msgstr "Колір фону"
+
+#: admin/apps/overview/overview.php:818
+msgid "Custom CSS class"
+msgstr "Спеціальний клас CSS"
+
+#: admin/apps/overview/overview.php:819
+msgid "Add New Card"
+msgstr "Додати нову картку"
+
+#: admin/apps/overview/overview.php:820 admin/apps/overview/overview.php:1249
+#: admin/classes/settings.php:78 admin/classes/settings.php:91
+#: admin/classes/settings.php:226 admin/classes/uipress-app.php:1406
+msgid "Settings"
+msgstr "Налаштування"
+
+#: admin/apps/overview/overview.php:821
+msgid "Card Settings"
+msgstr "Налаштування картки"
+
+#: admin/apps/overview/overview.php:822
+msgid "Move Column Down"
+msgstr "Перемістити стовпець вниз"
+
+#: admin/apps/overview/overview.php:823
+msgid "Move Column Up"
+msgstr "Перемістити стовпець вгору"
+
+#: admin/apps/overview/overview.php:824
+msgid "Add new column"
+msgstr "Додати новий стовпець"
+
+#: admin/apps/overview/overview.php:825
+msgid "Section Settings"
+msgstr "Налаштування розділу"
+
+#: admin/apps/overview/overview.php:826
+msgid "Toggle section visibility"
+msgstr "Увімкнути видимість розділу"
+
+#: admin/apps/overview/overview.php:827
+msgid "Page Settings"
+msgstr "Параметри сторінки"
+
+#: admin/apps/overview/overview.php:828
+msgid "In the last"
+msgstr "В останній"
+
+#: admin/apps/overview/overview.php:830 admin/apps/users/uip-users-ajax.php:662
+msgid "Something has gone wrong"
+msgstr "Щось пішло не так"
+
+#: admin/apps/overview/overview.php:831
+msgid "Connect your matomo site to use this card"
+msgstr "Підключіть свій сайт matomo, щоб використовувати цю картку"
+
+#: admin/apps/overview/overview.php:832
+msgid "Connect Matomo Analytics"
+msgstr "Підключіть Matomo Analytics"
+
+#: admin/apps/overview/overview.php:833
+msgid "Auth Token"
+msgstr "Маркер авторизації"
+
+#: admin/apps/overview/overview.php:834
+msgid "Matomo Url"
+msgstr "Matomo Url"
+
+#: admin/apps/overview/overview.php:835
+msgid "Matomo Site ID"
+msgstr "Ідентифікатор сайту Matomo"
+
+#: admin/apps/overview/overview.php:837
+msgid "Click below to change matomo account"
+msgstr "Натисніть нижче, щоб змінити обліковий запис matomo"
+
+#: admin/apps/overview/overview.php:838
+msgid "Change account"
+msgstr "Змінити обліковий запис"
+
+#: admin/apps/overview/overview.php:839
+msgid "City"
+msgstr "Місто"
+
+#: admin/apps/overview/overview.php:840
+msgid "Average Page Load"
+msgstr "Середнє завантаження сторінки"
+
+#: admin/apps/overview/overview.php:842
+msgid "Exit Rate"
+msgstr "Швидкість виходу"
+
+#: admin/apps/overview/overview.php:843
+msgid "Average Time On Page"
+msgstr "Середній час перебування на сторінці"
+
+#: admin/apps/overview/overview.php:844
+msgid "Referer"
+msgstr "Референт"
+
+#: admin/apps/overview/overview.php:845
+msgid "Section name"
+msgstr "Назва розділу"
+
+#: admin/apps/overview/overview.php:846
+msgid "Section description"
+msgstr "Опис розділу"
+
+#: admin/apps/overview/overview.php:868
+msgid "Recently Published"
+msgstr "Нещодавно опубліковано"
+
+#: admin/apps/overview/overview.php:870
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr ""
+"Відображати публікації, сторінки та CPT, опубліковані в межах діапазону дат."
+
+#: admin/apps/overview/overview.php:871 admin/apps/overview/overview.php:880
+#: admin/apps/overview/overview.php:889 admin/apps/overview/overview.php:898
+#: admin/apps/overview/overview.php:907 admin/apps/overview/overview.php:916
+#: admin/apps/overview/overview.php:925 admin/apps/overview/overview.php:934
+#: admin/apps/overview/overview.php:943 admin/apps/overview/overview.php:952
+#: admin/classes/uipress-app.php:2526
+msgid "General"
+msgstr "Генеральний"
+
+#: admin/apps/overview/overview.php:877
+msgid "Recent Comments"
+msgstr "недавні коментарі"
+
+#: admin/apps/overview/overview.php:879
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr ""
+"Відображає загальну кількість коментарів та останні коментарі, опубліковані "
+"в межах діапазону дат."
+
+#: admin/apps/overview/overview.php:886
+msgid "System Info"
+msgstr "Інформація про систему"
+
+#: admin/apps/overview/overview.php:888
+msgid "Displays info our about your cms and server setup."
+msgstr "Відображає нашу інформацію про ваш CMS та налаштування сервера."
+
+#: admin/apps/overview/overview.php:897
+msgid "Displays info our about your sites health."
+msgstr "Відображає інформацію про стан ваших сайтів."
+
+#: admin/apps/overview/overview.php:906
+msgid "Displays current time and date"
+msgstr "Відображає поточний час і дату"
+
+#: admin/apps/overview/overview.php:913
+msgid "Video"
+msgstr "Відео"
+
+#: admin/apps/overview/overview.php:915
+msgid "Displays a custom video"
+msgstr "Відображення спеціального відео"
+
+#: admin/apps/overview/overview.php:924
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "Виводить шорткод WordPress на картку"
+
+#: admin/apps/overview/overview.php:931
+msgid "Custom HTML"
+msgstr "Користувацький HTML"
+
+#: admin/apps/overview/overview.php:933
+msgid "Outputs custom HTML to the card"
+msgstr "Виводить власний HTML на картку"
+
+#: admin/apps/overview/overview.php:940
+msgid "Quote of the day"
+msgstr "Цитата дня"
+
+#: admin/apps/overview/overview.php:942
+msgid "Shows a random quote of the day"
+msgstr "Показує випадкову цитату дня"
+
+#: admin/apps/overview/overview.php:949
+msgid "To do list"
+msgstr "Список справ"
+
+#: admin/apps/overview/overview.php:951
+msgid "A simple todo list card"
+msgstr "Проста картка зі списком справ"
+
+#: admin/apps/overview/overview.php:1038
+msgid "Hello"
+msgstr "Привіт"
+
+#: admin/apps/overview/overview.php:1187
+msgid "Clear Layout"
+msgstr "Очистити макет"
+
+#: admin/apps/overview/overview.php:1191 admin/apps/overview/overview.php:1234
+msgid "New Section"
+msgstr "Новий розділ"
+
+#: admin/apps/overview/overview.php:1196 admin/apps/overview/overview.php:1237
+msgid "Save changes"
+msgstr "Зберегти зміни"
+
+#: admin/apps/overview/overview.php:1240
+msgid "Exit edit mode"
+msgstr "Вийти з режиму редагування"
+
+#: admin/apps/overview/overview.php:1253
+msgid "Editing Mode"
+msgstr "Режим редагування"
+
+#: admin/apps/overview/overview.php:1265
+msgid "Disconnect Analytics"
+msgstr "Відключити Analytics"
+
+#: admin/apps/overview/overview.php:1275
+msgid "Export Layout"
+msgstr "Макет експорту"
+
+#: admin/apps/overview/overview.php:1284
+msgid "Import Layout"
+msgstr "Імпортувати макет"
+
+#: admin/apps/overview/overview.php:1298 admin/classes/settings.php:258
+#: admin/classes/styles.php:457
+msgid "Unlock Export and Import features with pro"
+msgstr "Розблокуйте функції експорту та імпорту за допомогою Pro"
+
+#: admin/apps/overview/overview.php:1321
+msgid "Home"
+msgstr "Додому"
+
+#: admin/apps/overview/overview.php:1369
+msgid "It's a little quiet around here"
+msgstr "Тут трохи тихо"
+
+#: admin/apps/overview/overview.php:1371
+msgid ""
+"Looks like you haven't created a dashboard yet. Enter edit mode to get "
+"started or import a default template"
+msgstr ""
+"Схоже, ви ще не створили інформаційну панель. Увійдіть в режим редагування, "
+"щоб почати, або імпортуйте шаблон за замовчуванням"
+
+#: admin/apps/overview/overview.php:1374
+msgid "Import default template"
+msgstr "Імпортувати шаблон за замовчуванням"
+
+#: admin/apps/overview/overview.php:1375
+msgid "Enter edit mode"
+msgstr "Увійдіть в режим редагування"
+
+#: admin/apps/overview/overview.php:1419
+msgid "Match Column Height"
+msgstr "Висота стовпця відповідати"
+
+#: admin/apps/overview/overview.php:1427
+msgid "Hide section title"
+msgstr "Приховати назву розділу"
+
+#: admin/apps/overview/overview.php:1435
+msgid "Section Width"
+msgstr "Ширина розділу"
+
+#: admin/apps/overview/overview.php:1452
+msgid "Remove Section"
+msgstr "Видалити розділ"
+
+#: admin/apps/overview/woocommerce.php:46
+#: admin/apps/overview/woocommerce.php:125
+#: admin/apps/overview/woocommerce.php:203
+msgid "Woocommerce is required for this widget"
+msgstr "Для цього віджета потрібен Woocommerce"
+
+#: admin/apps/overview/woocommerce.php:74
+msgid "Total Revenue"
+msgstr "Загальна виручка"
+
+#: admin/apps/overview/woocommerce.php:76
+msgid "Display total sales revenue in your store within the date range."
+msgstr ""
+"Показуйте загальний дохід від продажів у вашому магазині за діапазон дат."
+
+#: admin/apps/overview/woocommerce.php:77
+#: admin/apps/overview/woocommerce.php:86
+#: admin/apps/overview/woocommerce.php:95
+#: admin/apps/overview/woocommerce.php:104
+#: admin/apps/overview/woocommerce.php:113
+msgid "Commerce"
+msgstr "комерція"
+
+#: admin/apps/overview/woocommerce.php:83
+msgid "Total Orders"
+msgstr "Загальна кількість замовлень"
+
+#: admin/apps/overview/woocommerce.php:85
+msgid "Display total orders in your store within the date range."
+msgstr ""
+"Показуйте загальну кількість замовлень у вашому магазині за діапазон дат."
+
+#: admin/apps/overview/woocommerce.php:92
+msgid "Average Order Value"
+msgstr "Середня вартість замовлення"
+
+#: admin/apps/overview/woocommerce.php:94
+msgid "Display average order value in your store within the date range."
+msgstr ""
+"Показуйте середню вартість замовлення у вашому магазині в межах діапазону "
+"дат."
+
+#: admin/apps/overview/woocommerce.php:101
+msgid "Recent Orders"
+msgstr "Останні замовлення"
+
+#: admin/apps/overview/woocommerce.php:103
+msgid "Display recent orders from your store within the date range."
+msgstr "Показуйте останні замовлення з вашого магазину в межах діапазону дат."
+
+#: admin/apps/overview/woocommerce.php:110
+msgid "Popular Products"
+msgstr "Популярні продукти"
+
+#: admin/apps/overview/woocommerce.php:112
+msgid "Display top selling products from your store within the date range."
+msgstr "Показуйте найпопулярніші продукти з вашого магазину за діапазон дат."
+
+#: admin/apps/overview/woocommerce.php:191
+msgid "No orders during the date range."
+msgstr "Немає замовлень протягом діапазону дат."
+
+#: admin/apps/overview/woocommerce.php:272
+msgid "No products sold during the date range."
+msgstr "Протягом діапазону дат не продано жодного товару."
+
+#: admin/apps/users/uip-history.php:132
+msgid "Once every 1 minutes"
+msgstr "Раз на 1 хвилину"
+
+#: admin/apps/users/uip-history.php:145
+msgctxt "post type general name"
+msgid "History"
+msgstr "Історія"
+
+#: admin/apps/users/uip-history.php:146
+msgctxt "post type singular name"
+msgid "history"
+msgstr "історії"
+
+#: admin/apps/users/uip-history.php:147
+msgctxt "admin menu"
+msgid "History"
+msgstr "Історія"
+
+#: admin/apps/users/uip-history.php:148
+msgctxt "add new on admin bar"
+msgid "History"
+msgstr "Історія"
+
+#: admin/apps/users/uip-history.php:149
+msgctxt "history"
+msgid "Add New"
+msgstr "Додати новий"
+
+#: admin/apps/users/uip-history.php:150
+msgid "Add New History"
+msgstr "Додати нову історію"
+
+#: admin/apps/users/uip-history.php:151
+msgid "New History"
+msgstr "Нова історія"
+
+#: admin/apps/users/uip-history.php:152
+msgid "Edit History"
+msgstr "Редагувати історію"
+
+#: admin/apps/users/uip-history.php:153
+msgid "View History"
+msgstr "Переглянути історію"
+
+#: admin/apps/users/uip-history.php:154
+msgid "All History"
+msgstr "Вся історія"
+
+#: admin/apps/users/uip-history.php:155
+msgid "Search History"
+msgstr "Історія пошуку"
+
+#: admin/apps/users/uip-history.php:156
+msgid "No History found."
+msgstr "Історія не знайдена."
+
+#: admin/apps/users/uip-history.php:157
+msgid "No History found in Trash."
+msgstr "У кошику історії не знайдено."
+
+#: admin/apps/users/uip-user-groups.php:41
+msgctxt "post type general name"
+msgid "Group"
+msgstr "Група"
+
+#: admin/apps/users/uip-user-groups.php:42
+msgctxt "post type singular name"
+msgid "Group"
+msgstr "Група"
+
+#: admin/apps/users/uip-user-groups.php:43
+msgctxt "admin menu"
+msgid "Groups"
+msgstr "Групи"
+
+#: admin/apps/users/uip-user-groups.php:44
+msgctxt "add new on admin bar"
+msgid "Group"
+msgstr "Група"
+
+#: admin/apps/users/uip-user-groups.php:45
+msgctxt "Group"
+msgid "Add New"
+msgstr "Додати новий"
+
+#: admin/apps/users/uip-user-groups.php:46
+#: admin/apps/users/uip-user-groups.php:57
+msgid "Add New Group"
+msgstr "Додати нову групу"
+
+#: admin/apps/users/uip-user-groups.php:47
+msgid "New Group"
+msgstr "Нова група"
+
+#: admin/apps/users/uip-user-groups.php:48
+msgid "Edit Group"
+msgstr "Редагувати групу"
+
+#: admin/apps/users/uip-user-groups.php:49
+msgid "View Group"
+msgstr "Переглянути групу"
+
+#: admin/apps/users/uip-user-groups.php:50
+msgid "All Groups"
+msgstr "Усі групи"
+
+#: admin/apps/users/uip-user-groups.php:51
+msgid "Search Groups"
+msgstr "Пошук у групах"
+
+#: admin/apps/users/uip-user-groups.php:52
+msgid "No Groups found."
+msgstr "Груп не знайдено."
+
+#: admin/apps/users/uip-user-groups.php:53
+msgid "No Groups found in Trash."
+msgstr "У кошику не знайдено жодної групи."
+
+#: admin/apps/users/uip-user-groups.php:80
+msgid "No group to delete"
+msgstr "Немає групи для видалення"
+
+#: admin/apps/users/uip-user-groups.php:90
+msgid "Unable to delete the group"
+msgstr "Не вдається видалити групу"
+
+#: admin/apps/users/uip-user-groups.php:147
+msgid "Group deleted"
+msgstr "Групу видалено"
+
+#: admin/apps/users/uip-user-groups.php:166
+msgid "Unable to move folder group itself"
+msgstr "Неможливо перемістити саму групу папок"
+
+#: admin/apps/users/uip-user-groups.php:180
+msgid "Unable to move group"
+msgstr "Неможливо перемістити групу"
+
+#: admin/apps/users/uip-user-groups.php:208
+msgid "Group moved"
+msgstr "Група переїхала"
+
+#: admin/apps/users/uip-user-groups.php:227
+msgid "No item to move"
+msgstr "Немає предметів для переміщення"
+
+#: admin/apps/users/uip-user-groups.php:241
+msgid "Item moved"
+msgstr "Елемент переміщено"
+
+#: admin/apps/users/uip-user-groups.php:259
+msgid "No users to move"
+msgstr "Немає користувачів для переміщення"
+
+#: admin/apps/users/uip-user-groups.php:277
+msgid "User moved"
+msgstr "Користувача переміщено"
+
+#: admin/apps/users/uip-user-groups.php:318
+msgid "Group updated"
+msgstr "Група оновлена"
+
+#: admin/apps/users/uip-user-groups.php:339 admin/classes/folders.php:557
+msgid "Title is required"
+msgstr "Заголовок обов’язковий"
+
+#: admin/apps/users/uip-user-groups.php:345 admin/classes/folders.php:563
+msgid "Colour is required"
+msgstr "Колір обов’язковий"
+
+#: admin/apps/users/uip-user-groups.php:360
+msgid "Unable to create group"
+msgstr "Не вдається створити групу"
+
+#: admin/apps/users/uip-user-groups.php:372
+msgid "Group created"
+msgstr "Група створена"
+
+#: admin/apps/users/uip-users-ajax.php:415
+msgid "Unknown"
+msgstr "Невідомо"
+
+#: admin/apps/users/uip-users-ajax.php:511
+#: admin/apps/users/uip-users-ajax.php:577
+msgid "You don't have sufficent priviledges to edit users"
+msgstr "У вас недостатньо прав для редагування користувачів"
+
+#: admin/apps/users/uip-users-ajax.php:517
+#: admin/apps/users/uip-users-ajax.php:1023
+msgid "Email is not valid"
+msgstr "Електронна адреса недійсна"
+
+#: admin/apps/users/uip-users-ajax.php:528
+#: admin/apps/users/uip-users-ajax.php:1016
+msgid "Email already exists"
+msgstr "E-mail вже існує"
+
+#: admin/apps/users/uip-users-ajax.php:557
+#: admin/apps/users/uip-users-ajax.php:1069
+msgid "User saved"
+msgstr "Користувача збережено"
+
+#: admin/apps/users/uip-users-ajax.php:583
+msgid "No users sent to update"
+msgstr "Немає користувачів, надісланих для оновлення"
+
+#: admin/apps/users/uip-users-ajax.php:589
+msgid "No roles sent to update"
+msgstr "Немає ролей, надісланих для оновлення"
+
+#: admin/apps/users/uip-users-ajax.php:610
+msgid "User roles updated"
+msgstr "Ролі користувачів оновлено"
+
+#: admin/apps/users/uip-users-ajax.php:630
+#: admin/apps/users/uip-users-ajax.php:716
+#: admin/apps/users/uip-users-ajax.php:777
+#: admin/apps/users/uip-users-ajax.php:818
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr "Ви не маєте достатніх привілеїв, щоб керувати ролями"
+
+#: admin/apps/users/uip-users-ajax.php:636
+msgid "Original role name required"
+msgstr "Потрібна оригінальна назва ролі"
+
+#: admin/apps/users/uip-users-ajax.php:642
+#: admin/apps/users/uip-users-ajax.php:722
+#: admin/apps/users/uip-users-ajax.php:783
+#: admin/apps/users/uip-users-ajax.php:836
+#: admin/apps/users/uip-users-ajax.php:879
+#: admin/apps/users/uip-users-ajax.php:885
+#: admin/apps/users/uip-users-ajax.php:944
+#: admin/apps/users/uip-users-ajax.php:950
+msgid "Role name is required"
+msgstr "Укажіть назву ролі"
+
+#: admin/apps/users/uip-users-ajax.php:667
+msgid "Role saved"
+msgstr "Роль збережено"
+
+#: admin/apps/users/uip-users-ajax.php:686
+msgid "You don't have sufficent priviledges to do this"
+msgstr "Ви не маєте достатніх привілеїв для цього"
+
+#: admin/apps/users/uip-users-ajax.php:697
+msgid "User logged out everywhere"
+msgstr "Користувач скрізь вийшов із системи"
+
+#: admin/apps/users/uip-users-ajax.php:728
+msgid "Role label cannot contain spaces"
+msgstr "Мітка ролі не може містити пробіли"
+
+#: admin/apps/users/uip-users-ajax.php:734
+msgid "Role label is required"
+msgstr "Мітка ролі обов’язкова"
+
+#: admin/apps/users/uip-users-ajax.php:753
+msgid "Unable to add role. Make sure role name is unique"
+msgstr "Не вдається додати роль. Переконайтеся, що назва ролі унікальна"
+
+#: admin/apps/users/uip-users-ajax.php:758
+msgid "Role created"
+msgstr "Роль створена"
+
+#: admin/apps/users/uip-users-ajax.php:792
+#: admin/apps/users/uip-users-ajax.php:843
+msgid "You can't delete a role that is currently assigned to yourself"
+msgstr "Ви не можете видалити роль, яка наразі призначена вам"
+
+#: admin/apps/users/uip-users-ajax.php:799
+msgid "Role deleted"
+msgstr "Роль видалена"
+
+#: admin/apps/users/uip-users-ajax.php:824
+msgid "No roles to delete"
+msgstr "Немає ролей для видалення"
+
+#: admin/apps/users/uip-users-ajax.php:852
+msgid "Roles deleted"
+msgstr "Ролі видалено"
+
+#: admin/apps/users/uip-users-ajax.php:873
+msgid "You don't have sufficent priviledges to add this capability"
+msgstr "Ви не маєте достатніх привілеїв, щоб додати цю можливість"
+
+#: admin/apps/users/uip-users-ajax.php:891
+#: admin/apps/users/uip-users-ajax.php:956
+msgid "Role name cannot contain spaces"
+msgstr "Назва ролі не може містити пробіли"
+
+#: admin/apps/users/uip-users-ajax.php:897
+msgid "Capability name cannot contain spaces"
+msgstr "Назва можливості не може містити пробіли"
+
+#: admin/apps/users/uip-users-ajax.php:912
+msgid "Unable to add capability. Make sure role name is unique"
+msgstr "Неможливо додати можливості. Переконайтеся, що назва ролі унікальна"
+
+#: admin/apps/users/uip-users-ajax.php:917
+msgid "Capability added"
+msgstr "Можливості додані"
+
+#: admin/apps/users/uip-users-ajax.php:938
+msgid "You don't have sufficent priviledges to delete this capability"
+msgstr "У вас недостатньо привілеїв, щоб видалити цю можливість"
+
+#: admin/apps/users/uip-users-ajax.php:971
+msgid "Unable to delete capability. Make sure role name is unique"
+msgstr ""
+"Не вдається видалити можливість. Переконайтеся, що назва ролі унікальна"
+
+#: admin/apps/users/uip-users-ajax.php:976
+msgid "Capability deleted"
+msgstr "Можливість видалено"
+
+#: admin/apps/users/uip-users-ajax.php:996
+msgid "You don't have sufficent priviledges to create users"
+msgstr "У вас недостатньо привілеїв для створення користувачів"
+
+#: admin/apps/users/uip-users-ajax.php:1003
+msgid "Username already exists"
+msgstr "Ім'я користувача вже існує"
+
+#: admin/apps/users/uip-users-ajax.php:1009
+msgid "Username is not valid"
+msgstr "Ім'я користувача недійсне"
+
+#: admin/apps/users/uip-users-ajax.php:1029
+msgid "Password is required"
+msgstr "Потрібен пароль"
+
+#: admin/apps/users/uip-users-ajax.php:1088
+#: admin/apps/users/uip-users-ajax.php:1127
+msgid "You don't have sufficent priviledges to edit this user"
+msgstr "У вас недостатньо прав для редагування цього користувача"
+
+#: admin/apps/users/uip-users-ajax.php:1097
+msgid "Password reset link sent"
+msgstr "Посилання для скидання пароля надіслано"
+
+#: admin/apps/users/uip-users-ajax.php:1101
+msgid "Unable to send password reset email at the moment"
+msgstr "Наразі неможливо надіслати електронний лист для відновлення пароля"
+
+#: admin/apps/users/uip-users-ajax.php:1121
+msgid "No users sent to reset passwords!"
+msgstr "Немає користувачів, надісланих для скидання паролів!"
+
+#: admin/apps/users/uip-users-ajax.php:1141
+msgid "Unable to send password reset email"
+msgstr "Не вдається надіслати електронний лист для відновлення пароля"
+
+#: admin/apps/users/uip-users-ajax.php:1142
+#: admin/apps/users/uip-users-ajax.php:1315
+#: admin/apps/users/uip-users-ajax.php:1325
+#, php-format
+msgid "User ID: %s"
+msgstr "Ідентифікатор користувача: %s"
+
+#: admin/apps/users/uip-users-ajax.php:1148
+msgid "Password reset links succesfully sent"
+msgstr "Посилання для скидання пароля успішно надіслано"
+
+#: admin/apps/users/uip-users-ajax.php:1173
+msgid "Subject is required"
+msgstr "Тема обов’язкова"
+
+#: admin/apps/users/uip-users-ajax.php:1179
+msgid "Reply to email is required"
+msgstr "Відповідь на електронну пошту обов’язкова"
+
+#: admin/apps/users/uip-users-ajax.php:1185
+msgid "Message is required"
+msgstr "Повідомлення потрібне"
+
+#: admin/apps/users/uip-users-ajax.php:1200
+msgid "No email to send message to."
+msgstr "Немає електронної пошти, на яку можна надіслати повідомлення."
+
+#: admin/apps/users/uip-users-ajax.php:1232
+msgid "Unable to send mail at this time"
+msgstr "Наразі неможливо надіслати пошту"
+
+#: admin/apps/users/uip-users-ajax.php:1237
+msgid "Message sent"
+msgstr "Повідомлення надіслано"
+
+#: admin/apps/users/uip-users-ajax.php:1261
+msgid "You can't delete yourself!"
+msgstr "Ви не можете видалити себе!"
+
+#: admin/apps/users/uip-users-ajax.php:1270
+msgid "User successfully deleted"
+msgstr "Користувача успішно видалено"
+
+#: admin/apps/users/uip-users-ajax.php:1274
+#: admin/apps/users/uip-users-ajax.php:1279
+#: admin/apps/users/uip-users-ajax.php:1305
+msgid "You don't have sufficent priviledges to delete this user"
+msgstr "У вас недостатньо прав, щоб видалити цього користувача"
+
+#: admin/apps/users/uip-users-ajax.php:1299
+msgid "No users sent to delete!"
+msgstr "Немає користувачів, надісланих для видалення!"
+
+#: admin/apps/users/uip-users-ajax.php:1314
+msgid "You can't delete yourself"
+msgstr "Ви не можете видалити себе"
+
+#: admin/apps/users/uip-users-ajax.php:1324
+msgid "Unable to delete this user"
+msgstr "Неможливо видалити цього користувача"
+
+#: admin/apps/users/uip-users-ajax.php:1331
+msgid "Users successfully deleted"
+msgstr "Користувачів успішно видалено"
+
+#: admin/apps/users/uip-users.php:53 admin/apps/users/uip-users.php:266
+#: admin/apps/users/uip-users.php:377 admin/apps/users/uip-users.php:1291
+msgid "Users"
+msgstr "Користувачі"
+
+#: admin/apps/users/uip-users.php:54
+msgid "Creates user management page"
+msgstr "Створює сторінку керування користувачами"
+
+#: admin/apps/users/uip-users.php:58
+msgid "Disable Users Page?"
+msgstr "Вимкнути сторінку користувачів?"
+
+#: admin/apps/users/uip-users.php:59
+msgid ""
+"If disabled, the user management page will not be available to any users."
+msgstr ""
+"Якщо вимкнено, сторінка керування користувачами не буде доступна для жодного "
+"користувача."
+
+#: admin/apps/users/uip-users.php:66
+msgid "User management page Disabled for"
+msgstr "Сторінка керування користувачами Вимкнена для"
+
+#: admin/apps/users/uip-users.php:67
+msgid ""
+"When the user management page module is disabled, the user management page "
+"will not be accesible for the users / roles"
+msgstr ""
+"Коли модуль сторінки керування користувачами вимкнено, сторінка керування "
+"користувачами не буде доступною для користувачів/ролей"
+
+#: admin/apps/users/uip-users.php:75
+msgid "Enable user activity log?"
+msgstr "Увімкнути журнал активності користувача?"
+
+#: admin/apps/users/uip-users.php:76
+msgid ""
+"If enabled, uipress will log actions taken by all users, including page "
+"views, comments, post creation etc."
+msgstr ""
+"Якщо ввімкнено, uipress реєструватиме дії всіх користувачів, включаючи "
+"перегляди сторінок, коментарі, створення публікацій тощо."
+
+#: admin/apps/users/uip-users.php:84
+msgid "Disable page view logging"
+msgstr "Вимкнути журнал перегляду сторінок"
+
+#: admin/apps/users/uip-users.php:87
+#, php-format
+msgid ""
+"By Default, %s will track page views for logged in users as part of the "
+"activity log. While sometimes useful, this will have the biggest impact on "
+"the log size in the database. Disabling this feature will keep the log "
+"smaller."
+msgstr ""
+"За замовчуванням %s відстежуватиме перегляди сторінок для користувачів, які "
+"ввійшли в систему, як частину журналу активності. Хоча іноді це корисно, це "
+"матиме найбільший вплив на розмір журналу в базі даних. Якщо вимкнути цю "
+"функцію, журнал буде меншим."
+
+#: admin/apps/users/uip-users.php:99
+msgid "Enable recent page view logging"
+msgstr "Увімкнути журнал останніх переглядів сторінок"
+
+#: admin/apps/users/uip-users.php:100
+#, php-format
+msgid ""
+"Seperate to the main history log, %s will keep 5 recent page views in the "
+"user meta. This can have a small impact on the page load speed."
+msgstr ""
+"Окремо від основного журналу історії %s зберігатиме 5 останніх переглядів "
+"сторінок у мета користувача. Це може незначно вплинути на швидкість "
+"завантаження сторінки."
+
+#: admin/apps/users/uip-users.php:108
+msgid "How long to keep history?"
+msgstr "Як довго зберігати історію?"
+
+#: admin/apps/users/uip-users.php:109
+msgid ""
+"By default, activity items will be deleted after 60 days, enter the amount "
+"of days to keep items to change this"
+msgstr ""
+"За замовчуванням елементи активності будуть видалені через 60 днів. Введіть "
+"кількість днів, протягом яких елементи зберігатимуться, щоб змінити це"
+
+#: admin/apps/users/uip-users.php:118
+msgid "Delay history entries?"
+msgstr "Відкласти записи історії?"
+
+#: admin/apps/users/uip-users.php:120
+msgid ""
+"Use scheduled tasks to insert the history actions to avoid any extra page "
+"load speed. By default entries are added as they happen, with this enabled "
+"there will be delay of about 10 seconds before actions appear."
+msgstr ""
+"Використовуйте заплановані завдання для вставки дій історії, щоб уникнути "
+"додаткової швидкості завантаження сторінки. За замовчуванням записи "
+"додаються в міру їх появи, якщо це ввімкнено, перед появою дій буде затримка "
+"приблизно 10 секунд."
+
+#: admin/apps/users/uip-users.php:131
+msgid "Anonymize user IP addresses?"
+msgstr "Анонімізувати IP-адреси користувачів?"
+
+#: admin/apps/users/uip-users.php:132
+msgid ""
+"Each history item logs the users IP address, enable this to anonymize the "
+"address."
+msgstr ""
+"Кожен елемент історії реєструє IP-адреси користувачів, увімкніть це, щоб "
+"анонімізувати адресу."
+
+#: admin/apps/users/uip-users.php:217 admin/apps/users/uip-users.php:218
+msgid "User Management"
+msgstr "Управління користувачами"
+
+#: admin/apps/users/uip-users.php:270 admin/apps/users/uip-users.php:328
+#: admin/apps/users/uip-users.php:1244
+msgid "Roles"
+msgstr "Ролі"
+
+#: admin/apps/users/uip-users.php:274
+msgid "Activity"
+msgstr "Діяльність"
+
+#: admin/apps/users/uip-users.php:290
+msgid "results"
+msgstr "результати"
+
+#: admin/apps/users/uip-users.php:291 admin/apps/users/uip-users.php:316
+msgid "Previous"
+msgstr "Попередній"
+
+#: admin/apps/users/uip-users.php:292 admin/apps/users/uip-users.php:315
+msgid "Next"
+msgstr "Далі"
+
+#: admin/apps/users/uip-users.php:293
+msgid "Search users"
+msgstr "Пошук користувачів"
+
+#: admin/apps/users/uip-users.php:294
+msgid "Filter by role"
+msgstr "Фільтрувати за роллю"
+
+#: admin/apps/users/uip-users.php:295
+msgid "Search roles"
+msgstr "Пошук ролей"
+
+#: admin/apps/users/uip-users.php:296
+msgid "Table options"
+msgstr "Варіанти таблиці"
+
+#: admin/apps/users/uip-users.php:297
+msgid "Order"
+msgstr "Замовити"
+
+#: admin/apps/users/uip-users.php:298
+msgid "Ascending"
+msgstr "Висхідна"
+
+#: admin/apps/users/uip-users.php:299
+msgid "Descending"
+msgstr "Спадаючий"
+
+#: admin/apps/users/uip-users.php:300
+msgid "Sort By"
+msgstr "Сортувати за"
+
+#: admin/apps/users/uip-users.php:301
+msgid "Per page"
+msgstr "На сторінку"
+
+#: admin/apps/users/uip-users.php:302
+msgid "Fields"
+msgstr "Поля"
+
+#: admin/apps/users/uip-users.php:303
+msgid "Date created"
+msgstr "Дата створення"
+
+#: admin/apps/users/uip-users.php:304
+msgid "On"
+msgstr "Увімкнено"
+
+#: admin/apps/users/uip-users.php:305
+msgid "After"
+msgstr "Після"
+
+#: admin/apps/users/uip-users.php:306
+msgid "Before"
+msgstr "Раніше"
+
+#: admin/apps/users/uip-users.php:307 admin/apps/users/uip-users.php:308
+msgid "Date filters"
+msgstr "Фільтри дати"
+
+#: admin/apps/users/uip-users.php:310
+msgid "Account created"
+msgstr "Обліковий запис створено"
+
+#: admin/apps/users/uip-users.php:312 admin/apps/users/uip-users.php:326
+#: admin/apps/users/uip-users.php:1219
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: admin/apps/users/uip-users.php:313
+msgid "Recent page views"
+msgstr "Останні перегляди сторінок"
+
+#: admin/apps/users/uip-users.php:314
+msgid "Recent activity"
+msgstr "Остання активність"
+
+#: admin/apps/users/uip-users.php:317
+msgid "Last login"
+msgstr "Останній вхід"
+
+#: admin/apps/users/uip-users.php:318
+msgid "Login location"
+msgstr "Місце входу"
+
+#: admin/apps/users/uip-users.php:319
+msgid "No recent activity"
+msgstr "Немає нещодавньої активності"
+
+#: admin/apps/users/uip-users.php:320
+msgid "Total posts"
+msgstr "Всього дописів"
+
+#: admin/apps/users/uip-users.php:321
+msgid "Total comments"
+msgstr "Всього коментарів"
+
+#: admin/apps/users/uip-users.php:322
+msgid "User Options"
+msgstr "Параметри користувача"
+
+#: admin/apps/users/uip-users.php:323 admin/apps/users/uip-users.php:332
+msgid "Edit user"
+msgstr "Редагувати користувача"
+
+#: admin/apps/users/uip-users.php:324
+msgid "First name"
+msgstr "Ім'я"
+
+#: admin/apps/users/uip-users.php:325
+msgid "Last name"
+msgstr "Прізвище"
+
+#: admin/apps/users/uip-users.php:327
+msgid "Assign roles"
+msgstr "Розподіліть ролі"
+
+#: admin/apps/users/uip-users.php:329
+msgid "User notes"
+msgstr "Примітки користувачів"
+
+#: admin/apps/users/uip-users.php:330
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: admin/apps/users/uip-users.php:331
+msgid "Update user"
+msgstr "Оновити користувача"
+
+#: admin/apps/users/uip-users.php:333
+msgid "Send password reset"
+msgstr "Надіслати скидання пароля"
+
+#: admin/apps/users/uip-users.php:334 admin/apps/users/uip-users.php:342
+msgid "Send message"
+msgstr "Відправити повідомлення"
+
+#: admin/apps/users/uip-users.php:335
+msgid "Delete user"
+msgstr "Видалити користувача"
+
+#: admin/apps/users/uip-users.php:336
+msgid "Are you sure you want to delete this user?"
+msgstr "Ви впевнені, що хочете видалити цього користувача?"
+
+#: admin/apps/users/uip-users.php:337
+msgid "Are you sure you want to the selected users?"
+msgstr "Ви впевнені, що хочете отримати доступ до вибраних користувачів?"
+
+#: admin/apps/users/uip-users.php:338
+msgid ""
+"Are you sure you want to send password reset links to the selected users?"
+msgstr ""
+"Ви впевнені, що хочете надіслати посилання для скидання пароля вибраним "
+"користувачам?"
+
+#: admin/apps/users/uip-users.php:339
+msgid "Recipient"
+msgstr "одержувач"
+
+#: admin/apps/users/uip-users.php:340
+msgid "Subject"
+msgstr "Тема"
+
+#: admin/apps/users/uip-users.php:341
+msgid "Message"
+msgstr "повідомлення"
+
+#: admin/apps/users/uip-users.php:343
+msgid "Reply to email"
+msgstr "Відповідь на електронну пошту"
+
+#: admin/apps/users/uip-users.php:344
+msgid "New user"
+msgstr "Новий користувач"
+
+#: admin/apps/users/uip-users.php:345
+msgid "Save user"
+msgstr "Зберегти користувача"
+
+#: admin/apps/users/uip-users.php:346
+msgid "Password"
+msgstr "Пароль"
+
+#: admin/apps/users/uip-users.php:347 admin/apps/users/uip-users.php:1207
+msgid "Username"
+msgstr "Ім'я користувача"
+
+#: admin/apps/users/uip-users.php:348 admin/apps/users/uip-users.php:1279
+msgid "Role name"
+msgstr "Назва ролі"
+
+#: admin/apps/users/uip-users.php:349
+msgid "Edit role"
+msgstr "Редагувати роль"
+
+#: admin/apps/users/uip-users.php:350
+msgid "Save role"
+msgstr "Зберегти роль"
+
+#: admin/apps/users/uip-users.php:351
+msgid "Capabilities"
+msgstr "Можливості"
+
+#: admin/apps/users/uip-users.php:353
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"Зараз ви редагуєте роль адміністратора. Зазвичай це найважливіша роль на "
+"сайті, тому будь ласка, переконайтеся, що не видаляєте необхідні можливості."
+
+#: admin/apps/users/uip-users.php:356
+msgid "Delete role"
+msgstr "Видалити роль"
+
+#: admin/apps/users/uip-users.php:357
+msgid "Are you sure you want to delete this role?"
+msgstr "Ви впевнені, що хочете видалити цю роль?"
+
+#: admin/apps/users/uip-users.php:358
+msgid "Are you sure you want to delete these roles?"
+msgstr "Ви впевнені, що хочете видалити ці ролі?"
+
+#: admin/apps/users/uip-users.php:359
+msgid "Role options"
+msgstr "Варіанти ролей"
+
+#: admin/apps/users/uip-users.php:360
+msgid "Clone"
+msgstr "Клон"
+
+#: admin/apps/users/uip-users.php:361
+msgid "New role"
+msgstr "Нова роль"
+
+#: admin/apps/users/uip-users.php:362
+msgid "Role label"
+msgstr "Мітка ролі"
+
+#: admin/apps/users/uip-users.php:363
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "Одне слово, без пробілів. Дозволено підкреслення та тире"
+
+#: admin/apps/users/uip-users.php:364
+msgid "copy"
+msgstr "копія"
+
+#: admin/apps/users/uip-users.php:365
+msgid "search roles"
+msgstr "пошук ролей"
+
+#: admin/apps/users/uip-users.php:366
+msgid "Search history"
+msgstr "Історія пошуку"
+
+#: admin/apps/users/uip-users.php:367
+msgid "All actions"
+msgstr "Усі дії"
+
+#: admin/apps/users/uip-users.php:368
+msgid "Add custom capability (Single word, no spaces)"
+msgstr "Додати спеціальні можливості (одне слово, без пробілів)"
+
+#: admin/apps/users/uip-users.php:369
+msgid "Add capability"
+msgstr "Додайте можливості"
+
+#: admin/apps/users/uip-users.php:370
+msgid "roles selected"
+msgstr "обрані ролі"
+
+#: admin/apps/users/uip-users.php:371
+msgid "Delete selected"
+msgstr "Видалити вибране"
+
+#: admin/apps/users/uip-users.php:372
+msgid "Deselect"
+msgstr "Зніміть вибір"
+
+#: admin/apps/users/uip-users.php:373
+msgid "Delete users"
+msgstr "Видалити користувачів"
+
+#: admin/apps/users/uip-users.php:374
+msgid "Clear selection"
+msgstr "Очистити вибір"
+
+#: admin/apps/users/uip-users.php:375
+msgid "recipients"
+msgstr "одержувачів"
+
+#: admin/apps/users/uip-users.php:376 admin/classes/uipress-app.php:1409
+msgid "users"
+msgstr "користувачів"
+
+#: admin/apps/users/uip-users.php:378
+msgid "Replace existing roles"
+msgstr "Замініть наявні ролі"
+
+#: admin/apps/users/uip-users.php:379
+msgid "Update roles"
+msgstr "Оновити ролі"
+
+#: admin/apps/users/uip-users.php:380
+msgid "users selected"
+msgstr "вибрано користувачів"
+
+#: admin/apps/users/uip-users.php:381
+msgid "Choose image"
+msgstr "Виберіть зображення"
+
+#: admin/apps/users/uip-users.php:382
+msgid "Profile image"
+msgstr "Зображення профілю"
+
+#: admin/apps/users/uip-users.php:383 admin/apps/users/uip-users.php:387
+#: admin/apps/users/uip-users.php:1250
+msgid "Groups"
+msgstr "Групи"
+
+#: admin/apps/users/uip-users.php:384
+msgid "All users"
+msgstr "Всі користувачі"
+
+#: admin/apps/users/uip-users.php:385
+msgid "No group"
+msgstr "Немає групи"
+
+#: admin/apps/users/uip-users.php:386
+msgid "No groups created yet."
+msgstr "Груп ще не створено."
+
+#: admin/apps/users/uip-users.php:388
+msgid "New group"
+msgstr "Нова група"
+
+#: admin/apps/users/uip-users.php:390
+msgid "Color"
+msgstr "Колір"
+
+#: admin/apps/users/uip-users.php:391
+msgid "Create group"
+msgstr "Створити групу"
+
+#: admin/apps/users/uip-users.php:392
+msgid "Group name"
+msgstr "Назва групи"
+
+#: admin/apps/users/uip-users.php:393
+msgid "Edit group"
+msgstr "Редагувати групу"
+
+#: admin/apps/users/uip-users.php:394
+msgid "Update group"
+msgstr "Оновити групу"
+
+#: admin/apps/users/uip-users.php:395
+msgid "Remove from group"
+msgstr "Видалити з групи"
+
+#: admin/apps/users/uip-users.php:396
+msgid "User groups"
+msgstr "Групи користувачів"
+
+#: admin/apps/users/uip-users.php:397
+msgid "Assign groups"
+msgstr "Призначити групи"
+
+#: admin/apps/users/uip-users.php:398
+msgid "Search groups"
+msgstr "Пошук груп"
+
+#: admin/apps/users/uip-users.php:399
+msgid "Pro feature"
+msgstr "Функція Pro"
+
+#: admin/apps/users/uip-users.php:400
+msgid "Upgrade to UiPress Pro to unlock the user management and activity logs"
+msgstr ""
+"Оновіть до UiPress Pro, щоб розблокувати керування користувачами та журнали "
+"активності"
+
+#: admin/apps/users/uip-users.php:401
+msgid "View Uipress Pro plans"
+msgstr "Перегляньте плани Uipress Pro"
+
+#: admin/apps/users/uip-users.php:402
+msgid "Group icon"
+msgstr "Значок групи"
+
+#: admin/apps/users/uip-users.php:403
+msgid "Logout everywhere else"
+msgstr "Вийти скрізь"
+
+#: admin/apps/users/uip-users.php:404
+msgid "Open profile"
+msgstr "Відкрити профіль"
+
+#: admin/apps/users/uip-users.php:405
+msgid ""
+"Are you sure you want to delete this capability? This will remove the "
+"capability sitewide. Please note not all capabilities can be deleted."
+msgstr ""
+"Ви впевнені, що хочете видалити цю можливість? Це призведе до видалення цієї "
+"можливості на всьому сайті. Зверніть увагу, що не всі можливості можна "
+"видалити."
+
+#: admin/apps/users/uip-users.php:517
+msgid "Read"
+msgstr "Прочитайте"
+
+#: admin/apps/users/uip-users.php:529
+msgid "Publish"
+msgstr "Опублікувати"
+
+#: admin/apps/users/uip-users.php:535 admin/classes/uipress-app.php:1335
+msgid "Create"
+msgstr "Створюйте"
+
+#: admin/apps/users/uip-users.php:553
+msgid "Manage"
+msgstr "Керувати"
+
+#: admin/apps/users/uip-users.php:565 admin/classes/settings.php:242
+#: admin/classes/styles.php:442
+msgid "Import"
+msgstr "Імпорт"
+
+#: admin/apps/users/uip-users.php:571
+msgid "Custom"
+msgstr "На замовлення"
+
+#: admin/apps/users/uip-users.php:737
+msgid "User no longer exists"
+msgstr "Користувач більше не існує"
+
+#: admin/apps/users/uip-users.php:742 admin/apps/users/uip-users.php:1106
+#, php-format
+msgid "%s ago"
+msgstr "%s тому"
+
+#: admin/apps/users/uip-users.php:753 admin/apps/users/uip-users.php:1370
+msgid "Page view"
+msgstr "Перегляд сторінки"
+
+#: admin/apps/users/uip-users.php:755
+msgid "Viewed page"
+msgstr "Переглянута сторінка"
+
+#: admin/apps/users/uip-users.php:764 admin/apps/users/uip-users.php:1374
+msgid "Post created"
+msgstr "Пост створено"
+
+#: admin/apps/users/uip-users.php:766
+msgid "Created post"
+msgstr "Створено допис"
+
+#: admin/apps/users/uip-users.php:769 admin/apps/users/uip-users.php:790
+#: admin/apps/users/uip-users.php:838
+msgid "View page"
+msgstr "Переглянути сторінку"
+
+#: admin/apps/users/uip-users.php:773 admin/apps/users/uip-users.php:794
+#: admin/apps/users/uip-users.php:811 admin/apps/users/uip-users.php:842
+msgid "Edit page"
+msgstr "Редагувати сторінку"
+
+#: admin/apps/users/uip-users.php:785
+msgid "Post modified"
+msgstr "Пост змінено"
+
+#: admin/apps/users/uip-users.php:787
+msgid "Modified post"
+msgstr "Змінений пост"
+
+#: admin/apps/users/uip-users.php:806
+msgid "Post moved to trash"
+msgstr "Публікацію переміщено в кошик"
+
+#: admin/apps/users/uip-users.php:808
+msgid "Moved post to trash"
+msgstr "Публікацію переміщено в кошик"
+
+#: admin/apps/users/uip-users.php:820 admin/apps/users/uip-users.php:1386
+msgid "Post deleted"
+msgstr "Публікацію видалено"
+
+#: admin/apps/users/uip-users.php:822
+msgid "Deleted post"
+msgstr "Видалений пост"
+
+#: admin/apps/users/uip-users.php:831 admin/apps/users/uip-users.php:1390
+msgid "Post status change"
+msgstr "Зміна статусу публікації"
+
+#: admin/apps/users/uip-users.php:834
+#, php-format
+msgid "Post status changed from %s to %s"
+msgstr "Статус публікації змінено з %s на %s"
+
+#: admin/apps/users/uip-users.php:855
+msgid "Posted a comment"
+msgstr "Опублікував коментар"
+
+#: admin/apps/users/uip-users.php:857
+msgid "Posted a comment on post"
+msgstr "Опублікував коментар до публікації"
+
+#: admin/apps/users/uip-users.php:868 admin/apps/users/uip-users.php:898
+msgid "View comment"
+msgstr "Переглянути коментар"
+
+#: admin/apps/users/uip-users.php:872 admin/apps/users/uip-users.php:902
+msgid "Edit comment"
+msgstr "Редагувати коментар"
+
+#: admin/apps/users/uip-users.php:884
+msgid "Trashed a comment"
+msgstr "Коментар перекинуто в кошик"
+
+#: admin/apps/users/uip-users.php:886
+msgid "Moved a comment to the trash"
+msgstr "Переміщено коментар у кошик"
+
+#: admin/apps/users/uip-users.php:912
+msgid "Deleted a comment"
+msgstr "Видалили коментар"
+
+#: admin/apps/users/uip-users.php:914
+msgid "Permanently deleted a comment"
+msgstr "Назавжди видалено коментар"
+
+#: admin/apps/users/uip-users.php:920 admin/apps/users/uip-users.php:1403
+msgid "Plugin activated"
+msgstr "Плагін активовано"
+
+#: admin/apps/users/uip-users.php:922
+#, php-format
+msgid "A plugin called %s was activated"
+msgstr "Було активовано плагін %s"
+
+#: admin/apps/users/uip-users.php:928 admin/apps/users/uip-users.php:1407
+msgid "Plugin deactivated"
+msgstr "Плагін деактивовано"
+
+#: admin/apps/users/uip-users.php:930
+#, php-format
+msgid "A plugin called %s was deactivated"
+msgstr "Плагін %s було деактивовано"
+
+#: admin/apps/users/uip-users.php:936
+msgid "User logged in"
+msgstr "Користувач увійшов"
+
+#: admin/apps/users/uip-users.php:938
+#, php-format
+msgid "Logged in with ip address %s. Country: %s"
+msgstr "Ви ввійшли з IP-адресою %s. Країна: %s"
+
+#: admin/apps/users/uip-users.php:944
+msgid "User logged out"
+msgstr "Користувач вийшов із системи"
+
+#: admin/apps/users/uip-users.php:946
+#, php-format
+msgid "Logged out with ip address %s. Country: %s"
+msgstr "Вийшов із IP-адресою %s. Країна: %s"
+
+#: admin/apps/users/uip-users.php:982 admin/apps/users/uip-users.php:988
+#: admin/apps/users/uip-users.php:1002
+msgid "Site option changed"
+msgstr "Змінено параметр сайту"
+
+#: admin/apps/users/uip-users.php:984
+#, php-format
+msgid "Site option (%s) was changed from %s to %s"
+msgstr "Параметр сайту (%s) змінено з %s на %s"
+
+#: admin/apps/users/uip-users.php:990
+#, php-format
+msgid "Site option was changed. %s"
+msgstr "Змінено параметр сайту. %s"
+
+#: admin/apps/users/uip-users.php:1004
+#, php-format
+msgid "Site option (%s) was added with a value of (%s)"
+msgstr "Додано параметр сайту (%s) зі значенням (%s)"
+
+#: admin/apps/users/uip-users.php:1010
+msgid "Uploaded attachment"
+msgstr "Завантажений вкладений файл"
+
+#: admin/apps/users/uip-users.php:1012
+#, php-format
+msgid "Attachment called (%s) was uploaded to (%s). Attachment ID: %s"
+msgstr ""
+"Вкладений файл (%s) завантажено до (%s). Ідентифікатор вкладеного файлу: %s"
+
+#: admin/apps/users/uip-users.php:1021
+msgid "View attachment"
+msgstr "Переглянути вкладення"
+
+#: admin/apps/users/uip-users.php:1029
+msgid "Deleted attachment"
+msgstr "Видалено вкладення"
+
+#: admin/apps/users/uip-users.php:1031
+#, php-format
+msgid "Attachment called (%s) was deleted. Attachment ID: %s"
+msgstr ""
+"Вкладення під назвою (%s) було видалено. Ідентифікатор вкладеного файлу: %s"
+
+#: admin/apps/users/uip-users.php:1037 admin/apps/users/uip-users.php:1262
+#: admin/apps/users/uip-users.php:1435
+msgid "User created"
+msgstr "Користувач створений"
+
+#: admin/apps/users/uip-users.php:1039
+#, php-format
+msgid "New user created with username (%s) and email (%s)"
+msgstr ""
+"Створено нового користувача з іменем користувача (%s) та електронною поштою "
+"(%s)"
+
+#: admin/apps/users/uip-users.php:1045 admin/apps/users/uip-users.php:1439
+msgid "User deleted"
+msgstr "Користувача видалено"
+
+#: admin/apps/users/uip-users.php:1047
+#, php-format
+msgid "A user with username (%s) and email (%s) was deleted"
+msgstr ""
+"Користувача з іменем користувача (%s) та електронною поштою (%s) було "
+"видалено"
+
+#: admin/apps/users/uip-users.php:1082 admin/apps/users/uip-users.php:1443
+msgid "User updated"
+msgstr "Користувач оновлено"
+
+#: admin/apps/users/uip-users.php:1084
+#, php-format
+msgid "A user with username (%s) and email (%s) was updated from (%s) to (%s)"
+msgstr ""
+"Користувача з ім’ям користувача (%s) та електронною адресою (%s) оновлено з "
+"(%s) на (%s)"
+
+#: admin/apps/users/uip-users.php:1226
+msgid "First Name"
+msgstr "Ім'я"
+
+#: admin/apps/users/uip-users.php:1232
+msgid "Last Name"
+msgstr "Прізвище"
+
+#: admin/apps/users/uip-users.php:1238
+msgid "Last Login"
+msgstr "Останній вхід"
+
+#: admin/apps/users/uip-users.php:1256
+msgid "User ID"
+msgstr "ідентифікатор користувача"
+
+#: admin/apps/users/uip-users.php:1298
+msgid "Permissions granted"
+msgstr "Дозволи надано"
+
+#: admin/apps/users/uip-users.php:1315
+msgid "ID"
+msgstr "ID"
+
+#: admin/apps/users/uip-users.php:1327
+msgid "IP Address"
+msgstr "IP-адреса"
+
+#: admin/apps/users/uip-users.php:1340
+msgid "Time"
+msgstr "Час"
+
+#: admin/apps/users/uip-users.php:1347
+msgid "Action"
+msgstr "Дія"
+
+#: admin/apps/users/uip-users.php:1378
+msgid "Post updated"
+msgstr "Повідомлення оновлено"
+
+#: admin/apps/users/uip-users.php:1382
+msgid "Post trashed"
+msgstr "Повідомлення переміщено"
+
+#: admin/apps/users/uip-users.php:1394
+msgid "Trashed comment"
+msgstr "Коментар в кошику"
+
+#: admin/apps/users/uip-users.php:1398
+msgid "Deelete comment"
+msgstr "Видалити коментар"
+
+#: admin/apps/users/uip-users.php:1411
+msgid "User login"
+msgstr "Вхід користувача"
+
+#: admin/apps/users/uip-users.php:1415
+msgid "User logout"
+msgstr "Вихід користувача"
+
+#: admin/apps/users/uip-users.php:1419
+msgid "Option change"
+msgstr "Зміна варіанту"
+
+#: admin/apps/users/uip-users.php:1423
+msgid "Site option added"
+msgstr "Додано опцію сайту"
+
+#: admin/apps/users/uip-users.php:1427
+msgid "Attachmnet uploaded"
+msgstr "Attachmnet завантажено"
+
+#: admin/apps/users/uip-users.php:1431
+msgid "Attachmnet deleted"
+msgstr "Вкладену мережу видалено"
+
+#: admin/classes/debug.php:133 admin/classes/debug.php:139
+#: admin/classes/debug.php:161
+msgid "Unable to register UiPress at this time"
+msgstr "Наразі неможливо зареєструвати UiPress"
+
+#: admin/classes/debug.php:152
+msgid "UiPress succesfully activated"
+msgstr "UiPress успішно активовано"
+
+#: admin/classes/folders.php:112 admin/classes/uipress-app.php:453
+#: admin/classes/uipress-app.php:1367
+msgid "Folders"
+msgstr "Папки"
+
+#: admin/classes/folders.php:113
+msgid "Creates media folder system."
+msgstr "Створює систему папок медіа."
+
+#: admin/classes/folders.php:117
+msgid "Disable Folders?"
+msgstr "Вимкнути папки?"
+
+#: admin/classes/folders.php:118
+msgid "No media folders will be displayed when this option is activated."
+msgstr "Коли ця опція активована, папки медіа не відображатимуться."
+
+#: admin/classes/folders.php:125
+msgid "Folders Disabled For"
+msgstr "Папки вимкнено для"
+
+#: admin/classes/folders.php:126
+#, php-format
+msgid "%s folders will be disabled for any users or roles you select"
+msgstr ""
+"Папки %s буде вимкнено для всіх користувачів або ролей, які ви виберете"
+
+#: admin/classes/folders.php:134
+msgid "Enable folders for post types"
+msgstr "Увімкнути папки для типів публікацій"
+
+#: admin/classes/folders.php:135
+#, php-format
+msgid "%s folders will be enabled post, page and custom post types you choose"
+msgstr ""
+"У папках %s буде ввімкнено допис, сторінку та спеціальні типи публікацій, "
+"які ви виберете"
+
+#: admin/classes/folders.php:171
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "Дії"
+
+#: admin/classes/folders.php:173
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "Меню"
+
+#: admin/classes/folders.php:311
+msgid "No folder to delete"
+msgstr "Немає папки для видалення"
+
+#: admin/classes/folders.php:321
+msgid "Unable to delete the folder"
+msgstr "Не вдається видалити папку"
+
+#: admin/classes/folders.php:372
+msgid "Folder deleted"
+msgstr "Папка видалена"
+
+#: admin/classes/folders.php:391
+msgid "Unable to move folder into itself"
+msgstr "Неможливо перемістити папку в себе"
+
+#: admin/classes/folders.php:405
+msgid "Unable to move folder"
+msgstr "Не вдається перемістити папку"
+
+#: admin/classes/folders.php:433
+msgid "Folder moved"
+msgstr "Папку переміщено"
+
+#: admin/classes/folders.php:536
+msgid "Folder updated"
+msgstr "Папку оновлено"
+
+#: admin/classes/folders.php:578
+msgid "Unable to create folder"
+msgstr "Не вдається створити папку"
+
+#: admin/classes/folders.php:589
+msgid "Folder created"
+msgstr "Папка створена"
+
+#: admin/classes/settings.php:144
+msgid "Unable to save user settings"
+msgstr "Не вдається зберегти налаштування користувача"
+
+#: admin/classes/settings.php:150 admin/classes/uipress-app.php:1358
+msgid "Settings saved"
+msgstr "Налаштування збережено"
+
+#: admin/classes/settings.php:164
+msgid "Settings reset"
+msgstr "Скидання налаштувань"
+
+#: admin/classes/settings.php:209 admin/classes/styles.php:432
+msgid "Version"
+msgstr "Версія"
+
+#: admin/classes/settings.php:230
+msgid "Save settings"
+msgstr "Збережіть налаштування"
+
+#: admin/classes/settings.php:413
+msgid "No licence key provided"
+msgstr "Ліцензійний ключ не надається"
+
+#: admin/classes/settings.php:445
+msgid "Licence removed"
+msgstr "Ліцензію видалено"
+
+#: admin/classes/styles.php:138 admin/classes/styles.php:151
+#: admin/classes/styles.php:430
+msgid "Styles"
+msgstr "Стилі"
+
+#: admin/classes/styles.php:213
+msgid "Unable to fetch themes at this moment. Please try again later"
+msgstr "Наразі неможливо отримати теми. Будь-ласка спробуйте пізніше"
+
+#: admin/classes/styles.php:247
+msgid "Unable to like theme at this moment. Please try again later"
+msgstr "Наразі тема не подобається. Будь-ласка спробуйте пізніше"
+
+#: admin/classes/styles.php:266
+msgid "Unable to save styles"
+msgstr "Не вдається зберегти стилі"
+
+#: admin/classes/styles.php:292
+msgid "Styles saved"
+msgstr "Стилі збережено"
+
+#: admin/classes/styles.php:411
+msgid ""
+"Uipress styles isn't optimised for mobile devices. Switch to a larger screen "
+"to modify UiPress Styles"
+msgstr ""
+"Стилі Uipress не оптимізовані для мобільних пристроїв. Перейдіть на більший "
+"екран, щоб змінити стилі UiPress"
+
+#: admin/classes/styles.php:469
+msgid "Clear All"
+msgstr "Очистити все"
+
+#: admin/classes/styles.php:533
+msgid "Global"
+msgstr "Глобальна"
+
+#: admin/classes/styles.php:536
+msgid "Body Background"
+msgstr "Тло тіла"
+
+#: admin/classes/styles.php:547
+msgid "Default Background"
+msgstr "Фон за замовчуванням"
+
+#: admin/classes/styles.php:558
+msgid "Muted Background"
+msgstr "Приглушений фон"
+
+#: admin/classes/styles.php:569
+msgid "Muted Background Accent"
+msgstr "Приглушений фоновий акцент"
+
+#: admin/classes/styles.php:580
+msgid "Primary Color"
+msgstr "Основний колір"
+
+#: admin/classes/styles.php:591
+msgid "Primary Color Wash"
+msgstr "Миття основного кольору"
+
+#: admin/classes/styles.php:602
+msgid "Primary Color Hover"
+msgstr "Наведення основного кольору"
+
+#: admin/classes/styles.php:613
+msgid "Secondary Color"
+msgstr "Вторинний колір"
+
+#: admin/classes/styles.php:624
+msgid "Secondary Color Hover"
+msgstr "Наведення допоміжного кольору"
+
+#: admin/classes/styles.php:635
+msgid "Font"
+msgstr "Шрифт"
+
+#: admin/classes/styles.php:646
+msgid "Border Width"
+msgstr "Ширина кордону"
+
+#: admin/classes/styles.php:657
+msgid "Border Radius"
+msgstr "Радіус кордону"
+
+#: admin/classes/styles.php:668
+msgid "Border Colour"
+msgstr "Колір кордону"
+
+#: admin/classes/styles.php:679
+msgid "Notification Background"
+msgstr "Фон сповіщень"
+
+#: admin/classes/styles.php:696
+msgid "Base font size"
+msgstr "Базовий розмір шрифту"
+
+#: admin/classes/styles.php:707 admin/classes/styles.php:1008
+#: admin/classes/styles.php:1148
+msgid "Text Color"
+msgstr "Колір тексту"
+
+#: admin/classes/styles.php:718
+msgid "Text Emphasis Color"
+msgstr "Колір виділення тексту"
+
+#: admin/classes/styles.php:729
+msgid "Text Muted Color"
+msgstr "Приглушений колір тексту"
+
+#: admin/classes/styles.php:745
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: admin/classes/styles.php:748
+msgid "Button Border Radius"
+msgstr "Радіус межі кнопки"
+
+#: admin/classes/styles.php:760
+msgid "Button Border Width"
+msgstr "Ширина рамки кнопки"
+
+#: admin/classes/styles.php:772
+msgid "Default Button Border Colour"
+msgstr "Колір рамки кнопки за замовчуванням"
+
+#: admin/classes/styles.php:784
+msgid "Default Button Background Colour"
+msgstr "Колір фону кнопки за замовчуванням"
+
+#: admin/classes/styles.php:796
+msgid "Default Button Hover Background Colour"
+msgstr "Колір тла кнопки наведення курсора за замовчуванням"
+
+#: admin/classes/styles.php:808
+msgid "Default Button Text Colour"
+msgstr "Колір тексту кнопки за замовчуванням"
+
+#: admin/classes/styles.php:821
+msgid "Primary Button Border Colour"
+msgstr "Основний колір рамки кнопки"
+
+#: admin/classes/styles.php:833
+msgid "Primary Button Background Colour"
+msgstr "Колір тла основної кнопки"
+
+#: admin/classes/styles.php:845
+msgid "Primary Button Hover Background Colour"
+msgstr "Колір фону при наведенні основної кнопки"
+
+#: admin/classes/styles.php:857
+msgid "Primary Button Text Colour"
+msgstr "Колір тексту основної кнопки"
+
+#: admin/classes/styles.php:870
+msgid "Danger Button Border Colour"
+msgstr "Колір рамки кнопки небезпеки"
+
+#: admin/classes/styles.php:882
+msgid "Danger Button Background Colour"
+msgstr "Колір фону кнопки небезпеки"
+
+#: admin/classes/styles.php:894
+msgid "Danger Button Hover Background Colour"
+msgstr "Небезпека кнопки наведення курсора колір фону"
+
+#: admin/classes/styles.php:906
+msgid "Danger Button Text Colour"
+msgstr "Колір тексту кнопки небезпеки"
+
+#: admin/classes/styles.php:919
+msgid "Page Action Button Border Colour"
+msgstr "Колір межі кнопки дії сторінки"
+
+#: admin/classes/styles.php:931
+msgid "Page Action Button Background Colour"
+msgstr "Колір тла кнопки дії сторінки"
+
+#: admin/classes/styles.php:943
+msgid "Page Action Button Hover Background Colour"
+msgstr "Сторінка Дія Кнопка Наведіть курсор на колір фону"
+
+#: admin/classes/styles.php:955
+msgid "Page Action Button Text Colour"
+msgstr "Сторінка Дія Кнопка Колір тексту"
+
+#: admin/classes/styles.php:973 admin/classes/uipress-app.php:2669
+msgid "Menu"
+msgstr "Меню"
+
+#: admin/classes/styles.php:975
+msgid "Background Color"
+msgstr "Колір фону"
+
+#: admin/classes/styles.php:986 admin/classes/styles.php:1170
+msgid "Secondary background Color"
+msgstr "Колір вторинного фону"
+
+#: admin/classes/styles.php:997
+msgid "Button Hover background Color"
+msgstr "Колір фону наведення кнопки"
+
+#: admin/classes/styles.php:1019
+msgid "Active Text Color"
+msgstr "Колір активного тексту"
+
+#: admin/classes/styles.php:1030
+msgid "Active Top Level Item background colour"
+msgstr "Колір тла активного елемента верхнього рівня"
+
+#: admin/classes/styles.php:1041
+msgid "Search Input background colour"
+msgstr "Пошук Колір фону введення"
+
+#: admin/classes/styles.php:1052
+msgid "Search Input text colour"
+msgstr "Пошук Колір тексту введення"
+
+#: admin/classes/styles.php:1063
+msgid "Submenu Text Color"
+msgstr "Підменю Колір тексту"
+
+#: admin/classes/styles.php:1074
+msgid "Submenu Active Text Color"
+msgstr "Підменю Колір активного тексту"
+
+#: admin/classes/styles.php:1085
+msgid "Submenu Hover Text Color"
+msgstr "Підменю Колір тексту при наведенні курсора"
+
+#: admin/classes/styles.php:1096
+msgid "Width"
+msgstr "Ширина"
+
+#: admin/classes/styles.php:1108
+msgid "Padding"
+msgstr "Прокладка"
+
+#: admin/classes/styles.php:1120
+msgid "Logo Height"
+msgstr "Висота логотипу"
+
+#: admin/classes/styles.php:1134 admin/classes/uipress-app.php:2773
+msgid "Toolbar"
+msgstr "Панель інструментів"
+
+#: admin/classes/styles.php:1137
+msgid "Toolbar Background Color"
+msgstr "Колір тла панелі інструментів"
+
+#: admin/classes/styles.php:1159
+msgid "Link Hover Text Color"
+msgstr "Колір тексту при наведенні посилання"
+
+#: admin/classes/styles.php:1183
+msgid "Cards"
+msgstr "Картки"
+
+#: admin/classes/styles.php:1186 admin/classes/styles.php:1270
+msgid "Background color"
+msgstr "Колір фону"
+
+#: admin/classes/styles.php:1198
+msgid "Border color"
+msgstr "Колір кордону"
+
+#: admin/classes/styles.php:1210
+msgid "Border radius"
+msgstr "Радіус кордону"
+
+#: admin/classes/styles.php:1222
+msgid "Shadow spread"
+msgstr "Поширення тіні"
+
+#: admin/classes/styles.php:1234
+msgid "Shadow blur"
+msgstr "Розмиття тіні"
+
+#: admin/classes/styles.php:1246
+msgid "Shadow color"
+msgstr "Колір тіні"
+
+#: admin/classes/styles.php:1267 admin/classes/uipress-app.php:2944
+msgid "Login"
+msgstr "Увійти"
+
+#: admin/classes/uipress-app.php:268
+msgctxt "post type general name"
+msgid "Folder"
+msgstr "папка"
+
+#: admin/classes/uipress-app.php:269
+msgctxt "post type singular name"
+msgid "folder"
+msgstr "папку"
+
+#: admin/classes/uipress-app.php:270
+msgctxt "admin menu"
+msgid "Folders"
+msgstr "Папки"
+
+#: admin/classes/uipress-app.php:271
+msgctxt "add new on admin bar"
+msgid "Folder"
+msgstr "папка"
+
+#: admin/classes/uipress-app.php:272
+msgctxt "folder"
+msgid "Add New"
+msgstr "Додати новий"
+
+#: admin/classes/uipress-app.php:273 admin/classes/uipress-app.php:284
+msgid "Add New Folder"
+msgstr "Додати нову папку"
+
+#: admin/classes/uipress-app.php:274 admin/classes/uipress-app.php:1368
+msgid "New Folder"
+msgstr "Нова папка"
+
+#: admin/classes/uipress-app.php:275 admin/classes/uipress-app.php:1372
+msgid "Edit Folder"
+msgstr "Редагувати папку"
+
+#: admin/classes/uipress-app.php:276
+msgid "View Folder"
+msgstr "Переглянути папку"
+
+#: admin/classes/uipress-app.php:277
+msgid "All Folders"
+msgstr "Усі папки"
+
+#: admin/classes/uipress-app.php:278
+msgid "Search Folders"
+msgstr "Пошук папок"
+
+#: admin/classes/uipress-app.php:279
+msgid "No Folders found."
+msgstr "Папок не знайдено."
+
+#: admin/classes/uipress-app.php:280
+msgid "No Folders found in Trash."
+msgstr "У кошику не знайдено папок."
+
+#: admin/classes/uipress-app.php:1167
+msgid "active"
+msgstr "активний"
+
+#: admin/classes/uipress-app.php:1171
+msgid "inactive"
+msgstr "неактивний"
+
+#: admin/classes/uipress-app.php:1320
+msgid "Menu Preferences"
+msgstr "Налаштування меню"
+
+#: admin/classes/uipress-app.php:1321
+msgid "Hide search bar"
+msgstr "Приховати рядок пошуку"
+
+#: admin/classes/uipress-app.php:1322
+msgid "Hide Icons"
+msgstr "Приховати значки"
+
+#: admin/classes/uipress-app.php:1323
+msgid "Show submenu on hover"
+msgstr "Показати підменю при наведенні курсора"
+
+#: admin/classes/uipress-app.php:1324
+msgid "Search Menu"
+msgstr "Меню пошуку"
+
+#: admin/classes/uipress-app.php:1326
+msgid "Search"
+msgstr "Пошук"
+
+#: admin/classes/uipress-app.php:1329
+msgid "Show more"
+msgstr "Показати більше"
+
+#: admin/classes/uipress-app.php:1330
+msgid "other matches"
+msgstr "інші матчі"
+
+#: admin/classes/uipress-app.php:1331 admin/classes/uipress-app.php:1359
+msgid "Nothing found"
+msgstr "Нічого не знайдено"
+
+#: admin/classes/uipress-app.php:1332 admin/classes/uipress-app.php:1337
+msgid "View Site"
+msgstr "Переглянути сайт"
+
+#: admin/classes/uipress-app.php:1333
+msgid "Dashboard"
+msgstr "Панель приладів"
+
+#: admin/classes/uipress-app.php:1334
+msgid "Search Site"
+msgstr "Пошук на сайті"
+
+#: admin/classes/uipress-app.php:1336
+msgid "Create New"
+msgstr "Створити новий"
+
+#: admin/classes/uipress-app.php:1338
+msgid "Updates"
+msgstr "Оновлення"
+
+#: admin/classes/uipress-app.php:1339
+msgid "Preferences"
+msgstr "вподобання"
+
+#: admin/classes/uipress-app.php:1340
+msgid "Dark mode"
+msgstr "Темний режим"
+
+#: admin/classes/uipress-app.php:1341
+msgid "Show screen options toggle"
+msgstr "Перемикач показувати параметри екрана"
+
+#: admin/classes/uipress-app.php:1342
+msgid "Screen options"
+msgstr "Параметри екрана"
+
+#: admin/classes/uipress-app.php:1343
+msgid "Hide admin bar links (left)"
+msgstr "Приховати посилання панелі адміністратора (ліворуч)"
+
+#: admin/classes/uipress-app.php:1344
+msgid "Logout"
+msgstr "Вийти"
+
+#: admin/classes/uipress-app.php:1345
+msgid "Notifications"
+msgstr "Сповіщення"
+
+#: admin/classes/uipress-app.php:1346
+msgid "Hide notification"
+msgstr "Приховати сповіщення"
+
+#: admin/classes/uipress-app.php:1347
+msgid "hidden notifications"
+msgstr "приховані сповіщення"
+
+#: admin/classes/uipress-app.php:1348
+msgid "show all"
+msgstr "показати все"
+
+#: admin/classes/uipress-app.php:1349
+msgid "Notifiction Hidden"
+msgstr "Сповіщення приховано"
+
+#: admin/classes/uipress-app.php:1350
+msgid "Toggle Menu"
+msgstr "Переключити меню"
+
+#: admin/classes/uipress-app.php:1351
+msgid "Choose users or roles"
+msgstr "Виберіть користувачів або ролі"
+
+#: admin/classes/uipress-app.php:1352
+msgid "Search users and roles"
+msgstr "Пошук користувачів і ролей"
+
+#: admin/classes/uipress-app.php:1353
+msgid "Choose Image"
+msgstr "Виберіть Зображення"
+
+#: admin/classes/uipress-app.php:1354
+msgid "Choose Post Types"
+msgstr "Виберіть Типи публікацій"
+
+#: admin/classes/uipress-app.php:1355 admin/classes/uipress-app.php:1356
+msgid "Searach Post Types"
+msgstr "Типи повідомлень Searchach"
+
+#: admin/classes/uipress-app.php:1360
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: admin/classes/uipress-app.php:1361
+msgid "Add File"
+msgstr "Додати файл"
+
+#: admin/classes/uipress-app.php:1362
+msgid "URL to file"
+msgstr "URL до файлу"
+
+#: admin/classes/uipress-app.php:1363
+msgid "Remove"
+msgstr "Видалити"
+
+#: admin/classes/uipress-app.php:1364
+msgid "All media"
+msgstr "Усі ЗМІ"
+
+#: admin/classes/uipress-app.php:1366
+msgid "No folder"
+msgstr "Немає папки"
+
+#: admin/classes/uipress-app.php:1369
+msgid "Folder Name"
+msgstr "Ім'я папки"
+
+#: admin/classes/uipress-app.php:1370
+msgid "Colour"
+msgstr "Колір"
+
+#: admin/classes/uipress-app.php:1374
+msgid "1 File"
+msgstr "1 файл"
+
+#: admin/classes/uipress-app.php:1375
+msgid "files"
+msgstr "файли"
+
+#: admin/classes/uipress-app.php:1376
+msgid "You haven't created a folder yet"
+msgstr "Ви ще не створили папку"
+
+#: admin/classes/uipress-app.php:1377
+msgid "Remove from folder"
+msgstr "Видалити з папки"
+
+#: admin/classes/uipress-app.php:1378
+msgid ""
+"Upgrade to pro to unlock the notification center. View, edit and organise "
+"all your plugin and theme notifications in one place"
+msgstr ""
+"Перейдіть до профі, щоб розблокувати центр сповіщень. Переглядайте, "
+"редагуйте та впорядковуйте всі сповіщення про плагін і тему в одному місці"
+
+#: admin/classes/uipress-app.php:1379
+msgid ""
+"Upgrade to pro to gain full control of search results and included post types"
+msgstr ""
+"Перейдіть до профі, щоб отримати повний контроль над результатами пошуку та "
+"включеними типами публікацій"
+
+#: admin/classes/uipress-app.php:1382
+msgid "Styles Imported"
+msgstr "Імпортовані стилі"
+
+#: admin/classes/uipress-app.php:1383
+msgid "Settings Imported"
+msgstr "Налаштування імпортовано"
+
+#: admin/classes/uipress-app.php:1384
+msgid "Remove Licence"
+msgstr "Видалити ліцензію"
+
+#: admin/classes/uipress-app.php:1385
+#, php-format
+msgid "%s Pro is active"
+msgstr "%s Pro активний"
+
+#: admin/classes/uipress-app.php:1386
+#, php-format
+msgid "%s Pro"
+msgstr "%s Pro"
+
+#: admin/classes/uipress-app.php:1387
+msgid "Activate"
+msgstr "Активувати"
+
+#: admin/classes/uipress-app.php:1388
+msgid "Add a pro licence to unlock pro features."
+msgstr "Додайте професійну ліцензію, щоб розблокувати професійні функції."
+
+#: admin/classes/uipress-app.php:1389
+msgid "Choose Icon"
+msgstr "Виберіть значок"
+
+#: admin/classes/uipress-app.php:1390
+msgid "Are you sure you want to delete this?"
+msgstr "Ви впевнені, що хочете видалити це?"
+
+#: admin/classes/uipress-app.php:1391
+msgid "Import started"
+msgstr "Розпочато імпорт"
+
+#: admin/classes/uipress-app.php:1392
+msgid "Are you sure you want to reset the settings?"
+msgstr "Ви впевнені, що хочете скинути налаштування?"
+
+#: admin/classes/uipress-app.php:1393
+msgid "Last 7 Days"
+msgstr "Останні 7 днів"
+
+#: admin/classes/uipress-app.php:1394
+msgid "Last 30 Days"
+msgstr "Останні 30 днів"
+
+#: admin/classes/uipress-app.php:1399
+msgid "selected"
+msgstr "вибрано"
+
+#: admin/classes/uipress-app.php:1400
+msgid "Theme Library"
+msgstr "Тематична бібліотека"
+
+#: admin/classes/uipress-app.php:1401
+msgid "Library"
+msgstr "Бібліотека"
+
+#: admin/classes/uipress-app.php:1402
+msgid "Import Theme"
+msgstr "Імпортувати тему"
+
+#: admin/classes/uipress-app.php:1403
+msgid "Pro template"
+msgstr "Профі шаблон"
+
+#: admin/classes/uipress-app.php:1404
+msgid "Theme Imported"
+msgstr "Імпортована тема"
+
+#: admin/classes/uipress-app.php:1405
+msgid "Made by"
+msgstr "Зроблено"
+
+#: admin/classes/uipress-app.php:1407
+msgid "Failed to fetch folder content"
+msgstr "Не вдалося отримати вміст папки"
+
+#: admin/classes/uipress-app.php:1408
+msgid "user"
+msgstr "користувач"
+
+#: admin/classes/uipress-app.php:1850
+msgid "Unkown Post Type"
+msgstr "Невідомий тип публікації"
+
+#: admin/classes/uipress-app.php:1853
+msgid "Unkown"
+msgstr "Невідомо"
+
+#: admin/classes/uipress-app.php:1991
+msgid "Core"
+msgstr "Ядро"
+
+#: admin/classes/uipress-app.php:1997
+msgid "Themes"
+msgstr "Теми"
+
+#: admin/classes/uipress-app.php:2003
+msgid "Plugins"
+msgstr "плагіни"
+
+#: admin/classes/uipress-app.php:2527
+msgid "General options"
+msgstr "Загальні варіанти"
+
+#: admin/classes/uipress-app.php:2532
+msgid "Network Override"
+msgstr "Перевизначення мережі"
+
+#: admin/classes/uipress-app.php:2533
+msgid "If enabled, all settings applied here will be pushed to subsites."
+msgstr ""
+"Якщо ввімкнено, усі налаштування, застосовані тут, буде переміщено на "
+"підсайти."
+
+#: admin/classes/uipress-app.php:2542
+msgid "Set Dark Mode as Default"
+msgstr "Встановіть темний режим за замовчуванням"
+
+#: admin/classes/uipress-app.php:2543
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr ""
+"Якщо ввімкнено, темний режим за замовчуванням матиме значення true для "
+"користувачів, які не встановили параметри."
+
+#: admin/classes/uipress-app.php:2551
+msgid "Set Dark Mode according to prefers color scheme"
+msgstr "Встановіть темний режим відповідно до бажаної колірної схеми"
+
+#: admin/classes/uipress-app.php:2552
+msgid "UiPress will detetct the OS color scheme and update accordingly"
+msgstr "UiPress виявить колірну схему ОС і оновить відповідно"
+
+#: admin/classes/uipress-app.php:2560
+msgid "Disable dark mode"
+msgstr "Вимкніть темний режим"
+
+#: admin/classes/uipress-app.php:2561
+msgid "If enabled, dark mode switch will not be available."
+msgstr "Якщо ввімкнено, перемикач темного режиму буде недоступним."
+
+#: admin/classes/uipress-app.php:2569
+msgid "Set overview page as homepage"
+msgstr "Встановити сторінку огляду як домашню"
+
+#: admin/classes/uipress-app.php:2570
+msgid ""
+"If enabled, the overview page will be the homepage when logging in and when "
+"accessing the admin area."
+msgstr ""
+"Якщо ввімкнено, сторінка огляду буде головною сторінкою під час входу та "
+"доступу до області адміністратора."
+
+#: admin/classes/uipress-app.php:2578
+msgid "Set custom page as homepage"
+msgstr "Встановити власну сторінку як домашню"
+
+#: admin/classes/uipress-app.php:2580
+msgid ""
+"If enabled, the page you choose will be the homepage when logging in and "
+"when accessing the admin area. For admin pages use a relative URL (path "
+"after /wp-admin/), for other pages use an absolute URL"
+msgstr ""
+"Якщо ввімкнено, вибрана вами сторінка буде домашньою сторінкою під час входу "
+"та під час доступу до області адміністратора. Для сторінок адміністратора "
+"використовуйте відносну URL-адресу (шлях після /wp-admin/), для інших "
+"сторінок використовуйте абсолютну URL-адресу"
+
+#: admin/classes/uipress-app.php:2590
+#, php-format
+msgid "Rename %s"
+msgstr "Перейменувати %s"
+
+#: admin/classes/uipress-app.php:2591
+#, php-format
+msgid "White label %s by changing the name displayed."
+msgstr "Біла мітка %s, змінивши відображувану назву."
+
+#: admin/classes/uipress-app.php:2599
+#, php-format
+msgid "Rename %s plugin author"
+msgstr "Перейменувати автора плагіна %s"
+
+#: admin/classes/uipress-app.php:2600
+#, php-format
+msgid "White label %s by changing the author in the plugin table."
+msgstr "Біла мітка %s, змінивши автора в таблиці плагінів."
+
+#: admin/classes/uipress-app.php:2608
+#, php-format
+msgid "Change %s plugin URL"
+msgstr "Змінити URL-адресу плагіна %s"
+
+#: admin/classes/uipress-app.php:2609
+#, php-format
+msgid "White label %s by changing the plugin URL in the plugin table."
+msgstr "Біла мітка %s, змінивши URL-адресу плагіна в таблиці плагінів."
+
+#: admin/classes/uipress-app.php:2617
+msgid "App Icon"
+msgstr "Значок програми"
+
+#: admin/classes/uipress-app.php:2618
+#, php-format
+msgid "Replace %s plugin icon with your own"
+msgstr "Замініть значок плагіна %s на власну"
+
+#: admin/classes/uipress-app.php:2626
+msgid "Admin Favicon"
+msgstr "Фавікон адміністратора"
+
+#: admin/classes/uipress-app.php:2627
+msgid "Add an image to be used as the site favicon for admin pages."
+msgstr ""
+"Додайте зображення, яке буде використовуватися як іконка сайту для сторінок "
+"адміністратора."
+
+#: admin/classes/uipress-app.php:2635
+#, php-format
+msgid "Hide %s from plugin table"
+msgstr "Приховати %s у таблиці плагінів"
+
+#: admin/classes/uipress-app.php:2636
+#, php-format
+msgid "If enabled, %s will be hidden from the plugin table"
+msgstr "Якщо ввімкнено, %s буде приховано від таблиці плагінів"
+
+#: admin/classes/uipress-app.php:2644
+msgid "Hide Footer"
+msgstr "Сховати нижній колонтитул"
+
+#: admin/classes/uipress-app.php:2645
+msgid "Hide the footer text that shows at the bottom of every admin page"
+msgstr ""
+"Приховайте текст нижнього колонтитула, який відображається внизу кожної "
+"сторінки адміністратора"
+
+#: admin/classes/uipress-app.php:2653
+msgid "Footer Text"
+msgstr "Текст нижнього колонтитула"
+
+#: admin/classes/uipress-app.php:2654
+msgid "Text entered here will be present at the bottom of admin pages"
+msgstr "Введений тут текст відображатиметься внизу сторінок адміністратора"
+
+#: admin/classes/uipress-app.php:2670 admin/classes/uipress-app.php:2675
+msgid "Creates new admin menu."
+msgstr "Створює нове меню адміністратора."
+
+#: admin/classes/uipress-app.php:2674
+msgid "Disable Admin Menu Module"
+msgstr "Вимкніть модуль меню адміністратора"
+
+#: admin/classes/uipress-app.php:2682
+msgid "Menu Disabled for"
+msgstr "Меню вимкнено для"
+
+#: admin/classes/uipress-app.php:2683
+#, php-format
+msgid "%s menu will be disabled for any users or roles you select"
+msgstr "Меню %s буде вимкнено для всіх користувачів або ролей, які ви виберете"
+
+#: admin/classes/uipress-app.php:2691
+msgid "Logo Light Mode"
+msgstr "Світловий режим логотипу"
+
+#: admin/classes/uipress-app.php:2692
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "Встановлює логотип для панелі адміністратора у світлому режимі."
+
+#: admin/classes/uipress-app.php:2699
+msgid "Logo Dark Mode"
+msgstr "Темний режим логотипу"
+
+#: admin/classes/uipress-app.php:2700
+msgid "Optional dark mode logo for admin bar."
+msgstr "Додатковий логотип темного режиму для панелі адміністратора."
+
+#: admin/classes/uipress-app.php:2707
+#, php-format
+msgid "Load %s Menu on front end"
+msgstr "Завантажте меню %s на передній план"
+
+#: admin/classes/uipress-app.php:2708
+#, php-format
+msgid ""
+"If enabled, %s menu will load on the front end. Please note, this will not "
+"work on all themes and styling will vary"
+msgstr ""
+"Якщо ввімкнено, меню %s завантажуватиметься на передній план. Зауважте, що "
+"це працюватиме не для всіх тем, а стиль буде відрізнятися"
+
+#: admin/classes/uipress-app.php:2716
+#, php-format
+msgid "Only Load %s Menu on front end for"
+msgstr "Завантажте меню %s лише на передньому плані для"
+
+#: admin/classes/uipress-app.php:2717
+msgid "Only load front end menu for selected roles and usernames"
+msgstr "Завантажте переднє меню лише для вибраних ролей та імен користувачів"
+
+#: admin/classes/uipress-app.php:2725
+msgid "Collapsed Menu Logo Light Mode"
+msgstr "Світлий режим логотипу згорнутого меню"
+
+#: admin/classes/uipress-app.php:2726
+msgid "Optional logo for when the menu is collapsed."
+msgstr "Додатковий логотип, коли меню згорнуто."
+
+#: admin/classes/uipress-app.php:2733
+msgid "Collapsed Menu Logo Dark Mode"
+msgstr "Згорнутий логотип меню Темний режим"
+
+#: admin/classes/uipress-app.php:2734
+msgid "Optional dark nmode logo for when the menu is collapsed."
+msgstr "Додатковий темний логотип nmode, коли меню згорнуто."
+
+#: admin/classes/uipress-app.php:2741
+msgid "Show site title in menu"
+msgstr "Показати назву сайту в меню"
+
+#: admin/classes/uipress-app.php:2742
+msgid ""
+"If enabled, the site title will be displayed in the menu next to the logo"
+msgstr ""
+"Якщо ввімкнено, назва сайту буде відображатися в меню поруч із логотипом"
+
+#: admin/classes/uipress-app.php:2749 admin/classes/uipress-app.php:2811
+msgid "Disable Search"
+msgstr "Вимкнути пошук"
+
+#: admin/classes/uipress-app.php:2750
+msgid "Disables admin menu search."
+msgstr "Вимикає пошук у меню адміністратора."
+
+#: admin/classes/uipress-app.php:2757
+msgid "Set collapsed menu as default"
+msgstr "Встановити згорнуте меню за замовчуванням"
+
+#: admin/classes/uipress-app.php:2758
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"Якщо ввімкнено, для користувачів, які не встановили параметри, за "
+"замовчуванням для цього меню буде зменшене меню."
+
+#: admin/classes/uipress-app.php:2774
+msgid "Creates new admin toolbar."
+msgstr "Створює нову панель інструментів адміністратора."
+
+#: admin/classes/uipress-app.php:2778
+msgid "Disable ToolBar Module?"
+msgstr "Вимкнути модуль панелі інструментів?"
+
+#: admin/classes/uipress-app.php:2779
+msgid ""
+"Creates new admin bar, adds user off canvas menu, builds global search and "
+"notification center."
+msgstr ""
+"Створює нову панель адміністратора, додає користувача поза канвас-меню, "
+"створює глобальний центр пошуку та сповіщень."
+
+#: admin/classes/uipress-app.php:2786
+msgid "Admin Bar Disabled For"
+msgstr "Панель адміністратора вимкнена для"
+
+#: admin/classes/uipress-app.php:2787
+#, php-format
+msgid "%s toolbar module will be disabled for any users or roles you select"
+msgstr ""
+"Модуль панелі інструментів %s буде вимкнено для всіх користувачів або ролей, "
+"які ви виберете"
+
+#: admin/classes/uipress-app.php:2795
+msgid "Hide admin bar links (left side)"
+msgstr "Приховати посилання панелі адміністратора (ліворуч)"
+
+#: admin/classes/uipress-app.php:2796
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"Вимикає застарілі посилання зліва на панелі адміністратора для всіх "
+"користувачів. Також приховує налаштування користувача."
+
+#: admin/classes/uipress-app.php:2803
+msgid "Enable floating flyout toolbar"
+msgstr "Увімкнути плаваючу панель інструментів"
+
+#: admin/classes/uipress-app.php:2804
+msgid "Changes the toolbar to a floating flyout toolbar"
+msgstr "Змінює панель інструментів на спливаючу панель інструментів"
+
+#: admin/classes/uipress-app.php:2812
+msgid "Disables search icon and global search function from admin bar."
+msgstr ""
+"Вимикає значок пошуку та функцію глобального пошуку з панелі адміністратора."
+
+#: admin/classes/uipress-app.php:2819
+msgid "Disable Create Button"
+msgstr "Вимкнути кнопку «Створити»."
+
+#: admin/classes/uipress-app.php:2820
+msgid "Disables the 'create' button in the admin bar."
+msgstr "Вимикає кнопку «створити» на панелі адміністратора."
+
+#: admin/classes/uipress-app.php:2827
+msgid "Open View Website in new tab"
+msgstr "Відкрийте Переглянути веб-сайт у новій вкладці"
+
+#: admin/classes/uipress-app.php:2828
+msgid ""
+"When enabled, clicking on view website or the home button will open in a new "
+"browser tab"
+msgstr ""
+"Якщо ввімкнено, натискання кнопки «Переглянути веб-сайт» або кнопки «Додому» "
+"відкриється в новій вкладці браузера"
+
+#: admin/classes/uipress-app.php:2835
+msgid "Disable View Website Button"
+msgstr "Вимкнути кнопку перегляду веб-сайту"
+
+#: admin/classes/uipress-app.php:2836
+msgid "Disables the view website link button in the admin bar."
+msgstr "Вимикає кнопку посилання на веб-сайт на панелі адміністратора."
+
+#: admin/classes/uipress-app.php:2843
+#, php-format
+msgid "Load %s admin bar on front end"
+msgstr "Завантажте панель адміністратора %s на передній план"
+
+#: admin/classes/uipress-app.php:2844
+#, php-format
+msgid ""
+"If enabled, %s toolbar will load on the front end. Please note, this will "
+"not work on all themes and styling will vary"
+msgstr ""
+"Якщо ввімкнено, панель інструментів %s завантажуватиметься на передній план. "
+"Зауважте, що це працюватиме не для всіх тем, а стиль буде відрізнятися"
+
+#: admin/classes/uipress-app.php:2852
+msgid "Hide admin bar on front end"
+msgstr "Приховати панель адміністратора на передньому плані"
+
+#: admin/classes/uipress-app.php:2853
+msgid "If enabled, front end admin bar will not load."
+msgstr "Якщо ввімкнено, панель адміністратора не завантажуватиметься."
+
+#: admin/classes/uipress-app.php:2861
+msgid "Disable Notification Center"
+msgstr "Вимкнути Центр сповіщень"
+
+#: admin/classes/uipress-app.php:2862
+msgid "If disabled, notifcations will show in the normal way"
+msgstr "Якщо вимкнено, сповіщення відображатимуться у звичайному режимі"
+
+#: admin/classes/uipress-app.php:2870
+msgid "Post Types available in Search"
+msgstr "Типи публікацій доступні в Пошуку"
+
+#: admin/classes/uipress-app.php:2871
+msgid "The global search will only search the selected post types."
+msgstr "Глобальний пошук шукатиме лише вибрані типи публікацій."
+
+#: admin/classes/uipress-app.php:2879
+msgid "Post Types available in create button (new)"
+msgstr "Типи публікацій доступні в кнопці \"Створити\" (нове)"
+
+#: admin/classes/uipress-app.php:2880
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr ""
+"У спадному меню створення відображатимуться лише вибрані типи публікацій."
+
+#: admin/classes/uipress-app.php:2888
+msgid "Only show notifications to"
+msgstr "Показувати лише сповіщення для"
+
+#: admin/classes/uipress-app.php:2889
+#, php-format
+msgid ""
+"%s will hide all notifications from all users except those selected below"
+msgstr ""
+"%s приховає всі сповіщення від усіх користувачів, крім тих, які вибрано нижче"
+
+#: admin/classes/uipress-app.php:2897
+msgid "Only show updates to"
+msgstr "Показувати лише оновлення для"
+
+#: admin/classes/uipress-app.php:2898
+#, php-format
+msgid "%s will hide all updates from all users except those selected below"
+msgstr ""
+"%s приховає всі оновлення від усіх користувачів, крім тих, які вибрано нижче"
+
+#: admin/classes/uipress-app.php:2914
+msgid "Theme"
+msgstr "Тема"
+
+#: admin/classes/uipress-app.php:2915 admin/classes/uipress-app.php:2945
+#: admin/classes/uipress-app.php:3000
+msgid "Styles page content."
+msgstr "Вміст сторінки стилів."
+
+#: admin/classes/uipress-app.php:2919
+msgid "Disable Admin Theme Module"
+msgstr "Вимкніть модуль теми адміністратора"
+
+#: admin/classes/uipress-app.php:2920
+msgid "When the theme is disabled, pages will be styles in the original way."
+msgstr "Коли тему вимкнено, сторінки будуть стилями в оригінальному вигляді."
+
+#: admin/classes/uipress-app.php:2927
+msgid "Theme Disabled for"
+msgstr "Тема вимкнена для"
+
+#: admin/classes/uipress-app.php:2928
+msgid ""
+"When the theme is disabled, pages will be styles in the original way for "
+"selected users or roles."
+msgstr ""
+"Коли тему вимкнено, сторінки будуть оригінальними стилями для вибраних "
+"користувачів або ролей."
+
+#: admin/classes/uipress-app.php:2949
+msgid "Disable Login Module"
+msgstr "Вимкніть модуль входу"
+
+#: admin/classes/uipress-app.php:2950
+msgid ""
+"When the login module is disabled, the login page will be displayed in the "
+"original way."
+msgstr ""
+"Коли модуль входу вимкнено, сторінка входу буде відображатися в "
+"оригінальному вигляді."
+
+#: admin/classes/uipress-app.php:2958
+msgid "Dark Mode"
+msgstr "Темний режим"
+
+#: admin/classes/uipress-app.php:2959
+msgid "Puts the login page in dark mode for all users."
+msgstr "Переводить сторінку входу в темний режим для всіх користувачів."
+
+#: admin/classes/uipress-app.php:2966
+msgid "Disable Language Selector"
+msgstr "Вимкнути селектор мови"
+
+#: admin/classes/uipress-app.php:2967
+msgid "Removes the language selector added to the login page"
+msgstr "Видаляє селектор мови, доданий на сторінку входу"
+
+#: admin/classes/uipress-app.php:2974
+msgid "Login Logo"
+msgstr "Логотип входу"
+
+#: admin/classes/uipress-app.php:2975
+msgid "Sets the logo for the login page"
+msgstr "Встановлює логотип для сторінки входу"
+
+#: admin/classes/uipress-app.php:2982
+msgid "Login Background"
+msgstr "Фон входу"
+
+#: admin/classes/uipress-app.php:2983
+msgid "Sets an optional background image on the login page."
+msgstr "Встановлює необов’язкове фонове зображення на сторінці входу."
+
+#: admin/classes/uipress-app.php:2999
+msgid "Advanced"
+msgstr "Розширений"
+
+#: admin/classes/uipress-app.php:3004
+msgid "Advanced Disabled For"
+msgstr "Розширений Вимкнено для"
+
+#: admin/classes/uipress-app.php:3005
+msgid "Code added here will not load for any users or roles you select"
+msgstr ""
+"Код, доданий тут, не завантажуватиметься для жодних користувачів чи ролей, "
+"які ви виберете"
+
+#: admin/classes/uipress-app.php:3013
+msgid "Enqueue scripts"
+msgstr "Поставте в чергу сценарії"
+
+#: admin/classes/uipress-app.php:3014
+msgid "Add scripts to the head of every admin page and login page"
+msgstr ""
+"Додайте скрипти в заголовок кожної сторінки адміністратора та сторінки входу"
+
+#: admin/classes/uipress-app.php:3022
+msgid "Enqueue styles"
+msgstr "Стилі черги"
+
+#: admin/classes/uipress-app.php:3023
+msgid "Add stylesheets to the head of every admin page and login page"
+msgstr ""
+"Додайте таблиці стилів у заголовок кожної сторінки адміністратора та "
+"сторінки входу"
+
+#: admin/classes/uipress-app.php:3031
+msgid "Admin CSS"
+msgstr "CSS адміністратора"
+
+#: admin/classes/uipress-app.php:3032
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr ""
+"CSS, доданий тут, буде завантажено на кожній сторінці адміністратора, а "
+"також на сторінці входу"
+
+#: admin/classes/uipress-app.php:3041
+msgid "Admin JavaScript"
+msgstr "Адміністратор JavaScript"
+
+#: admin/classes/uipress-app.php:3042
+msgid ""
+"JavaScript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr ""
+"Доданий тут JavaScript буде завантажено на кожній сторінці адміністратора, а "
+"також на сторінці входу"
+
+#: admin/classes/uipress-app.php:3051
+msgid "HTML for document head"
+msgstr "HTML для заголовка документа"
+
+#: admin/classes/uipress-app.php:3052
+msgid ""
+"Add HTML here to be added to every admin page and login page head section"
+msgstr ""
+"Додайте сюди HTML для додавання до кожної сторінки адміністратора та розділу "
+"заголовка сторінки входу"
+
+#: admin/classes/uipress-app.php:3061
+msgid "Safe Mode Key"
+msgstr "Ключ безпечного режиму"
+
+#: admin/classes/uipress-app.php:3063
+msgid ""
+"Add a private key to allow you to disable uipress on specific pages with "
+"query paramaters. For example, add '?no_uip=your_key' to a URL and it wil "
+"stop uipress from loading on that page."
+msgstr ""
+"Додайте закритий ключ, щоб ви могли вимкнути uipress на певних сторінках із "
+"параметрами запиту. Наприклад, додайте \"?no_uip=your_key\" до URL-адреси, і "
+"це зупинить завантаження uipress на цій сторінці."
+
+#: admin/classes/update.php:66
+msgid "Welcome to UiPress version "
+msgstr "Ласкаво просимо до версії UiPress"
+
+#: admin/classes/update.php:69 admin/classes/update.php:101
+msgid ""
+"Would you like to automatically import settings from your older version of "
+"uipress?"
+msgstr "Бажаєте автоматично імпортувати налаштування зі старої версії uipress?"
+
+#: admin/classes/update.php:71
+msgid "Don't show again"
+msgstr "Не показувати знову"
+
+#: admin/classes/update.php:72 admin/classes/update.php:103
+msgid "Import settings"
+msgstr "Налаштування імпорту"
+
+#: admin/classes/update.php:115
+msgid "Check for updates"
+msgstr "Перевірити наявність оновлень"
+
+#: admin/classes/update.php:141
+msgid "Unable to contact update server"
+msgstr "Не вдається зв'язатися з сервером оновлення"
+
+#: admin/classes/update.php:156
+msgid "Update available"
+msgstr "Доступне оновлення"
+
+#: admin/classes/update.php:162
+msgid "No Updates available"
+msgstr "Немає доступних оновлень"
+
+#: admin/classes/update.php:180
+msgid "Message dismissed"
+msgstr "Повідомлення відхилено"
+
+#: admin/classes/update.php:204
+msgid "No settings to import"
+msgstr "Немає налаштувань для імпорту"
+
+#: admin/classes/update.php:350
+msgid "Settings imported"
+msgstr "Налаштування імпортовано"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress"
+msgstr "UiPress"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress admin extension with a streamlined dashboard, Google "
+"Analytics & WooCommerce Integration, intuitive media library, dark mode and "
+"much more."
+msgstr ""
+"Потужне розширення адміністратора WordPress із спрощеною інформаційною "
+"панеллю, інтеграцією Google Analytics та WooCommerce, інтуїтивно зрозумілою "
+"медіа-бібліотекою, темним режимом та багатьма іншими."
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "Адміністратор 2020"
